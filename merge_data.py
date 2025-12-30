@@ -1,74 +1,44 @@
 import csv
 import json
-import re
-from collections import defaultdict
 
+PIN_JSON = "data/pincode.json"
 PIN_CSV = "data/pincode_raw.csv"
-IFSC_CSV = "data/ifsc_raw.csv"
 
-PINCODE_JSON = "data/pincode.json"
-IFSC_JSON = "data/ifsc.json"
+# ---------------- LOAD PIN JSON ----------------
+with open(PIN_JSON, "r", encoding="utf-8") as f:
+    pincode_data = json.load(f)
 
-# ---------- LOAD VALID PIN CODES ----------
-valid_pins = set()
+print(f"Loaded {len(pincode_data)} PIN records from JSON")
 
+# ---------------- READ CSV ----------------
 with open(PIN_CSV, newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
+    print("Detected PIN CSV columns:", reader.fieldnames)
+
+    updated = 0
+    skipped = 0
+
     for row in reader:
-        row = {k.lower(): v for k, v in row.items()}
-        pin = row.get("pincode")
-        if pin and pin.isdigit() and len(pin) == 6:
-            valid_pins.add(pin)
+        pin = row.get("pincode", "").strip()
+        lat = row.get("latitude", "").strip()
+        lon = row.get("longitude", "").strip()
 
-print(f"Valid PINs loaded: {len(valid_pins)}")
-
-# ---------- PROCESS IFSC DATA ----------
-pincode_data = defaultdict(list)
-ifsc_data = {}
-
-PIN_REGEX = re.compile(r"\b\d{6}\b")
-
-with open(IFSC_CSV, newline="", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        row = {k.lower(): v for k, v in row.items()}
-
-        ifsc = row.get("ifsc")
-        bank = row.get("bank")
-        branch = row.get("branch")
-        address = row.get("address", "")
-
-        if not ifsc or not address:
+        if not pin or pin not in pincode_data:
+            skipped += 1
             continue
 
-        match = PIN_REGEX.search(address)
-        if not match:
-            continue
+        # pincode_data[pin] is a LIST of branches
+        for branch in pincode_data[pin]:
+            branch["latitude"] = lat or None
+            branch["longitude"] = lon or None
 
-        pin = match.group()
+        updated += 1
 
-        if pin not in valid_pins:
-            continue
+print(f"✅ Updated PINs: {updated}")
+print(f"⚠ Skipped rows: {skipped}")
 
-        pincode_data[pin].append({
-            "bank": bank,
-            "branch": branch,
-            "ifsc": ifsc
-        })
+# ---------------- SAVE BACK ----------------
+with open(PIN_JSON, "w", encoding="utf-8") as f:
+    json.dump(pincode_data, f, ensure_ascii=False, indent=2)
 
-        ifsc_data[ifsc] = {
-            "bank": bank,
-            "branch": branch,
-            "pincode": pin
-        }
-
-# ---------- SAVE JSON ----------
-with open(PINCODE_JSON, "w", encoding="utf-8") as f:
-    json.dump(pincode_data, f, indent=2)
-
-with open(IFSC_JSON, "w", encoding="utf-8") as f:
-    json.dump(ifsc_data, f, indent=2)
-
-print("✅ Data merged successfully")
-print(f"PIN codes generated: {len(pincode_data)}")
-print(f"IFSC codes generated: {len(ifsc_data)}")
+print("✅ PIN latitude & longitude merged successfully")
