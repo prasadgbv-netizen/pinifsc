@@ -3,106 +3,120 @@ import os
 
 BASE_URL = "https://pinifsc.in"
 
-# Paths
-PINCODE_JSON = "data/pincode.json"
+PIN_JSON = "data/pincode.json"
 IFSC_JSON = "data/ifsc.json"
+
 PIN_DIR = "pincode"
 IFSC_DIR = "ifsc"
 
 os.makedirs(PIN_DIR, exist_ok=True)
 os.makedirs(IFSC_DIR, exist_ok=True)
 
-# Load data
-with open(PINCODE_JSON, "r", encoding="utf-8") as f:
-    pincodes = json.load(f)
+def canonical(path):
+    return f"{BASE_URL}/{path}"
+
+# ---------------- LOAD DATA ----------------
+with open(PIN_JSON, "r", encoding="utf-8") as f:
+    pin_data = json.load(f)
 
 with open(IFSC_JSON, "r", encoding="utf-8") as f:
-    ifscs = json.load(f)
+    ifsc_data = json.load(f)
 
-sitemap_urls = [f"{BASE_URL}/"]
-
-# -------- Generate PIN pages --------
-for pin, branches in pincodes.items():
+# ---------------- PIN PAGES ----------------
+for pin, branches in pin_data.items():
     rows = ""
+
     for b in branches:
+        map_link = ""
+        if "latitude" in b and "longitude" in b:
+            map_link = f'''
+            <a href="https://www.google.com/maps?q={b["latitude"]},{b["longitude"]}"
+               target="_blank" rel="noopener">📍 Map</a>
+            '''
+
         rows += f"""
         <tr>
-          <td>{b['bank']}</td>
-          <td>{b['branch']}</td>
-          <td>
-            <a href="../ifsc/{b['ifsc']}.html">{b['ifsc']}</a>
-          </td>
+          <td>{b["bank"]}</td>
+          <td>{b["branch"]}</td>
+          <td><a href="../ifsc/{b["ifsc"]}.html">{b["ifsc"]}</a></td>
+          <td>{map_link}</td>
         </tr>
+        """
+
+    page_path = f"pincode/{pin}.html"
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>IFSC Codes in PIN Code {pin} | PinIFSC</title>
+<meta name="description" content="Find all bank IFSC codes in PIN code {pin}.">
+<link rel="canonical" href="{canonical(page_path)}">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<h1>IFSC Codes in PIN Code {pin}</h1>
+
+<table border="1" cellpadding="8">
+<tr>
+<th>Bank</th>
+<th>Branch</th>
+<th>IFSC</th>
+<th>Map</th>
+</tr>
+{rows}
+</table>
+
+</body>
+</html>
+"""
+
+    with open(f"{PIN_DIR}/{pin}.html", "w", encoding="utf-8") as f:
+        f.write(html)
+
+# ---------------- IFSC PAGES ----------------
+for ifsc, info in ifsc_data.items():
+    page_path = f"ifsc/{ifsc}.html"
+
+    map_block = ""
+    if "latitude" in info and "longitude" in info:
+        map_block = f"""
+        <p>
+        <a href="https://www.google.com/maps?q={info["latitude"]},{info["longitude"]}"
+           target="_blank" rel="noopener">
+        📍 View on Google Maps
+        </a>
+        </p>
         """
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>IFSC Codes in PIN Code {pin} | PinIFSC</title>
-  <meta name="description" content="Find all bank IFSC codes in PIN code {pin}.">
-  <link rel="stylesheet" href="../assets/style.css">
+<meta charset="UTF-8">
+<title>{ifsc} IFSC Code | {info["bank"]}</title>
+<meta name="description" content="IFSC code {ifsc} of {info["bank"]} {info["branch"]}.">
+<link rel="canonical" href="{canonical(page_path)}">
+<link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
-<header class="header">
-  <div class="container"><div class="logo">PinIFSC India</div></div>
-</header>
 
-<main class="container">
-<h1>IFSC Codes in PIN Code {pin}</h1>
-<table border="1" width="100%" cellpadding="10">
-<tr><th>Bank</th><th>Branch</th><th>IFSC</th></tr>
-{rows}
-</table>
-</main>
-</body>
-</html>
-"""
+<h1>{ifsc} – {info["bank"]}</h1>
 
-    file_path = f"{PIN_DIR}/{pin}.html"
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(html)
-
-    sitemap_urls.append(f"{BASE_URL}/pincode/{pin}.html")
-
-# -------- Generate IFSC pages --------
-for ifsc, info in ifscs.items():
-    html = f"""<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{ifsc} IFSC Code | {info['bank']} {info['branch']}</title>
-  <meta name="description" content="IFSC code {ifsc} belongs to {info['bank']} {info['branch']}.">
-  <link rel="stylesheet" href="../assets/style.css">
-</head>
-<body>
-<header class="header">
-  <div class="container"><div class="logo">PinIFSC India</div></div>
-</header>
-
-<main class="container">
-<h1>{ifsc} – {info['bank']}</h1>
-<p><strong>Branch:</strong> {info['branch']}</p>
-<p><strong>PIN Code:</strong>
-  <a href="../pincode/{info['pincode']}.html">{info['pincode']}</a>
+<p><strong>Branch:</strong> {info["branch"]}</p>
+<p><strong>Address:</strong> {info.get("address", "N/A")}</p>
+<p><strong>MICR:</strong> {info.get("micr", "N/A")}</p>
+<p><strong>PIN:</strong>
+<a href="../pincode/{info["pincode"]}.html">{info["pincode"]}</a>
 </p>
-</main>
+
+{map_block}
+
 </body>
 </html>
 """
 
-    file_path = f"{IFSC_DIR}/{ifsc}.html"
-    with open(file_path, "w", encoding="utf-8") as f:
+    with open(f"{IFSC_DIR}/{ifsc}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-    sitemap_urls.append(f"{BASE_URL}/ifsc/{ifsc}.html")
-
-# -------- Generate sitemap.xml --------
-with open("sitemap.xml", "w", encoding="utf-8") as f:
-    f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-    f.write('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n')
-    for url in sitemap_urls:
-        f.write(f"  <url><loc>{url}</loc></url>\n")
-    f.write('</urlset>')
-
-print("✅ Pages & sitemap generated successfully")
+print("✅ PIN & IFSC pages generated with maps + canonicals")
