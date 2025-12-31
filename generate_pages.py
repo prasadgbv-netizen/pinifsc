@@ -25,11 +25,11 @@ with open(IFSC_JSON, "r", encoding="utf-8") as f:
 # ================= PIN PAGES =================
 for pin, branches in pin_data.items():
 
-    # ✅ branches is ALWAYS a LIST
+    pin_clean = str(pin).strip()
+
     if not isinstance(branches, list) or not branches:
         continue
 
-    # Take geo from first branch safely
     lat = branches[0].get("latitude")
     lng = branches[0].get("longitude")
 
@@ -56,20 +56,20 @@ for pin, branches in pin_data.items():
         </tr>
         """
 
-    page_path = f"pincode/{pin}.html"
+    page_path = f"pincode/{pin_clean}.html"
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>IFSC Codes in PIN Code {pin} | PinIFSC</title>
-<meta name="description" content="Find all bank IFSC codes in PIN code {pin}.">
+<title>IFSC Codes in PIN Code {pin_clean} | PinIFSC</title>
+<meta name="description" content="Find all bank IFSC codes in PIN code {pin_clean}.">
 <link rel="canonical" href="{canonical(page_path)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 
-<h1>IFSC Codes in PIN Code {pin}</h1>
+<h1>IFSC Codes in PIN Code {pin_clean}</h1>
 
 <table border="1" cellpadding="8">
 <tr>
@@ -85,13 +85,16 @@ for pin, branches in pin_data.items():
 </html>
 """
 
-    with open(f"{PIN_DIR}/{pin}.html", "w", encoding="utf-8") as f:
+    with open(f"{PIN_DIR}/{pin_clean}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
 # ================= IFSC PAGES =================
 for ifsc, info in ifsc_data.items():
 
-    page_path = f"ifsc/{ifsc}.html"
+    ifsc_clean = str(ifsc).strip()
+    pin_clean = str(info.get("pincode", "")).strip()
+
+    page_path = f"ifsc/{ifsc_clean}.html"
 
     lat = info.get("latitude")
     lng = info.get("longitude")
@@ -111,21 +114,22 @@ for ifsc, info in ifsc_data.items():
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>{ifsc} IFSC Code | {info.get("bank","")}</title>
-<meta name="description" content="IFSC code {ifsc} of {info.get("bank","")} {info.get("branch","")}.">
+<title>{ifsc_clean} IFSC Code | {info.get("bank","")}</title>
+<meta name="description" content="IFSC code {ifsc_clean} of {info.get("bank","")} {info.get("branch","")}.">
 <link rel="canonical" href="{canonical(page_path)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 
-<h1>{ifsc} – {info.get("bank","")}</h1>
+<h1>{ifsc_clean} – {info.get("bank","")}</h1>
 
 <p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
 <p><strong>Address:</strong> {info.get("address","N/A")}</p>
 <p><strong>MICR:</strong> {info.get("micr","N/A")}</p>
+
 <p><strong>PIN:</strong>
-  <a href="../pincode/{info.get("pincode","")} .html">
-    {info.get("pincode","")}
+  <a href="../pincode/{pin_clean}.html">
+    {pin_clean}
   </a>
 </p>
 
@@ -135,7 +139,7 @@ for ifsc, info in ifsc_data.items():
 </html>
 """
 
-    with open(f"{IFSC_DIR}/{ifsc}.html", "w", encoding="utf-8") as f:
+    with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-print("✅ PIN & IFSC pages generated successfully (stable data handling)")
+print("✅ PIN & IFSC pages generated successfully (clean links, no 404s)")
