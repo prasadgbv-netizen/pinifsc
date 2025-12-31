@@ -22,23 +22,36 @@ with open(PIN_JSON, "r", encoding="utf-8") as f:
 with open(IFSC_JSON, "r", encoding="utf-8") as f:
     ifsc_data = json.load(f)
 
-# ---------------- PIN PAGES ----------------
+# ================= PIN PAGES =================
 for pin, branches in pin_data.items():
+
+    # ✅ branches is ALWAYS a LIST
+    if not isinstance(branches, list) or not branches:
+        continue
+
+    # Take geo from first branch safely
+    lat = branches[0].get("latitude")
+    lng = branches[0].get("longitude")
+
     rows = ""
 
     for b in branches:
         map_link = ""
-        if "latitude" in b and "longitude" in b:
-            map_link = f'''
-            <a href="https://www.google.com/maps?q={b["latitude"]},{b["longitude"]}"
-               target="_blank" rel="noopener">📍 Map</a>
-            '''
+        if lat and lng:
+            map_link = (
+                f'<a href="https://www.google.com/maps?q={lat},{lng}" '
+                f'target="_blank" rel="noopener">📍 Map</a>'
+            )
 
         rows += f"""
         <tr>
-          <td>{b["bank"]}</td>
-          <td>{b["branch"]}</td>
-          <td><a href="../ifsc/{b["ifsc"]}.html">{b["ifsc"]}</a></td>
+          <td>{b.get("bank","")}</td>
+          <td>{b.get("branch","")}</td>
+          <td>
+            <a href="../ifsc/{b.get("ifsc","")}.html">
+              {b.get("ifsc","")}
+            </a>
+          </td>
           <td>{map_link}</td>
         </tr>
         """
@@ -75,18 +88,22 @@ for pin, branches in pin_data.items():
     with open(f"{PIN_DIR}/{pin}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-# ---------------- IFSC PAGES ----------------
+# ================= IFSC PAGES =================
 for ifsc, info in ifsc_data.items():
+
     page_path = f"ifsc/{ifsc}.html"
 
+    lat = info.get("latitude")
+    lng = info.get("longitude")
+
     map_block = ""
-    if "latitude" in info and "longitude" in info:
+    if lat and lng:
         map_block = f"""
         <p>
-        <a href="https://www.google.com/maps?q={info["latitude"]},{info["longitude"]}"
-           target="_blank" rel="noopener">
-        📍 View on Google Maps
-        </a>
+          <a href="https://www.google.com/maps?q={lat},{lng}"
+             target="_blank" rel="noopener">
+            📍 View on Google Maps
+          </a>
         </p>
         """
 
@@ -94,20 +111,22 @@ for ifsc, info in ifsc_data.items():
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>{ifsc} IFSC Code | {info["bank"]}</title>
-<meta name="description" content="IFSC code {ifsc} of {info["bank"]} {info["branch"]}.">
+<title>{ifsc} IFSC Code | {info.get("bank","")}</title>
+<meta name="description" content="IFSC code {ifsc} of {info.get("bank","")} {info.get("branch","")}.">
 <link rel="canonical" href="{canonical(page_path)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
 
-<h1>{ifsc} – {info["bank"]}</h1>
+<h1>{ifsc} – {info.get("bank","")}</h1>
 
-<p><strong>Branch:</strong> {info["branch"]}</p>
-<p><strong>Address:</strong> {info.get("address", "N/A")}</p>
-<p><strong>MICR:</strong> {info.get("micr", "N/A")}</p>
+<p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
+<p><strong>Address:</strong> {info.get("address","N/A")}</p>
+<p><strong>MICR:</strong> {info.get("micr","N/A")}</p>
 <p><strong>PIN:</strong>
-<a href="../pincode/{info["pincode"]}.html">{info["pincode"]}</a>
+  <a href="../pincode/{info.get("pincode","")} .html">
+    {info.get("pincode","")}
+  </a>
 </p>
 
 {map_block}
@@ -119,4 +138,4 @@ for ifsc, info in ifsc_data.items():
     with open(f"{IFSC_DIR}/{ifsc}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-print("✅ PIN & IFSC pages generated with maps + canonicals")
+print("✅ PIN & IFSC pages generated successfully (stable data handling)")
