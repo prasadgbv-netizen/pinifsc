@@ -114,24 +114,35 @@ a {
   font-size: 14px;
 }
 
-/* FEATURES */
+/* FEATURES SECTION */
 .features {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
   margin: 40px 0;
 }
 
+/* Feature cards */
 .feature {
-  background: #fff;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  text-align: left;
 }
 
+/* Titles */
 .feature h3 {
+  margin-top: 0;
   font-size: 18px;
-  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .features {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* ===== Global Site Header (Home Navigation) ===== */

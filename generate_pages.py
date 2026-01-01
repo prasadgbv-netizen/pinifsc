@@ -131,7 +131,7 @@ for pin, branches in pin_data.items():
 <title>IFSC Codes in PIN Code {pin_clean} | PinIFSC</title>
 <meta name="description" content="Find all bank IFSC codes available in PIN code {pin_clean} across India.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="/assets/style.css?v=4">
+<link rel="stylesheet" href="/assets/style.css?v=5">
 {breadcrumb_schema}
 {faq_schema}
 </head>
@@ -162,13 +162,15 @@ for pin, branches in pin_data.items():
 
 </main>
 
-<footer class="site-footer">
+<footer class="footer">
   <div class="container">
     <a href="/about.html">About</a> |
     <a href="/contact.html">Contact</a> |
-    <a href="/disclaimer.html">Disclaimer</a>
+    <a href="/disclaimer.html">Disclaimer</a> |
+    <a href="/privacy.html">Privacy Policy</a>
   </div>
 </footer>
+
 
 </body>
 </html>
@@ -237,7 +239,7 @@ for ifsc, info in ifsc_data.items():
 <title>{ifsc_clean} IFSC Code | {info.get("bank","")}</title>
 <meta name="description" content="IFSC code {ifsc_clean} of {info.get("bank","")} {info.get("branch","")}.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="/assets/style.css?v=4">
+<link rel="stylesheet" href="/assets/style.css?v=5">
 {breadcrumb_schema}
 </head>
 
@@ -267,13 +269,15 @@ for ifsc, info in ifsc_data.items():
 
 </main>
 
-<footer class="site-footer">
+<footer class="footer">
   <div class="container">
     <a href="/about.html">About</a> |
     <a href="/contact.html">Contact</a> |
-    <a href="/disclaimer.html">Disclaimer</a>
+    <a href="/disclaimer.html">Disclaimer</a> |
+    <a href="/privacy.html">Privacy Policy</a>
   </div>
 </footer>
+
 
 </body>
 </html>
