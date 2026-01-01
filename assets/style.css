@@ -134,20 +134,8 @@ a {
   margin-bottom: 6px;
 }
 
-/* FOOTER */
-.footer {
-  background: #e9ecef;
-  padding: 20px 0;
-  font-size: 13px;
-  text-align: center;
-}
-
-.footer .disclaimer {
-  margin-top: 8px;
-  color: #555;
-}
-
 /* ===== Global Site Header (Home Navigation) ===== */
+
 .site-header {
   background-color: #0b5ed7;
   padding: 14px 24px;
@@ -171,18 +159,35 @@ a {
   padding: 24px;
 }
 
+/* FOOTER */
+
+/* ===== Sticky Footer Layout ===== */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main.container {
+  flex: 1; /* pushes footer to bottom */
+}
+
+/* ===== Footer Styling ===== */
 .site-footer {
   background: #0b5ed7;
   color: #fff;
-  padding: 12px 0;
   text-align: center;
-  margin-top: 40px;
+  padding: 12px 0;
 }
 
 .site-footer a {
   color: #fff;
   text-decoration: none;
-  margin: 0 8px;
+  margin: 0 10px;
   font-weight: 500;
 }
 
