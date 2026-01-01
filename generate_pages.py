@@ -65,7 +65,7 @@ for pin, branches in pin_data.items():
 <title>IFSC Codes in PIN Code {pin_clean} | PinIFSC</title>
 <meta name="description" content="Find all bank IFSC codes available in PIN code {pin_clean} across India.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v=2">
 </head>
 
 <body>
@@ -130,7 +130,7 @@ for ifsc, info in ifsc_data.items():
 <title>{ifsc_clean} IFSC Code | {info.get("bank","")}</title>
 <meta name="description" content="IFSC code {ifsc_clean} of {info.get("bank","")} {info.get("branch","")}.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="../assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v=2">
 </head>
 
 <body>
