@@ -170,3 +170,22 @@ a {
   margin: 0 auto;
   padding: 24px;
 }
+
+.site-footer {
+  background: #0b5ed7;
+  color: #fff;
+  padding: 12px 0;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.site-footer a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 8px;
+  font-weight: 500;
+}
+
+.site-footer a:hover {
+  text-decoration: underline;
+}

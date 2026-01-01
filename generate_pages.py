@@ -58,6 +58,72 @@ for pin, branches in pin_data.items():
 
     page_path = f"pincode/{pin_clean}.html"
 
+    # ✅ STEP 1: Breadcrumb schema (PIN)
+    breadcrumb_schema = f"""
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://pinifsc.in/"
+    }},
+    {{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "PIN Codes",
+      "item": "https://pinifsc.in/pincode/"
+    }},
+    {{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{pin_clean}",
+      "item": "{canonical(page_path)}"
+    }}
+  ]
+}}
+</script>
+"""
+
+    # ✅ STEP 2: FAQ schema (PIN)
+    faq_schema = f"""
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{
+      "@type": "Question",
+      "name": "How many banks are available in PIN code {pin_clean}?",
+      "acceptedAnswer": {{
+        "@type": "Answer",
+        "text": "Multiple public and private sector banks have branches under PIN code {pin_clean}. The complete list is shown above."
+      }}
+    }},
+    {{
+      "@type": "Question",
+      "name": "How can I find IFSC code using PIN code {pin_clean}?",
+      "acceptedAnswer": {{
+        "@type": "Answer",
+        "text": "You can find IFSC codes by selecting your bank and branch listed under PIN code {pin_clean} on this page."
+      }}
+    }},
+    {{
+      "@type": "Question",
+      "name": "Is the IFSC data for PIN code {pin_clean} updated?",
+      "acceptedAnswer": {{
+        "@type": "Answer",
+        "text": "Yes, the IFSC codes and branch details for PIN code {pin_clean} are sourced from official banking data and updated regularly."
+      }}
+    }}
+  ]
+}}
+</script>
+"""
+
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +131,9 @@ for pin, branches in pin_data.items():
 <title>IFSC Codes in PIN Code {pin_clean} | PinIFSC</title>
 <meta name="description" content="Find all bank IFSC codes available in PIN code {pin_clean} across India.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="/assets/style.css?v=2">
+<link rel="stylesheet" href="/assets/style.css?v=4">
+{breadcrumb_schema}
+{faq_schema}
 </head>
 
 <body>
@@ -94,8 +162,17 @@ for pin, branches in pin_data.items():
 
 </main>
 
+<footer class="site-footer">
+  <div class="container">
+    <a href="/about.html">About</a> |
+    <a href="/contact.html">Contact</a> |
+    <a href="/disclaimer.html">Disclaimer</a>
+  </div>
+</footer>
+
 </body>
 </html>
+
 """
 
     with open(f"{PIN_DIR}/{pin_clean}.html", "w", encoding="utf-8") as f:
@@ -123,6 +200,36 @@ for ifsc, info in ifsc_data.items():
         </p>
         """
 
+    # ✅ STEP 1: Breadcrumb schema (IFSC)
+    breadcrumb_schema = f"""
+<script type="application/ld+json">
+{{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://pinifsc.in/"
+    }},
+    {{
+      "@type": "ListItem",
+      "position": 2,
+      "name": "IFSC Codes",
+      "item": "https://pinifsc.in/ifsc/"
+    }},
+    {{
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{ifsc_clean}",
+      "item": "{canonical(page_path)}"
+    }}
+  ]
+}}
+</script>
+"""
+
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,7 +237,8 @@ for ifsc, info in ifsc_data.items():
 <title>{ifsc_clean} IFSC Code | {info.get("bank","")}</title>
 <meta name="description" content="IFSC code {ifsc_clean} of {info.get("bank","")} {info.get("branch","")}.">
 <link rel="canonical" href="{canonical(page_path)}">
-<link rel="stylesheet" href="/assets/style.css?v=2">
+<link rel="stylesheet" href="/assets/style.css?v=4">
+{breadcrumb_schema}
 </head>
 
 <body>
@@ -159,11 +267,20 @@ for ifsc, info in ifsc_data.items():
 
 </main>
 
+<footer class="site-footer">
+  <div class="container">
+    <a href="/about.html">About</a> |
+    <a href="/contact.html">Contact</a> |
+    <a href="/disclaimer.html">Disclaimer</a>
+  </div>
+</footer>
+
 </body>
 </html>
+
 """
 
     with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-print("✅ PIN & IFSC pages generated successfully (uniform header + home navigation)")
+print("✅ PIN & IFSC pages generated successfully (Breadcrumb + FAQ schema added)")
