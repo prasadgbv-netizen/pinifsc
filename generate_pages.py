@@ -58,7 +58,6 @@ for pin, branches in pin_data.items():
 
     page_path = f"pincode/{pin_clean}.html"
 
-    # ✅ UPDATED PIN HTML (HEADER + HOME LINK)
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -71,23 +70,27 @@ for pin, branches in pin_data.items():
 
 <body>
 
-<header class="site-header">
-  <a href="https://pinifsc.in/">PinIFSC India</a>
+<header class="header">
+  <div class="container">
+    <div class="logo">
+      <a href="/" style="color:#fff;text-decoration:none;">PinIFSC India</a>
+    </div>
+  </div>
 </header>
 
 <main class="container">
 
-  <h1>IFSC Codes in PIN Code {pin_clean}</h1>
+<h1>IFSC Codes in PIN Code {pin_clean}</h1>
 
-  <table border="1" cellpadding="8" cellspacing="0" width="100%">
-    <tr>
-      <th>Bank</th>
-      <th>Branch</th>
-      <th>IFSC</th>
-      <th>Map</th>
-    </tr>
-    {rows}
-  </table>
+<table border="1" cellpadding="8" cellspacing="0" width="100%">
+<tr>
+  <th>Bank</th>
+  <th>Branch</th>
+  <th>IFSC</th>
+  <th>Map</th>
+</tr>
+{rows}
+</table>
 
 </main>
 
@@ -129,10 +132,15 @@ for ifsc, info in ifsc_data.items():
 <link rel="canonical" href="{canonical(page_path)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
+
 <body>
 
-<header class="site-header">
-  <a href="https://pinifsc.in/">PinIFSC India</a>
+<header class="header">
+  <div class="container">
+    <div class="logo">
+      <a href="/" style="color:#fff;text-decoration:none;">PinIFSC India</a>
+    </div>
+  </div>
 </header>
 
 <main class="container">
@@ -144,9 +152,7 @@ for ifsc, info in ifsc_data.items():
 <p><strong>MICR:</strong> {info.get("micr","N/A")}</p>
 
 <p><strong>PIN:</strong>
-  <a href="../pincode/{pin_clean}.html">
-    {pin_clean}
-  </a>
+  <a href="../pincode/{pin_clean}.html">{pin_clean}</a>
 </p>
 
 {map_block}
