@@ -58,28 +58,38 @@ for pin, branches in pin_data.items():
 
     page_path = f"pincode/{pin_clean}.html"
 
+    # ✅ UPDATED PIN HTML (HEADER + HOME LINK)
     html = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <title>IFSC Codes in PIN Code {pin_clean} | PinIFSC</title>
-<meta name="description" content="Find all bank IFSC codes in PIN code {pin_clean}.">
+<meta name="description" content="Find all bank IFSC codes available in PIN code {pin_clean} across India.">
 <link rel="canonical" href="{canonical(page_path)}">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
+
 <body>
 
-<h1>IFSC Codes in PIN Code {pin_clean}</h1>
+<header class="site-header">
+  <a href="https://pinifsc.in/">PinIFSC India</a>
+</header>
 
-<table border="1" cellpadding="8">
-<tr>
-<th>Bank</th>
-<th>Branch</th>
-<th>IFSC</th>
-<th>Map</th>
-</tr>
-{rows}
-</table>
+<main class="container">
+
+  <h1>IFSC Codes in PIN Code {pin_clean}</h1>
+
+  <table border="1" cellpadding="8" cellspacing="0" width="100%">
+    <tr>
+      <th>Bank</th>
+      <th>Branch</th>
+      <th>IFSC</th>
+      <th>Map</th>
+    </tr>
+    {rows}
+  </table>
+
+</main>
 
 </body>
 </html>
@@ -121,6 +131,12 @@ for ifsc, info in ifsc_data.items():
 </head>
 <body>
 
+<header class="site-header">
+  <a href="https://pinifsc.in/">PinIFSC India</a>
+</header>
+
+<main class="container">
+
 <h1>{ifsc_clean} – {info.get("bank","")}</h1>
 
 <p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
@@ -135,6 +151,8 @@ for ifsc, info in ifsc_data.items():
 
 {map_block}
 
+</main>
+
 </body>
 </html>
 """
@@ -142,4 +160,4 @@ for ifsc, info in ifsc_data.items():
     with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:
         f.write(html)
 
-print("✅ PIN & IFSC pages generated successfully (clean links, no 404s)")
+print("✅ PIN & IFSC pages generated successfully (uniform header + home navigation)")
