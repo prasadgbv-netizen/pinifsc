@@ -184,24 +184,25 @@ body {
 }
 
 main.container {
-  flex: 1; /* pushes footer to bottom */
+  flex: 1; /* pushes footer to bottom on short pages */
 }
 
 /* ===== Footer Styling ===== */
-.site-footer {
-  background: #0b5ed7;
-  color: #fff;
+.footer {
+  background-color: #0b5ed7;
+  color: #ffffff;
   text-align: center;
-  padding: 12px 0;
+  padding: 16px 0;
+  font-size: 14px;
 }
 
-.site-footer a {
-  color: #fff;
+.footer a {
+  color: #ffffff;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0 8px;
   font-weight: 500;
 }
 
-.site-footer a:hover {
+.footer a:hover {
   text-decoration: underline;
 }
