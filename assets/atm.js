@@ -25,7 +25,13 @@ document.addEventListener("DOMContentLoaded", () => {
             <strong>${atm.name || "ATM"}</strong><br>
             <span class="atm-distance">
               ${atm.distance_m} meters away
-            </span>
+            </span><br>
+            <a href="https://www.google.com/maps?q=${atm.lat},${atm.lon}"
+               target="_blank"
+               rel="noopener"
+               class="atm-map-link">
+               📍 View on Map
+            </a>
           `;
           atmList.appendChild(li);
         });
