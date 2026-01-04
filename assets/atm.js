@@ -5,71 +5,81 @@ document.addEventListener("DOMContentLoaded", () => {
   const pin = atmSection.dataset.pin;
   const atmList = document.getElementById("atm-list");
 
-  // Filter UI
-  const filterBar = document.createElement("div");
-  filterBar.className = "atm-filters";
-  filterBar.innerHTML = `
-    <strong>Filter ATMs:</strong>
-    <button data-bank="all" class="active">All</button>
-    <button data-bank="sbi">SBI</button>
-    <button data-bank="hdfc">HDFC</button>
-    <button data-bank="icici">ICICI</button>
-    <button data-bank="axis">Axis</button>
-  `;
-  atmSection.insertBefore(filterBar, atmList);
-
   let allATMs = [];
 
   const getCardBadges = operator => {
     const op = (operator || "").toLowerCase();
-
-    if (op.includes("sbi") || op.includes("state bank")) {
-      return "💳 RuPay • Visa";
-    }
-    if (op.includes("hdfc") || op.includes("icici") || op.includes("axis")) {
+    if (op.includes("sbi") || op.includes("state bank")) return "💳 RuPay • Visa";
+    if (op.includes("hdfc") || op.includes("icici") || op.includes("axis"))
       return "💳 Visa • MasterCard";
-    }
-    if (op.includes("punjab") || op.includes("canara") || op.includes("bank of india")) {
+    if (
+      op.includes("punjab") ||
+      op.includes("canara") ||
+      op.includes("bank of india")
+    )
       return "💳 RuPay • Visa";
-    }
     return "💳 Visa";
   };
 
-  const renderATMs = (bankFilter = "all") => {
+  const groupByBank = atms => {
+    const groups = {};
+    atms.forEach(atm => {
+      const bank = atm.operator || "Other Banks";
+      if (!groups[bank]) groups[bank] = [];
+      groups[bank].push(atm);
+    });
+    return groups;
+  };
+
+  const renderGroupedATMs = () => {
     atmList.innerHTML = "";
 
-    const filtered =
-      bankFilter === "all"
-        ? allATMs
-        : allATMs.filter(atm =>
-            (atm.operator || "").toLowerCase().includes(bankFilter)
-          );
+    const groups = groupByBank(allATMs);
 
-    if (!filtered.length) {
-      atmList.innerHTML = "<li>No ATMs found for this bank.</li>";
-      return;
-    }
+    Object.entries(groups).forEach(([bank, atms]) => {
+      const wrapper = document.createElement("li");
+      wrapper.className = "atm-group";
 
-    filtered.slice(0, 10).forEach(atm => {
-      const li = document.createElement("li");
-      const mapUrl = `https://www.google.com/maps?q=${atm.lat},${atm.lon}`;
-      const cards = getCardBadges(atm.operator);
-
-      li.innerHTML = `
-        <strong>${atm.name || "ATM"}</strong><br>
-        <span class="atm-distance">${atm.distance_m} meters away</span><br>
-        <span class="atm-cards">${cards}</span><br>
-        <a href="${mapUrl}" target="_blank" rel="noopener">📍 View on Map</a>
+      const header = document.createElement("div");
+      header.className = "atm-group-header";
+      header.innerHTML = `
+        ▶ <strong>${bank}</strong> (${atms.length})
       `;
-      atmList.appendChild(li);
+
+      const list = document.createElement("ul");
+      list.className = "atm-sublist";
+      list.style.display = "none";
+
+      atms.slice(0, 10).forEach(atm => {
+        const li = document.createElement("li");
+        const mapUrl = `https://www.google.com/maps?q=${atm.lat},${atm.lon}`;
+        const cards = getCardBadges(atm.operator);
+
+        li.innerHTML = `
+          <strong>${atm.name || "ATM"}</strong><br>
+          <span class="atm-distance">${atm.distance_m} meters away</span><br>
+          <span class="atm-cards">${cards}</span><br>
+          <a href="${mapUrl}" target="_blank" rel="noopener">📍 View on Map</a>
+        `;
+        list.appendChild(li);
+      });
+
+      header.addEventListener("click", () => {
+        const open = list.style.display === "block";
+        list.style.display = open ? "none" : "block";
+        header.innerHTML = `${open ? "▶" : "▼"} <strong>${bank}</strong> (${atms.length})`;
+      });
+
+      wrapper.appendChild(header);
+      wrapper.appendChild(list);
+      atmList.appendChild(wrapper);
     });
 
-    // Disclaimer (once)
     if (!document.querySelector(".atm-disclaimer")) {
       const note = document.createElement("p");
       note.className = "atm-disclaimer";
       note.innerText =
-        "Card network support is indicative and may vary by ATM. Please verify at the ATM.";
+        "ATM data is indicative based on public map sources. Availability and services may vary.";
       atmSection.appendChild(note);
     }
   };
@@ -82,20 +92,13 @@ document.addEventListener("DOMContentLoaded", () => {
       })
       .then(atms => {
         allATMs = atms || [];
-        renderATMs("all");
+        renderGroupedATMs();
       })
       .catch(() => {
         atmList.innerHTML =
           "<li>ATM information unavailable for this area.</li>";
       });
   };
-
-  filterBar.addEventListener("click", e => {
-    if (e.target.tagName !== "BUTTON") return;
-    filterBar.querySelectorAll("button").forEach(b => b.classList.remove("active"));
-    e.target.classList.add("active");
-    renderATMs(e.target.dataset.bank);
-  });
 
   const observer = new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
