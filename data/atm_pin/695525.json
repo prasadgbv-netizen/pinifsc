@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 8.3220948,
+    "lon": 77.0729254,
+    "distance_m": 2137
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 8.3393603,
+    "lon": 77.0575838,
+    "distance_m": 2467
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.3192411,
+    "lon": 77.0717833,
+    "distance_m": 2478
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "state bank ATM-UIubari",
+    "operator": "Bank of India",
+    "lat": 26.1794579,
+    "lon": 91.7562132,
+    "distance_m": 844
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 26.1856367,
+    "lon": 91.7523992,
+    "distance_m": 852
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.1840029,
+    "lon": 91.7697367,
+    "distance_m": 898
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 26.1917226,
+    "lon": 91.7540178,
+    "distance_m": 958
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 26.1916841,
+    "lon": 91.7539239,
+    "distance_m": 962
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 26.1785662,
+    "lon": 91.7522897,
+    "distance_m": 1176
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.1775503,
+    "lon": 91.7534487,
+    "distance_m": 1179
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 26.1785766,
+    "lon": 91.7518641,
+    "distance_m": 1207
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.1808724,
+    "lon": 91.750067,
+    "distance_m": 1213
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 26.1808669,
+    "lon": 91.7500493,
+    "distance_m": 1215
+  }
+]

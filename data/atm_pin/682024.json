@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.0417111,
+    "lon": 76.2981843,
+    "distance_m": 58
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank",
+    "lat": 10.0461121,
+    "lon": 76.2963678,
+    "distance_m": 470
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0278479,
+    "lon": 76.3083355,
+    "distance_m": 1955
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank",
+    "lat": 10.0582222,
+    "lon": 76.2904654,
+    "distance_m": 1963
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "",
+    "lat": 10.0584112,
+    "lon": 76.2903132,
+    "distance_m": 1989
+  },
+  {
+    "name": "Punjab national bank",
+    "operator": "",
+    "lat": 10.0284432,
+    "lon": 76.3099727,
+    "distance_m": 2012
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 10.0424066,
+    "lon": 76.316537,
+    "distance_m": 2023
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0530488,
+    "lon": 76.3143015,
+    "distance_m": 2146
+  },
+  {
+    "name": "ATM",
+    "operator": "Edappally Metro Station ATM",
+    "lat": 10.02554,
+    "lon": 76.3080055,
+    "distance_m": 2151
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.0246429,
+    "lon": 76.3070355,
+    "distance_m": 2188
+  }
+]

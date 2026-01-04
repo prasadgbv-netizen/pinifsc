@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6453308,
+    "lon": 77.211746,
+    "distance_m": 324
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.644321,
+    "lon": 77.2151897,
+    "distance_m": 465
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6437322,
+    "lon": 77.2095729,
+    "distance_m": 583
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6460886,
+    "lon": 77.2070915,
+    "distance_m": 614
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6417766,
+    "lon": 77.2104626,
+    "distance_m": 738
+  },
+  {
+    "name": "AXIS Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6412802,
+    "lon": 77.2147522,
+    "distance_m": 770
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.6413641,
+    "lon": 77.2152163,
+    "distance_m": 773
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6412994,
+    "lon": 77.215302,
+    "distance_m": 782
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.641178,
+    "lon": 77.2106033,
+    "distance_m": 797
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 28.6425769,
+    "lon": 77.2193166,
+    "distance_m": 866
+  }
+]

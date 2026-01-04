@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.4105618,
+    "lon": 76.3506657,
+    "distance_m": 1945
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.444028,
+    "lon": 76.3432244,
+    "distance_m": 2882
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 9.4443401,
+    "lon": 76.3431742,
+    "distance_m": 2914
+  }
+]

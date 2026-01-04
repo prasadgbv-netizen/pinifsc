@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7272036,
+    "lon": 75.6378962,
+    "distance_m": 1939
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7273244,
+    "lon": 75.6376387,
+    "distance_m": 1948
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.750439,
+    "lon": 75.6285806,
+    "distance_m": 2604
+  },
+  {
+    "name": "ATM",
+    "operator": "INDIA ONE ATM",
+    "lat": 11.7650963,
+    "lon": 75.6459032,
+    "distance_m": 2825
+  }
+]

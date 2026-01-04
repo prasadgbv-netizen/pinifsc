@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 12.3909384,
+    "lon": 75.0413782,
+    "distance_m": 369
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.3909856,
+    "lon": 75.0413728,
+    "distance_m": 374
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.3910477,
+    "lon": 75.0414322,
+    "distance_m": 377
+  }
+]

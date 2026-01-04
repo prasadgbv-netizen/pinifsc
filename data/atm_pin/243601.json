@@ -1,0 +1,16 @@
+[
+  {
+    "name": "bob",
+    "operator": "",
+    "lat": 28.021488,
+    "lon": 79.133811,
+    "distance_m": 2464
+  },
+  {
+    "name": "sbi",
+    "operator": "",
+    "lat": 28.02155,
+    "lon": 79.133616,
+    "distance_m": 2483
+  }
+]

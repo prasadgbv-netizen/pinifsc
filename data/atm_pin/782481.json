@@ -1,0 +1,23 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.8370925,
+    "lon": 93.4325827,
+    "distance_m": 937
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.8379963,
+    "lon": 93.4346491,
+    "distance_m": 1078
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 25.8416908,
+    "lon": 93.4382711,
+    "distance_m": 1368
+  }
+]

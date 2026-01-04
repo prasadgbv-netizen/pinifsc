@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.0677939,
+    "lon": 72.5725289,
+    "distance_m": 1958
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 23.0388835,
+    "lon": 72.5880366,
+    "distance_m": 2107
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 23.0707904,
+    "lon": 72.576858,
+    "distance_m": 2352
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.0708588,
+    "lon": 72.5768807,
+    "distance_m": 2360
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 23.0721014,
+    "lon": 72.5675918,
+    "distance_m": 2467
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 23.07632,
+    "lon": 72.5670756,
+    "distance_m": 2938
+  }
+]

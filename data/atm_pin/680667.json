@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "TDCB ATM",
+    "lat": 10.207098,
+    "lon": 76.2026437,
+    "distance_m": 2056
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.2065665,
+    "lon": 76.2017866,
+    "distance_m": 2122
+  },
+  {
+    "name": "Federal Bank Atm",
+    "operator": "",
+    "lat": 10.1890744,
+    "lon": 76.2018878,
+    "distance_m": 2324
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 10.1785397,
+    "lon": 76.2246459,
+    "distance_m": 2439
+  },
+  {
+    "name": "Bank Of India ATM",
+    "operator": "",
+    "lat": 10.1785075,
+    "lon": 76.2245803,
+    "distance_m": 2441
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 10.1859523,
+    "lon": 76.2022085,
+    "distance_m": 2496
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.1785043,
+    "lon": 76.2109962,
+    "distance_m": 2585
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.1821207,
+    "lon": 76.2047032,
+    "distance_m": 2599
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 10.2187339,
+    "lon": 76.2016119,
+    "distance_m": 2896
+  }
+]

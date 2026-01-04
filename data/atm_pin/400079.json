@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1042663,
+    "lon": 72.921596,
+    "distance_m": 729
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.102235,
+    "lon": 72.9200154,
+    "distance_m": 1007
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.1252592,
+    "lon": 72.9231955,
+    "distance_m": 1840
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.1014007,
+    "lon": 72.9107427,
+    "distance_m": 1850
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.1165397,
+    "lon": 72.9097557,
+    "distance_m": 1941
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 19.1158805,
+    "lon": 72.9093316,
+    "distance_m": 1951
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.1252572,
+    "lon": 72.9193423,
+    "distance_m": 1956
+  },
+  {
+    "name": "ATM",
+    "operator": "Jana Small Finance Bank",
+    "lat": 19.1152112,
+    "lon": 72.907777,
+    "distance_m": 2076
+  },
+  {
+    "name": "ATM",
+    "operator": "Apna Sahakari Bank Ltd",
+    "lat": 19.1150011,
+    "lon": 72.9068674,
+    "distance_m": 2159
+  },
+  {
+    "name": "ATM",
+    "operator": "Bharat Co-op Bank",
+    "lat": 19.1149556,
+    "lon": 72.9068158,
+    "distance_m": 2163
+  }
+]

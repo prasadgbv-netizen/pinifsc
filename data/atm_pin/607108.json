@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.7783792,
+    "lon": 79.5440465,
+    "distance_m": 1365
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7785602,
+    "lon": 79.5270034,
+    "distance_m": 1902
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.7661859,
+    "lon": 79.5496773,
+    "distance_m": 2849
+  }
+]

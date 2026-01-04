@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Hitachi ATM",
+    "lat": 19.89211,
+    "lon": 86.0882733,
+    "distance_m": 483
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.8915993,
+    "lon": 86.089353,
+    "distance_m": 587
+  },
+  {
+    "name": "Odisha Gramya Bank ATM",
+    "operator": "Odisha Gramya Bank",
+    "lat": 19.8908842,
+    "lon": 86.0900181,
+    "distance_m": 692
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 19.8907793,
+    "lon": 86.0901619,
+    "distance_m": 710
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 19.8906249,
+    "lon": 86.0903375,
+    "distance_m": 735
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi ATM",
+    "lat": 19.9036992,
+    "lon": 86.078654,
+    "distance_m": 1168
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.8887397,
+    "lon": 86.0979544,
+    "distance_m": 1463
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 19.8883082,
+    "lon": 86.0979845,
+    "distance_m": 1492
+  }
+]

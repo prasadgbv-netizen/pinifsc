@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.1778534,
+    "lon": 73.9484168,
+    "distance_m": 929
+  },
+  {
+    "name": "CBI",
+    "operator": "",
+    "lat": 15.2045054,
+    "lon": 73.9512609,
+    "distance_m": 2091
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.2091892,
+    "lon": 73.9500996,
+    "distance_m": 2584
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0118398,
+    "lon": 76.1061355,
+    "distance_m": 155
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 13.0121231,
+    "lon": 76.1058425,
+    "distance_m": 158
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 13.0114942,
+    "lon": 76.1061491,
+    "distance_m": 186
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0109591,
+    "lon": 76.1058878,
+    "distance_m": 251
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0104567,
+    "lon": 76.1042502,
+    "distance_m": 408
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0119854,
+    "lon": 76.1107551,
+    "distance_m": 413
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0124608,
+    "lon": 76.1030433,
+    "distance_m": 437
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "Karnataka Bank",
+    "lat": 13.0135015,
+    "lon": 76.1026329,
+    "distance_m": 483
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 13.0083564,
+    "lon": 76.1073788,
+    "distance_m": 508
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0170912,
+    "lon": 76.1100199,
+    "distance_m": 564
+  }
+]

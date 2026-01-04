@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5694994,
+    "lon": 76.6390365,
+    "distance_m": 51
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5689175,
+    "lon": 76.640281,
+    "distance_m": 202
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation bank ATM",
+    "lat": 9.5684182,
+    "lon": 76.6413129,
+    "distance_m": 328
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.5690397,
+    "lon": 76.6352464,
+    "distance_m": 373
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5686704,
+    "lon": 76.6423419,
+    "distance_m": 425
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5692349,
+    "lon": 76.6319069,
+    "distance_m": 734
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5693017,
+    "lon": 76.6318894,
+    "distance_m": 736
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.5747486,
+    "lon": 76.6201259,
+    "distance_m": 2102
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2749056,
+    "lon": 85.8264319,
+    "distance_m": 439
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2739665,
+    "lon": 85.8299603,
+    "distance_m": 463
+  },
+  {
+    "name": "SBI ecorner",
+    "operator": "",
+    "lat": 20.2686083,
+    "lon": 85.8309993,
+    "distance_m": 504
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2718176,
+    "lon": 85.8334103,
+    "distance_m": 689
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 20.2693113,
+    "lon": 85.8335387,
+    "distance_m": 720
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 20.2807198,
+    "lon": 85.8269893,
+    "distance_m": 1084
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2638377,
+    "lon": 85.8345268,
+    "distance_m": 1125
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 20.2638782,
+    "lon": 85.8345614,
+    "distance_m": 1125
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2765469,
+    "lon": 85.8165907,
+    "distance_m": 1238
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2668683,
+    "lon": 85.8434709,
+    "distance_m": 1791
+  }
+]

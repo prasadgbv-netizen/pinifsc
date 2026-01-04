@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ATM of ING",
+    "lat": 11.0135029,
+    "lon": 76.9858804,
+    "distance_m": 464
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0129816,
+    "lon": 76.9858831,
+    "distance_m": 519
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank ATM",
+    "lat": 11.0237436,
+    "lon": 76.9779929,
+    "distance_m": 995
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0254152,
+    "lon": 76.9787451,
+    "distance_m": 1084
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.021151,
+    "lon": 76.9943348,
+    "distance_m": 1153
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 11.0068704,
+    "lon": 76.9850759,
+    "distance_m": 1177
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0040617,
+    "lon": 76.9834681,
+    "distance_m": 1491
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.021332,
+    "lon": 76.9709709,
+    "distance_m": 1535
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0162782,
+    "lon": 76.9695741,
+    "distance_m": 1630
+  },
+  {
+    "name": "ATM",
+    "operator": "IndiasInd Bank",
+    "lat": 11.032805,
+    "lon": 76.9791144,
+    "distance_m": 1805
+  }
+]

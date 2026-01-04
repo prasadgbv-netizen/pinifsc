@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.0667051,
+    "lon": 80.2701198,
+    "distance_m": 601
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 13.067372,
+    "lon": 80.2707209,
+    "distance_m": 687
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusland Bank",
+    "lat": 13.0674249,
+    "lon": 80.2707892,
+    "distance_m": 697
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 13.0602416,
+    "lon": 80.2602547,
+    "distance_m": 727
+  },
+  {
+    "name": "Digi Zone",
+    "operator": "digizone",
+    "lat": 13.0677473,
+    "lon": 80.2711311,
+    "distance_m": 745
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0687668,
+    "lon": 80.2718111,
+    "distance_m": 861
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0670638,
+    "lon": 80.2729873,
+    "distance_m": 910
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0671125,
+    "lon": 80.2730667,
+    "distance_m": 920
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0666645,
+    "lon": 80.2737043,
+    "distance_m": 976
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 13.0661682,
+    "lon": 80.2738187,
+    "distance_m": 980
+  }
+]

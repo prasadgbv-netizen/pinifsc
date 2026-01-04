@@ -1,0 +1,30 @@
+[
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.1527743,
+    "lon": 76.3544988,
+    "distance_m": 709
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.156964,
+    "lon": 76.3548115,
+    "distance_m": 1175
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.1298646,
+    "lon": 76.3451578,
+    "distance_m": 2055
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.162577,
+    "lon": 76.3693191,
+    "distance_m": 2500
+  }
+]

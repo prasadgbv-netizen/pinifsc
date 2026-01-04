@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.9692689,
+    "lon": 72.8149081,
+    "distance_m": 1291
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.9685631,
+    "lon": 72.821819,
+    "distance_m": 1540
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.9963121,
+    "lon": 72.8281849,
+    "distance_m": 2197
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.9952983,
+    "lon": 72.8315041,
+    "distance_m": 2353
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 18.9587228,
+    "lon": 72.8169969,
+    "distance_m": 2472
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.9646741,
+    "lon": 72.8325199,
+    "distance_m": 2568
+  },
+  {
+    "name": "Dena Bank ATM",
+    "operator": "Dena Bank",
+    "lat": 18.9599023,
+    "lon": 72.8011073,
+    "distance_m": 2759
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 18.9608459,
+    "lon": 72.8322092,
+    "distance_m": 2862
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0068954,
+    "lon": 72.8152205,
+    "distance_m": 2892
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.9551442,
+    "lon": 72.8209059,
+    "distance_m": 2926
+  }
+]

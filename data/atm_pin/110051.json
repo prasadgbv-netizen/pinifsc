@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of India ATM",
+    "operator": "Bank of India",
+    "lat": 28.643245,
+    "lon": 77.2971788,
+    "distance_m": 375
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6419801,
+    "lon": 77.2954497,
+    "distance_m": 593
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.6419061,
+    "lon": 77.2953443,
+    "distance_m": 606
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.648286,
+    "lon": 77.30534,
+    "distance_m": 612
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.6393244,
+    "lon": 77.2926627,
+    "distance_m": 994
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 28.6348109,
+    "lon": 77.2977632,
+    "distance_m": 1230
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6346569,
+    "lon": 77.3042128,
+    "distance_m": 1305
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6346493,
+    "lon": 77.3042502,
+    "distance_m": 1307
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.6468903,
+    "lon": 77.3151729,
+    "distance_m": 1508
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.646692,
+    "lon": 77.3161911,
+    "distance_m": 1605
+  }
+]

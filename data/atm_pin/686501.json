@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Velloor Service Sahakarna Bank",
+    "operator": "",
+    "lat": 9.5836029,
+    "lon": 76.6075914,
+    "distance_m": 92
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.5747486,
+    "lon": 76.6201259,
+    "distance_m": 1622
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.5912642,
+    "lon": 76.5839194,
+    "distance_m": 2816
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 9.5931274,
+    "lon": 76.584394,
+    "distance_m": 2836
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank atm",
+    "lat": 9.5837129,
+    "lon": 76.5825327,
+    "distance_m": 2839
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.5924296,
+    "lon": 76.5839943,
+    "distance_m": 2849
+  },
+  {
+    "name": "State Bank Of India (SBI) ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5885517,
+    "lon": 76.5818897,
+    "distance_m": 2959
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.588689,
+    "lon": 76.581692,
+    "distance_m": 2983
+  }
+]

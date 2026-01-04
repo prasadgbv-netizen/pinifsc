@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 23.7876768,
+    "lon": 86.4188155,
+    "distance_m": 1169
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 23.7884429,
+    "lon": 86.4205889,
+    "distance_m": 1204
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.785649,
+    "lon": 86.4158102,
+    "distance_m": 1266
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 23.7963528,
+    "lon": 86.434068,
+    "distance_m": 2147
+  }
+]

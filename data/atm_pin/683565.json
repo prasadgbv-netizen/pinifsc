@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.025038,
+    "lon": 76.4037774,
+    "distance_m": 2097
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 10.0254812,
+    "lon": 76.4039002,
+    "distance_m": 2130
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0260183,
+    "lon": 76.4046486,
+    "distance_m": 2136
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.027573,
+    "lon": 76.4054118,
+    "distance_m": 2246
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 10.0291912,
+    "lon": 76.4066871,
+    "distance_m": 2351
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 9.9897021,
+    "lon": 76.4008261,
+    "distance_m": 2689
+  },
+  {
+    "name": "Federal bank ATM",
+    "operator": "Federal Bank",
+    "lat": 10.0336606,
+    "lon": 76.4068862,
+    "distance_m": 2811
+  }
+]

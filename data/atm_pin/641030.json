@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.0438159,
+    "lon": 76.9476993,
+    "distance_m": 722
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI ATM",
+    "lat": 11.0506264,
+    "lon": 76.9462783,
+    "distance_m": 882
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.0506994,
+    "lon": 76.9465616,
+    "distance_m": 908
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0589076,
+    "lon": 76.9448844,
+    "distance_m": 1651
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0393246,
+    "lon": 76.9259571,
+    "distance_m": 1752
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM",
+    "lat": 11.0317831,
+    "lon": 76.9505924,
+    "distance_m": 1753
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0275718,
+    "lon": 76.9468885,
+    "distance_m": 1986
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0268899,
+    "lon": 76.9470038,
+    "distance_m": 2062
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0259906,
+    "lon": 76.9459943,
+    "distance_m": 2127
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.027778,
+    "lon": 76.9516596,
+    "distance_m": 2188
+  }
+]

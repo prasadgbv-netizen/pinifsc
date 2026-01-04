@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.6246167,
+    "lon": 78.1470594,
+    "distance_m": 370
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.6249867,
+    "lon": 78.1470951,
+    "distance_m": 411
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.6254513,
+    "lon": 78.1471056,
+    "distance_m": 461
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.6268941,
+    "lon": 78.1478993,
+    "distance_m": 639
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmivilas Bank",
+    "lat": 11.6269574,
+    "lon": 78.147814,
+    "distance_m": 643
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.6277816,
+    "lon": 78.1481143,
+    "distance_m": 740
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 11.6294483,
+    "lon": 78.1485044,
+    "distance_m": 930
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.632319,
+    "lon": 78.1278659,
+    "distance_m": 2329
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.632231,
+    "lon": 78.1275729,
+    "distance_m": 2351
+  }
+]

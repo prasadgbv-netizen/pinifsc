@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Jay Prakash Narayan Marg, Sagrampura, Surat",
+    "lat": 21.1821403,
+    "lon": 72.8274439,
+    "distance_m": 457
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Jay Prakash Narayan Marg, Main, Opp. Jain Temple, Kailash Nagar, Majura Gate, Surat",
+    "lat": 21.1806966,
+    "lon": 72.8200756,
+    "distance_m": 934
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC ATM, Subash Chowk Br.",
+    "lat": 21.1945933,
+    "lon": 72.8243878,
+    "distance_m": 965
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 9/1971, Chowk Bazar Rd, Limda Chowk, Mian Road, Shahpore, Bhagal, Surat",
+    "lat": 21.1985851,
+    "lon": 72.8280991,
+    "distance_m": 1380
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Chowk Bazar Rd, Chauta Pul, Surat, Gujarat 395003",
+    "lat": 21.1986625,
+    "lon": 72.8251249,
+    "distance_m": 1394
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank Atm City Centre, Udhana - Magdalla Rd, Sosyo Circle, Udhna, Surat, Gujarat 395002",
+    "lat": 21.172065,
+    "lon": 72.827048,
+    "distance_m": 1574
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 2, Sai Prabhu Complex, Udhna Main Road, Surat - Navsari Rd, Udhna, Surat",
+    "lat": 21.1745576,
+    "lon": 72.837092,
+    "distance_m": 1675
+  },
+  {
+    "name": "BOB",
+    "operator": "",
+    "lat": 21.1709641,
+    "lon": 72.8271758,
+    "distance_m": 1696
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Ring Road, Opposite Jolly Plaza, Chandan Park Co Operative Housing Society,, Athwalines, Athwa Gate, Surat, Gujarat 395001",
+    "lat": 21.1865121,
+    "lon": 72.8095669,
+    "distance_m": 1793
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 5/2791, Saiyedpura Main Rd, Sayedpura, Surat, Gujarat 395003",
+    "lat": 21.2030763,
+    "lon": 72.8276294,
+    "distance_m": 1875
+  }
+]

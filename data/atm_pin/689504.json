@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "canara bank Atm",
+    "lat": 9.2918474,
+    "lon": 76.6622371,
+    "distance_m": 30
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis bank",
+    "lat": 9.2886819,
+    "lon": 76.6609787,
+    "distance_m": 405
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.2939317,
+    "lon": 76.6431767,
+    "distance_m": 2125
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 9.2960797,
+    "lon": 76.6876769,
+    "distance_m": 2804
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA",
+    "lat": 9.2962154,
+    "lon": 76.6876735,
+    "distance_m": 2807
+  }
+]

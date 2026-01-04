@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9651275,
+    "lon": 76.2434898,
+    "distance_m": 231
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9627518,
+    "lon": 76.2417949,
+    "distance_m": 314
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.966745,
+    "lon": 76.244258,
+    "distance_m": 338
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9668589,
+    "lon": 76.2443418,
+    "distance_m": 351
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9633326,
+    "lon": 76.2383084,
+    "distance_m": 420
+  },
+  {
+    "name": "State Bank of India, Training centre",
+    "operator": "State Bank of India",
+    "lat": 9.9632578,
+    "lon": 76.2381638,
+    "distance_m": 438
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.963755,
+    "lon": 76.2456343,
+    "distance_m": 503
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.9630725,
+    "lon": 76.2455148,
+    "distance_m": 526
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 9.9677321,
+    "lon": 76.2467153,
+    "distance_m": 628
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9677539,
+    "lon": 76.2467414,
+    "distance_m": 632
+  }
+]

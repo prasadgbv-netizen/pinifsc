@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Mahadev Complex, Station Rd, Delhi Gate, Haripura, Surat",
+    "lat": 21.2018834,
+    "lon": 72.8386401,
+    "distance_m": 590
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 9/1971, Chowk Bazar Rd, Limda Chowk, Mian Road, Shahpore, Bhagal, Surat",
+    "lat": 21.1985851,
+    "lon": 72.8280991,
+    "distance_m": 640
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 11, Char Khana Road, Pramukh Darshan, Saiyed Pura, Haripura, Surat, Gujarat 395003",
+    "lat": 21.2041483,
+    "lon": 72.8308008,
+    "distance_m": 726
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 5/2791, Saiyedpura Main Rd, Sayedpura, Surat, Gujarat 395003",
+    "lat": 21.2030763,
+    "lon": 72.8276294,
+    "distance_m": 858
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM  Lal Darwaja, Varachha, Surat",
+    "lat": 21.2063069,
+    "lon": 72.8372369,
+    "distance_m": 923
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Chowk Bazar Rd, Chauta Pul, Surat, Gujarat 395003",
+    "lat": 21.1986625,
+    "lon": 72.8251249,
+    "distance_m": 949
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 534, Jay Prakash Narayan Marg, Sahara Darwaja, New Textile Market, Surat, Gujarat 395002",
+    "lat": 21.1952236,
+    "lon": 72.8439339,
+    "distance_m": 1064
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC ATM, Subash Chowk Br.",
+    "lat": 21.1945933,
+    "lon": 72.8243878,
+    "distance_m": 1112
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State bank ATM Variyavi Bhagol, Katargam, Surat",
+    "lat": 21.2065756,
+    "lon": 72.8244553,
+    "distance_m": 1359
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Poddar Arcade, Khand Bazar, Kodiyar Nagar, Surat",
+    "lat": 21.2073092,
+    "lon": 72.843433,
+    "distance_m": 1366
+  }
+]

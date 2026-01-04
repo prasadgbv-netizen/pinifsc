@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0598649,
+    "lon": 80.1953222,
+    "distance_m": 1074
+  },
+  {
+    "name": "ATM",
+    "operator": "Shankar",
+    "lat": 13.0557079,
+    "lon": 80.2034858,
+    "distance_m": 1159
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 13.0496187,
+    "lon": 80.1814506,
+    "distance_m": 1400
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0501228,
+    "lon": 80.1803841,
+    "distance_m": 1514
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0494006,
+    "lon": 80.2092043,
+    "distance_m": 1610
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0648605,
+    "lon": 80.1936185,
+    "distance_m": 1626
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 13.0508286,
+    "lon": 80.2116081,
+    "distance_m": 1869
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 13.0509355,
+    "lon": 80.2116062,
+    "distance_m": 1869
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0510984,
+    "lon": 80.2118631,
+    "distance_m": 1898
+  },
+  {
+    "name": "Indicash ATM",
+    "operator": "",
+    "lat": 13.0570634,
+    "lon": 80.2116896,
+    "distance_m": 2024
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI ATM",
+    "operator": "ICICI",
+    "lat": 21.1033165,
+    "lon": 79.0936714,
+    "distance_m": 922
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 21.1109915,
+    "lon": 79.1036223,
+    "distance_m": 983
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 21.1110298,
+    "lon": 79.1036278,
+    "distance_m": 984
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1110105,
+    "lon": 79.103627,
+    "distance_m": 984
+  },
+  {
+    "name": "Allahabad Bank ATM",
+    "operator": "Allahabad Bank",
+    "lat": 21.108503,
+    "lon": 79.1036312,
+    "distance_m": 1041
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.105462,
+    "lon": 79.1018324,
+    "distance_m": 1048
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "Punjab National Bank",
+    "lat": 21.1062381,
+    "lon": 79.1026826,
+    "distance_m": 1066
+  },
+  {
+    "name": "Union Bank ATM",
+    "operator": "",
+    "lat": 21.1055388,
+    "lon": 79.1028351,
+    "distance_m": 1124
+  },
+  {
+    "name": "IndusInd Bank ATM",
+    "operator": "IndusInd Bank",
+    "lat": 21.1055147,
+    "lon": 79.1028749,
+    "distance_m": 1129
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 21.1151553,
+    "lon": 79.1044089,
+    "distance_m": 1134
+  }
+]

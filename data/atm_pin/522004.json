@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India Atm",
+    "lat": 16.5094888,
+    "lon": 80.7198253,
+    "distance_m": 1459
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Atm",
+    "lat": 16.5095474,
+    "lon": 80.7199433,
+    "distance_m": 1472
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 16.5096295,
+    "lon": 80.7199662,
+    "distance_m": 1480
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 16.4978838,
+    "lon": 80.6908326,
+    "distance_m": 2082
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi Atm",
+    "lat": 16.4775041,
+    "lon": 80.7093893,
+    "distance_m": 2518
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi Atm",
+    "lat": 16.4772662,
+    "lon": 80.7080362,
+    "distance_m": 2553
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 16.4770993,
+    "lon": 80.7100402,
+    "distance_m": 2561
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank ATM",
+    "lat": 16.4785989,
+    "lon": 80.700938,
+    "distance_m": 2591
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 16.4767422,
+    "lon": 80.7104273,
+    "distance_m": 2601
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi",
+    "lat": 16.4768883,
+    "lon": 80.7054367,
+    "distance_m": 2635
+  }
+]

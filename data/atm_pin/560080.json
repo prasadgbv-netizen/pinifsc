@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "CorpBank",
+    "lat": 13.0076434,
+    "lon": 77.5779662,
+    "distance_m": 229
+  },
+  {
+    "name": "ATM",
+    "operator": "DhanlaxmliBank",
+    "lat": 13.0067463,
+    "lon": 77.5788817,
+    "distance_m": 368
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0068403,
+    "lon": 77.5711956,
+    "distance_m": 661
+  },
+  {
+    "name": "ATM",
+    "operator": "Ujjivan Small Finance Bank",
+    "lat": 13.005804,
+    "lon": 77.5711646,
+    "distance_m": 719
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0058689,
+    "lon": 77.571081,
+    "distance_m": 723
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.005745,
+    "lon": 77.5711624,
+    "distance_m": 723
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 13.0085354,
+    "lon": 77.5694521,
+    "distance_m": 794
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO",
+    "lat": 13.0055316,
+    "lon": 77.569732,
+    "distance_m": 868
+  },
+  {
+    "name": "Standard Chartered",
+    "operator": "Standard Chartered",
+    "lat": 13.0143993,
+    "lon": 77.5835124,
+    "distance_m": 925
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 13.0039535,
+    "lon": 77.5836175,
+    "distance_m": 954
+  }
+]

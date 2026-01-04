@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "coporation bank atm",
+    "lat": 11.9455359,
+    "lon": 79.4899323,
+    "distance_m": 496
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 11.9429217,
+    "lon": 79.495706,
+    "distance_m": 1002
+  },
+  {
+    "name": "ATM",
+    "operator": "punjab bank atm",
+    "lat": 11.9426651,
+    "lon": 79.4956266,
+    "distance_m": 1019
+  },
+  {
+    "name": "ATM",
+    "operator": "state bank ATM",
+    "lat": 11.9408977,
+    "lon": 79.4934158,
+    "distance_m": 1078
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank ATM",
+    "lat": 11.9405468,
+    "lon": 79.4930757,
+    "distance_m": 1103
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 11.9397353,
+    "lon": 79.4930134,
+    "distance_m": 1187
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.9409732,
+    "lon": 79.496361,
+    "distance_m": 1219
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.9389749,
+    "lon": 79.4929255,
+    "distance_m": 1266
+  },
+  {
+    "name": "ATM",
+    "operator": "Equitas Small Finance Bank ATM",
+    "lat": 11.9388686,
+    "lon": 79.4927941,
+    "distance_m": 1274
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.9403471,
+    "lon": 79.4973977,
+    "distance_m": 1341
+  }
+]

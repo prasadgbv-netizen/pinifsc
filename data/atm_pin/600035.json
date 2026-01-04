@@ -1,0 +1,72 @@
+[
+  {
+    "name": "City Union Bank",
+    "operator": "City Union Bank",
+    "lat": 13.0319576,
+    "lon": 80.2421553,
+    "distance_m": 156
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 13.0362444,
+    "lon": 80.2365809,
+    "distance_m": 669
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0362882,
+    "lon": 80.2365489,
+    "distance_m": 675
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0403053,
+    "lon": 80.2422906,
+    "distance_m": 963
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0333077,
+    "lon": 80.2497859,
+    "distance_m": 996
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 13.0384105,
+    "lon": 80.2469877,
+    "distance_m": 1002
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0339142,
+    "lon": 80.2497305,
+    "distance_m": 1004
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0408055,
+    "lon": 80.2396158,
+    "distance_m": 1010
+  },
+  {
+    "name": "SBT",
+    "operator": "",
+    "lat": 13.0383319,
+    "lon": 80.2473065,
+    "distance_m": 1019
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0403524,
+    "lon": 80.2468368,
+    "distance_m": 1160
+  }
+]

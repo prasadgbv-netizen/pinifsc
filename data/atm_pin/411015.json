@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.5729285,
+    "lon": 73.8835513,
+    "distance_m": 569
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5775913,
+    "lon": 73.8752944,
+    "distance_m": 703
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI ATM",
+    "lat": 18.5743959,
+    "lon": 73.8844557,
+    "distance_m": 709
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 18.5743426,
+    "lon": 73.8905658,
+    "distance_m": 1325
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.5599916,
+    "lon": 73.891401,
+    "distance_m": 1918
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5889375,
+    "lon": 73.862455,
+    "distance_m": 2520
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5901306,
+    "lon": 73.8627951,
+    "distance_m": 2599
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5469331,
+    "lon": 73.8864811,
+    "distance_m": 2910
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5529046,
+    "lon": 73.8978373,
+    "distance_m": 2955
+  },
+  {
+    "name": "Janaseva Sahakari Bank Ltd.",
+    "operator": "",
+    "lat": 18.5519864,
+    "lon": 73.8971899,
+    "distance_m": 2982
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SHUBHRAJIT CHAKRABORTY",
+    "lat": 22.66269,
+    "lon": 88.4304399,
+    "distance_m": 302
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6422336,
+    "lon": 88.439252,
+    "distance_m": 2191
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.6418755,
+    "lon": 88.4392325,
+    "distance_m": 2226
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2923191,
+    "lon": 75.8154527,
+    "distance_m": 546
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.29232,
+    "lon": 75.815481,
+    "distance_m": 549
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.2877966,
+    "lon": 75.8064097,
+    "distance_m": 588
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 11.2872343,
+    "lon": 75.8033169,
+    "distance_m": 930
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "",
+    "lat": 11.2872282,
+    "lon": 75.8032053,
+    "distance_m": 942
+  },
+  {
+    "name": "ATM",
+    "operator": "SYNDICATE BANK",
+    "lat": 11.2867665,
+    "lon": 75.8032366,
+    "distance_m": 952
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2770353,
+    "lon": 75.8104119,
+    "distance_m": 1351
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.293243,
+    "lon": 75.8239043,
+    "distance_m": 1414
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab Bank",
+    "lat": 11.2931922,
+    "lon": 75.8252546,
+    "distance_m": 1552
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2935335,
+    "lon": 75.8277096,
+    "distance_m": 1820
+  }
+]

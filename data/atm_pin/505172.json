@@ -1,0 +1,23 @@
+[
+  {
+    "name": "IDFC Bank ATM",
+    "operator": "",
+    "lat": 18.6108711,
+    "lon": 79.3793574,
+    "distance_m": 916
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.6092468,
+    "lon": 79.3760754,
+    "distance_m": 1302
+  },
+  {
+    "name": "SBI Group ATM",
+    "operator": "",
+    "lat": 18.6103087,
+    "lon": 79.3728315,
+    "distance_m": 1542
+  }
+]

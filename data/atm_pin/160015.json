@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7519199,
+    "lon": 76.7689982,
+    "distance_m": 797
+  },
+  {
+    "name": "ATM",
+    "operator": "sbp",
+    "lat": 30.7544836,
+    "lon": 76.7701458,
+    "distance_m": 943
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7513124,
+    "lon": 76.7854608,
+    "distance_m": 1064
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7471008,
+    "lon": 76.7877155,
+    "distance_m": 1180
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.757616,
+    "lon": 76.778211,
+    "distance_m": 1181
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7411531,
+    "lon": 76.7858959,
+    "distance_m": 1215
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7404688,
+    "lon": 76.7863602,
+    "distance_m": 1295
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 14 Chandigarh",
+    "lat": 30.7563064,
+    "lon": 76.7667924,
+    "distance_m": 1295
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7356628,
+    "lon": 76.7797793,
+    "distance_m": 1358
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7407222,
+    "lon": 76.7875813,
+    "distance_m": 1376
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Cosmos Bank",
+    "operator": "Cosmos Bank",
+    "lat": 19.0564162,
+    "lon": 72.8340847,
+    "distance_m": 35
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.0562536,
+    "lon": 72.8345689,
+    "distance_m": 89
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "operator": "AU Small Finance Bank",
+    "lat": 19.0592388,
+    "lon": 72.8321555,
+    "distance_m": 343
+  },
+  {
+    "name": "Saraswat Bank",
+    "operator": "Saraswat Bank",
+    "lat": 19.0555186,
+    "lon": 72.8371884,
+    "distance_m": 376
+  },
+  {
+    "name": "Standard Chartered",
+    "operator": "Standard Chartered",
+    "lat": 19.0551855,
+    "lon": 72.8298377,
+    "distance_m": 441
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 19.0603135,
+    "lon": 72.8351774,
+    "distance_m": 442
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 19.056957,
+    "lon": 72.8293862,
+    "distance_m": 464
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 19.058022,
+    "lon": 72.8295434,
+    "distance_m": 474
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0612447,
+    "lon": 72.8352831,
+    "distance_m": 544
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 19.0593773,
+    "lon": 72.8293348,
+    "distance_m": 562
+  }
+]

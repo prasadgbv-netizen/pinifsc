@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 9.9351082,
+    "lon": 78.1498441,
+    "distance_m": 931
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9364709,
+    "lon": 78.142795,
+    "distance_m": 982
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9314575,
+    "lon": 78.1486829,
+    "distance_m": 1324
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9304944,
+    "lon": 78.1487908,
+    "distance_m": 1432
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.930474,
+    "lon": 78.1486467,
+    "distance_m": 1433
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 9.9293475,
+    "lon": 78.148891,
+    "distance_m": 1559
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 9.948662,
+    "lon": 78.162418,
+    "distance_m": 1644
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 9.9486902,
+    "lon": 78.1624703,
+    "distance_m": 1650
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.9487425,
+    "lon": 78.1625977,
+    "distance_m": 1665
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 9.9279638,
+    "lon": 78.1484688,
+    "distance_m": 1712
+  }
+]

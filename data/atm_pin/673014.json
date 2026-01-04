@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kozhikode District Co-operative Bank",
+    "lat": 11.2311847,
+    "lon": 75.8170493,
+    "distance_m": 929
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab Bank ATM",
+    "lat": 11.2532629,
+    "lon": 75.827086,
+    "distance_m": 1824
+  },
+  {
+    "name": "ATM",
+    "operator": "atm",
+    "lat": 11.2383664,
+    "lon": 75.8048468,
+    "distance_m": 1950
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.2365343,
+    "lon": 75.8040784,
+    "distance_m": 2034
+  },
+  {
+    "name": "ATM",
+    "operator": "vijaya bank",
+    "lat": 11.2366559,
+    "lon": 75.8034971,
+    "distance_m": 2097
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 11.2336524,
+    "lon": 75.8031331,
+    "distance_m": 2176
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2509046,
+    "lon": 75.8419961,
+    "distance_m": 2582
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2479182,
+    "lon": 75.7990347,
+    "distance_m": 2833
+  },
+  {
+    "name": "Union bank",
+    "operator": "",
+    "lat": 11.2589885,
+    "lon": 75.8066555,
+    "distance_m": 2968
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Federal Bank Cash Machine (ATM cum CDM)",
+    "operator": "Federal Bank",
+    "lat": 9.1864105,
+    "lon": 76.488676,
+    "distance_m": 1464
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank Atm",
+    "lat": 9.1778282,
+    "lon": 76.4981152,
+    "distance_m": 1735
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.1752912,
+    "lon": 76.5071978,
+    "distance_m": 2153
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 9.1723424,
+    "lon": 76.497955,
+    "distance_m": 2344
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.2082707,
+    "lon": 76.5151178,
+    "distance_m": 2346
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.1722365,
+    "lon": 76.4982578,
+    "distance_m": 2352
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA bank ATM",
+    "lat": 9.1695688,
+    "lon": 76.5001073,
+    "distance_m": 2641
+  },
+  {
+    "name": "ATM",
+    "operator": "UBI",
+    "lat": 9.1675194,
+    "lon": 76.501662,
+    "distance_m": 2874
+  }
+]

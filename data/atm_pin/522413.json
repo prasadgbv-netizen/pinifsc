@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "axix bank",
+    "lat": 16.4799651,
+    "lon": 79.8856081,
+    "distance_m": 2754
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 16.4816953,
+    "lon": 79.883803,
+    "distance_m": 2803
+  }
+]

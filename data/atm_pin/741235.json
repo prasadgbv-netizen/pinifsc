@@ -1,0 +1,65 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9754088,
+    "lon": 88.4584317,
+    "distance_m": 261
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9739761,
+    "lon": 88.462776,
+    "distance_m": 507
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9709203,
+    "lon": 88.4642016,
+    "distance_m": 688
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.9756973,
+    "lon": 88.4370625,
+    "distance_m": 2153
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9822325,
+    "lon": 88.439166,
+    "distance_m": 2170
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9755569,
+    "lon": 88.4363553,
+    "distance_m": 2223
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.9723079,
+    "lon": 88.434919,
+    "distance_m": 2355
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 22.9756832,
+    "lon": 88.4334598,
+    "distance_m": 2519
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 22.9936535,
+    "lon": 88.4434823,
+    "distance_m": 2720
+  }
+]

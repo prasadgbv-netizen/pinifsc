@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 17.4789871,
+    "lon": 78.5115608,
+    "distance_m": 910
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.4945527,
+    "lon": 78.5127424,
+    "distance_m": 1000
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.483877,
+    "lon": 78.4986341,
+    "distance_m": 1074
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 17.4838565,
+    "lon": 78.4982157,
+    "distance_m": 1117
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.4995159,
+    "lon": 78.5135253,
+    "distance_m": 1538
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 17.506477,
+    "lon": 78.516199,
+    "distance_m": 2363
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "India Post ATM",
+    "operator": "",
+    "lat": 11.4422288,
+    "lon": 75.6935585,
+    "distance_m": 166
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 11.4414711,
+    "lon": 75.694065,
+    "distance_m": 208
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 11.4445099,
+    "lon": 75.6905093,
+    "distance_m": 475
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of Indida ATM",
+    "lat": 11.4446563,
+    "lon": 75.6904683,
+    "distance_m": 484
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 11.4383673,
+    "lon": 75.6955396,
+    "distance_m": 550
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 11.436888,
+    "lon": 75.6965382,
+    "distance_m": 735
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National bank ATM",
+    "lat": 11.4484212,
+    "lon": 75.6886102,
+    "distance_m": 876
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.4497626,
+    "lon": 75.6875787,
+    "distance_m": 1059
+  }
+]

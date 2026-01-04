@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 25.2452873,
+    "lon": 79.1385561,
+    "distance_m": 1318
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.246379,
+    "lon": 79.136494,
+    "distance_m": 1421
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 25.2555247,
+    "lon": 79.1399168,
+    "distance_m": 2464
+  }
+]

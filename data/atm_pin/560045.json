@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0409375,
+    "lon": 77.6223743,
+    "distance_m": 944
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0407965,
+    "lon": 77.616876,
+    "distance_m": 1007
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0317411,
+    "lon": 77.611461,
+    "distance_m": 1016
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0256788,
+    "lon": 77.6303209,
+    "distance_m": 1285
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.032436,
+    "lon": 77.6088298,
+    "distance_m": 1297
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 13.0324467,
+    "lon": 77.6087814,
+    "distance_m": 1302
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0318249,
+    "lon": 77.6084004,
+    "distance_m": 1346
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 13.0421146,
+    "lon": 77.6124806,
+    "distance_m": 1391
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0234056,
+    "lon": 77.6296912,
+    "distance_m": 1402
+  },
+  {
+    "name": "Lakshmi Vilas Bank ATM",
+    "operator": "",
+    "lat": 13.0212073,
+    "lon": 77.6284431,
+    "distance_m": 1511
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 8.4826297,
+    "lon": 76.9474359,
+    "distance_m": 148
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 8.4828344,
+    "lon": 76.9508945,
+    "distance_m": 234
+  },
+  {
+    "name": "ATM",
+    "operator": "syndicate bank ATM",
+    "lat": 8.4825377,
+    "lon": 76.9512413,
+    "distance_m": 275
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank ATM",
+    "lat": 8.4850043,
+    "lon": 76.9463212,
+    "distance_m": 358
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.4857721,
+    "lon": 76.9504672,
+    "distance_m": 373
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank ATM",
+    "lat": 8.4797278,
+    "lon": 76.9507033,
+    "distance_m": 409
+  },
+  {
+    "name": "State Bank",
+    "operator": "State Bank of India",
+    "lat": 8.4806819,
+    "lon": 76.9455634,
+    "distance_m": 427
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.4849581,
+    "lon": 76.9451725,
+    "distance_m": 457
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.4790273,
+    "lon": 76.9464206,
+    "distance_m": 499
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank ATM/CDM",
+    "lat": 8.4847424,
+    "lon": 76.9532325,
+    "distance_m": 533
+  }
+]

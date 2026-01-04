@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6254248,
+    "lon": 77.1109641,
+    "distance_m": 63
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6125116,
+    "lon": 77.1100044,
+    "distance_m": 1375
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 28.6365657,
+    "lon": 77.0973217,
+    "distance_m": 1855
+  },
+  {
+    "name": "Punjab Bank",
+    "operator": "",
+    "lat": 28.636705,
+    "lon": 77.0965516,
+    "distance_m": 1920
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6311479,
+    "lon": 77.0910709,
+    "distance_m": 2054
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.636867,
+    "lon": 77.0934463,
+    "distance_m": 2161
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6333173,
+    "lon": 77.0899456,
+    "distance_m": 2248
+  },
+  {
+    "name": "City Union Bank",
+    "operator": "City Union Bank",
+    "lat": 28.633543,
+    "lon": 77.0898571,
+    "distance_m": 2266
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.6224226,
+    "lon": 77.1360256,
+    "distance_m": 2470
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 28.6280232,
+    "lon": 77.1367988,
+    "distance_m": 2555
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "sbt pozhiyoor",
+    "lat": 8.3011985,
+    "lon": 77.0932129,
+    "distance_m": 1137
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 8.3155307,
+    "lon": 77.0950496,
+    "distance_m": 1175
+  },
+  {
+    "name": "ATM",
+    "operator": "BANK OF INDIA",
+    "lat": 8.3153363,
+    "lon": 77.0965012,
+    "distance_m": 1293
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.3157212,
+    "lon": 77.0985501,
+    "distance_m": 1508
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.3192411,
+    "lon": 77.0717833,
+    "distance_m": 1985
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 8.3220948,
+    "lon": 77.0729254,
+    "distance_m": 2089
+  }
+]

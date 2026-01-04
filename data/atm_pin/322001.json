@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.0193969,
+    "lon": 76.3568613,
+    "distance_m": 1761
+  },
+  {
+    "name": "bank of baroda atm",
+    "operator": "bank of baroda",
+    "lat": 26.0153058,
+    "lon": 76.3499557,
+    "distance_m": 2265
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.0164902,
+    "lon": 76.3647621,
+    "distance_m": 2291
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 26.0136563,
+    "lon": 76.3566346,
+    "distance_m": 2396
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI BANK",
+    "lat": 26.0172555,
+    "lon": 76.368807,
+    "distance_m": 2419
+  }
+]

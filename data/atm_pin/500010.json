@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 17.506477,
+    "lon": 78.516199,
+    "distance_m": 280
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.5115428,
+    "lon": 78.5193884,
+    "distance_m": 696
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.4995159,
+    "lon": 78.5135253,
+    "distance_m": 838
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.4945527,
+    "lon": 78.5127424,
+    "distance_m": 1347
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "",
+    "lat": 17.501827,
+    "lon": 78.5387928,
+    "distance_m": 2181
+  },
+  {
+    "name": "Bank of baroda",
+    "operator": "",
+    "lat": 17.50185,
+    "lon": 78.5388069,
+    "distance_m": 2182
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "",
+    "lat": 17.5022075,
+    "lon": 78.5391851,
+    "distance_m": 2215
+  }
+]

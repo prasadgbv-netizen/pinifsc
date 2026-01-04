@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.080095,
+    "lon": 80.2865943,
+    "distance_m": 132
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.080138,
+    "lon": 80.2866045,
+    "distance_m": 135
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0801885,
+    "lon": 80.2866224,
+    "distance_m": 140
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 13.0802396,
+    "lon": 80.2866326,
+    "distance_m": 144
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 13.0856071,
+    "lon": 80.2795714,
+    "distance_m": 943
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0821882,
+    "lon": 80.2763979,
+    "distance_m": 1038
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0896462,
+    "lon": 80.2853413,
+    "distance_m": 1134
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 13.0896743,
+    "lon": 80.285344,
+    "distance_m": 1137
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 13.0840024,
+    "lon": 80.2761381,
+    "distance_m": 1140
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 13.0898796,
+    "lon": 80.2879365,
+    "distance_m": 1187
+  }
+]

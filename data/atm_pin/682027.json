@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "",
+    "lat": 10.0584112,
+    "lon": 76.2903132,
+    "distance_m": 2102
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank",
+    "lat": 10.0582222,
+    "lon": 76.2904654,
+    "distance_m": 2116
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank",
+    "lat": 10.0461121,
+    "lon": 76.2963678,
+    "distance_m": 2941
+  }
+]

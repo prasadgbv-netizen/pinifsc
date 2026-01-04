@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "fedral banck",
+    "lat": 9.3189827,
+    "lon": 76.6125893,
+    "distance_m": 1102
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.3172247,
+    "lon": 76.6163034,
+    "distance_m": 1544
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3350285,
+    "lon": 76.6045555,
+    "distance_m": 1588
+  },
+  {
+    "name": "State Bank Of India ATM & CDM",
+    "operator": "State Bank Of India, Puliyoor Branch",
+    "lat": 9.3073462,
+    "lon": 76.5877947,
+    "distance_m": 2222
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.3024515,
+    "lon": 76.5870556,
+    "distance_m": 2673
+  }
+]

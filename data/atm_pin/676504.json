@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ESAF",
+    "lat": 11.0276814,
+    "lon": 76.0663196,
+    "distance_m": 229
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India ATM",
+    "lat": 11.0282514,
+    "lon": 76.0662623,
+    "distance_m": 289
+  },
+  {
+    "name": "Cenara bank",
+    "operator": "",
+    "lat": 11.041655,
+    "lon": 76.0712201,
+    "distance_m": 1809
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India (SBI)",
+    "lat": 11.0385417,
+    "lon": 76.0776534,
+    "distance_m": 1809
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.042155,
+    "lon": 76.0808101,
+    "distance_m": 2338
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM CDM",
+    "lat": 11.0428104,
+    "lon": 76.0811038,
+    "distance_m": 2414
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0467911,
+    "lon": 76.0738911,
+    "distance_m": 2437
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.0499587,
+    "lon": 76.0713612,
+    "distance_m": 2717
+  }
+]

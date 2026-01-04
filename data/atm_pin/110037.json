@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Citibank",
+    "lat": 28.5560688,
+    "lon": 77.0846576,
+    "distance_m": 48
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5550883,
+    "lon": 77.0844517,
+    "distance_m": 62
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 28.5550358,
+    "lon": 77.0843918,
+    "distance_m": 68
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 28.5551071,
+    "lon": 77.0841363,
+    "distance_m": 71
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 28.5547264,
+    "lon": 77.0845832,
+    "distance_m": 101
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.554952,
+    "lon": 77.0857197,
+    "distance_m": 136
+  },
+  {
+    "name": "Citibank ATM",
+    "operator": "Citibank",
+    "lat": 28.5542898,
+    "lon": 77.0850778,
+    "distance_m": 158
+  },
+  {
+    "name": "SBI ATM State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.5542223,
+    "lon": 77.085136,
+    "distance_m": 167
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.5533046,
+    "lon": 77.0851809,
+    "distance_m": 266
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5585422,
+    "lon": 77.0864623,
+    "distance_m": 372
+  }
+]

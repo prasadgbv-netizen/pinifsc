@@ -1,0 +1,58 @@
+[
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "",
+    "lat": 26.1221683,
+    "lon": 85.3795906,
+    "distance_m": 55
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "",
+    "lat": 26.1220761,
+    "lon": 85.3802337,
+    "distance_m": 114
+  },
+  {
+    "name": "Bank Of Baroda ATM",
+    "operator": "",
+    "lat": 26.1180876,
+    "lon": 85.3961744,
+    "distance_m": 1757
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 26.1248441,
+    "lon": 85.3996677,
+    "distance_m": 2078
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 26.1108813,
+    "lon": 85.3961224,
+    "distance_m": 2096
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 26.1243197,
+    "lon": 85.4049478,
+    "distance_m": 2594
+  },
+  {
+    "name": "Central Bank Of India ATM",
+    "operator": "",
+    "lat": 26.1042434,
+    "lon": 85.3990429,
+    "distance_m": 2798
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.1194337,
+    "lon": 85.408398,
+    "distance_m": 2938
+  }
+]

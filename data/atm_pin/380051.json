@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "The amdavad distric co-operative bank ltd",
+    "lat": 23.0257545,
+    "lon": 72.5251753,
+    "distance_m": 2366
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.0263264,
+    "lon": 72.5077538,
+    "distance_m": 2739
+  }
+]

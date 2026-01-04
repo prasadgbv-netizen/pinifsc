@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3718818,
+    "lon": 78.511122,
+    "distance_m": 149
+  },
+  {
+    "name": "IndusInd",
+    "operator": "IndusInd Bank",
+    "lat": 17.3684304,
+    "lon": 78.519821,
+    "distance_m": 1080
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3750194,
+    "lon": 78.4988031,
+    "distance_m": 1269
+  },
+  {
+    "name": "Dena Bank ATM",
+    "operator": "",
+    "lat": 17.372457,
+    "lon": 78.522909,
+    "distance_m": 1377
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3754636,
+    "lon": 78.4970586,
+    "distance_m": 1460
+  },
+  {
+    "name": "ایکسس بینک آ ٹی ایم",
+    "operator": "",
+    "lat": 17.3587859,
+    "lon": 78.5048448,
+    "distance_m": 1469
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3579858,
+    "lon": 78.5130864,
+    "distance_m": 1488
+  },
+  {
+    "name": "ایچ ڈی ایف سی۔ اے ٹی ایم",
+    "operator": "",
+    "lat": 17.3661894,
+    "lon": 78.496547,
+    "distance_m": 1528
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 17.3682787,
+    "lon": 78.5248122,
+    "distance_m": 1600
+  },
+  {
+    "name": "آئی سی آئی سی آئی - اے ٹی ایم",
+    "operator": "",
+    "lat": 17.3661581,
+    "lon": 78.4956642,
+    "distance_m": 1617
+  }
+]

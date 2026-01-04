@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 13.1514733,
+    "lon": 74.8323846,
+    "distance_m": 131
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 13.1727943,
+    "lon": 74.8202299,
+    "distance_m": 2705
+  }
+]

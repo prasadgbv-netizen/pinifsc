@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0200993,
+    "lon": 80.1853119,
+    "distance_m": 483
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0233241,
+    "lon": 80.1840325,
+    "distance_m": 821
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.025889,
+    "lon": 80.1831772,
+    "distance_m": 1101
+  },
+  {
+    "name": "Allahabad Bank",
+    "operator": "Allahabad Bank",
+    "lat": 13.0185251,
+    "lon": 80.1779117,
+    "distance_m": 1218
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 13.0088853,
+    "lon": 80.196096,
+    "distance_m": 1250
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0086957,
+    "lon": 80.1960726,
+    "distance_m": 1266
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0288007,
+    "lon": 80.1834643,
+    "distance_m": 1362
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 13.0072495,
+    "lon": 80.1961371,
+    "distance_m": 1402
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0246313,
+    "lon": 80.1768658,
+    "distance_m": 1527
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.014905,
+    "lon": 80.174431,
+    "distance_m": 1626
+  }
+]

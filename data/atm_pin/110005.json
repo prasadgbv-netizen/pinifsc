@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6493851,
+    "lon": 77.1938823,
+    "distance_m": 71
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6517481,
+    "lon": 77.1942974,
+    "distance_m": 196
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.6520236,
+    "lon": 77.192417,
+    "distance_m": 261
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.6477737,
+    "lon": 77.1839471,
+    "distance_m": 996
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6499265,
+    "lon": 77.1832978,
+    "distance_m": 1028
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.6499529,
+    "lon": 77.1832307,
+    "distance_m": 1034
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6583791,
+    "lon": 77.2033814,
+    "distance_m": 1315
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6460886,
+    "lon": 77.2070915,
+    "distance_m": 1365
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.641708,
+    "lon": 77.2048736,
+    "distance_m": 1420
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.6413467,
+    "lon": 77.2053065,
+    "distance_m": 1478
+  }
+]

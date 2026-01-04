@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5253914,
+    "lon": 76.9890727,
+    "distance_m": 776
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 8.5278752,
+    "lon": 76.968681,
+    "distance_m": 1921
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5399641,
+    "lon": 76.9690238,
+    "distance_m": 2063
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 8.5136834,
+    "lon": 76.979221,
+    "distance_m": 2113
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 8.5374055,
+    "lon": 76.9658422,
+    "distance_m": 2283
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 8.5374307,
+    "lon": 76.9657027,
+    "distance_m": 2299
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Of India Automated Teller Machine",
+    "lat": 8.535061,
+    "lon": 76.9647794,
+    "distance_m": 2338
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.535253,
+    "lon": 76.9644828,
+    "distance_m": 2374
+  },
+  {
+    "name": "Kerala State Co-operative Bank",
+    "operator": "Kerala State Co-operative Bank",
+    "lat": 8.5389595,
+    "lon": 76.9649904,
+    "distance_m": 2426
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.531618,
+    "lon": 76.9619881,
+    "distance_m": 2612
+  }
+]

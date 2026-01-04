@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra ",
+    "lat": 19.2733291,
+    "lon": 72.9619719,
+    "distance_m": 920
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda ",
+    "lat": 19.2709411,
+    "lon": 72.9651181,
+    "distance_m": 1133
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2701704,
+    "lon": 72.9656284,
+    "distance_m": 1173
+  }
+]

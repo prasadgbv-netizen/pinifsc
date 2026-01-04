@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 23.0478572,
+    "lon": 72.526783,
+    "distance_m": 629
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 23.0478082,
+    "lon": 72.5269346,
+    "distance_m": 637
+  },
+  {
+    "name": "ATM",
+    "operator": "The amdavad distric co-operative bank ltd",
+    "lat": 23.0257545,
+    "lon": 72.5251753,
+    "distance_m": 2067
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "SBI ATM",
+    "lat": 23.0353395,
+    "lon": 72.5429261,
+    "distance_m": 2340
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 23.0505708,
+    "lon": 72.5001224,
+    "distance_m": 2364
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.0263264,
+    "lon": 72.5077538,
+    "distance_m": 2468
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 23.0502383,
+    "lon": 72.4985353,
+    "distance_m": 2509
+  }
+]

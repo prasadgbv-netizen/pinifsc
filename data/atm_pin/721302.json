@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 22.3226511,
+    "lon": 87.3109129,
+    "distance_m": 159
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 22.3420218,
+    "lon": 87.3250802,
+    "distance_m": 2758
+  }
+]

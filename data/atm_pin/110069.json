@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6258863,
+    "lon": 77.213853,
+    "distance_m": 383
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6175605,
+    "lon": 77.2125512,
+    "distance_m": 558
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 28.6215414,
+    "lon": 77.2192588,
+    "distance_m": 648
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6236459,
+    "lon": 77.2193948,
+    "distance_m": 661
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6248081,
+    "lon": 77.2193721,
+    "distance_m": 694
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6246459,
+    "lon": 77.2053756,
+    "distance_m": 752
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6294413,
+    "lon": 77.212874,
+    "distance_m": 762
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6261056,
+    "lon": 77.2197715,
+    "distance_m": 791
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 28.62898,
+    "lon": 77.2173598,
+    "distance_m": 843
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.6272942,
+    "lon": 77.2195527,
+    "distance_m": 847
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 12.7635029,
+    "lon": 77.7937593,
+    "distance_m": 447
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.7542696,
+    "lon": 77.8016397,
+    "distance_m": 900
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 12.7661682,
+    "lon": 77.7904496,
+    "distance_m": 912
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.7492954,
+    "lon": 77.8060727,
+    "distance_m": 1630
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 12.7460246,
+    "lon": 77.8154136,
+    "distance_m": 2600
+  }
+]

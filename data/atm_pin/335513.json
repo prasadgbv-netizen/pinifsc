@@ -1,0 +1,23 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 29.583021,
+    "lon": 74.3226171,
+    "distance_m": 181
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 29.5742035,
+    "lon": 74.3280029,
+    "distance_m": 985
+  },
+  {
+    "name": "UCO Bank ATM",
+    "operator": "",
+    "lat": 29.573933,
+    "lon": 74.3279386,
+    "distance_m": 1011
+  }
+]

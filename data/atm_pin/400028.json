@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 19.0205928,
+    "lon": 72.8415427,
+    "distance_m": 305
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0187241,
+    "lon": 72.8432459,
+    "distance_m": 541
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.0186835,
+    "lon": 72.8432169,
+    "distance_m": 545
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 19.0207003,
+    "lon": 72.8369202,
+    "distance_m": 572
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.0173819,
+    "lon": 72.8410274,
+    "distance_m": 665
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.0260132,
+    "lon": 72.8358728,
+    "distance_m": 671
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.0297197,
+    "lon": 72.8414861,
+    "distance_m": 709
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.0187535,
+    "lon": 72.8487795,
+    "distance_m": 911
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 19.0172512,
+    "lon": 72.8477581,
+    "distance_m": 936
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 19.0231981,
+    "lon": 72.8515769,
+    "distance_m": 1048
+  }
+]

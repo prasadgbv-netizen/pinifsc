@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.9770257,
+    "lon": 79.3785112,
+    "distance_m": 651
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.9740362,
+    "lon": 79.3876973,
+    "distance_m": 1159
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 28.9739974,
+    "lon": 79.3878605,
+    "distance_m": 1173
+  },
+  {
+    "name": "state bank atm",
+    "operator": "state bank atm",
+    "lat": 28.9789875,
+    "lon": 79.3995126,
+    "distance_m": 2421
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.9786278,
+    "lon": 79.404313,
+    "distance_m": 2853
+  }
+]

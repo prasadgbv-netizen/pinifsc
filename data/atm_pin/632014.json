@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.9732385,
+    "lon": 79.1642447,
+    "distance_m": 1178
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.9716022,
+    "lon": 79.1631515,
+    "distance_m": 1179
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9697492,
+    "lon": 79.1551859,
+    "distance_m": 1938
+  }
+]

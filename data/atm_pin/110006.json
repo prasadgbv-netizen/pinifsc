@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 28.6565174,
+    "lon": 77.2246065,
+    "distance_m": 12
+  },
+  {
+    "name": "RBL bank ATM",
+    "operator": "",
+    "lat": 28.6567943,
+    "lon": 77.2250267,
+    "distance_m": 46
+  },
+  {
+    "name": "Canara bank ATM",
+    "operator": "",
+    "lat": 28.656878,
+    "lon": 77.2245555,
+    "distance_m": 47
+  },
+  {
+    "name": "RBL Bank",
+    "operator": "RBL Bank",
+    "lat": 28.6568792,
+    "lon": 77.2249681,
+    "distance_m": 51
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "",
+    "lat": 28.6567809,
+    "lon": 77.2251102,
+    "distance_m": 51
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 28.6564171,
+    "lon": 77.224138,
+    "distance_m": 57
+  },
+  {
+    "name": "Karur vysya bank atm",
+    "operator": "",
+    "lat": 28.6568822,
+    "lon": 77.223841,
+    "distance_m": 97
+  },
+  {
+    "name": "Axis bank ATM",
+    "operator": "",
+    "lat": 28.6568238,
+    "lon": 77.2236487,
+    "distance_m": 111
+  },
+  {
+    "name": "AU Small Finance Bank",
+    "operator": "AU Small Finance Bank",
+    "lat": 28.6580636,
+    "lon": 77.2232946,
+    "distance_m": 225
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 28.658102,
+    "lon": 77.2233002,
+    "distance_m": 228
+  }
+]

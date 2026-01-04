@@ -1,0 +1,44 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.3482519,
+    "lon": 77.7190334,
+    "distance_m": 1431
+  },
+  {
+    "name": "CUB ATM",
+    "operator": "",
+    "lat": 11.3481691,
+    "lon": 77.7190004,
+    "distance_m": 1441
+  },
+  {
+    "name": "CUB ATM",
+    "operator": "",
+    "lat": 11.3481149,
+    "lon": 77.7190343,
+    "distance_m": 1446
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.3449509,
+    "lon": 77.718023,
+    "distance_m": 1812
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.344752,
+    "lon": 77.7180803,
+    "distance_m": 1832
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.3377606,
+    "lon": 77.7176589,
+    "distance_m": 2607
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 14.094617,
+    "lon": 74.4844047,
+    "distance_m": 1839
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 14.1000098,
+    "lon": 74.5042422,
+    "distance_m": 2525
+  }
+]

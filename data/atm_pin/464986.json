@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM - Punjab National Bank",
+    "operator": "",
+    "lat": 23.2105889,
+    "lon": 77.3948938,
+    "distance_m": 270
+  },
+  {
+    "name": "ATM - Axis Bank",
+    "operator": "",
+    "lat": 23.2104247,
+    "lon": 77.3947737,
+    "distance_m": 277
+  },
+  {
+    "name": "SBI ATM MANIT",
+    "operator": "",
+    "lat": 23.2168806,
+    "lon": 77.4056239,
+    "distance_m": 1363
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.2058492,
+    "lon": 77.4079532,
+    "distance_m": 1678
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2324287,
+    "lon": 77.3976796,
+    "distance_m": 2268
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2345461,
+    "lon": 77.4011993,
+    "distance_m": 2590
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2368197,
+    "lon": 77.4013754,
+    "distance_m": 2836
+  },
+  {
+    "name": "ATM",
+    "operator": "CENTRAL BANK",
+    "lat": 23.1988923,
+    "lon": 77.417142,
+    "distance_m": 2875
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.1986708,
+    "lon": 77.417141,
+    "distance_m": 2888
+  },
+  {
+    "name": "ATM",
+    "operator": "UNION BANK",
+    "lat": 23.1975403,
+    "lon": 77.4175626,
+    "distance_m": 2992
+  }
+]

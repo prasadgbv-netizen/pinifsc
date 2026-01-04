@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5609196,
+    "lon": 77.2815802,
+    "distance_m": 746
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.5616829,
+    "lon": 77.2536451,
+    "distance_m": 2529
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5491511,
+    "lon": 77.2589454,
+    "distance_m": 2786
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5440774,
+    "lon": 77.2647345,
+    "distance_m": 2910
+  }
+]

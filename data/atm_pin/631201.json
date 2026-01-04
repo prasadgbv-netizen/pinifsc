@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 12.8315023,
+    "lon": 79.6927952,
+    "distance_m": 778
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.8320396,
+    "lon": 79.6942701,
+    "distance_m": 940
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 12.8319549,
+    "lon": 79.6945013,
+    "distance_m": 955
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 12.8350814,
+    "lon": 79.6933254,
+    "distance_m": 1110
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.8290155,
+    "lon": 79.7036656,
+    "distance_m": 1788
+  },
+  {
+    "name": "ATM",
+    "operator": "hdfc atm",
+    "lat": 12.8287114,
+    "lon": 79.7037179,
+    "distance_m": 1790
+  },
+  {
+    "name": "ATM",
+    "operator": "tmb",
+    "lat": 12.8290431,
+    "lon": 79.7036891,
+    "distance_m": 1791
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 12.8288407,
+    "lon": 79.7037801,
+    "distance_m": 1798
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 12.8306749,
+    "lon": 79.7035139,
+    "distance_m": 1804
+  },
+  {
+    "name": "ATM",
+    "operator": "tamilnadu mercantile bank",
+    "lat": 12.8348065,
+    "lon": 79.7038054,
+    "distance_m": 1988
+  }
+]

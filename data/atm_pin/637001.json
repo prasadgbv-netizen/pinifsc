@@ -1,0 +1,58 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.218945,
+    "lon": 78.161038,
+    "distance_m": 927
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.218662,
+    "lon": 78.163267,
+    "distance_m": 1165
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.218403,
+    "lon": 78.165601,
+    "distance_m": 1418
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.218169,
+    "lon": 78.166773,
+    "distance_m": 1545
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.223534,
+    "lon": 78.16739,
+    "distance_m": 1732
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.228338,
+    "lon": 78.164555,
+    "distance_m": 1749
+  },
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 11.232246,
+    "lon": 78.164858,
+    "distance_m": 2086
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.209836,
+    "lon": 78.178203,
+    "distance_m": 2929
+  }
+]

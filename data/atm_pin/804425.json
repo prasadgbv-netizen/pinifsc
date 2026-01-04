@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 25.2067587,
+    "lon": 84.9847746,
+    "distance_m": 931
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 25.2241204,
+    "lon": 84.9910427,
+    "distance_m": 1143
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.2036095,
+    "lon": 84.9868317,
+    "distance_m": 1179
+  }
+]

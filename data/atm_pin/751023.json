@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 20.3113776,
+    "lon": 85.8172079,
+    "distance_m": 872
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 20.3106606,
+    "lon": 85.8198635,
+    "distance_m": 1089
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.681655,
+    "lon": 76.824332,
+    "distance_m": 2877
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 8.6818567,
+    "lon": 76.8247399,
+    "distance_m": 2920
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 8.6819448,
+    "lon": 76.8247588,
+    "distance_m": 2930
+  }
+]

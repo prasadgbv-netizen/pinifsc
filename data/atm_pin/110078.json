@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 28.6280232,
+    "lon": 77.1367988,
+    "distance_m": 556
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.6224226,
+    "lon": 77.1360256,
+    "distance_m": 1180
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.647204,
+    "lon": 77.1420464,
+    "distance_m": 1662
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6490342,
+    "lon": 77.1426955,
+    "distance_m": 1875
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6254248,
+    "lon": 77.1109641,
+    "distance_m": 2644
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6520416,
+    "lon": 77.1566174,
+    "distance_m": 2875
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 28.6072273,
+    "lon": 77.1399057,
+    "distance_m": 2886
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.653231,
+    "lon": 77.1561147,
+    "distance_m": 2942
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "bank of baroda",
+    "lat": 19.9433662,
+    "lon": 79.2958392,
+    "distance_m": 369
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.952915,
+    "lon": 79.2976431,
+    "distance_m": 1447
+  },
+  {
+    "name": "ATM",
+    "operator": "uco bank",
+    "lat": 19.9483468,
+    "lon": 79.3108167,
+    "distance_m": 1847
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.9608769,
+    "lon": 79.2999791,
+    "distance_m": 2362
+  }
+]

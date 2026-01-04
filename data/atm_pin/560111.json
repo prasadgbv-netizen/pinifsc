@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.8895751,
+    "lon": 77.5630383,
+    "distance_m": 854
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.8941977,
+    "lon": 77.5680809,
+    "distance_m": 986
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9046865,
+    "lon": 77.565528,
+    "distance_m": 1154
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.8876502,
+    "lon": 77.5525271,
+    "distance_m": 1206
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India, City Engineering College Branch",
+    "lat": 12.8876505,
+    "lon": 77.5507441,
+    "distance_m": 1332
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9083281,
+    "lon": 77.5639541,
+    "distance_m": 1430
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.9083213,
+    "lon": 77.5641425,
+    "distance_m": 1437
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9084259,
+    "lon": 77.5639762,
+    "distance_m": 1441
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.8921409,
+    "lon": 77.5721791,
+    "distance_m": 1477
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.8844123,
+    "lon": 77.5665775,
+    "distance_m": 1543
+  }
+]

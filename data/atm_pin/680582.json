@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ESAF ATM",
+    "lat": 10.6565427,
+    "lon": 76.2470171,
+    "distance_m": 167
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India A.T.M/C.D.M",
+    "lat": 10.6623826,
+    "lon": 76.2465455,
+    "distance_m": 493
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.66449,
+    "lon": 76.2496944,
+    "distance_m": 809
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 10.6660479,
+    "lon": 76.2492355,
+    "distance_m": 950
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.6668615,
+    "lon": 76.2597612,
+    "distance_m": 1759
+  }
+]

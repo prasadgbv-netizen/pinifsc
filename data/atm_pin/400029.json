@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 19.080351,
+    "lon": 72.8518165,
+    "distance_m": 626
+  },
+  {
+    "name": "NKGSB Bank ATM",
+    "operator": "",
+    "lat": 19.080197,
+    "lon": 72.8511726,
+    "distance_m": 696
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0801686,
+    "lon": 72.8511058,
+    "distance_m": 703
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 19.0801523,
+    "lon": 72.8510376,
+    "distance_m": 711
+  },
+  {
+    "name": "Kotak bank ATM",
+    "operator": "",
+    "lat": 19.0921464,
+    "lon": 72.8547803,
+    "distance_m": 1125
+  },
+  {
+    "name": "SBI bank ATM",
+    "operator": "State Bank of India",
+    "lat": 19.092509,
+    "lon": 72.8559837,
+    "distance_m": 1140
+  },
+  {
+    "name": "DBS bank ATM",
+    "operator": "",
+    "lat": 19.0923476,
+    "lon": 72.8546604,
+    "distance_m": 1149
+  },
+  {
+    "name": "DBS Digibank ATM",
+    "operator": "",
+    "lat": 19.0924848,
+    "lon": 72.8546189,
+    "distance_m": 1165
+  },
+  {
+    "name": "Citibank ATM",
+    "operator": "Citibank",
+    "lat": 19.0932229,
+    "lon": 72.8570356,
+    "distance_m": 1211
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0816904,
+    "lon": 72.8415545,
+    "distance_m": 1666
+  }
+]

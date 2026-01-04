@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9639017,
+    "lon": 74.9339783,
+    "distance_m": 1600
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 12.9592138,
+    "lon": 74.9331616,
+    "distance_m": 2039
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 12.9771374,
+    "lon": 74.9522635,
+    "distance_m": 2760
+  }
+]

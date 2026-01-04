@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA",
+    "lat": 17.7423128,
+    "lon": 83.3145266,
+    "distance_m": 928
+  },
+  {
+    "name": "ATM",
+    "operator": "India1",
+    "lat": 17.736152,
+    "lon": 83.3206431,
+    "distance_m": 1002
+  },
+  {
+    "name": "ATM",
+    "operator": "indicash",
+    "lat": 17.7361452,
+    "lon": 83.320609,
+    "distance_m": 1004
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7413984,
+    "lon": 83.3333918,
+    "distance_m": 1181
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.7433628,
+    "lon": 83.336993,
+    "distance_m": 1506
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.7435006,
+    "lon": 83.3372987,
+    "distance_m": 1537
+  },
+  {
+    "name": "Kotak Mahindra ATM",
+    "operator": "",
+    "lat": 17.7347179,
+    "lon": 83.3130643,
+    "distance_m": 1537
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7340086,
+    "lon": 83.3321713,
+    "distance_m": 1563
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.754648,
+    "lon": 83.3386207,
+    "distance_m": 1989
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 17.7331908,
+    "lon": 83.3071705,
+    "distance_m": 2112
+  }
+]

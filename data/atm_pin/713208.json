@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 23.5391362,
+    "lon": 87.2927893,
+    "distance_m": 686
+  },
+  {
+    "name": "ING Bank",
+    "operator": "ING",
+    "lat": 23.5392633,
+    "lon": 87.29289,
+    "distance_m": 702
+  }
+]

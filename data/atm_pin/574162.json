@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 12.9736306,
+    "lon": 74.9912911,
+    "distance_m": 51
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "",
+    "lat": 12.9732771,
+    "lon": 74.9878005,
+    "distance_m": 344
+  }
+]

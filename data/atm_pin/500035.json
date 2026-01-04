@@ -1,0 +1,72 @@
+[
+  {
+    "name": "KVB",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.3680938,
+    "lon": 78.5369534,
+    "distance_m": 142
+  },
+  {
+    "name": "IDBI",
+    "operator": "",
+    "lat": 17.3684513,
+    "lon": 78.5373811,
+    "distance_m": 195
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.3684429,
+    "lon": 78.5374309,
+    "distance_m": 196
+  },
+  {
+    "name": "Kotak ATM",
+    "operator": "Kotak mahindra bank ATM",
+    "lat": 17.3670136,
+    "lon": 78.5400568,
+    "distance_m": 365
+  },
+  {
+    "name": "ATM",
+    "operator": "DCB Bank",
+    "lat": 17.3681233,
+    "lon": 78.5330712,
+    "distance_m": 402
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3687338,
+    "lon": 78.5331538,
+    "distance_m": 423
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3732896,
+    "lon": 78.539554,
+    "distance_m": 780
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3739904,
+    "lon": 78.5389895,
+    "distance_m": 832
+  },
+  {
+    "name": "HDFC Cash Machine",
+    "operator": "HDFC Bank",
+    "lat": 17.3680646,
+    "lon": 78.5274027,
+    "distance_m": 987
+  },
+  {
+    "name": "Union Bank Of India ATM",
+    "operator": "Union Bank Of India",
+    "lat": 17.3686524,
+    "lon": 78.5273062,
+    "distance_m": 1008
+  }
+]

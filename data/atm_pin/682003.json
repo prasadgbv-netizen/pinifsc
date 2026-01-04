@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.948721,
+    "lon": 76.2915755,
+    "distance_m": 1547
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9585067,
+    "lon": 76.2891204,
+    "distance_m": 1618
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 9.9575393,
+    "lon": 76.2898758,
+    "distance_m": 1622
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 9.9509392,
+    "lon": 76.2930034,
+    "distance_m": 1707
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.953917,
+    "lon": 76.292447,
+    "distance_m": 1710
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.9509776,
+    "lon": 76.2931363,
+    "distance_m": 1722
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9482381,
+    "lon": 76.2933859,
+    "distance_m": 1749
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank ATM",
+    "lat": 9.9624627,
+    "lon": 76.267773,
+    "distance_m": 1785
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.9620691,
+    "lon": 76.2883466,
+    "distance_m": 1831
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.9624381,
+    "lon": 76.2886289,
+    "distance_m": 1882
+  }
+]

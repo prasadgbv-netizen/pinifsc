@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 21.4820169,
+    "lon": 83.9589644,
+    "distance_m": 2680
+  },
+  {
+    "name": "SBI ATM (SAMBALPUR RAILWAY STATION)",
+    "operator": "State Bank of India",
+    "lat": 21.4822654,
+    "lon": 83.9596749,
+    "distance_m": 2701
+  }
+]

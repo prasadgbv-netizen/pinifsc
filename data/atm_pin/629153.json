@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK ATM",
+    "lat": 8.344331,
+    "lon": 77.1519989,
+    "distance_m": 2069
+  },
+  {
+    "name": "Auto Stand",
+    "operator": "",
+    "lat": 8.3419115,
+    "lon": 77.155543,
+    "distance_m": 2162
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.3431783,
+    "lon": 77.1606637,
+    "distance_m": 2704
+  }
+]

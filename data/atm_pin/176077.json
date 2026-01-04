@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM State Bank of India",
+    "operator": "SBI",
+    "lat": 32.0245101,
+    "lon": 76.7091128,
+    "distance_m": 2583
+  },
+  {
+    "name": "HP State Cooperative",
+    "operator": "",
+    "lat": 32.0186632,
+    "lon": 76.7266708,
+    "distance_m": 2682
+  },
+  {
+    "name": "ATM State Bank of India",
+    "operator": "SBI",
+    "lat": 32.0163063,
+    "lon": 76.7312531,
+    "distance_m": 2985
+  }
+]

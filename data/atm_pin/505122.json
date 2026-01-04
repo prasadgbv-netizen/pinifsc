@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 18.2905054,
+    "lon": 79.4740291,
+    "distance_m": 390
+  },
+  {
+    "name": "Gayatrri Bank ATM",
+    "operator": "",
+    "lat": 18.290525,
+    "lon": 79.474192,
+    "distance_m": 393
+  }
+]

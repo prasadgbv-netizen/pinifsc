@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 8.7698497,
+    "lon": 76.8805929,
+    "distance_m": 990
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.7710123,
+    "lon": 76.8803971,
+    "distance_m": 1052
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.7703247,
+    "lon": 76.8809921,
+    "distance_m": 1056
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 8.7715867,
+    "lon": 76.8801341,
+    "distance_m": 1074
+  }
+]

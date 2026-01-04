@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 15.3851157,
+    "lon": 73.8378388,
+    "distance_m": 124
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 15.3849641,
+    "lon": 73.8377125,
+    "distance_m": 140
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 15.3848767,
+    "lon": 73.8370829,
+    "distance_m": 208
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 15.3979941,
+    "lon": 73.8152201,
+    "distance_m": 2919
+  }
+]

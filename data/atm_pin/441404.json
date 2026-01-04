@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bank of Maharashtra ATM",
+    "operator": "",
+    "lat": 21.2171188,
+    "lon": 79.1959479,
+    "distance_m": 315
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 21.216423,
+    "lon": 79.1947129,
+    "distance_m": 432
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 21.2074137,
+    "lon": 79.1816586,
+    "distance_m": 2046
+  },
+  {
+    "name": "Bank of India ATM",
+    "operator": "",
+    "lat": 21.2075663,
+    "lon": 79.1814333,
+    "distance_m": 2058
+  }
+]

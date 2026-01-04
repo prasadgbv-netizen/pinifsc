@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 13.2130633,
+    "lon": 75.0023492,
+    "distance_m": 128
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.213098,
+    "lon": 74.99945,
+    "distance_m": 441
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.2265443,
+    "lon": 74.9849322,
+    "distance_m": 2519
+  }
+]

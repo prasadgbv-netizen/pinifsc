@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.471273,
+    "lon": 78.599442,
+    "distance_m": 387
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "operator": "",
+    "lat": 17.490059,
+    "lon": 78.601932,
+    "distance_m": 2051
+  },
+  {
+    "name": "ATM",
+    "operator": "hdfc",
+    "lat": 17.4900706,
+    "lon": 78.6009861,
+    "distance_m": 2060
+  },
+  {
+    "name": "Sbi Atm",
+    "operator": "State Bank of India",
+    "lat": 17.4946466,
+    "lon": 78.5965658,
+    "distance_m": 2649
+  }
+]

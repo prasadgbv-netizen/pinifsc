@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SVC Bank",
+    "lat": 18.6555069,
+    "lon": 73.7723741,
+    "distance_m": 1271
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.6540629,
+    "lon": 73.774117,
+    "distance_m": 1279
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.6491829,
+    "lon": 73.7657683,
+    "distance_m": 2260
+  }
+]

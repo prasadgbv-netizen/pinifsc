@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 14.5496232,
+    "lon": 74.3247409,
+    "distance_m": 2055
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 14.5476443,
+    "lon": 74.321499,
+    "distance_m": 2378
+  },
+  {
+    "name": "State Bank",
+    "operator": "SBI",
+    "lat": 14.545847,
+    "lon": 74.3200586,
+    "distance_m": 2530
+  },
+  {
+    "name": "Karnataka bank ATM",
+    "operator": "",
+    "lat": 14.5478403,
+    "lon": 74.318966,
+    "distance_m": 2651
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 14.5439605,
+    "lon": 74.3187322,
+    "distance_m": 2686
+  }
+]

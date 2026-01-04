@@ -1,0 +1,44 @@
+[
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 15.5908603,
+    "lon": 73.806308,
+    "distance_m": 2181
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 15.5896594,
+    "lon": 73.8113609,
+    "distance_m": 2272
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post Payments Bank",
+    "lat": 15.5909323,
+    "lon": 73.8092771,
+    "distance_m": 2297
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 15.5914112,
+    "lon": 73.8095293,
+    "distance_m": 2356
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 15.5909712,
+    "lon": 73.8105073,
+    "distance_m": 2357
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 15.594119,
+    "lon": 73.8009161,
+    "distance_m": 2458
+  }
+]

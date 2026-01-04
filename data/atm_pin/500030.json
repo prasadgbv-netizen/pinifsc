@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3211824,
+    "lon": 78.3985162,
+    "distance_m": 1560
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3221183,
+    "lon": 78.4022455,
+    "distance_m": 1644
+  }
+]

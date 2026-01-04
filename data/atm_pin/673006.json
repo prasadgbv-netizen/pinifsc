@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 11.2788213,
+    "lon": 75.7826767,
+    "distance_m": 172
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2758533,
+    "lon": 75.785424,
+    "distance_m": 570
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.28209,
+    "lon": 75.7889097,
+    "distance_m": 929
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank",
+    "lat": 11.2879101,
+    "lon": 75.7815887,
+    "distance_m": 1020
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 11.2768793,
+    "lon": 75.7715706,
+    "distance_m": 1059
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 11.2881336,
+    "lon": 75.7854592,
+    "distance_m": 1146
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2883124,
+    "lon": 75.7857059,
+    "distance_m": 1176
+  },
+  {
+    "name": "Punjan National Bank",
+    "operator": "",
+    "lat": 11.2832631,
+    "lon": 75.7692687,
+    "distance_m": 1384
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.2635958,
+    "lon": 75.7803652,
+    "distance_m": 1686
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2610639,
+    "lon": 75.7799474,
+    "distance_m": 1970
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 12.9304328,
+    "lon": 77.5062892,
+    "distance_m": 2355
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9359271,
+    "lon": 77.5179968,
+    "distance_m": 2447
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 12.9316197,
+    "lon": 77.5062449,
+    "distance_m": 2461
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.906013,
+    "lon": 77.5419622,
+    "distance_m": 2540
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9249186,
+    "lon": 77.4993891,
+    "distance_m": 2542
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 12.9342254,
+    "lon": 77.5344569,
+    "distance_m": 2740
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 12.9064379,
+    "lon": 77.5443522,
+    "distance_m": 2770
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9070872,
+    "lon": 77.5461078,
+    "distance_m": 2932
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9349665,
+    "lon": 77.5367068,
+    "distance_m": 2951
+  }
+]

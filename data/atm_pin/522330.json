@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indicash",
+    "lat": 16.3264522,
+    "lon": 80.6290905,
+    "distance_m": 251
+  },
+  {
+    "name": "ATM",
+    "operator": "Indicash",
+    "lat": 16.3274065,
+    "lon": 80.6255141,
+    "distance_m": 519
+  },
+  {
+    "name": "ATM",
+    "operator": "India1",
+    "lat": 16.327558,
+    "lon": 80.6256266,
+    "distance_m": 523
+  }
+]

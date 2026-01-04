@@ -1,0 +1,44 @@
+[
+  {
+    "name": "UCO Bank",
+    "operator": "UCO Bank",
+    "lat": 12.9312463,
+    "lon": 80.2032432,
+    "distance_m": 839
+  },
+  {
+    "name": "ATM",
+    "operator": "CUB",
+    "lat": 12.9341982,
+    "lon": 80.2037866,
+    "distance_m": 1148
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9342733,
+    "lon": 80.2037784,
+    "distance_m": 1155
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9205593,
+    "lon": 80.1840672,
+    "distance_m": 1665
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 12.9482221,
+    "lon": 80.1995248,
+    "distance_m": 2568
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.9472312,
+    "lon": 80.2099457,
+    "distance_m": 2742
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0145165,
+    "lon": 77.5678632,
+    "distance_m": 162
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.014655,
+    "lon": 77.5678658,
+    "distance_m": 170
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0183808,
+    "lon": 77.564656,
+    "distance_m": 545
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 13.0085354,
+    "lon": 77.5694521,
+    "distance_m": 667
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 13.0079066,
+    "lon": 77.5639571,
+    "distance_m": 715
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 13.0071319,
+    "lon": 77.5643956,
+    "distance_m": 780
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0068403,
+    "lon": 77.5711956,
+    "distance_m": 926
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO",
+    "lat": 13.0055316,
+    "lon": 77.569732,
+    "distance_m": 985
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.018555,
+    "lon": 77.558819,
+    "distance_m": 987
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0058689,
+    "lon": 77.571081,
+    "distance_m": 1012
+  }
+]

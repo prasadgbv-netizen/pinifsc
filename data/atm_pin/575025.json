@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0086573,
+    "lon": 74.7941347,
+    "distance_m": 94
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0090142,
+    "lon": 74.794174,
+    "distance_m": 99
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 13.0186977,
+    "lon": 74.7909599,
+    "distance_m": 1125
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 12.9897861,
+    "lon": 74.8005447,
+    "distance_m": 2259
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 12.9881802,
+    "lon": 74.8006516,
+    "distance_m": 2431
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank ATM",
+    "lat": 12.9851582,
+    "lon": 74.8015219,
+    "distance_m": 2779
+  },
+  {
+    "name": "SBT ATM Surathkal",
+    "operator": "SBT",
+    "lat": 12.9865007,
+    "lon": 74.807457,
+    "distance_m": 2920
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Corp Bank",
+    "lat": 13.1842255,
+    "lon": 74.9344949,
+    "distance_m": 1480
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.1735396,
+    "lon": 74.8987046,
+    "distance_m": 2795
+  }
+]

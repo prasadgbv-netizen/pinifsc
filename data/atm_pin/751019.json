@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Allahabad Bank",
+    "operator": "Allahabad Bank",
+    "lat": 20.2605057,
+    "lon": 85.787296,
+    "distance_m": 2608
+  },
+  {
+    "name": "Canara",
+    "operator": "Canara Bank",
+    "lat": 20.2607505,
+    "lon": 85.7870085,
+    "distance_m": 2642
+  },
+  {
+    "name": "AXIS",
+    "operator": "AXIS Bank",
+    "lat": 20.2608788,
+    "lon": 85.7864747,
+    "distance_m": 2671
+  }
+]

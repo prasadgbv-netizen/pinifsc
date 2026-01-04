@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 10.9144068,
+    "lon": 76.1219653,
+    "distance_m": 2726
+  },
+  {
+    "name": "KGB ATM",
+    "operator": "",
+    "lat": 10.9152872,
+    "lon": 76.1222688,
+    "distance_m": 2734
+  }
+]

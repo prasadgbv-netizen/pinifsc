@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Gita mandir",
+    "lat": 23.0142393,
+    "lon": 72.5935884,
+    "distance_m": 814
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 23.0116557,
+    "lon": 72.5687622,
+    "distance_m": 1850
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusland Bank ATM",
+    "lat": 22.9950529,
+    "lon": 72.6022554,
+    "distance_m": 2329
+  }
+]

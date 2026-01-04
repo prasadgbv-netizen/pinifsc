@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.4253579,
+    "lon": 76.5854147,
+    "distance_m": 458
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.4164663,
+    "lon": 76.5750491,
+    "distance_m": 1080
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.404821,
+    "lon": 76.5811602,
+    "distance_m": 1904
+  },
+  {
+    "name": "ATM",
+    "operator": "Catholic Syrian Bank & ATM",
+    "lat": 9.4254552,
+    "lon": 76.5623213,
+    "distance_m": 2332
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.4257092,
+    "lon": 76.5618787,
+    "distance_m": 2385
+  },
+  {
+    "name": "ATM",
+    "operator": "IOB ATM",
+    "lat": 9.3959043,
+    "lon": 76.5783858,
+    "distance_m": 2931
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.3954532,
+    "lon": 76.5785922,
+    "distance_m": 2976
+  }
+]

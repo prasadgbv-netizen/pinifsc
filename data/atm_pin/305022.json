@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 26.4911121,
+    "lon": 74.5542402,
+    "distance_m": 227
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "",
+    "lat": 26.4896963,
+    "lon": 74.5556753,
+    "distance_m": 346
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 26.4891949,
+    "lon": 74.5570454,
+    "distance_m": 428
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.4882844,
+    "lon": 74.5579687,
+    "distance_m": 558
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.487414,
+    "lon": 74.5599064,
+    "distance_m": 741
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 26.4882654,
+    "lon": 74.5493617,
+    "distance_m": 794
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank Of Baroda",
+    "lat": 22.7238948,
+    "lon": 88.3408941,
+    "distance_m": 2873
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 22.7243856,
+    "lon": 88.3423391,
+    "distance_m": 2929
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank ATM",
+    "lat": 22.7245703,
+    "lon": 88.343792,
+    "distance_m": 2958
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank",
+    "lat": 11.1550501,
+    "lon": 75.8465576,
+    "distance_m": 1705
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 11.1551738,
+    "lon": 75.8466618,
+    "distance_m": 1716
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 11.1373993,
+    "lon": 75.8265584,
+    "distance_m": 2071
+  }
+]

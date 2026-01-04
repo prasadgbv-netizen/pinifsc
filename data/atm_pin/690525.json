@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.0922906,
+    "lon": 76.4944647,
+    "distance_m": 1050
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 9.0909108,
+    "lon": 76.4959366,
+    "distance_m": 1104
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 9.0921078,
+    "lon": 76.4938297,
+    "distance_m": 1108
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi Bank",
+    "lat": 9.0938732,
+    "lon": 76.4901876,
+    "distance_m": 1274
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.0913363,
+    "lon": 76.491579,
+    "distance_m": 1335
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi Bank",
+    "lat": 9.0908496,
+    "lon": 76.490362,
+    "distance_m": 1468
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.0908205,
+    "lon": 76.4902694,
+    "distance_m": 1477
+  },
+  {
+    "name": "Lakshmi Vilas Bank",
+    "operator": "",
+    "lat": 9.0902683,
+    "lon": 76.4890048,
+    "distance_m": 1621
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 9.0998615,
+    "lon": 76.522854,
+    "distance_m": 2509
+  }
+]

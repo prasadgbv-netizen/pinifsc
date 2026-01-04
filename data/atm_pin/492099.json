@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Dena Bank ATM",
+    "operator": "",
+    "lat": 21.2595531,
+    "lon": 81.5731813,
+    "distance_m": 441
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 21.2521857,
+    "lon": 81.5980252,
+    "distance_m": 2284
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 21.2517101,
+    "lon": 81.5990478,
+    "distance_m": 2402
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Atm",
+    "lat": 21.2494916,
+    "lon": 81.6041411,
+    "distance_m": 2984
+  }
+]

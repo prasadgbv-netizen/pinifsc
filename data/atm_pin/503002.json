@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SBI",
+    "operator": "SBI",
+    "lat": 18.6826901,
+    "lon": 78.1120806,
+    "distance_m": 497
+  },
+  {
+    "name": "SBI Bank",
+    "operator": "SBI Bank",
+    "lat": 18.6762228,
+    "lon": 78.1069799,
+    "distance_m": 752
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "",
+    "lat": 18.6720837,
+    "lon": 78.1059469,
+    "distance_m": 1220
+  },
+  {
+    "name": "SBH",
+    "operator": "",
+    "lat": 18.6709746,
+    "lon": 78.1056089,
+    "distance_m": 1347
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 18.6698717,
+    "lon": 78.1050269,
+    "distance_m": 1478
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.6641513,
+    "lon": 78.1091005,
+    "distance_m": 2101
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.6640174,
+    "lon": 78.109116,
+    "distance_m": 2116
+  }
+]

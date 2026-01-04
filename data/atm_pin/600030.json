@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0694814,
+    "lon": 80.2245196,
+    "distance_m": 525
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0693582,
+    "lon": 80.2240501,
+    "distance_m": 565
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.0692506,
+    "lon": 80.2242033,
+    "distance_m": 565
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0705151,
+    "lon": 80.2315148,
+    "distance_m": 567
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 13.0789991,
+    "lon": 80.2373607,
+    "distance_m": 1263
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0699549,
+    "lon": 80.2419714,
+    "distance_m": 1644
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0676022,
+    "lon": 80.2090043,
+    "distance_m": 2074
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 13.0871248,
+    "lon": 80.2129835,
+    "distance_m": 2167
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0616283,
+    "lon": 80.2438028,
+    "distance_m": 2224
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 13.0616316,
+    "lon": 80.2442655,
+    "distance_m": 2265
+  }
+]

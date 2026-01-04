@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 26.9236388,
+    "lon": 75.8267581,
+    "distance_m": 109
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.9249215,
+    "lon": 75.8261454,
+    "distance_m": 165
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.923939,
+    "lon": 75.8230288,
+    "distance_m": 266
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.9273883,
+    "lon": 75.8281836,
+    "distance_m": 499
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.9158472,
+    "lon": 75.8222237,
+    "distance_m": 916
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 26.9167178,
+    "lon": 75.8162338,
+    "distance_m": 1201
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.9321254,
+    "lon": 75.8177146,
+    "distance_m": 1241
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 26.9322611,
+    "lon": 75.8168737,
+    "distance_m": 1307
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 26.9165159,
+    "lon": 75.8093164,
+    "distance_m": 1797
+  },
+  {
+    "name": "ATM SBI",
+    "operator": "ATM SBI , JAIPUR",
+    "lat": 26.9194616,
+    "lon": 75.8438027,
+    "distance_m": 1853
+  }
+]

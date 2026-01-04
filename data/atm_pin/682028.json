@@ -1,0 +1,72 @@
+[
+  {
+    "name": "South Indian Bank ATM",
+    "operator": "",
+    "lat": 10.0054653,
+    "lon": 76.314117,
+    "distance_m": 1118
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9903793,
+    "lon": 76.309784,
+    "distance_m": 1221
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 9.9801685,
+    "lon": 76.3135695,
+    "distance_m": 1921
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9986061,
+    "lon": 76.3010486,
+    "distance_m": 1975
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.9999712,
+    "lon": 76.2981587,
+    "distance_m": 2309
+  },
+  {
+    "name": "SBI CDM",
+    "operator": "",
+    "lat": 9.999235,
+    "lon": 76.2977063,
+    "distance_m": 2346
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.9738043,
+    "lon": 76.3099311,
+    "distance_m": 2722
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.9869091,
+    "lon": 76.2961274,
+    "distance_m": 2724
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9732696,
+    "lon": 76.3081347,
+    "distance_m": 2853
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank ATM",
+    "lat": 10.0191699,
+    "lon": 76.3049768,
+    "distance_m": 2939
+  }
+]

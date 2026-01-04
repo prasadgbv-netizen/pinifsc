@@ -1,0 +1,51 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.1750679,
+    "lon": 76.6301892,
+    "distance_m": 715
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 9.1756311,
+    "lon": 76.6145912,
+    "distance_m": 1006
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.1744589,
+    "lon": 76.6117237,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.1747972,
+    "lon": 76.6110188,
+    "distance_m": 1391
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.1705737,
+    "lon": 76.6086506,
+    "distance_m": 1708
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.1749934,
+    "lon": 76.6396372,
+    "distance_m": 1750
+  },
+  {
+    "name": "ATM",
+    "operator": "Coperation Bank",
+    "lat": 9.1709346,
+    "lon": 76.6003527,
+    "distance_m": 2593
+  }
+]

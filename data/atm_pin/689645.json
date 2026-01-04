@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK ATM",
+    "lat": 9.265077,
+    "lon": 76.7903996,
+    "distance_m": 356
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.267337,
+    "lon": 76.7907028,
+    "distance_m": 509
+  },
+  {
+    "name": "ATM",
+    "operator": "south indian bank ATM",
+    "lat": 9.2674296,
+    "lon": 76.7906615,
+    "distance_m": 512
+  },
+  {
+    "name": "kOTAK ATM",
+    "operator": "",
+    "lat": 9.2697245,
+    "lon": 76.7900096,
+    "distance_m": 677
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.2719625,
+    "lon": 76.7920702,
+    "distance_m": 1004
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.2719765,
+    "lon": 76.7921181,
+    "distance_m": 1009
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank of india atm",
+    "lat": 9.2664375,
+    "lon": 76.7773909,
+    "distance_m": 1108
+  },
+  {
+    "name": "ATM",
+    "operator": "fedral bank atm",
+    "lat": 9.2665249,
+    "lon": 76.7771601,
+    "distance_m": 1135
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "J&k bank",
+    "operator": "",
+    "lat": 34.038352,
+    "lon": 74.7896321,
+    "distance_m": 239
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0368587,
+    "lon": 74.7933958,
+    "distance_m": 581
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0327917,
+    "lon": 74.7827922,
+    "distance_m": 675
+  },
+  {
+    "name": "Sbi Bank and Atm",
+    "operator": "",
+    "lat": 34.0310845,
+    "lon": 74.7811196,
+    "distance_m": 920
+  },
+  {
+    "name": "J&ak Bank Atm",
+    "operator": "",
+    "lat": 34.0490062,
+    "lon": 74.7876723,
+    "distance_m": 1261
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0359898,
+    "lon": 74.8009451,
+    "distance_m": 1283
+  },
+  {
+    "name": "Yes Bank Atm",
+    "operator": "",
+    "lat": 34.030584,
+    "lon": 74.7990945,
+    "distance_m": 1352
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0275729,
+    "lon": 74.7773848,
+    "distance_m": 1439
+  },
+  {
+    "name": "Sbi Bank Atm",
+    "operator": "",
+    "lat": 34.0226134,
+    "lon": 74.7983444,
+    "distance_m": 1965
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0276333,
+    "lon": 74.8087774,
+    "distance_m": 2282
+  }
+]

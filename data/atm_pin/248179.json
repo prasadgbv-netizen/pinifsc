@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.4560353,
+    "lon": 78.0776213,
+    "distance_m": 47
+  },
+  {
+    "name": "ATM",
+    "operator": "Baroda",
+    "lat": 30.4558298,
+    "lon": 78.0782397,
+    "distance_m": 107
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.4553166,
+    "lon": 78.0794018,
+    "distance_m": 232
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.4560255,
+    "lon": 78.080515,
+    "distance_m": 309
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.4519128,
+    "lon": 78.078981,
+    "distance_m": 520
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.4543686,
+    "lon": 78.0856978,
+    "distance_m": 834
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 30.4672287,
+    "lon": 78.057138,
+    "distance_m": 2279
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 30.4683171,
+    "lon": 78.0548215,
+    "distance_m": 2532
+  }
+]

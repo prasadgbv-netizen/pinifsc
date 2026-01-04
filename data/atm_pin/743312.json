@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 22.5498892,
+    "lon": 88.4013624,
+    "distance_m": 2103
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 22.5130031,
+    "lon": 88.4052192,
+    "distance_m": 2606
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.5130006,
+    "lon": 88.4052502,
+    "distance_m": 2606
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB ATM",
+    "lat": 22.510449,
+    "lon": 88.4155779,
+    "distance_m": 2734
+  }
+]

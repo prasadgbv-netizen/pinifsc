@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2718176,
+    "lon": 85.8334103,
+    "distance_m": 79
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 20.2693113,
+    "lon": 85.8335387,
+    "distance_m": 336
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2739665,
+    "lon": 85.8299603,
+    "distance_m": 457
+  },
+  {
+    "name": "SBI ecorner",
+    "operator": "",
+    "lat": 20.2686083,
+    "lon": 85.8309993,
+    "distance_m": 514
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2749056,
+    "lon": 85.8264319,
+    "distance_m": 837
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 20.2638782,
+    "lon": 85.8345614,
+    "distance_m": 939
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2638377,
+    "lon": 85.8345268,
+    "distance_m": 943
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2668683,
+    "lon": 85.8434709,
+    "distance_m": 1160
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 20.2668902,
+    "lon": 85.8434931,
+    "distance_m": 1161
+  },
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 20.2669154,
+    "lon": 85.8435133,
+    "distance_m": 1161
+  }
+]

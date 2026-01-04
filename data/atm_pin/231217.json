@@ -1,0 +1,23 @@
+[
+  {
+    "name": "UCO Bank",
+    "operator": "",
+    "lat": 24.2146803,
+    "lon": 83.0354191,
+    "distance_m": 46
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 24.2145459,
+    "lon": 83.0357319,
+    "distance_m": 52
+  },
+  {
+    "name": "S.B.I.",
+    "operator": "",
+    "lat": 24.2155172,
+    "lon": 83.0352012,
+    "distance_m": 138
+  }
+]

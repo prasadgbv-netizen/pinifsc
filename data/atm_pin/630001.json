@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0733373,
+    "lon": 78.7743217,
+    "distance_m": 1925
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.055415,
+    "lon": 78.7834111,
+    "distance_m": 1971
+  },
+  {
+    "name": "Lakshmi Vilas Bank",
+    "operator": "",
+    "lat": 10.0732771,
+    "lon": 78.7754578,
+    "distance_m": 1984
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.0734519,
+    "lon": 78.7773993,
+    "distance_m": 2122
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0724201,
+    "lon": 78.781414,
+    "distance_m": 2335
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 10.0769658,
+    "lon": 78.775705,
+    "distance_m": 2352
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0752225,
+    "lon": 78.7794365,
+    "distance_m": 2414
+  },
+  {
+    "name": "State bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0734639,
+    "lon": 78.7822283,
+    "distance_m": 2479
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.0738774,
+    "lon": 78.7821989,
+    "distance_m": 2509
+  },
+  {
+    "name": "Hitachi ATM",
+    "operator": "",
+    "lat": 10.0631252,
+    "lon": 78.7881368,
+    "distance_m": 2521
+  }
+]

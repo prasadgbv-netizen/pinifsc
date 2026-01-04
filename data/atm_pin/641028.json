@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9980044,
+    "lon": 76.9872444,
+    "distance_m": 611
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9968852,
+    "lon": 76.9961928,
+    "distance_m": 724
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 10.9972143,
+    "lon": 76.9963609,
+    "distance_m": 759
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.998095,
+    "lon": 76.9834532,
+    "distance_m": 921
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 10.9969419,
+    "lon": 77.0004901,
+    "distance_m": 1154
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.9969355,
+    "lon": 77.0007315,
+    "distance_m": 1179
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 10.9969185,
+    "lon": 77.0010333,
+    "distance_m": 1209
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0040617,
+    "lon": 76.9834681,
+    "distance_m": 1400
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 10.9958373,
+    "lon": 76.9778587,
+    "distance_m": 1403
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 11.0068704,
+    "lon": 76.9850759,
+    "distance_m": 1597
+  }
+]

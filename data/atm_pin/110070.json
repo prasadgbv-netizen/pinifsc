@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 28.5332679,
+    "lon": 77.1519572,
+    "distance_m": 1487
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5143994,
+    "lon": 77.1649101,
+    "distance_m": 1584
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5142595,
+    "lon": 77.1650138,
+    "distance_m": 1599
+  },
+  {
+    "name": "Kotak",
+    "operator": "",
+    "lat": 28.5366824,
+    "lon": 77.1480219,
+    "distance_m": 1865
+  },
+  {
+    "name": "AXIS Bank",
+    "operator": "Axis Bank",
+    "lat": 28.5101062,
+    "lon": 77.1682153,
+    "distance_m": 2092
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5099957,
+    "lon": 77.1682199,
+    "distance_m": 2099
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 28.5098513,
+    "lon": 77.1682149,
+    "distance_m": 2107
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 28.5423944,
+    "lon": 77.1468543,
+    "distance_m": 2509
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.5229963,
+    "lon": 77.1788526,
+    "distance_m": 2838
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5069627,
+    "lon": 77.1752674,
+    "distance_m": 2862
+  }
+]

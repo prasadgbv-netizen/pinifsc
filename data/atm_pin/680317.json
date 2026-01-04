@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.4261665,
+    "lon": 76.3185276,
+    "distance_m": 2932
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi",
+    "lat": 10.423344,
+    "lon": 76.3327923,
+    "distance_m": 2979
+  }
+]

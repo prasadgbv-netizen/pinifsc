@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 32.2530844,
+    "lon": 77.1798395,
+    "distance_m": 1724
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 32.2532264,
+    "lon": 77.1799267,
+    "distance_m": 1741
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 32.2415771,
+    "lon": 77.1887529,
+    "distance_m": 1772
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 32.2490192,
+    "lon": 77.1861474,
+    "distance_m": 1819
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 32.2437879,
+    "lon": 77.189446,
+    "distance_m": 1876
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 32.2441741,
+    "lon": 77.1894318,
+    "distance_m": 1885
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 32.2440654,
+    "lon": 77.1897104,
+    "distance_m": 1908
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 32.2462507,
+    "lon": 77.1892445,
+    "distance_m": 1938
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 32.2452675,
+    "lon": 77.1897761,
+    "distance_m": 1949
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 32.245374,
+    "lon": 77.1898329,
+    "distance_m": 1958
+  }
+]

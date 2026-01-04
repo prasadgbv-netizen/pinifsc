@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0579566,
+    "lon": 80.2782183,
+    "distance_m": 469
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.052885,
+    "lon": 80.2695057,
+    "distance_m": 819
+  },
+  {
+    "name": "ATM",
+    "operator": "bank of boroda",
+    "lat": 13.0614042,
+    "lon": 80.2757315,
+    "distance_m": 845
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 13.0661682,
+    "lon": 80.2738187,
+    "distance_m": 1407
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0666645,
+    "lon": 80.2737043,
+    "distance_m": 1463
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 13.044745,
+    "lon": 80.2669641,
+    "distance_m": 1489
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0670638,
+    "lon": 80.2729873,
+    "distance_m": 1526
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0671125,
+    "lon": 80.2730667,
+    "distance_m": 1529
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.0667051,
+    "lon": 80.2701198,
+    "distance_m": 1607
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 13.067372,
+    "lon": 80.2707209,
+    "distance_m": 1645
+  }
+]

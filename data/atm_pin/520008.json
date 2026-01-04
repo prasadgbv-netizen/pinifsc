@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 16.5154239,
+    "lon": 80.6698273,
+    "distance_m": 878
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5018589,
+    "lon": 80.6741433,
+    "distance_m": 1118
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 16.5003737,
+    "lon": 80.673442,
+    "distance_m": 1181
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 16.5163615,
+    "lon": 80.6764759,
+    "distance_m": 1416
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 16.4976782,
+    "lon": 80.6575861,
+    "distance_m": 1497
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC ATM",
+    "lat": 16.5229193,
+    "lon": 80.6632192,
+    "distance_m": 1648
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Atm",
+    "lat": 16.5233177,
+    "lon": 80.6668486,
+    "distance_m": 1664
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 16.4932864,
+    "lon": 80.665367,
+    "distance_m": 1678
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 16.5063258,
+    "lon": 80.6487332,
+    "distance_m": 1869
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 16.5040163,
+    "lon": 80.6481698,
+    "distance_m": 1975
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.783257,
+    "lon": 76.728067,
+    "distance_m": 1660
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.7686172,
+    "lon": 76.7250508,
+    "distance_m": 2249
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.7601646,
+    "lon": 76.7257391,
+    "distance_m": 2801
+  }
+]

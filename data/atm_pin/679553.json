@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.8439319,
+    "lon": 76.0317488,
+    "distance_m": 2725
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.8440196,
+    "lon": 76.0317692,
+    "distance_m": 2729
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 10.8422136,
+    "lon": 76.0300244,
+    "distance_m": 2788
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.8431098,
+    "lon": 76.0302218,
+    "distance_m": 2818
+  }
+]

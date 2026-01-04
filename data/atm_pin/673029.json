@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 11.2336524,
+    "lon": 75.8031331,
+    "distance_m": 602
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.2365343,
+    "lon": 75.8040784,
+    "distance_m": 933
+  },
+  {
+    "name": "ATM",
+    "operator": "vijaya bank",
+    "lat": 11.2366559,
+    "lon": 75.8034971,
+    "distance_m": 938
+  },
+  {
+    "name": "ATM",
+    "operator": "atm",
+    "lat": 11.2383664,
+    "lon": 75.8048468,
+    "distance_m": 1148
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2269185,
+    "lon": 75.7913018,
+    "distance_m": 1255
+  },
+  {
+    "name": "ATM",
+    "operator": "Kozhikode District Co-operative Bank",
+    "lat": 11.2311847,
+    "lon": 75.8170493,
+    "distance_m": 1595
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank ATM",
+    "lat": 11.2360107,
+    "lon": 75.7889379,
+    "distance_m": 1734
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2479182,
+    "lon": 75.7990347,
+    "distance_m": 2224
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.2425332,
+    "lon": 75.7852529,
+    "distance_m": 2481
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.2433762,
+    "lon": 75.7853776,
+    "distance_m": 2532
+  }
+]

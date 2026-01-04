@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 22.5818472,
+    "lon": 88.4564957,
+    "distance_m": 1701
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 22.5857276,
+    "lon": 88.489493,
+    "distance_m": 2109
+  },
+  {
+    "name": "Citibank ATM",
+    "operator": "Citibank",
+    "lat": 22.5819942,
+    "lon": 88.4497509,
+    "distance_m": 2361
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.5615154,
+    "lon": 88.4899712,
+    "distance_m": 2465
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 22.5604425,
+    "lon": 88.4935359,
+    "distance_m": 2823
+  }
+]

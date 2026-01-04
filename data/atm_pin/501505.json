@@ -1,0 +1,65 @@
+[
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.3283971,
+    "lon": 78.5998203,
+    "distance_m": 717
+  },
+  {
+    "name": "AXIS",
+    "operator": "",
+    "lat": 17.3284458,
+    "lon": 78.5996995,
+    "distance_m": 730
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 17.3285711,
+    "lon": 78.5994206,
+    "distance_m": 762
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 17.3298207,
+    "lon": 78.5954456,
+    "distance_m": 1203
+  },
+  {
+    "name": "HDFC",
+    "operator": "HDFC",
+    "lat": 17.3303532,
+    "lon": 78.5940267,
+    "distance_m": 1363
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 17.3320559,
+    "lon": 78.5890402,
+    "distance_m": 1923
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3292601,
+    "lon": 78.5814773,
+    "distance_m": 2663
+  },
+  {
+    "name": "e seva",
+    "operator": "",
+    "lat": 17.329647,
+    "lon": 78.5794023,
+    "distance_m": 2886
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.336319,
+    "lon": 78.5798029,
+    "distance_m": 3001
+  }
+]

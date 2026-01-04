@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.7162813,
+    "lon": 77.1737463,
+    "distance_m": 400
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.7172861,
+    "lon": 77.1704775,
+    "distance_m": 581
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.7186994,
+    "lon": 77.1725939,
+    "distance_m": 671
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.7191,
+    "lon": 77.1734661,
+    "distance_m": 712
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 28.7194818,
+    "lon": 77.1747062,
+    "distance_m": 766
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.7192948,
+    "lon": 77.1785294,
+    "distance_m": 891
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.7200473,
+    "lon": 77.1678278,
+    "distance_m": 978
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 28.7204949,
+    "lon": 77.1682732,
+    "distance_m": 997
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 28.7218532,
+    "lon": 77.1727146,
+    "distance_m": 1020
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank Limited",
+    "lat": 28.7117643,
+    "lon": 77.1624115,
+    "distance_m": 1070
+  }
+]

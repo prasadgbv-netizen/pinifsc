@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bank of India ATM",
+    "operator": "",
+    "lat": 27.0082143,
+    "lon": 88.2556902,
+    "distance_m": 2695
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 27.0083955,
+    "lon": 88.2530927,
+    "distance_m": 2879
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.0084488,
+    "lon": 88.2526686,
+    "distance_m": 2912
+  }
+]

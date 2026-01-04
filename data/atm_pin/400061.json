@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Karnataka Bank Ltd",
+    "operator": "Karnataka Bank",
+    "lat": 19.127488,
+    "lon": 72.8311548,
+    "distance_m": 180
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 19.1273029,
+    "lon": 72.8311701,
+    "distance_m": 190
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.1282932,
+    "lon": 72.8302562,
+    "distance_m": 248
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.128596,
+    "lon": 72.8298007,
+    "distance_m": 298
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.1317228,
+    "lon": 72.8350702,
+    "distance_m": 456
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.1286365,
+    "lon": 72.8280859,
+    "distance_m": 478
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.1286407,
+    "lon": 72.8280275,
+    "distance_m": 484
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.1289339,
+    "lon": 72.8263113,
+    "distance_m": 666
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 19.1287161,
+    "lon": 72.8254565,
+    "distance_m": 754
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.1312769,
+    "lon": 72.8258743,
+    "distance_m": 781
+  }
+]

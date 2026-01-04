@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SVC Bank",
+    "lat": 19.1718562,
+    "lon": 72.9524688,
+    "distance_m": 506
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1718562,
+    "lon": 72.958413,
+    "distance_m": 727
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.1701529,
+    "lon": 72.9557259,
+    "distance_m": 730
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1943885,
+    "lon": 72.9631705,
+    "distance_m": 2256
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.1625269,
+    "lon": 72.9372328,
+    "distance_m": 2286
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1869713,
+    "lon": 72.9765239,
+    "distance_m": 2704
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1870405,
+    "lon": 72.9768319,
+    "distance_m": 2737
+  }
+]

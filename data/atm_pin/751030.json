@@ -1,0 +1,37 @@
+[
+  {
+    "name": "AXIS",
+    "operator": "AXIS Bank",
+    "lat": 20.2608788,
+    "lon": 85.7864747,
+    "distance_m": 495
+  },
+  {
+    "name": "Canara",
+    "operator": "Canara Bank",
+    "lat": 20.2607505,
+    "lon": 85.7870085,
+    "distance_m": 552
+  },
+  {
+    "name": "Allahabad Bank",
+    "operator": "Allahabad Bank",
+    "lat": 20.2605057,
+    "lon": 85.787296,
+    "distance_m": 589
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2723498,
+    "lon": 85.783873,
+    "distance_m": 1114
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 20.2722668,
+    "lon": 85.7783692,
+    "distance_m": 1154
+  }
+]

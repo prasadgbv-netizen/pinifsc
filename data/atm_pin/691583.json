@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICI ATM",
+    "lat": 9.0018835,
+    "lon": 76.5351186,
+    "distance_m": 599
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.0018782,
+    "lon": 76.5351656,
+    "distance_m": 604
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.9907778,
+    "lon": 76.5332897,
+    "distance_m": 1087
+  },
+  {
+    "name": "ATM",
+    "operator": "Muthoot ATM",
+    "lat": 8.9896939,
+    "lon": 76.5336876,
+    "distance_m": 1215
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.0011373,
+    "lon": 76.5478467,
+    "distance_m": 1964
+  },
+  {
+    "name": "FED ATM",
+    "operator": "Federal Bank",
+    "lat": 8.979675,
+    "lon": 76.5343946,
+    "distance_m": 2311
+  },
+  {
+    "name": "UBI ATM",
+    "operator": "Union Bank",
+    "lat": 8.9796938,
+    "lon": 76.5378687,
+    "distance_m": 2417
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank Of India",
+    "lat": 8.9755345,
+    "lon": 76.5355545,
+    "distance_m": 2788
+  }
+]

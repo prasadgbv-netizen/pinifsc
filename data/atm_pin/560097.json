@@ -1,0 +1,72 @@
+[
+  {
+    "name": "DCB Bank",
+    "operator": "",
+    "lat": 13.0782069,
+    "lon": 77.558981,
+    "distance_m": 142
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0813561,
+    "lon": 77.5597829,
+    "distance_m": 222
+  },
+  {
+    "name": "ING Bank",
+    "operator": "",
+    "lat": 13.0754182,
+    "lon": 77.5577982,
+    "distance_m": 477
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0841934,
+    "lon": 77.5604445,
+    "distance_m": 545
+  },
+  {
+    "name": "Indus Ind Bank ATM",
+    "operator": "IndusInd Bank",
+    "lat": 13.0725169,
+    "lon": 77.5564198,
+    "distance_m": 833
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0727682,
+    "lon": 77.5663519,
+    "distance_m": 1040
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 13.0706738,
+    "lon": 77.555777,
+    "distance_m": 1049
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 13.0692445,
+    "lon": 77.562181,
+    "distance_m": 1161
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 13.0692521,
+    "lon": 77.5622181,
+    "distance_m": 1161
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 13.0692615,
+    "lon": 77.5622483,
+    "distance_m": 1161
+  }
+]

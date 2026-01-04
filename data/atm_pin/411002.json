@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.5058846,
+    "lon": 73.8626294,
+    "distance_m": 571
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5058286,
+    "lon": 73.8626419,
+    "distance_m": 576
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5042539,
+    "lon": 73.8548358,
+    "distance_m": 612
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5130875,
+    "lon": 73.8625171,
+    "distance_m": 664
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5137742,
+    "lon": 73.8617339,
+    "distance_m": 672
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5070206,
+    "lon": 73.8513139,
+    "distance_m": 746
+  },
+  {
+    "name": "Cosmos Bank",
+    "operator": "Cosmos Bank",
+    "lat": 18.5143782,
+    "lon": 73.8524432,
+    "distance_m": 865
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.508265,
+    "lon": 73.8498951,
+    "distance_m": 871
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 18.5084927,
+    "lon": 73.8496085,
+    "distance_m": 900
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5157857,
+    "lon": 73.8538483,
+    "distance_m": 901
+  }
+]

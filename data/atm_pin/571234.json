@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.4563749,
+    "lon": 75.9617043,
+    "distance_m": 1116
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.456715,
+    "lon": 75.960114,
+    "distance_m": 1136
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 12.455615,
+    "lon": 75.9629094,
+    "distance_m": 1175
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.455692,
+    "lon": 75.961796,
+    "distance_m": 1188
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 12.4508197,
+    "lon": 75.9683025,
+    "distance_m": 1757
+  }
+]

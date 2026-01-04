@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hitachi ATM",
+    "operator": "",
+    "lat": 10.0631252,
+    "lon": 78.7881368,
+    "distance_m": 2358
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.055415,
+    "lon": 78.7834111,
+    "distance_m": 2737
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0728782,
+    "lon": 78.7899647,
+    "distance_m": 2761
+  }
+]

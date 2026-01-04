@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SBI atm near bjp office",
+    "operator": "State Bank of India",
+    "lat": 24.5429198,
+    "lon": 81.2774609,
+    "distance_m": 1841
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 24.5426374,
+    "lon": 81.2768506,
+    "distance_m": 1885
+  },
+  {
+    "name": "Sbi atm",
+    "operator": "State Bank of India",
+    "lat": 24.5430235,
+    "lon": 81.2731176,
+    "distance_m": 2251
+  },
+  {
+    "name": "SBI atm",
+    "operator": "State Bank of India",
+    "lat": 24.5430387,
+    "lon": 81.2728503,
+    "distance_m": 2277
+  },
+  {
+    "name": "SBI atm",
+    "operator": "State Bank of India",
+    "lat": 24.545818,
+    "lon": 81.2741329,
+    "distance_m": 2287
+  },
+  {
+    "name": "IDBI Bank Atm",
+    "operator": "IDBI Bank",
+    "lat": 24.5530244,
+    "lon": 81.2768427,
+    "distance_m": 2570
+  }
+]

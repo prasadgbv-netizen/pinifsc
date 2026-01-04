@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.4504153,
+    "lon": 73.8578368,
+    "distance_m": 554
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 18.4611908,
+    "lon": 73.8578931,
+    "distance_m": 1707
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.4709976,
+    "lon": 73.8638845,
+    "distance_m": 2805
+  },
+  {
+    "name": "ATM",
+    "operator": "Ramrajya Sahakari Bank",
+    "lat": 18.471522,
+    "lon": 73.8637956,
+    "distance_m": 2862
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Atm3",
+    "operator": "",
+    "lat": 24.5918724,
+    "lon": 73.6981856,
+    "distance_m": 640
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 24.5866613,
+    "lon": 73.6955172,
+    "distance_m": 655
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 24.5862268,
+    "lon": 73.6962475,
+    "distance_m": 737
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 24.5850226,
+    "lon": 73.6960678,
+    "distance_m": 839
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 24.5824599,
+    "lon": 73.6855919,
+    "distance_m": 1191
+  },
+  {
+    "name": "Hdfc atm",
+    "operator": "",
+    "lat": 24.6026605,
+    "lon": 73.6868471,
+    "distance_m": 1337
+  },
+  {
+    "name": "Adarsh Coop ATM",
+    "operator": "",
+    "lat": 24.5787788,
+    "lon": 73.6970671,
+    "distance_m": 1512
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "",
+    "lat": 24.5801454,
+    "lon": 73.6830917,
+    "distance_m": 1545
+  },
+  {
+    "name": "ATM",
+    "operator": "induslnd bank",
+    "lat": 24.5802319,
+    "lon": 73.6828105,
+    "distance_m": 1554
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 24.5771776,
+    "lon": 73.6917658,
+    "distance_m": 1595
+  }
+]

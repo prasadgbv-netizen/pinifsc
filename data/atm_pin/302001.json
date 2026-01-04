@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India Post ATM",
+    "lat": 26.9139188,
+    "lon": 75.799137,
+    "distance_m": 52
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9146995,
+    "lon": 75.7996987,
+    "distance_m": 80
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank ATM",
+    "lat": 26.9147271,
+    "lon": 75.7997268,
+    "distance_m": 84
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 26.9173574,
+    "lon": 75.7994798,
+    "distance_m": 376
+  },
+  {
+    "name": "Indian State Bank",
+    "operator": "",
+    "lat": 26.9177877,
+    "lon": 75.7998401,
+    "distance_m": 424
+  },
+  {
+    "name": "Icici Bank",
+    "operator": "ICICI Bank",
+    "lat": 26.9181265,
+    "lon": 75.7996745,
+    "distance_m": 461
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 26.9183265,
+    "lon": 75.7995141,
+    "distance_m": 484
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 26.91869,
+    "lon": 75.7985653,
+    "distance_m": 535
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 26.9194143,
+    "lon": 75.7986345,
+    "distance_m": 613
+  },
+  {
+    "name": "Catholic Syrian Bank",
+    "operator": "CSB Bank",
+    "lat": 26.9195736,
+    "lon": 75.7986796,
+    "distance_m": 630
+  }
+]

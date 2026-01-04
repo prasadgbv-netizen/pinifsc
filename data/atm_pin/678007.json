@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.7736828,
+    "lon": 76.6560208,
+    "distance_m": 85
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.7730352,
+    "lon": 76.6528022,
+    "distance_m": 411
+  },
+  {
+    "name": "Sbi atm",
+    "operator": "",
+    "lat": 10.7695778,
+    "lon": 76.6565773,
+    "distance_m": 537
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of Baroda",
+    "lat": 10.7695057,
+    "lon": 76.6561365,
+    "distance_m": 544
+  },
+  {
+    "name": "HDFC Atm",
+    "operator": "",
+    "lat": 10.7694753,
+    "lon": 76.6566355,
+    "distance_m": 548
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.7682313,
+    "lon": 76.6567059,
+    "distance_m": 687
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 10.7681787,
+    "lon": 76.6579915,
+    "distance_m": 716
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State bank Of Inida",
+    "lat": 10.781194,
+    "lon": 76.6539979,
+    "distance_m": 796
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.7691921,
+    "lon": 76.6507292,
+    "distance_m": 840
+  },
+  {
+    "name": "Palakkad Urban Cooperative Bank",
+    "operator": "",
+    "lat": 10.7669296,
+    "lon": 76.6603598,
+    "distance_m": 941
+  }
+]

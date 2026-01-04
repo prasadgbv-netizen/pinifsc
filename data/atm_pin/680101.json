@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Union bank of India",
+    "operator": "",
+    "lat": 10.5945806,
+    "lon": 76.0428617,
+    "distance_m": 292
+  },
+  {
+    "name": "Vijaya bank",
+    "operator": "",
+    "lat": 10.5945767,
+    "lon": 76.0429012,
+    "distance_m": 296
+  },
+  {
+    "name": "City Union Bank",
+    "operator": "",
+    "lat": 10.5923452,
+    "lon": 76.038004,
+    "distance_m": 302
+  },
+  {
+    "name": "Catholic Syrian bank",
+    "operator": "",
+    "lat": 10.594747,
+    "lon": 76.0429687,
+    "distance_m": 308
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.595296,
+    "lon": 76.0372224,
+    "distance_m": 368
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 10.5947086,
+    "lon": 76.0361679,
+    "distance_m": 458
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.5946906,
+    "lon": 76.0460852,
+    "distance_m": 640
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5987407,
+    "lon": 76.0355949,
+    "distance_m": 743
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 10.6056809,
+    "lon": 76.0371338,
+    "distance_m": 1354
+  },
+  {
+    "name": "federal bank atm",
+    "operator": "",
+    "lat": 10.6007275,
+    "lon": 76.059539,
+    "distance_m": 2237
+  }
+]

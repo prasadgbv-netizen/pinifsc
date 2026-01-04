@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 11.0255875,
+    "lon": 77.1252505,
+    "distance_m": 2289
+  },
+  {
+    "name": "ATM",
+    "operator": "iob",
+    "lat": 11.025615,
+    "lon": 77.1253529,
+    "distance_m": 2292
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.0221862,
+    "lon": 77.1029925,
+    "distance_m": 2592
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 9.941263,
+    "lon": 76.374667,
+    "distance_m": 190
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 9.9443325,
+    "lon": 76.3728765,
+    "distance_m": 206
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9445189,
+    "lon": 76.3723735,
+    "distance_m": 258
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.944931,
+    "lon": 76.3723134,
+    "distance_m": 297
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank ATM",
+    "lat": 9.9517688,
+    "lon": 76.3618975,
+    "distance_m": 1657
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 9.9517703,
+    "lon": 76.3616457,
+    "distance_m": 1679
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 9.9517549,
+    "lon": 76.3613396,
+    "distance_m": 1705
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.9270931,
+    "lon": 76.3733629,
+    "distance_m": 1754
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 9.9269327,
+    "lon": 76.374456,
+    "distance_m": 1771
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 9.9517819,
+    "lon": 76.358805,
+    "distance_m": 1940
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Yes Bank ATM",
+    "operator": "Yes Bank",
+    "lat": 19.1938396,
+    "lon": 72.8393922,
+    "distance_m": 1097
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.1782548,
+    "lon": 72.8558799,
+    "distance_m": 1362
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.1721325,
+    "lon": 72.8506143,
+    "distance_m": 1637
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "",
+    "lat": 19.1844539,
+    "lon": 72.829998,
+    "distance_m": 1691
+  },
+  {
+    "name": "RBL Bank ATM",
+    "operator": "RBL Bank",
+    "lat": 19.2019651,
+    "lon": 72.8439367,
+    "distance_m": 1766
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.1704053,
+    "lon": 72.8497042,
+    "distance_m": 1798
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.2034364,
+    "lon": 72.8385136,
+    "distance_m": 2072
+  },
+  {
+    "name": "ATM",
+    "operator": "axis",
+    "lat": 19.1679024,
+    "lon": 72.8417029,
+    "distance_m": 2083
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 19.204078,
+    "lon": 72.8396173,
+    "distance_m": 2098
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.2056685,
+    "lon": 72.8437792,
+    "distance_m": 2177
+  }
+]

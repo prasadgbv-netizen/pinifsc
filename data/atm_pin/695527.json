@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 8.3907436,
+    "lon": 76.9773698,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.3924731,
+    "lon": 76.977371,
+    "distance_m": 399
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 8.3935421,
+    "lon": 76.9785205,
+    "distance_m": 426
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 8.3943512,
+    "lon": 76.9791849,
+    "distance_m": 492
+  },
+  {
+    "name": "ATM",
+    "operator": "Ganara Bank",
+    "lat": 8.3976209,
+    "lon": 76.982225,
+    "distance_m": 882
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.3869895,
+    "lon": 76.9906997,
+    "distance_m": 1223
+  }
+]

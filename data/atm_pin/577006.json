@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank Of India ATM",
+    "operator": "",
+    "lat": 14.4795338,
+    "lon": 75.9070606,
+    "distance_m": 912
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 14.469566,
+    "lon": 75.917851,
+    "distance_m": 1152
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 14.4674736,
+    "lon": 75.9177526,
+    "distance_m": 1203
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 14.468034,
+    "lon": 75.9194671,
+    "distance_m": 1359
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 14.462493,
+    "lon": 75.9166924,
+    "distance_m": 1409
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 14.462802,
+    "lon": 75.918062,
+    "distance_m": 1497
+  },
+  {
+    "name": "ATM",
+    "operator": "axis bank",
+    "lat": 14.4565587,
+    "lon": 75.9070956,
+    "distance_m": 1643
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 14.4564954,
+    "lon": 75.9070072,
+    "distance_m": 1650
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 14.4681246,
+    "lon": 75.924719,
+    "distance_m": 1908
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 14.4592559,
+    "lon": 75.9199707,
+    "distance_m": 1913
+  }
+]

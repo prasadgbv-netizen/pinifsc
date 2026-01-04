@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 30.7406984,
+    "lon": 76.7976783,
+    "distance_m": 40
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.7409174,
+    "lon": 76.7976806,
+    "distance_m": 48
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7378512,
+    "lon": 76.794737,
+    "distance_m": 397
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7406662,
+    "lon": 76.7896857,
+    "distance_m": 722
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 30.7427101,
+    "lon": 76.7895584,
+    "distance_m": 768
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7407222,
+    "lon": 76.7875813,
+    "distance_m": 924
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7336609,
+    "lon": 76.8029463,
+    "distance_m": 952
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7404688,
+    "lon": 76.7863602,
+    "distance_m": 1041
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7411531,
+    "lon": 76.7858959,
+    "distance_m": 1086
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.74855,
+    "lon": 76.7902572,
+    "distance_m": 1099
+  }
+]

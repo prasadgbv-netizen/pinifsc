@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 17.3438595,
+    "lon": 78.5542071,
+    "distance_m": 78
+  },
+  {
+    "name": "ATM",
+    "operator": "BARODA ATM",
+    "lat": 17.3438412,
+    "lon": 78.5554592,
+    "distance_m": 120
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK ATM",
+    "lat": 17.345578,
+    "lon": 78.5543294,
+    "distance_m": 123
+  },
+  {
+    "name": "IOB",
+    "operator": "",
+    "lat": 17.3477115,
+    "lon": 78.5499808,
+    "distance_m": 602
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3405818,
+    "lon": 78.562031,
+    "distance_m": 905
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.3505541,
+    "lon": 78.5476915,
+    "distance_m": 992
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 17.3395566,
+    "lon": 78.5642022,
+    "distance_m": 1162
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3522003,
+    "lon": 78.546734,
+    "distance_m": 1192
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3393988,
+    "lon": 78.5657244,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.3340553,
+    "lon": 78.5692774,
+    "distance_m": 1946
+  }
+]

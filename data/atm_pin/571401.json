@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI e-corner",
+    "operator": "",
+    "lat": 12.5249469,
+    "lon": 76.8906893,
+    "distance_m": 566
+  },
+  {
+    "name": "ATM",
+    "operator": "Corp Bank",
+    "lat": 12.5271346,
+    "lon": 76.8849361,
+    "distance_m": 635
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "",
+    "lat": 12.523973,
+    "lon": 76.8887582,
+    "distance_m": 683
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "",
+    "lat": 12.5239694,
+    "lon": 76.8887671,
+    "distance_m": 683
+  },
+  {
+    "name": "Karnataka bank ATM",
+    "operator": "",
+    "lat": 12.524086,
+    "lon": 76.8871375,
+    "distance_m": 727
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "",
+    "lat": 12.5240012,
+    "lon": 76.8871262,
+    "distance_m": 736
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "",
+    "lat": 12.5239225,
+    "lon": 76.8872714,
+    "distance_m": 737
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.5241514,
+    "lon": 76.8938129,
+    "distance_m": 770
+  },
+  {
+    "name": "India 1 atm",
+    "operator": "",
+    "lat": 12.5221355,
+    "lon": 76.8950242,
+    "distance_m": 1030
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.5220412,
+    "lon": 76.8950857,
+    "distance_m": 1043
+  }
+]

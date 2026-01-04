@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "icic",
+    "lat": 28.7029327,
+    "lon": 77.0997134,
+    "distance_m": 327
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.7029518,
+    "lon": 77.0997615,
+    "distance_m": 329
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.7057871,
+    "lon": 77.1022914,
+    "distance_m": 681
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 28.6883534,
+    "lon": 77.1216542,
+    "distance_m": 2477
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.7073216,
+    "lon": 77.1262403,
+    "distance_m": 2685
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.7050206,
+    "lon": 77.1299643,
+    "distance_m": 2975
+  }
+]

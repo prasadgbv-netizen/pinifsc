@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.010885,
+    "lon": 80.2365734,
+    "distance_m": 1036
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0109295,
+    "lon": 80.2365761,
+    "distance_m": 1041
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 13.0109662,
+    "lon": 80.2365815,
+    "distance_m": 1045
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0068648,
+    "lon": 80.2410207,
+    "distance_m": 1057
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9931374,
+    "lon": 80.2341688,
+    "distance_m": 1062
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9970982,
+    "lon": 80.2413231,
+    "distance_m": 1145
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 13.0123058,
+    "lon": 80.2272635,
+    "distance_m": 1218
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0109174,
+    "lon": 80.2240652,
+    "distance_m": 1293
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.0140871,
+    "lon": 80.2366589,
+    "distance_m": 1368
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0027082,
+    "lon": 80.2472772,
+    "distance_m": 1619
+  }
+]

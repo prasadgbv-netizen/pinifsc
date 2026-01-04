@@ -1,0 +1,30 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 10.1860425,
+    "lon": 76.2454337,
+    "distance_m": 41
+  },
+  {
+    "name": "Catholic Syrin Bank",
+    "operator": "",
+    "lat": 10.1861633,
+    "lon": 76.2455033,
+    "distance_m": 50
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 10.1785397,
+    "lon": 76.2246459,
+    "distance_m": 2430
+  },
+  {
+    "name": "Bank Of India ATM",
+    "operator": "",
+    "lat": 10.1785075,
+    "lon": 76.2245803,
+    "distance_m": 2438
+  }
+]

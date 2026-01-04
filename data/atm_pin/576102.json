@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank ATM",
+    "lat": 13.3413885,
+    "lon": 74.7478315,
+    "distance_m": 1874
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.3410806,
+    "lon": 74.747945,
+    "distance_m": 1906
+  },
+  {
+    "name": "ATM",
+    "operator": "Larnataka bank",
+    "lat": 13.3404395,
+    "lon": 74.7521951,
+    "distance_m": 1985
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.339779,
+    "lon": 74.749879,
+    "distance_m": 2041
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 13.3394324,
+    "lon": 74.7495631,
+    "distance_m": 2080
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 13.3357253,
+    "lon": 74.7494277,
+    "distance_m": 2492
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 13.3352686,
+    "lon": 74.7495458,
+    "distance_m": 2543
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 13.3451622,
+    "lon": 74.7695189,
+    "distance_m": 2580
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 13.3381515,
+    "lon": 74.7367171,
+    "distance_m": 2632
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.3336238,
+    "lon": 74.7480721,
+    "distance_m": 2732
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 13.0113708,
+    "lon": 80.1538972,
+    "distance_m": 1348
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.0112163,
+    "lon": 80.15429,
+    "distance_m": 1362
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0200137,
+    "lon": 80.1407781,
+    "distance_m": 2081
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0200272,
+    "lon": 80.1406648,
+    "distance_m": 2086
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.020386,
+    "lon": 80.1300646,
+    "distance_m": 2675
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9810258,
+    "lon": 80.160883,
+    "distance_m": 2835
+  }
+]

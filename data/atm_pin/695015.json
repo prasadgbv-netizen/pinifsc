@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of Baroda ATM",
+    "operator": "Bank of Baroda",
+    "lat": 8.547807,
+    "lon": 76.921232,
+    "distance_m": 1663
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5482628,
+    "lon": 76.9201758,
+    "distance_m": 1694
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 8.5484836,
+    "lon": 76.9180048,
+    "distance_m": 1838
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.5489205,
+    "lon": 76.9159538,
+    "distance_m": 1975
+  },
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 8.5491011,
+    "lon": 76.9153714,
+    "distance_m": 2013
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 8.5492547,
+    "lon": 76.9151276,
+    "distance_m": 2025
+  },
+  {
+    "name": "ATM",
+    "operator": "axis bank",
+    "lat": 8.5493634,
+    "lon": 76.9148353,
+    "distance_m": 2044
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5429285,
+    "lon": 76.9230745,
+    "distance_m": 2045
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 8.5496626,
+    "lon": 76.9142631,
+    "distance_m": 2077
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5419391,
+    "lon": 76.9237176,
+    "distance_m": 2123
+  }
+]

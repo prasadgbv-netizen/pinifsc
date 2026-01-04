@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.4485738,
+    "lon": 77.5242098,
+    "distance_m": 652
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.4434324,
+    "lon": 77.5194022,
+    "distance_m": 1369
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 10.4465818,
+    "lon": 77.5172392,
+    "distance_m": 1446
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.4503749,
+    "lon": 77.5154618,
+    "distance_m": 1590
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanlaxmi Bank",
+    "lat": 10.4517157,
+    "lon": 77.5149762,
+    "distance_m": 1653
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post Payments Bank",
+    "lat": 10.4523775,
+    "lon": 77.515068,
+    "distance_m": 1654
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 10.4583609,
+    "lon": 77.5172313,
+    "distance_m": 1677
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.4597561,
+    "lon": 77.5180489,
+    "distance_m": 1698
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.4635821,
+    "lon": 77.5196077,
+    "distance_m": 1890
+  }
+]

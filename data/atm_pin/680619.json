@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.469101,
+    "lon": 76.0816646,
+    "distance_m": 1947
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5030058,
+    "lon": 76.06165,
+    "distance_m": 2411
+  },
+  {
+    "name": "ATM",
+    "operator": "fedral bank",
+    "lat": 10.5033387,
+    "lon": 76.0616528,
+    "distance_m": 2444
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5033488,
+    "lon": 76.0616667,
+    "distance_m": 2444
+  }
+]

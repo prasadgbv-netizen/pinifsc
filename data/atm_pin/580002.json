@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 15.435565,
+    "lon": 75.0097259,
+    "distance_m": 120
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 15.4437918,
+    "lon": 75.0127105,
+    "distance_m": 1089
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 15.4397315,
+    "lon": 75.0182688,
+    "distance_m": 1117
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 15.4411909,
+    "lon": 75.0177755,
+    "distance_m": 1167
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 15.4473098,
+    "lon": 75.0040114,
+    "distance_m": 1528
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 15.438535,
+    "lon": 74.98703,
+    "distance_m": 2431
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 15.4374488,
+    "lon": 74.9864396,
+    "distance_m": 2474
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "operator": "",
+    "lat": 15.4571816,
+    "lon": 75.0073465,
+    "distance_m": 2525
+  }
+]

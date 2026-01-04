@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.820382,
+    "lon": 78.6836973,
+    "distance_m": 295
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 10.8258675,
+    "lon": 78.6834965,
+    "distance_m": 373
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.8272881,
+    "lon": 78.6842364,
+    "distance_m": 550
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.8272853,
+    "lon": 78.6842783,
+    "distance_m": 551
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 10.8272077,
+    "lon": 78.6848932,
+    "distance_m": 573
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.8236668,
+    "lon": 78.693201,
+    "distance_m": 1188
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.8244106,
+    "lon": 78.6934344,
+    "distance_m": 1224
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.8229039,
+    "lon": 78.693764,
+    "distance_m": 1245
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.8218917,
+    "lon": 78.6940275,
+    "distance_m": 1277
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.813923,
+    "lon": 78.694184,
+    "distance_m": 1618
+  }
+]

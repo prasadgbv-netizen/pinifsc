@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.7452897,
+    "lon": 75.5255835,
+    "distance_m": 802
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7469197,
+    "lon": 75.5046721,
+    "distance_m": 1703
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.754553,
+    "lon": 75.5032805,
+    "distance_m": 1889
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7677385,
+    "lon": 75.5150621,
+    "distance_m": 2044
+  },
+  {
+    "name": "ATM",
+    "operator": "Tata Indicash",
+    "lat": 11.764528,
+    "lon": 75.5005341,
+    "distance_m": 2664
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7324912,
+    "lon": 75.5376818,
+    "distance_m": 2737
+  },
+  {
+    "name": "India 1 ATM",
+    "operator": "",
+    "lat": 11.7746034,
+    "lon": 75.5223025,
+    "distance_m": 2747
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 11.748544,
+    "lon": 75.4943082,
+    "distance_m": 2801
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7480685,
+    "lon": 75.4939501,
+    "distance_m": 2844
+  }
+]

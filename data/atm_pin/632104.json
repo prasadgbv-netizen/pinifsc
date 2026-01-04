@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9095302,
+    "lon": 79.1360203,
+    "distance_m": 800
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9102033,
+    "lon": 79.1419737,
+    "distance_m": 1232
+  }
+]

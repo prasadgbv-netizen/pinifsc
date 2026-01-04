@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0831918,
+    "lon": 80.2623002,
+    "distance_m": 796
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0812089,
+    "lon": 80.2638553,
+    "distance_m": 1067
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 13.0782216,
+    "lon": 80.2644773,
+    "distance_m": 1397
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0809411,
+    "lon": 80.2686536,
+    "distance_m": 1402
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.0744128,
+    "lon": 80.2622478,
+    "distance_m": 1735
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0744747,
+    "lon": 80.2627557,
+    "distance_m": 1739
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 13.0917506,
+    "lon": 80.275384,
+    "distance_m": 1742
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0741156,
+    "lon": 80.2619955,
+    "distance_m": 1763
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0830047,
+    "lon": 80.2743817,
+    "distance_m": 1787
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 13.0912034,
+    "lon": 80.2760158,
+    "distance_m": 1804
+  }
+]

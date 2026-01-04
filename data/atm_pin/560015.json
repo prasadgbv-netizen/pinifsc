@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0376545,
+    "lon": 77.5221145,
+    "distance_m": 978
+  },
+  {
+    "name": "ATM",
+    "operator": "Vijaya Bank",
+    "lat": 13.0371655,
+    "lon": 77.5230021,
+    "distance_m": 1031
+  },
+  {
+    "name": "ATM",
+    "operator": "AXIS Bank",
+    "lat": 13.036912,
+    "lon": 77.523438,
+    "distance_m": 1061
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 13.0376617,
+    "lon": 77.5352197,
+    "distance_m": 1670
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0335377,
+    "lon": 77.5307804,
+    "distance_m": 1680
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 13.0529124,
+    "lon": 77.5076595,
+    "distance_m": 1781
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.0346447,
+    "lon": 77.534307,
+    "distance_m": 1816
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.0604743,
+    "lon": 77.5313611,
+    "distance_m": 1821
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 13.0623983,
+    "lon": 77.5182099,
+    "distance_m": 1840
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 13.0564626,
+    "lon": 77.5068874,
+    "distance_m": 2043
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank ATM",
+    "lat": 25.6469096,
+    "lon": 85.0886802,
+    "distance_m": 948
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 25.6296312,
+    "lon": 85.1042266,
+    "distance_m": 2402
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 25.6294642,
+    "lon": 85.1044209,
+    "distance_m": 2425
+  },
+  {
+    "name": "Bandhan Bank",
+    "operator": "Bandhan Bank",
+    "lat": 25.6285532,
+    "lon": 85.1044298,
+    "distance_m": 2522
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.6286797,
+    "lon": 85.1072191,
+    "distance_m": 2602
+  }
+]

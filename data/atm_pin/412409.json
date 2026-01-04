@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "JANATA BANK ATM",
+    "lat": 19.2634824,
+    "lon": 73.9815432,
+    "distance_m": 2264
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 19.2599342,
+    "lon": 73.9818304,
+    "distance_m": 2579
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2593119,
+    "lon": 73.9780031,
+    "distance_m": 2858
+  }
+]

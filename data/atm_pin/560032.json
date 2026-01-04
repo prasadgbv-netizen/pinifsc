@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Vijaya Bank",
+    "operator": "",
+    "lat": 13.0248113,
+    "lon": 77.5934442,
+    "distance_m": 250
+  },
+  {
+    "name": "UCO Bank",
+    "operator": "UCO Bank",
+    "lat": 13.0249229,
+    "lon": 77.5928698,
+    "distance_m": 261
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 13.0249491,
+    "lon": 77.5926439,
+    "distance_m": 267
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0199268,
+    "lon": 77.5951979,
+    "distance_m": 372
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 13.0222291,
+    "lon": 77.6004298,
+    "distance_m": 794
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0232887,
+    "lon": 77.6005444,
+    "distance_m": 809
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 13.0232564,
+    "lon": 77.6006133,
+    "distance_m": 816
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 13.0255016,
+    "lon": 77.6033615,
+    "distance_m": 1157
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vaisya Bank",
+    "lat": 13.0267483,
+    "lon": 77.6041132,
+    "distance_m": 1279
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0269861,
+    "lon": 77.6041889,
+    "distance_m": 1296
+  }
+]

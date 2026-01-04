@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.7663374,
+    "lon": 79.7444464,
+    "distance_m": 2402
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.7660701,
+    "lon": 79.744962,
+    "distance_m": 2417
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7469076,
+    "lon": 79.7564557,
+    "distance_m": 2900
+  }
+]

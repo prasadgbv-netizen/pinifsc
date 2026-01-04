@@ -1,0 +1,23 @@
+[
+  {
+    "name": "India 1 Automated Teller Machine, Anakkayam",
+    "operator": "",
+    "lat": 11.0875687,
+    "lon": 76.1211121,
+    "distance_m": 1137
+  },
+  {
+    "name": "India 1 Automated Teller Machine, Irumbuzhi",
+    "operator": "",
+    "lat": 11.0767731,
+    "lon": 76.1028073,
+    "distance_m": 1608
+  },
+  {
+    "name": "Kerala Gramin Bank Automated Teller Machine, Irumbuzhi",
+    "operator": "",
+    "lat": 11.0727601,
+    "lon": 76.1004994,
+    "distance_m": 1943
+  }
+]

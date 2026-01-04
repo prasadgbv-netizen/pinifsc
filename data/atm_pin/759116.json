@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "UCO BANK",
+    "lat": 20.9259714,
+    "lon": 85.1372978,
+    "distance_m": 1613
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI BANK",
+    "lat": 20.9259431,
+    "lon": 85.1369851,
+    "distance_m": 1646
+  }
+]

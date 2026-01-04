@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HDFC ATM",
+    "operator": "",
+    "lat": 20.2699736,
+    "lon": 73.003834,
+    "distance_m": 345
+  },
+  {
+    "name": "HDFC ATM",
+    "operator": "",
+    "lat": 20.2710264,
+    "lon": 73.0061021,
+    "distance_m": 362
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 20.2708997,
+    "lon": 73.0060345,
+    "distance_m": 365
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 20.2703556,
+    "lon": 73.0064876,
+    "distance_m": 441
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2784627,
+    "lon": 73.0012682,
+    "distance_m": 641
+  }
+]

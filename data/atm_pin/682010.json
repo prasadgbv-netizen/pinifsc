@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South India Bank",
+    "lat": 9.8909918,
+    "lon": 76.3120004,
+    "distance_m": 1813
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 9.9129088,
+    "lon": 76.3166362,
+    "distance_m": 2200
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.8890888,
+    "lon": 76.3173236,
+    "distance_m": 2397
+  },
+  {
+    "name": "ATM",
+    "operator": "CANERA BANK",
+    "lat": 9.9121046,
+    "lon": 76.275428,
+    "distance_m": 2897
+  }
+]

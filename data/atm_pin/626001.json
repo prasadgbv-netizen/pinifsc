@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5831679,
+    "lon": 77.9625812,
+    "distance_m": 1491
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 9.5844387,
+    "lon": 77.9549661,
+    "distance_m": 1697
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.58468,
+    "lon": 77.9550388,
+    "distance_m": 1720
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.583958,
+    "lon": 77.9521166,
+    "distance_m": 1776
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 9.5890974,
+    "lon": 77.9537095,
+    "distance_m": 2232
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.5903924,
+    "lon": 77.9553198,
+    "distance_m": 2324
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5905986,
+    "lon": 77.9515885,
+    "distance_m": 2469
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 9.5906258,
+    "lon": 77.9515747,
+    "distance_m": 2472
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.5933663,
+    "lon": 77.953587,
+    "distance_m": 2691
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5941232,
+    "lon": 77.9575789,
+    "distance_m": 2695
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.2398276,
+    "lon": 85.8334328,
+    "distance_m": 2349
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 20.2462518,
+    "lon": 85.8324733,
+    "distance_m": 2710
+  }
+]

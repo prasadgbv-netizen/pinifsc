@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.5521701,
+    "lon": 76.9605561,
+    "distance_m": 872
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara bank ATM",
+    "lat": 8.5512021,
+    "lon": 76.9607569,
+    "distance_m": 981
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT ATM",
+    "lat": 8.5443039,
+    "lon": 76.9601138,
+    "distance_m": 1745
+  },
+  {
+    "name": "ATM",
+    "operator": "state bank of india",
+    "lat": 8.5589556,
+    "lon": 76.9781179,
+    "distance_m": 1995
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 8.5456085,
+    "lon": 76.9448174,
+    "distance_m": 2312
+  },
+  {
+    "name": "Kerala State Co-operative Bank",
+    "operator": "Kerala State Co-operative Bank",
+    "lat": 8.5389595,
+    "lon": 76.9649904,
+    "distance_m": 2403
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5399641,
+    "lon": 76.9690238,
+    "distance_m": 2438
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 8.5374307,
+    "lon": 76.9657027,
+    "distance_m": 2586
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 8.5374055,
+    "lon": 76.9658422,
+    "distance_m": 2593
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5429229,
+    "lon": 76.9418084,
+    "distance_m": 2758
+  }
+]

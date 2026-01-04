@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6624722,
+    "lon": 77.1853223,
+    "distance_m": 833
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6583791,
+    "lon": 77.2033814,
+    "distance_m": 1522
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.6520236,
+    "lon": 77.192417,
+    "distance_m": 1717
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6819038,
+    "lon": 77.19912,
+    "distance_m": 1762
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6517481,
+    "lon": 77.1942974,
+    "distance_m": 1764
+  },
+  {
+    "name": "ATM",
+    "operator": "AU Small Finance Bank",
+    "lat": 28.6821752,
+    "lon": 77.1990968,
+    "distance_m": 1788
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.6803844,
+    "lon": 77.203279,
+    "distance_m": 1828
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 28.6824683,
+    "lon": 77.2000204,
+    "distance_m": 1856
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 28.6825273,
+    "lon": 77.2000957,
+    "distance_m": 1865
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6787342,
+    "lon": 77.2066236,
+    "distance_m": 1921
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.4952485,
+    "lon": 76.3297599,
+    "distance_m": 138
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 9.4945881,
+    "lon": 76.3285797,
+    "distance_m": 269
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC ATM",
+    "lat": 9.4976565,
+    "lon": 76.3291188,
+    "distance_m": 360
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.4978393,
+    "lon": 76.3360055,
+    "distance_m": 633
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.4974356,
+    "lon": 76.3385408,
+    "distance_m": 870
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.4976818,
+    "lon": 76.3388546,
+    "distance_m": 911
+  },
+  {
+    "name": "Dhanalakshmi Bank",
+    "operator": "",
+    "lat": 9.4921951,
+    "lon": 76.338859,
+    "distance_m": 916
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.4988091,
+    "lon": 76.3387295,
+    "distance_m": 947
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 9.4900008,
+    "lon": 76.3388765,
+    "distance_m": 1027
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.4997161,
+    "lon": 76.3390702,
+    "distance_m": 1028
+  }
+]

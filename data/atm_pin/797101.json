@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.6698826,
+    "lon": 94.1084552,
+    "distance_m": 132
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO",
+    "lat": 25.6688534,
+    "lon": 94.1060497,
+    "distance_m": 263
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.6688218,
+    "lon": 94.1057469,
+    "distance_m": 284
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 25.6738634,
+    "lon": 94.1088181,
+    "distance_m": 364
+  },
+  {
+    "name": "ATM",
+    "operator": "Indus Ind",
+    "lat": 25.6738634,
+    "lon": 94.1088181,
+    "distance_m": 364
+  },
+  {
+    "name": "ATM",
+    "operator": "Vijaya",
+    "lat": 25.6738976,
+    "lon": 94.1087991,
+    "distance_m": 367
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.6789771,
+    "lon": 94.1096227,
+    "distance_m": 934
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.672403,
+    "lon": 94.1173466,
+    "distance_m": 995
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 25.6700255,
+    "lon": 94.0968678,
+    "distance_m": 1077
+  },
+  {
+    "name": "ATM",
+    "operator": "BOB",
+    "lat": 25.6694859,
+    "lon": 94.0957594,
+    "distance_m": 1193
+  }
+]

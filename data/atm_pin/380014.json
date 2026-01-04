@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 23.0388835,
+    "lon": 72.5880366,
+    "distance_m": 1971
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "SBI ATM",
+    "lat": 23.0353395,
+    "lon": 72.5429261,
+    "distance_m": 2673
+  }
+]

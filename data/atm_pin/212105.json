@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 25.3900038,
+    "lon": 81.8634397,
+    "distance_m": 1516
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 25.3769574,
+    "lon": 81.8488699,
+    "distance_m": 1835
+  },
+  {
+    "name": "ATM",
+    "operator": "Fino Payments Bank",
+    "lat": 25.4007373,
+    "lon": 81.8680654,
+    "distance_m": 2665
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.401167,
+    "lon": 81.8684867,
+    "distance_m": 2715
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 25.4016688,
+    "lon": 81.8693103,
+    "distance_m": 2776
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.4017337,
+    "lon": 81.8693735,
+    "distance_m": 2783
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 25.4020271,
+    "lon": 81.8697262,
+    "distance_m": 2819
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 25.4024009,
+    "lon": 81.8695454,
+    "distance_m": 2859
+  }
+]

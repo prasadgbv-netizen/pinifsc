@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 11.7534968,
+    "lon": 75.4925772,
+    "distance_m": 181
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "Karnataka Bank",
+    "lat": 11.751862,
+    "lon": 75.4921317,
+    "distance_m": 213
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 11.7516529,
+    "lon": 75.4865124,
+    "distance_m": 515
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 11.748544,
+    "lon": 75.4943082,
+    "distance_m": 651
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7480685,
+    "lon": 75.4939501,
+    "distance_m": 675
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7574554,
+    "lon": 75.4797478,
+    "distance_m": 1297
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.754553,
+    "lon": 75.5032805,
+    "distance_m": 1352
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7635192,
+    "lon": 75.4806362,
+    "distance_m": 1589
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7636351,
+    "lon": 75.4806586,
+    "distance_m": 1596
+  },
+  {
+    "name": "ATM",
+    "operator": "Tata Indicash",
+    "lat": 11.764528,
+    "lon": 75.5005341,
+    "distance_m": 1623
+  }
+]

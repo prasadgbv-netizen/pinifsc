@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2007568,
+    "lon": 72.9772104,
+    "distance_m": 275
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1870405,
+    "lon": 72.9768319,
+    "distance_m": 1388
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1869713,
+    "lon": 72.9765239,
+    "distance_m": 1402
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1943885,
+    "lon": 72.9631705,
+    "distance_m": 1783
+  },
+  {
+    "name": "Parsik Bank ATM",
+    "operator": "GP Parsik Sahakari Bank",
+    "lat": 19.2032904,
+    "lon": 73.0016801,
+    "distance_m": 2388
+  },
+  {
+    "name": "Saraswat Bank ATM",
+    "operator": "",
+    "lat": 19.2022902,
+    "lon": 73.002278,
+    "distance_m": 2432
+  },
+  {
+    "name": "AXIS Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 19.2026645,
+    "lon": 73.002889,
+    "distance_m": 2501
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.2026951,
+    "lon": 73.0029809,
+    "distance_m": 2511
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI ATM",
+    "lat": 19.2011151,
+    "lon": 73.0049846,
+    "distance_m": 2701
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.697699,
+    "lon": 76.0914971,
+    "distance_m": 1270
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.697597,
+    "lon": 76.0915838,
+    "distance_m": 1276
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.6977069,
+    "lon": 76.0915862,
+    "distance_m": 1279
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.6980062,
+    "lon": 76.0918171,
+    "distance_m": 1312
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.6879285,
+    "lon": 76.0571202,
+    "distance_m": 2641
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.7188837,
+    "lon": 76.0755851,
+    "distance_m": 2701
+  }
+]

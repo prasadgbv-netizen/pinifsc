@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.2247454,
+    "lon": 76.5366104,
+    "distance_m": 1148
+  },
+  {
+    "name": "ATM",
+    "operator": "Postal ATM",
+    "lat": 9.2457221,
+    "lon": 76.5405134,
+    "distance_m": 1237
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.2460696,
+    "lon": 76.5405596,
+    "distance_m": 1276
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.2474067,
+    "lon": 76.5399981,
+    "distance_m": 1405
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.2474161,
+    "lon": 76.5401719,
+    "distance_m": 1410
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.2491884,
+    "lon": 76.5360742,
+    "distance_m": 1577
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB Bank",
+    "lat": 9.2499533,
+    "lon": 76.5378938,
+    "distance_m": 1658
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 9.2499597,
+    "lon": 76.5379446,
+    "distance_m": 1659
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.2520501,
+    "lon": 76.5402906,
+    "distance_m": 1918
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.2524942,
+    "lon": 76.542564,
+    "distance_m": 2023
+  }
+]

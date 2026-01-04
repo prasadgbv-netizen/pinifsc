@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.0499587,
+    "lon": 76.0713612,
+    "distance_m": 1668
+  },
+  {
+    "name": "ATM",
+    "operator": "S B I Malappuram",
+    "lat": 11.0516507,
+    "lon": 76.0757978,
+    "distance_m": 1958
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.0516772,
+    "lon": 76.0758261,
+    "distance_m": 1959
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0467911,
+    "lon": 76.0738911,
+    "distance_m": 2110
+  },
+  {
+    "name": "Cenara bank",
+    "operator": "",
+    "lat": 11.041655,
+    "lon": 76.0712201,
+    "distance_m": 2379
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM CDM",
+    "lat": 11.0428104,
+    "lon": 76.0811038,
+    "distance_m": 2992
+  }
+]

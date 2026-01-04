@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 26.9110725,
+    "lon": 80.9500196,
+    "distance_m": 556
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 26.9111131,
+    "lon": 80.9500163,
+    "distance_m": 561
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.9012078,
+    "lon": 80.9422437,
+    "distance_m": 834
+  }
+]

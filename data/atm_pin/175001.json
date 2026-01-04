@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7149915,
+    "lon": 76.9324237,
+    "distance_m": 680
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7102148,
+    "lon": 76.9387459,
+    "distance_m": 1206
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7097552,
+    "lon": 76.9319003,
+    "distance_m": 1249
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 31.7096955,
+    "lon": 76.9319804,
+    "distance_m": 1254
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 31.7090007,
+    "lon": 76.9318692,
+    "distance_m": 1331
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab & Sind ATM",
+    "lat": 31.7084698,
+    "lon": 76.9318107,
+    "distance_m": 1390
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7076121,
+    "lon": 76.9328802,
+    "distance_m": 1464
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7078531,
+    "lon": 76.9313742,
+    "distance_m": 1466
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7076639,
+    "lon": 76.9322785,
+    "distance_m": 1468
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.7076214,
+    "lon": 76.9315133,
+    "distance_m": 1488
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9362922,
+    "lon": 77.705201,
+    "distance_m": 94
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.938169,
+    "lon": 77.6992075,
+    "distance_m": 759
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.935016,
+    "lon": 77.6947265,
+    "distance_m": 1191
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9409367,
+    "lon": 77.6958029,
+    "distance_m": 1225
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9408432,
+    "lon": 77.6957542,
+    "distance_m": 1225
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9457071,
+    "lon": 77.7104283,
+    "distance_m": 1235
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9457917,
+    "lon": 77.7105538,
+    "distance_m": 1249
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.948782,
+    "lon": 77.7079398,
+    "distance_m": 1485
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9488191,
+    "lon": 77.7079318,
+    "distance_m": 1489
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 12.9488637,
+    "lon": 77.7079123,
+    "distance_m": 1494
+  }
+]

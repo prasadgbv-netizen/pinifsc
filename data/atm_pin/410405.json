@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.7626476,
+    "lon": 73.55643,
+    "distance_m": 294
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.7625336,
+    "lon": 73.5564922,
+    "distance_m": 305
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.7625271,
+    "lon": 73.5565066,
+    "distance_m": 307
+  },
+  {
+    "name": "ATM",
+    "operator": "PDCC",
+    "lat": 18.7628741,
+    "lon": 73.5569505,
+    "distance_m": 338
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.7618243,
+    "lon": 73.5575141,
+    "distance_m": 436
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC ATM",
+    "lat": 18.7616239,
+    "lon": 73.5583735,
+    "distance_m": 527
+  },
+  {
+    "name": "ATM",
+    "operator": "Sharad Bank Kamshet",
+    "lat": 18.7616239,
+    "lon": 73.5583735,
+    "distance_m": 527
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI BANK",
+    "lat": 18.7626201,
+    "lon": 73.5591892,
+    "distance_m": 574
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC BANK",
+    "lat": 18.7624629,
+    "lon": 73.5591765,
+    "distance_m": 577
+  }
+]

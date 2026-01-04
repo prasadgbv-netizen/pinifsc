@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.00212,
+    "lon": 79.5650081,
+    "distance_m": 560
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.01007,
+    "lon": 79.5601499,
+    "distance_m": 619
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 18.0035767,
+    "lon": 79.5662052,
+    "distance_m": 629
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 18.0043595,
+    "lon": 79.5727411,
+    "distance_m": 1312
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 18.0049176,
+    "lon": 79.5738584,
+    "distance_m": 1431
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.9977633,
+    "lon": 79.5446821,
+    "distance_m": 1816
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.0040579,
+    "lon": 79.5778377,
+    "distance_m": 1851
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 17.9948505,
+    "lon": 79.545802,
+    "distance_m": 1874
+  },
+  {
+    "name": "State Bank of Hyderabad ATM",
+    "operator": "",
+    "lat": 18.0045751,
+    "lon": 79.5418239,
+    "distance_m": 1957
+  }
+]

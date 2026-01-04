@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.0798979,
+    "lon": 75.2636533,
+    "distance_m": 502
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.0792013,
+    "lon": 75.2637276,
+    "distance_m": 565
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.0776798,
+    "lon": 75.2663441,
+    "distance_m": 669
+  },
+  {
+    "name": "ATM",
+    "operator": "INDIA ONE",
+    "lat": 12.0919285,
+    "lon": 75.2482289,
+    "distance_m": 2152
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank",
+    "lat": 12.0916256,
+    "lon": 75.2476561,
+    "distance_m": 2195
+  }
+]

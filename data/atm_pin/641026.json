@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 10.9925427,
+    "lon": 76.9577091,
+    "distance_m": 1510
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB",
+    "lat": 10.994994,
+    "lon": 76.9588705,
+    "distance_m": 1716
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.9947517,
+    "lon": 76.9592916,
+    "distance_m": 1749
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF MYSORE",
+    "lat": 11.0035583,
+    "lon": 76.9517371,
+    "distance_m": 1791
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0053283,
+    "lon": 76.9457861,
+    "distance_m": 1801
+  },
+  {
+    "name": "Cosmos co-op bank ATM",
+    "operator": "",
+    "lat": 11.0043446,
+    "lon": 76.9509909,
+    "distance_m": 1835
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 10.9900566,
+    "lon": 76.9611682,
+    "distance_m": 1843
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 10.9900284,
+    "lon": 76.9611954,
+    "distance_m": 1846
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.9900153,
+    "lon": 76.9612049,
+    "distance_m": 1847
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.0050827,
+    "lon": 76.9510858,
+    "distance_m": 1915
+  }
+]

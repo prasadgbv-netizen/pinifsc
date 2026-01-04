@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 11.9389583,
+    "lon": 79.826194,
+    "distance_m": 176
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 11.9405593,
+    "lon": 79.8270991,
+    "distance_m": 204
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.9400742,
+    "lon": 79.8271725,
+    "distance_m": 210
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.9381618,
+    "lon": 79.8276673,
+    "distance_m": 350
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.9416836,
+    "lon": 79.8221377,
+    "distance_m": 374
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.9412482,
+    "lon": 79.8217854,
+    "distance_m": 392
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.9415289,
+    "lon": 79.8287223,
+    "distance_m": 403
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.939177,
+    "lon": 79.8215949,
+    "distance_m": 415
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.9379817,
+    "lon": 79.828752,
+    "distance_m": 456
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 11.9373785,
+    "lon": 79.8222329,
+    "distance_m": 457
+  }
+]

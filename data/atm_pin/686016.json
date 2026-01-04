@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.6182017,
+    "lon": 76.5329701,
+    "distance_m": 255
+  },
+  {
+    "name": "ATM",
+    "operator": "central bank of india atm",
+    "lat": 9.6170654,
+    "lon": 76.5328148,
+    "distance_m": 266
+  },
+  {
+    "name": "ATM",
+    "operator": "union bank of india atm",
+    "lat": 9.6170251,
+    "lon": 76.5328089,
+    "distance_m": 268
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.6160528,
+    "lon": 76.5326253,
+    "distance_m": 318
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.6253103,
+    "lon": 76.5359414,
+    "distance_m": 986
+  },
+  {
+    "name": "ATM",
+    "operator": "INDUSLAND BANK ATM",
+    "lat": 9.6080417,
+    "lon": 76.5319335,
+    "distance_m": 1131
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 9.6255724,
+    "lon": 76.5396066,
+    "distance_m": 1284
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 9.626666,
+    "lon": 76.5399338,
+    "distance_m": 1392
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM federal bank",
+    "lat": 9.630547,
+    "lon": 76.5194626,
+    "distance_m": 1845
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.6331666,
+    "lon": 76.5216893,
+    "distance_m": 1937
+  }
+]

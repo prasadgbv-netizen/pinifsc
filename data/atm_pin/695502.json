@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Auto Stand",
+    "operator": "",
+    "lat": 8.3419115,
+    "lon": 77.155543,
+    "distance_m": 337
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.3431783,
+    "lon": 77.1606637,
+    "distance_m": 443
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK ATM",
+    "lat": 8.344331,
+    "lon": 77.1519989,
+    "distance_m": 811
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 8.334504,
+    "lon": 77.1720343,
+    "distance_m": 1662
+  }
+]

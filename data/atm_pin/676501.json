@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM & CDM",
+    "lat": 10.9948726,
+    "lon": 75.9807395,
+    "distance_m": 113
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of india",
+    "lat": 10.9974563,
+    "lon": 75.9872428,
+    "distance_m": 844
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 10.9974613,
+    "lon": 75.9879665,
+    "distance_m": 915
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.9991494,
+    "lon": 75.9577412,
+    "distance_m": 2541
+  }
+]

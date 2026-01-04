@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 15.2891833,
+    "lon": 73.9634327,
+    "distance_m": 455
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.2914937,
+    "lon": 73.9758808,
+    "distance_m": 1057
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 15.288096,
+    "lon": 73.9552057,
+    "distance_m": 1259
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 15.2748384,
+    "lon": 73.9573433,
+    "distance_m": 2164
+  },
+  {
+    "name": "ATM",
+    "operator": "PMC bank",
+    "lat": 15.2715489,
+    "lon": 73.9651107,
+    "distance_m": 2319
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 15.2715269,
+    "lon": 73.9586875,
+    "distance_m": 2451
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 15.2676464,
+    "lon": 73.9664455,
+    "distance_m": 2751
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 15.270733,
+    "lon": 73.982765,
+    "distance_m": 3001
+  }
+]

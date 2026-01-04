@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 21.1193477,
+    "lon": 79.072758,
+    "distance_m": 363
+  },
+  {
+    "name": "Bank of India ATM Ajni Square Branch",
+    "operator": "Bank of India",
+    "lat": 21.1156969,
+    "lon": 79.0710115,
+    "distance_m": 800
+  },
+  {
+    "name": "Bank Of Maharashtra ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 21.1100198,
+    "lon": 79.0701944,
+    "distance_m": 1432
+  },
+  {
+    "name": "Yes Bank ATM",
+    "operator": "Yes Bank",
+    "lat": 21.1099366,
+    "lon": 79.0695862,
+    "distance_m": 1456
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 21.1106126,
+    "lon": 79.0639665,
+    "distance_m": 1642
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1176437,
+    "lon": 79.0565611,
+    "distance_m": 1816
+  },
+  {
+    "name": "Union Bank ATM",
+    "operator": "",
+    "lat": 21.1100531,
+    "lon": 79.0566936,
+    "distance_m": 2211
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 21.1241285,
+    "lon": 79.0517445,
+    "distance_m": 2237
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 21.1238387,
+    "lon": 79.0515209,
+    "distance_m": 2258
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 21.1412103,
+    "lon": 79.0825119,
+    "distance_m": 2283
+  }
+]

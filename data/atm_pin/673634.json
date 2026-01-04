@@ -1,0 +1,23 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 11.1348986,
+    "lon": 75.8917797,
+    "distance_m": 2370
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 11.1323489,
+    "lon": 75.8941637,
+    "distance_m": 2663
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 11.1323846,
+    "lon": 75.8943222,
+    "distance_m": 2679
+  }
+]

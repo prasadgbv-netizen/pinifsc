@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.081938,
+    "lon": 72.8961266,
+    "distance_m": 528
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.08187,
+    "lon": 72.8961233,
+    "distance_m": 535
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.081755,
+    "lon": 72.8961094,
+    "distance_m": 547
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0816691,
+    "lon": 72.896103,
+    "distance_m": 556
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 19.0842814,
+    "lon": 72.8845683,
+    "distance_m": 1073
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0979381,
+    "lon": 72.8880744,
+    "distance_m": 1446
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0723489,
+    "lon": 72.8976559,
+    "distance_m": 1601
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0775346,
+    "lon": 72.8789658,
+    "distance_m": 1912
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 19.0714573,
+    "lon": 72.8850933,
+    "distance_m": 1939
+  },
+  {
+    "name": "Kotak Mahindra bank ATM",
+    "operator": "",
+    "lat": 19.1043253,
+    "lon": 72.887046,
+    "distance_m": 2138
+  }
+]

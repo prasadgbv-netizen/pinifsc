@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9615359,
+    "lon": 77.6364148,
+    "distance_m": 825
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9714974,
+    "lon": 77.6277058,
+    "distance_m": 886
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.961305,
+    "lon": 77.6371429,
+    "distance_m": 908
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9664528,
+    "lon": 77.6371221,
+    "distance_m": 922
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9608059,
+    "lon": 77.6372084,
+    "distance_m": 932
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 12.9606771,
+    "lon": 77.6382231,
+    "distance_m": 1040
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 12.9713009,
+    "lon": 77.6347274,
+    "distance_m": 1047
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 12.9712853,
+    "lon": 77.6348681,
+    "distance_m": 1054
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 12.9713759,
+    "lon": 77.6348862,
+    "distance_m": 1063
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 12.9604812,
+    "lon": 77.6385098,
+    "distance_m": 1077
+  }
+]

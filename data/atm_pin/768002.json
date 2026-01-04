@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ALLHABADH BANK ATM",
+    "operator": "",
+    "lat": 21.4728586,
+    "lon": 83.9765229,
+    "distance_m": 916
+  },
+  {
+    "name": "SBI ATM (GM COLLEGE)",
+    "operator": "State Bank of India",
+    "lat": 21.474526,
+    "lon": 83.9765058,
+    "distance_m": 918
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 21.4649898,
+    "lon": 83.9742883,
+    "distance_m": 1169
+  },
+  {
+    "name": "PNB ATM (Budharaja)",
+    "operator": "",
+    "lat": 21.4789515,
+    "lon": 83.9784285,
+    "distance_m": 1263
+  },
+  {
+    "name": "SBI ATM (SAMBALPUR RAILWAY STATION)",
+    "operator": "State Bank of India",
+    "lat": 21.4822654,
+    "lon": 83.9596749,
+    "distance_m": 1277
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 21.4820169,
+    "lon": 83.9589644,
+    "distance_m": 1306
+  },
+  {
+    "name": "Orissa Co-operative Bank ATM",
+    "operator": "",
+    "lat": 21.480207,
+    "lon": 83.9789843,
+    "distance_m": 1384
+  },
+  {
+    "name": "UCO BANK ATM",
+    "operator": "UCO Bank",
+    "lat": 21.4808052,
+    "lon": 83.9793777,
+    "distance_m": 1454
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 21.4630259,
+    "lon": 83.9814289,
+    "distance_m": 1839
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 21.4938546,
+    "lon": 83.982081,
+    "distance_m": 2706
+  }
+]

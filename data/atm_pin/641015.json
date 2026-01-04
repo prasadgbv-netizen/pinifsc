@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0096292,
+    "lon": 77.0238146,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara",
+    "lat": 11.001921,
+    "lon": 77.0283994,
+    "distance_m": 830
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.0142031,
+    "lon": 77.0187599,
+    "distance_m": 911
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.0157574,
+    "lon": 77.0234625,
+    "distance_m": 966
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0158676,
+    "lon": 77.0234463,
+    "distance_m": 978
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 11.0162413,
+    "lon": 77.0233743,
+    "distance_m": 1020
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0012615,
+    "lon": 77.0323044,
+    "distance_m": 1213
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0200283,
+    "lon": 77.0187192,
+    "distance_m": 1510
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 11.0259638,
+    "lon": 77.0192162,
+    "distance_m": 2137
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.0263288,
+    "lon": 77.0196818,
+    "distance_m": 2168
+  }
+]

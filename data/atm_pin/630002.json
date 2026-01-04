@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "chamber",
+    "lat": 10.0814074,
+    "lon": 78.7710227,
+    "distance_m": 126
+  },
+  {
+    "name": "ATM",
+    "operator": "chamber",
+    "lat": 10.0837288,
+    "lon": 78.7708162,
+    "distance_m": 383
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 10.0769658,
+    "lon": 78.775705,
+    "distance_m": 643
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.0790182,
+    "lon": 78.7779584,
+    "distance_m": 786
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0733373,
+    "lon": 78.7743217,
+    "distance_m": 858
+  },
+  {
+    "name": "Lakshmi Vilas Bank",
+    "operator": "",
+    "lat": 10.0732771,
+    "lon": 78.7754578,
+    "distance_m": 925
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.0734519,
+    "lon": 78.7773993,
+    "distance_m": 1041
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0752225,
+    "lon": 78.7794365,
+    "distance_m": 1091
+  },
+  {
+    "name": "Union bank of India",
+    "operator": "",
+    "lat": 10.0746031,
+    "lon": 78.7820521,
+    "distance_m": 1375
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.0738774,
+    "lon": 78.7821989,
+    "distance_m": 1428
+  }
+]

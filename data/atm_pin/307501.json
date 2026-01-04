@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SBI ATM Air Force",
+    "operator": "State Bank of India",
+    "lat": 24.6052673,
+    "lon": 72.7224969,
+    "distance_m": 460
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 24.5928989,
+    "lon": 72.7092089,
+    "distance_m": 2301
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 24.5928086,
+    "lon": 72.7090092,
+    "distance_m": 2321
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 24.5896232,
+    "lon": 72.7131874,
+    "distance_m": 2409
+  },
+  {
+    "name": "ATM",
+    "operator": "Baroda",
+    "lat": 24.5903705,
+    "lon": 72.7113771,
+    "distance_m": 2417
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 24.5906728,
+    "lon": 72.7107453,
+    "distance_m": 2420
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 24.5918316,
+    "lon": 72.7078382,
+    "distance_m": 2480
+  }
+]

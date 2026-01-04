@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI",
+    "operator": "Somnath Chatterjee",
+    "lat": 23.7169487,
+    "lon": 86.8796831,
+    "distance_m": 1692
+  },
+  {
+    "name": "UBI",
+    "operator": "",
+    "lat": 23.717595,
+    "lon": 86.8778228,
+    "distance_m": 1840
+  }
+]

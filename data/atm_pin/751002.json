@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.2398276,
+    "lon": 85.8334328,
+    "distance_m": 921
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.2499159,
+    "lon": 85.8350814,
+    "distance_m": 938
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 20.2462518,
+    "lon": 85.8324733,
+    "distance_m": 953
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2638377,
+    "lon": 85.8345268,
+    "distance_m": 2340
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 20.2638782,
+    "lon": 85.8345614,
+    "distance_m": 2343
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2668683,
+    "lon": 85.8434709,
+    "distance_m": 2581
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 20.2668902,
+    "lon": 85.8434931,
+    "distance_m": 2584
+  },
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 20.2669154,
+    "lon": 85.8435133,
+    "distance_m": 2587
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "",
+    "lat": 20.2669386,
+    "lon": 85.8435356,
+    "distance_m": 2590
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 20.2693113,
+    "lon": 85.8335387,
+    "distance_m": 2953
+  }
+]

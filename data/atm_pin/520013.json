@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "The Cosmos",
+    "lat": 16.5016461,
+    "lon": 80.6384944,
+    "distance_m": 740
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5027638,
+    "lon": 80.6389576,
+    "distance_m": 795
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 16.5028872,
+    "lon": 80.6391723,
+    "distance_m": 820
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5032261,
+    "lon": 80.6393681,
+    "distance_m": 846
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "Punjab National Bank",
+    "lat": 16.5032136,
+    "lon": 80.6394285,
+    "distance_m": 852
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 16.5032089,
+    "lon": 80.6394597,
+    "distance_m": 855
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 16.5073154,
+    "lon": 80.6243743,
+    "distance_m": 976
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5112477,
+    "lon": 80.6302043,
+    "distance_m": 1053
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 16.5100122,
+    "lon": 80.6385601,
+    "distance_m": 1174
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 16.5129084,
+    "lon": 80.6358405,
+    "distance_m": 1310
+  }
+]

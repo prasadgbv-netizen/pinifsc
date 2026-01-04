@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.4934379,
+    "lon": 77.092174,
+    "distance_m": 2468
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.493598,
+    "lon": 77.0929044,
+    "distance_m": 2518
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 28.4937082,
+    "lon": 77.0930212,
+    "distance_m": 2521
+  },
+  {
+    "name": "ATM",
+    "operator": "ABN Amro Bank",
+    "lat": 28.4941065,
+    "lon": 77.093327,
+    "distance_m": 2524
+  },
+  {
+    "name": "ATM",
+    "operator": "Citibank",
+    "lat": 28.5045702,
+    "lon": 77.0971354,
+    "distance_m": 2551
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 28.4919048,
+    "lon": 77.0937804,
+    "distance_m": 2693
+  }
+]

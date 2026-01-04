@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 12.9230316,
+    "lon": 80.1275547,
+    "distance_m": 53
+  },
+  {
+    "name": "Andra bank ATM",
+    "operator": "Andra bank",
+    "lat": 12.9226137,
+    "lon": 80.1293166,
+    "distance_m": 187
+  },
+  {
+    "name": "ATM",
+    "operator": "icici bank atm",
+    "lat": 12.9261538,
+    "lon": 80.1265257,
+    "distance_m": 416
+  },
+  {
+    "name": "ATM",
+    "operator": "City union bank atm",
+    "lat": 12.9266592,
+    "lon": 80.1266185,
+    "distance_m": 468
+  },
+  {
+    "name": "Oriental Bank of Commerce",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 12.9228556,
+    "lon": 80.1323454,
+    "distance_m": 517
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9286288,
+    "lon": 80.1270895,
+    "distance_m": 677
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur vaisya bank",
+    "lat": 12.9287364,
+    "lon": 80.1271198,
+    "distance_m": 689
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9221875,
+    "lon": 80.1385644,
+    "distance_m": 1190
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9215211,
+    "lon": 80.1163262,
+    "distance_m": 1225
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9225168,
+    "lon": 80.139139,
+    "distance_m": 1252
+  }
+]

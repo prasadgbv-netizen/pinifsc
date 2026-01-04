@@ -1,0 +1,16 @@
+[
+  {
+    "name": "HDFC ATM varansi",
+    "operator": "HDFC Bank",
+    "lat": 25.2763036,
+    "lon": 83.0074512,
+    "distance_m": 2614
+  },
+  {
+    "name": "ATM",
+    "operator": "BOB",
+    "lat": 25.2781082,
+    "lon": 83.0039191,
+    "distance_m": 2974
+  }
+]

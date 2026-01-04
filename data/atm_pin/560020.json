@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 12.989156,
+    "lon": 77.5746098,
+    "distance_m": 77
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9894569,
+    "lon": 77.5735286,
+    "distance_m": 164
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9899666,
+    "lon": 77.5745326,
+    "distance_m": 168
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 12.9879742,
+    "lon": 77.5764499,
+    "distance_m": 202
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9879409,
+    "lon": 77.5768491,
+    "distance_m": 245
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9897351,
+    "lon": 77.5720458,
+    "distance_m": 315
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9906494,
+    "lon": 77.5718535,
+    "distance_m": 388
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9913252,
+    "lon": 77.5713263,
+    "distance_m": 480
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9916712,
+    "lon": 77.5712761,
+    "distance_m": 511
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 12.9874735,
+    "lon": 77.5801145,
+    "distance_m": 602
+  }
+]

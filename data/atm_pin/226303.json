@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8463948,
+    "lon": 80.9455284,
+    "distance_m": 71
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.845277,
+    "lon": 80.9480991,
+    "distance_m": 248
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8491703,
+    "lon": 80.9445735,
+    "distance_m": 317
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8492319,
+    "lon": 80.9444926,
+    "distance_m": 327
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8473949,
+    "lon": 80.9418664,
+    "distance_m": 433
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8475673,
+    "lon": 80.9407262,
+    "distance_m": 548
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8481534,
+    "lon": 80.9394783,
+    "distance_m": 683
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8484634,
+    "lon": 80.9394726,
+    "distance_m": 692
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 26.8530707,
+    "lon": 80.9275896,
+    "distance_m": 1974
+  },
+  {
+    "name": "UCO",
+    "operator": "",
+    "lat": 26.8328312,
+    "lon": 80.9272905,
+    "distance_m": 2425
+  }
+]

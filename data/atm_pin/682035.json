@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.9798985,
+    "lon": 76.2762079,
+    "distance_m": 805
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.9791688,
+    "lon": 76.2760182,
+    "distance_m": 817
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9875163,
+    "lon": 76.2769074,
+    "distance_m": 1009
+  },
+  {
+    "name": "Ujjivan Small Finance Bank",
+    "operator": "Ujjivan Small Finance Bank",
+    "lat": 9.9874742,
+    "lon": 76.2769774,
+    "distance_m": 1012
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 9.9771241,
+    "lon": 76.2769312,
+    "distance_m": 1019
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9776495,
+    "lon": 76.2773335,
+    "distance_m": 1025
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 9.9779113,
+    "lon": 76.2776591,
+    "distance_m": 1041
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.976755,
+    "lon": 76.2779516,
+    "distance_m": 1135
+  },
+  {
+    "name": "Kerala Bank",
+    "operator": "Kerala Bank",
+    "lat": 9.9751181,
+    "lon": 76.2780078,
+    "distance_m": 1249
+  },
+  {
+    "name": "Catholic Syrian Bank",
+    "operator": "CSB Bank",
+    "lat": 9.9771691,
+    "lon": 76.2803607,
+    "distance_m": 1342
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis bank Atm",
+    "lat": 21.5276705,
+    "lon": 83.8981391,
+    "distance_m": 2348
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB ATM",
+    "lat": 21.5285337,
+    "lon": 83.8979204,
+    "distance_m": 2420
+  },
+  {
+    "name": "ATM",
+    "operator": "Uco bank atm",
+    "lat": 21.5302482,
+    "lon": 83.8953639,
+    "distance_m": 2482
+  }
+]

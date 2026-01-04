@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 21.2521857,
+    "lon": 81.5980252,
+    "distance_m": 891
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 21.2517101,
+    "lon": 81.5990478,
+    "distance_m": 929
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Atm",
+    "lat": 21.2494916,
+    "lon": 81.6041411,
+    "distance_m": 1280
+  },
+  {
+    "name": "State Bank Of India ATM",
+    "operator": "",
+    "lat": 21.2471838,
+    "lon": 81.6140243,
+    "distance_m": 2254
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 21.2465837,
+    "lon": 81.6153024,
+    "distance_m": 2384
+  },
+  {
+    "name": "Dena Bank ATM",
+    "operator": "",
+    "lat": 21.2595531,
+    "lon": 81.5731813,
+    "distance_m": 2475
+  }
+]

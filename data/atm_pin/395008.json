@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM State Bank of India, Vallabhacharya Rd, Hirabaugh, Surat, Gujarat 395006",
+    "lat": 21.2178046,
+    "lon": 72.857507,
+    "distance_m": 949
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Poddar Arcade, Khand Bazar, Kodiyar Nagar, Surat",
+    "lat": 21.2073092,
+    "lon": 72.843433,
+    "distance_m": 1482
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Near Effil tower Road, Varachha, Surat",
+    "lat": 21.2058207,
+    "lon": 72.8482363,
+    "distance_m": 1549
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Kantareshwar Society, Katargam, Surat",
+    "lat": 21.2197144,
+    "lon": 72.832373,
+    "distance_m": 1680
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM  Lal Darwaja, Varachha, Surat",
+    "lat": 21.2063069,
+    "lon": 72.8372369,
+    "distance_m": 1902
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 2, R.B Dhami Road, Pandesara, Rachana Society, Varachha, Surat, Gujarat 394210",
+    "lat": 21.2113104,
+    "lon": 72.8678349,
+    "distance_m": 2205
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Mahadev Complex, Station Rd, Delhi Gate, Haripura, Surat",
+    "lat": 21.2018834,
+    "lon": 72.8386401,
+    "distance_m": 2238
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sachin, Bombay Market, Umarwada, Surat",
+    "lat": 21.1993649,
+    "lon": 72.8492594,
+    "distance_m": 2267
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 11, Char Khana Road, Pramukh Darshan, Saiyed Pura, Haripura, Surat, Gujarat 395003",
+    "lat": 21.2041483,
+    "lon": 72.8308008,
+    "distance_m": 2531
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM Aamba Talavadi, Vaikunthdham Society, Vishal Nagar, Surat, Gujarat 395004",
+    "lat": 21.2364585,
+    "lon": 72.8310539,
+    "distance_m": 2598
+  }
+]

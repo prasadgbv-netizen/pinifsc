@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 11.1222637,
+    "lon": 76.1254904,
+    "distance_m": 88
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1203246,
+    "lon": 76.1233927,
+    "distance_m": 310
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Of India ATM",
+    "lat": 11.1204858,
+    "lon": 76.1205208,
+    "distance_m": 602
+  },
+  {
+    "name": "ATM",
+    "operator": "axis bank atm",
+    "lat": 11.1203357,
+    "lon": 76.1200278,
+    "distance_m": 658
+  },
+  {
+    "name": "ATM",
+    "operator": "atms",
+    "lat": 11.120418,
+    "lon": 76.1199494,
+    "distance_m": 665
+  },
+  {
+    "name": "ATM",
+    "operator": "atm",
+    "lat": 11.1203741,
+    "lon": 76.1199032,
+    "distance_m": 670
+  },
+  {
+    "name": "ATM",
+    "operator": "centre bank of india atm",
+    "lat": 11.1207521,
+    "lon": 76.1198262,
+    "distance_m": 672
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 11.1184172,
+    "lon": 76.1201854,
+    "distance_m": 719
+  },
+  {
+    "name": "Federal Bank CDM",
+    "operator": "",
+    "lat": 11.1201338,
+    "lon": 76.1193782,
+    "distance_m": 732
+  },
+  {
+    "name": "Dhanalaxmi bank ATM",
+    "operator": "",
+    "lat": 11.120008,
+    "lon": 76.1193262,
+    "distance_m": 741
+  }
+]

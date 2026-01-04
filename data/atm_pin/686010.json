@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 9.5890797,
+    "lon": 76.5706444,
+    "distance_m": 609
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank ATM",
+    "lat": 9.5897573,
+    "lon": 76.5529713,
+    "distance_m": 1354
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.5902099,
+    "lon": 76.5787766,
+    "distance_m": 1478
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.588689,
+    "lon": 76.581692,
+    "distance_m": 1809
+  },
+  {
+    "name": "State Bank Of India (SBI) ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5885517,
+    "lon": 76.5818897,
+    "distance_m": 1833
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank atm",
+    "lat": 9.5837129,
+    "lon": 76.5825327,
+    "distance_m": 2038
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.5912642,
+    "lon": 76.5839194,
+    "distance_m": 2042
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.5924296,
+    "lon": 76.5839943,
+    "distance_m": 2059
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.5879646,
+    "lon": 76.5466307,
+    "distance_m": 2067
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 9.5931274,
+    "lon": 76.584394,
+    "distance_m": 2112
+  }
+]

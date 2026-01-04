@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 17.0028448,
+    "lon": 81.7707988,
+    "distance_m": 139
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank",
+    "lat": 17.0012134,
+    "lon": 81.7712949,
+    "distance_m": 140
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 17.0007837,
+    "lon": 81.7714275,
+    "distance_m": 178
+  },
+  {
+    "name": "Andhra Bank ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.0058162,
+    "lon": 81.7705198,
+    "distance_m": 451
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.0058576,
+    "lon": 81.7700059,
+    "distance_m": 453
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 17.0058726,
+    "lon": 81.7699711,
+    "distance_m": 455
+  },
+  {
+    "name": "Central Bank Of India ATM",
+    "operator": "Central Bank Of India",
+    "lat": 16.9971823,
+    "lon": 81.7725866,
+    "distance_m": 574
+  },
+  {
+    "name": "Lakshmi Vilas Bank ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 16.9969989,
+    "lon": 81.7721842,
+    "distance_m": 575
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 16.9968149,
+    "lon": 81.7717555,
+    "distance_m": 578
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 17.001053,
+    "lon": 81.7755183,
+    "distance_m": 580
+  }
+]

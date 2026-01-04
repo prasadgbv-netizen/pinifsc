@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Andhra Bank Atm",
+    "operator": "",
+    "lat": 16.5376738,
+    "lon": 81.5163392,
+    "distance_m": 102
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5367542,
+    "lon": 81.5199007,
+    "distance_m": 418
+  },
+  {
+    "name": "lakshmi villas atm",
+    "operator": "",
+    "lat": 16.5432816,
+    "lon": 81.5138528,
+    "distance_m": 592
+  },
+  {
+    "name": "Union bank atm",
+    "operator": "",
+    "lat": 16.5440324,
+    "lon": 81.5161836,
+    "distance_m": 606
+  },
+  {
+    "name": "Indian overseas bank atm",
+    "operator": "",
+    "lat": 16.5438061,
+    "lon": 81.514636,
+    "distance_m": 612
+  },
+  {
+    "name": "sbi bank atm",
+    "operator": "",
+    "lat": 16.5468427,
+    "lon": 81.5200728,
+    "distance_m": 995
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 16.5419173,
+    "lon": 81.5033076,
+    "distance_m": 1451
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra bank",
+    "lat": 16.5418275,
+    "lon": 81.5022216,
+    "distance_m": 1561
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 16.541799,
+    "lon": 81.5015813,
+    "distance_m": 1627
+  },
+  {
+    "name": "Hdfc Bank ATM",
+    "operator": "",
+    "lat": 16.5414124,
+    "lon": 81.5013349,
+    "distance_m": 1643
+  }
+]

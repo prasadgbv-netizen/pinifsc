@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI",
+    "operator": "SBI",
+    "lat": 17.3264777,
+    "lon": 76.8548921,
+    "distance_m": 779
+  },
+  {
+    "name": "SBI, HDFC, Canara",
+    "operator": "State Bank of Hyderabad",
+    "lat": 17.3311376,
+    "lon": 76.8357566,
+    "distance_m": 1318
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC BANK",
+    "lat": 17.3312007,
+    "lon": 76.8356549,
+    "distance_m": 1330
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI BANK",
+    "lat": 17.3336715,
+    "lon": 76.8364825,
+    "distance_m": 1336
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "",
+    "lat": 17.3309527,
+    "lon": 76.8352367,
+    "distance_m": 1368
+  },
+  {
+    "name": "State Bank of Hyderabad",
+    "operator": "STATE BANK OF HYDERABAD",
+    "lat": 17.3304363,
+    "lon": 76.8279098,
+    "distance_m": 2130
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 17.332868,
+    "lon": 76.8283055,
+    "distance_m": 2132
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "AXIS BANK",
+    "lat": 17.3332939,
+    "lon": 76.8281132,
+    "distance_m": 2163
+  },
+  {
+    "name": "Rajni",
+    "operator": "",
+    "lat": 17.3400404,
+    "lon": 76.8276115,
+    "distance_m": 2501
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 17.3506105,
+    "lon": 76.8415824,
+    "distance_m": 2539
+  }
+]

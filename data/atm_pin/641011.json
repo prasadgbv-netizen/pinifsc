@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0268899,
+    "lon": 76.9470038,
+    "distance_m": 81
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0259906,
+    "lon": 76.9459943,
+    "distance_m": 150
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0275718,
+    "lon": 76.9468885,
+    "distance_m": 155
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0260408,
+    "lon": 76.9511194,
+    "distance_m": 412
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.027778,
+    "lon": 76.9516596,
+    "distance_m": 500
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM",
+    "lat": 11.0317831,
+    "lon": 76.9505924,
+    "distance_m": 710
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0200213,
+    "lon": 76.9397613,
+    "distance_m": 1079
+  },
+  {
+    "name": "ATM",
+    "operator": "canara",
+    "lat": 11.0224445,
+    "lon": 76.9369015,
+    "distance_m": 1216
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 11.0149091,
+    "lon": 76.9491827,
+    "distance_m": 1276
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0176933,
+    "lon": 76.9579777,
+    "distance_m": 1499
+  }
+]

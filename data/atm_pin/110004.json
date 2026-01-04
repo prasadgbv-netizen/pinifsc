@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.6249115,
+    "lon": 77.2010875,
+    "distance_m": 643
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6248302,
+    "lon": 77.2029725,
+    "distance_m": 786
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6246459,
+    "lon": 77.2053756,
+    "distance_m": 984
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6103297,
+    "lon": 77.2010609,
+    "distance_m": 1288
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6175605,
+    "lon": 77.2125512,
+    "distance_m": 1649
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6325492,
+    "lon": 77.2080312,
+    "distance_m": 1724
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "",
+    "lat": 28.6334535,
+    "lon": 77.207037,
+    "distance_m": 1738
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6258863,
+    "lon": 77.213853,
+    "distance_m": 1809
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6294413,
+    "lon": 77.212874,
+    "distance_m": 1879
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6040114,
+    "lon": 77.1976751,
+    "distance_m": 1904
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.507679,
+    "lon": 76.9491156,
+    "distance_m": 70
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.510152,
+    "lon": 76.9480327,
+    "distance_m": 282
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.5037152,
+    "lon": 76.9484398,
+    "distance_m": 437
+  },
+  {
+    "name": "SBT",
+    "operator": "",
+    "lat": 8.508518,
+    "lon": 76.9525197,
+    "distance_m": 454
+  },
+  {
+    "name": "SBI Cash Deposit & ATM",
+    "operator": "State Bank of India",
+    "lat": 8.5088765,
+    "lon": 76.9528146,
+    "distance_m": 495
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.5033775,
+    "lon": 76.9467944,
+    "distance_m": 510
+  },
+  {
+    "name": "ATM Syndicate bank",
+    "operator": "",
+    "lat": 8.5038141,
+    "lon": 76.9519117,
+    "distance_m": 569
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.5160047,
+    "lon": 76.9538217,
+    "distance_m": 1099
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.4986872,
+    "lon": 76.9547232,
+    "distance_m": 1210
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.4959682,
+    "lon": 76.9488178,
+    "distance_m": 1299
+  }
+]

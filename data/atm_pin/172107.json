@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 31.5410025,
+    "lon": 78.2710621,
+    "distance_m": 1440
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 31.5427629,
+    "lon": 78.2702175,
+    "distance_m": 1448
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 31.542847,
+    "lon": 78.2702211,
+    "distance_m": 1453
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 31.5440936,
+    "lon": 78.2699461,
+    "distance_m": 1504
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.5363553,
+    "lon": 78.2807706,
+    "distance_m": 2270
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 31.5457866,
+    "lon": 78.2788505,
+    "distance_m": 2330
+  }
+]

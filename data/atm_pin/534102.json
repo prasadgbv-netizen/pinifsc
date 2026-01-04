@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bank of India ATM",
+    "operator": "Bank of India",
+    "lat": 16.81105,
+    "lon": 81.530126,
+    "distance_m": 2164
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 16.8146356,
+    "lon": 81.5303238,
+    "distance_m": 2215
+  },
+  {
+    "name": "ING Vysya Bank ATM",
+    "operator": "",
+    "lat": 16.816529,
+    "lon": 81.524783,
+    "distance_m": 2840
+  }
+]

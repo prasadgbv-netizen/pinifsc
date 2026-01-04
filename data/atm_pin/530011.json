@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.6889794,
+    "lon": 83.2420641,
+    "distance_m": 28
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 17.6890108,
+    "lon": 83.2419543,
+    "distance_m": 40
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 17.6887892,
+    "lon": 83.2431694,
+    "distance_m": 90
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 17.689084,
+    "lon": 83.2414565,
+    "distance_m": 93
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.6896261,
+    "lon": 83.2392991,
+    "distance_m": 329
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.68969,
+    "lon": 83.2383844,
+    "distance_m": 425
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.6892479,
+    "lon": 83.2345542,
+    "distance_m": 824
+  },
+  {
+    "name": "HDFC",
+    "operator": "",
+    "lat": 17.6906514,
+    "lon": 83.2683455,
+    "distance_m": 2761
+  }
+]

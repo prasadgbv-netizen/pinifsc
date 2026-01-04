@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 22.7627002,
+    "lon": 75.9238851,
+    "distance_m": 753
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.7616688,
+    "lon": 75.9220371,
+    "distance_m": 864
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7624454,
+    "lon": 75.921962,
+    "distance_m": 907
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.7624974,
+    "lon": 75.9219593,
+    "distance_m": 910
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 22.7644792,
+    "lon": 75.9204851,
+    "distance_m": 1152
+  },
+  {
+    "name": "ATM",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 22.7489803,
+    "lon": 75.9239149,
+    "distance_m": 1243
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.748379,
+    "lon": 75.922949,
+    "distance_m": 1351
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 22.7526446,
+    "lon": 75.9176637,
+    "distance_m": 1421
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 22.7458077,
+    "lon": 75.9288325,
+    "distance_m": 1441
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7443172,
+    "lon": 75.9294301,
+    "distance_m": 1604
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 17.3764252,
+    "lon": 78.4920245,
+    "distance_m": 121
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 17.3772416,
+    "lon": 78.4948995,
+    "distance_m": 321
+  },
+  {
+    "name": "اسٹیٹ بینک آف انڈیا",
+    "operator": "",
+    "lat": 17.3726263,
+    "lon": 78.4932724,
+    "distance_m": 322
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3754636,
+    "lon": 78.4970586,
+    "distance_m": 480
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3750194,
+    "lon": 78.4988031,
+    "distance_m": 667
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3785289,
+    "lon": 78.4843675,
+    "distance_m": 931
+  },
+  {
+    "name": "آئی سی آئی سی آئی - اے ٹی ایم",
+    "operator": "",
+    "lat": 17.3661581,
+    "lon": 78.4956642,
+    "distance_m": 1084
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3846266,
+    "lon": 78.488919,
+    "distance_m": 1091
+  },
+  {
+    "name": "ایچ ڈی ایف سی۔ اے ٹی ایم",
+    "operator": "",
+    "lat": 17.3661894,
+    "lon": 78.496547,
+    "distance_m": 1113
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3850823,
+    "lon": 78.4880982,
+    "distance_m": 1170
+  }
+]

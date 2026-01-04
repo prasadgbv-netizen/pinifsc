@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.9761018,
+    "lon": 77.2533655,
+    "distance_m": 2363
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 8.9569694,
+    "lon": 77.276797,
+    "distance_m": 2744
+  }
+]

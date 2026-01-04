@@ -1,0 +1,44 @@
+[
+  {
+    "name": "J&K Bank Atm 24 Hours",
+    "operator": "",
+    "lat": 34.1563719,
+    "lon": 74.8410681,
+    "distance_m": 1320
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.1698964,
+    "lon": 74.8084788,
+    "distance_m": 2107
+  },
+  {
+    "name": "ATM",
+    "operator": "J&K Bank ATM",
+    "lat": 34.1520142,
+    "lon": 74.8086248,
+    "distance_m": 2420
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.1427162,
+    "lon": 74.8386196,
+    "distance_m": 2515
+  },
+  {
+    "name": "HDFC Bank Atm",
+    "operator": "",
+    "lat": 34.1421812,
+    "lon": 74.8383279,
+    "distance_m": 2564
+  },
+  {
+    "name": "J&K Bank and Atm",
+    "operator": "",
+    "lat": 34.1525901,
+    "lon": 74.8025105,
+    "distance_m": 2873
+  }
+]

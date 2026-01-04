@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India ATM, Kanhangad",
+    "operator": "State Bank of India",
+    "lat": 12.3173575,
+    "lon": 75.0891661,
+    "distance_m": 82
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 12.3196913,
+    "lon": 75.0873795,
+    "distance_m": 377
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 12.3136828,
+    "lon": 75.0921095,
+    "distance_m": 474
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.3211841,
+    "lon": 75.0871268,
+    "distance_m": 521
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnadu Merkatail Limited",
+    "lat": 12.3221333,
+    "lon": 75.086877,
+    "distance_m": 623
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 12.3207974,
+    "lon": 75.0847393,
+    "distance_m": 679
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.3247415,
+    "lon": 75.0875449,
+    "distance_m": 858
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 12.3247349,
+    "lon": 75.0867033,
+    "distance_m": 889
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.3256608,
+    "lon": 75.0848997,
+    "distance_m": 1070
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 12.3065415,
+    "lon": 75.097408,
+    "distance_m": 1453
+  }
+]

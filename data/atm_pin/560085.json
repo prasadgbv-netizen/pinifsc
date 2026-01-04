@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9296912,
+    "lon": 77.5519662,
+    "distance_m": 188
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9255011,
+    "lon": 77.5499538,
+    "distance_m": 331
+  },
+  {
+    "name": "Standard Chartered Bank",
+    "operator": "Standard Chartered",
+    "lat": 12.924471,
+    "lon": 77.5523785,
+    "distance_m": 458
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9347536,
+    "lon": 77.5556142,
+    "distance_m": 876
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9348094,
+    "lon": 77.5556281,
+    "distance_m": 882
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9387032,
+    "lon": 77.5524202,
+    "distance_m": 1164
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 12.9181694,
+    "lon": 77.5547822,
+    "distance_m": 1205
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9278968,
+    "lon": 77.5622171,
+    "distance_m": 1226
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 12.9381111,
+    "lon": 77.5565458,
+    "distance_m": 1246
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9373332,
+    "lon": 77.5582484,
+    "distance_m": 1277
+  }
+]

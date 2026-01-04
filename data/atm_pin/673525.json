@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.5968194,
+    "lon": 75.7645031,
+    "distance_m": 1963
+  },
+  {
+    "name": "State Bank Of Travancore",
+    "operator": "",
+    "lat": 11.5571337,
+    "lon": 75.7599524,
+    "distance_m": 2768
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 11.5555886,
+    "lon": 75.7619608,
+    "distance_m": 2852
+  }
+]

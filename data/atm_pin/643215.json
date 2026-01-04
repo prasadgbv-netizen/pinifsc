@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 11.3781596,
+    "lon": 76.7439007,
+    "distance_m": 2758
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.3791414,
+    "lon": 76.7455933,
+    "distance_m": 2969
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "rxtfy",
+    "operator": "Bank of Baroda",
+    "lat": 19.2418354,
+    "lon": 72.8651957,
+    "distance_m": 716
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2284193,
+    "lon": 72.8562813,
+    "distance_m": 1310
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.244307,
+    "lon": 72.8517198,
+    "distance_m": 1817
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.2442696,
+    "lon": 72.8511612,
+    "distance_m": 1865
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2345358,
+    "lon": 72.8463616,
+    "distance_m": 2094
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.212065,
+    "lon": 72.8744807,
+    "distance_m": 2741
+  }
+]

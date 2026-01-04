@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2307003,
+    "lon": 77.4185927,
+    "distance_m": 737
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2260126,
+    "lon": 77.4193232,
+    "distance_m": 1252
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2457391,
+    "lon": 77.4113856,
+    "distance_m": 1254
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2305472,
+    "lon": 77.4304512,
+    "distance_m": 1346
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2348593,
+    "lon": 77.4330306,
+    "distance_m": 1408
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2368197,
+    "lon": 77.4013754,
+    "distance_m": 1852
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2345461,
+    "lon": 77.4011993,
+    "distance_m": 1894
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2336866,
+    "lon": 77.4414089,
+    "distance_m": 2273
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2324287,
+    "lon": 77.3976796,
+    "distance_m": 2293
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2314931,
+    "lon": 77.4424839,
+    "distance_m": 2434
+  }
+]

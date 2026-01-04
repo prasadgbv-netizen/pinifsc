@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 18.9898665,
+    "lon": 73.1278793,
+    "distance_m": 2550
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.9870594,
+    "lon": 73.1223868,
+    "distance_m": 2651
+  },
+  {
+    "name": "Chembur Nagarik Sahakari Bank ATM",
+    "operator": "Syndicate Bank",
+    "lat": 18.9903817,
+    "lon": 73.1250728,
+    "distance_m": 2756
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusind Bank",
+    "lat": 18.9908303,
+    "lon": 73.1244719,
+    "distance_m": 2833
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB",
+    "lat": 18.9909797,
+    "lon": 73.122941,
+    "distance_m": 2942
+  }
+]

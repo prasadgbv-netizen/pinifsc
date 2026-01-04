@@ -1,0 +1,72 @@
+[
+  {
+    "name": "India Post Payments Bank",
+    "operator": "India Post Payments Bank",
+    "lat": 12.9651565,
+    "lon": 77.5379718,
+    "distance_m": 22
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.9646622,
+    "lon": 77.5392138,
+    "distance_m": 128
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9655044,
+    "lon": 77.5367666,
+    "distance_m": 153
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9655423,
+    "lon": 77.5366178,
+    "distance_m": 169
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.964348,
+    "lon": 77.5402052,
+    "distance_m": 241
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9676863,
+    "lon": 77.5366433,
+    "distance_m": 338
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 12.9657251,
+    "lon": 77.5350046,
+    "distance_m": 342
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9659691,
+    "lon": 77.5349971,
+    "distance_m": 350
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9650746,
+    "lon": 77.5347572,
+    "distance_m": 359
+  },
+  {
+    "name": "Dhanalakshmi Bank ATM",
+    "operator": "",
+    "lat": 12.9685194,
+    "lon": 77.5382142,
+    "distance_m": 393
+  }
+]

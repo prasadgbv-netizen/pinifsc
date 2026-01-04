@@ -1,0 +1,16 @@
+[
+  {
+    "name": "NAKACHARI STATE BANK",
+    "operator": "State Bank of India",
+    "lat": 26.6908377,
+    "lon": 94.4051825,
+    "distance_m": 2098
+  },
+  {
+    "name": "ATM",
+    "operator": "UNITED BANK OF INDIA",
+    "lat": 26.6884777,
+    "lon": 94.4010425,
+    "distance_m": 2220
+  }
+]

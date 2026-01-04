@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Yapıkredi ATM",
+    "operator": "",
+    "lat": 37.2137939,
+    "lon": 28.3703718,
+    "distance_m": 642
+  },
+  {
+    "name": "ATM",
+    "operator": "QNB Finansbank",
+    "lat": 37.2103035,
+    "lon": 28.3585777,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Türkiye İş Bankası",
+    "lat": 37.2102949,
+    "lon": 28.3585926,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Vakıfbank",
+    "lat": 37.2102466,
+    "lon": 28.3586748,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Yapı Kredi",
+    "lat": 37.2102395,
+    "lon": 28.3586869,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Şekerbank",
+    "lat": 37.2102305,
+    "lon": 28.3587023,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Ziraat Bankası",
+    "lat": 37.2102219,
+    "lon": 28.3587171,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "Akbank",
+    "lat": 37.2103207,
+    "lon": 28.3585476,
+    "distance_m": 707
+  },
+  {
+    "name": "ATM",
+    "operator": "TEB",
+    "lat": 37.2103124,
+    "lon": 28.3585621,
+    "distance_m": 707
+  },
+  {
+    "name": "ATM",
+    "operator": "Garanti Bankası",
+    "lat": 37.2099362,
+    "lon": 28.3583378,
+    "distance_m": 752
+  }
+]

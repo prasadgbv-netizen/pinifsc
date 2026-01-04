@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.2603848,
+    "lon": 75.9497547,
+    "distance_m": 1069
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 11.2607152,
+    "lon": 75.9534934,
+    "distance_m": 1100
+  },
+  {
+    "name": "ATM",
+    "operator": "Gramin Bank",
+    "lat": 11.2600281,
+    "lon": 75.9541597,
+    "distance_m": 1198
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "Punjab National Bank",
+    "lat": 11.246011,
+    "lon": 75.95346,
+    "distance_m": 2694
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi ATM",
+    "lat": 11.2947084,
+    "lon": 75.9475504,
+    "distance_m": 2760
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 11.2950343,
+    "lon": 75.9475675,
+    "distance_m": 2796
+  }
+]

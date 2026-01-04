@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Andhra Bank ATM",
+    "operator": "",
+    "lat": 17.4101857,
+    "lon": 78.6047289,
+    "distance_m": 372
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.4067359,
+    "lon": 78.5939317,
+    "distance_m": 835
+  }
+]

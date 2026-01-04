@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 11.0004761,
+    "lon": 76.9736382,
+    "distance_m": 358
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.9950806,
+    "lon": 76.9711401,
+    "distance_m": 551
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi villas bank",
+    "lat": 10.994968,
+    "lon": 76.9730421,
+    "distance_m": 628
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 10.9950366,
+    "lon": 76.9737163,
+    "distance_m": 659
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.9946611,
+    "lon": 76.9666916,
+    "distance_m": 716
+  },
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.9950802,
+    "lon": 76.9748889,
+    "distance_m": 734
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.9953806,
+    "lon": 76.9754253,
+    "distance_m": 751
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.9941354,
+    "lon": 76.9651478,
+    "distance_m": 866
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.008244,
+    "lon": 76.97052,
+    "distance_m": 918
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 10.9958373,
+    "lon": 76.9778587,
+    "distance_m": 937
+  }
+]

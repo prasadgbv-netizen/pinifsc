@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of Maharstra ATM",
+    "operator": "Bank of Maharastra",
+    "lat": 25.6914463,
+    "lon": 85.2131389,
+    "distance_m": 182
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.6922866,
+    "lon": 85.2135486,
+    "distance_m": 233
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 25.6939258,
+    "lon": 85.2126357,
+    "distance_m": 285
+  },
+  {
+    "name": "SBI",
+    "operator": "SBI",
+    "lat": 25.6920993,
+    "lon": 85.2082075,
+    "distance_m": 317
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.6947981,
+    "lon": 85.2129403,
+    "distance_m": 386
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis bank",
+    "lat": 25.690463,
+    "lon": 85.2076044,
+    "distance_m": 395
+  },
+  {
+    "name": "india 1 ATM",
+    "operator": "",
+    "lat": 25.695178,
+    "lon": 85.2145405,
+    "distance_m": 508
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.6916654,
+    "lon": 85.2193817,
+    "distance_m": 806
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 25.7015235,
+    "lon": 85.2162756,
+    "distance_m": 1205
+  },
+  {
+    "name": "indicash ATM",
+    "operator": "TATA",
+    "lat": 25.6944987,
+    "lon": 85.226395,
+    "distance_m": 1542
+  }
+]

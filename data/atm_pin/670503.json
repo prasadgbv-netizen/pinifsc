@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Madayi Bank ATM",
+    "operator": "",
+    "lat": 12.0709227,
+    "lon": 75.2933466,
+    "distance_m": 29
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ATM",
+    "lat": 12.0683805,
+    "lon": 75.2949479,
+    "distance_m": 302
+  }
+]

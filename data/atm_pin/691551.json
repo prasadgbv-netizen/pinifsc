@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA ATM",
+    "lat": 9.8743951,
+    "lon": 76.4958924,
+    "distance_m": 1620
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.8747274,
+    "lon": 76.4883648,
+    "distance_m": 2427
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.8747072,
+    "lon": 76.4883619,
+    "distance_m": 2427
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 9.8750311,
+    "lon": 76.4878142,
+    "distance_m": 2493
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.8766022,
+    "lon": 76.4875346,
+    "distance_m": 2568
+  }
+]

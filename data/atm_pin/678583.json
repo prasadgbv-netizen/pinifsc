@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "hdfc",
+    "lat": 10.9900535,
+    "lon": 76.4539484,
+    "distance_m": 1710
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9916858,
+    "lon": 76.4567766,
+    "distance_m": 2028
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9922542,
+    "lon": 76.4569305,
+    "distance_m": 2051
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9938693,
+    "lon": 76.4644222,
+    "distance_m": 2886
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9938063,
+    "lon": 76.4654388,
+    "distance_m": 2995
+  }
+]

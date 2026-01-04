@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank ATM",
+    "lat": 8.7501753,
+    "lon": 76.9367713,
+    "distance_m": 907
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM Kallara",
+    "lat": 8.7501375,
+    "lon": 76.937465,
+    "distance_m": 978
+  }
+]

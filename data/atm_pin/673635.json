@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 11.1323846,
+    "lon": 75.8943222,
+    "distance_m": 54
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 11.1323489,
+    "lon": 75.8941637,
+    "distance_m": 70
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 11.1348986,
+    "lon": 75.8917797,
+    "distance_m": 400
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1518598,
+    "lon": 75.8936097,
+    "distance_m": 2132
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDRAL BANK ATM",
+    "lat": 11.1138476,
+    "lon": 75.8904974,
+    "distance_m": 2146
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.1529105,
+    "lon": 75.8929671,
+    "distance_m": 2254
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 11.1112732,
+    "lon": 75.8903976,
+    "distance_m": 2429
+  },
+  {
+    "name": "South Indian Bank ATM",
+    "operator": "South Indian Bank",
+    "lat": 11.1113274,
+    "lon": 75.8896993,
+    "distance_m": 2439
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1495266,
+    "lon": 75.9116877,
+    "distance_m": 2633
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1499277,
+    "lon": 75.9123496,
+    "distance_m": 2715
+  }
+]

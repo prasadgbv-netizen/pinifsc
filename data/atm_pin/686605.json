@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.7857793,
+    "lon": 76.4436343,
+    "distance_m": 89
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI BANK ATM",
+    "lat": 9.7855031,
+    "lon": 76.4457416,
+    "distance_m": 322
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM And CDM",
+    "lat": 9.7864394,
+    "lon": 76.4398872,
+    "distance_m": 327
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank and Atm",
+    "lat": 9.7846558,
+    "lon": 76.4477977,
+    "distance_m": 561
+  }
+]

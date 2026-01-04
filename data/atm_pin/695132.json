@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank",
+    "lat": 8.3871277,
+    "lon": 77.1132183,
+    "distance_m": 1937
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 8.3865101,
+    "lon": 77.1300599,
+    "distance_m": 2870
+  }
+]

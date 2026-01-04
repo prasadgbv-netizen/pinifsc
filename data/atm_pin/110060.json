@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6356162,
+    "lon": 77.1855851,
+    "distance_m": 270
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.6477737,
+    "lon": 77.1839471,
+    "distance_m": 1231
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6458869,
+    "lon": 77.1723786,
+    "distance_m": 1461
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6499265,
+    "lon": 77.1832978,
+    "distance_m": 1468
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.6499529,
+    "lon": 77.1832307,
+    "distance_m": 1471
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6493851,
+    "lon": 77.1938823,
+    "distance_m": 1757
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.6520236,
+    "lon": 77.192417,
+    "distance_m": 1928
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6517481,
+    "lon": 77.1942974,
+    "distance_m": 1995
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.6249115,
+    "lon": 77.2010875,
+    "distance_m": 2191
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.641708,
+    "lon": 77.2048736,
+    "distance_m": 2194
+  }
+]

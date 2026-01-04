@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 22.5220399,
+    "lon": 88.3304488,
+    "distance_m": 658
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 22.5252392,
+    "lon": 88.3440289,
+    "distance_m": 1920
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 22.5088282,
+    "lon": 88.3332988,
+    "distance_m": 2037
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 22.5088529,
+    "lon": 88.3335657,
+    "distance_m": 2046
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 22.5043269,
+    "lon": 88.3191582,
+    "distance_m": 2450
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshimi Bank",
+    "lat": 22.516973,
+    "lon": 88.3490634,
+    "distance_m": 2619
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.5167897,
+    "lon": 88.3497392,
+    "distance_m": 2691
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.5167971,
+    "lon": 88.3497928,
+    "distance_m": 2696
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank ATM",
+    "lat": 22.5372375,
+    "lon": 88.3485487,
+    "distance_m": 2712
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5158179,
+    "lon": 88.3500578,
+    "distance_m": 2763
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.6063744,
+    "lon": 77.0350935,
+    "distance_m": 630
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.6082668,
+    "lon": 77.0351862,
+    "distance_m": 638
+  },
+  {
+    "name": "ATM",
+    "operator": "pnb atm",
+    "lat": 28.6022996,
+    "lon": 77.0472671,
+    "distance_m": 755
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.6117511,
+    "lon": 77.0331868,
+    "distance_m": 979
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6130743,
+    "lon": 77.0336395,
+    "distance_m": 1034
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjan National Bank",
+    "lat": 28.5960809,
+    "lon": 77.0408019,
+    "distance_m": 1200
+  },
+  {
+    "name": "ATM",
+    "operator": "Kangra Bank ATM",
+    "lat": 28.6179972,
+    "lon": 77.0315018,
+    "distance_m": 1578
+  },
+  {
+    "name": "Bank of Maharashtra",
+    "operator": "Bank of Maharashtra",
+    "lat": 28.5928289,
+    "lon": 77.0457462,
+    "distance_m": 1613
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.6186791,
+    "lon": 77.0319113,
+    "distance_m": 1614
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.6187285,
+    "lon": 77.0319119,
+    "distance_m": 1619
+  }
+]

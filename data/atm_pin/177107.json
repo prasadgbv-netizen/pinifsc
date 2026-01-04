@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 31.8476615,
+    "lon": 76.2056552,
+    "distance_m": 2816
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 31.8479026,
+    "lon": 76.2050552,
+    "distance_m": 2854
+  }
+]

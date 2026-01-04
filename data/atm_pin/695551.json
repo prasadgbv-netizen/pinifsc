@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 8.6743726,
+    "lon": 77.0926505,
+    "distance_m": 1790
+  },
+  {
+    "name": "Federal bank Atm",
+    "operator": "",
+    "lat": 8.6761414,
+    "lon": 77.0954048,
+    "distance_m": 1864
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 8.6701118,
+    "lon": 77.0847021,
+    "distance_m": 2022
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6705794,
+    "lon": 77.083915,
+    "distance_m": 2123
+  }
+]

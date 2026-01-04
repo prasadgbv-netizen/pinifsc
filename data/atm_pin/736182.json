@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8603784,
+    "lon": 89.3803418,
+    "distance_m": 2487
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Bhutan",
+    "lat": 26.8616089,
+    "lon": 89.3803292,
+    "distance_m": 2612
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Bhutan",
+    "lat": 26.861891,
+    "lon": 89.3811968,
+    "distance_m": 2675
+  },
+  {
+    "name": "ATM",
+    "operator": "Tashi Bank Ltd",
+    "lat": 26.8620136,
+    "lon": 89.3818394,
+    "distance_m": 2715
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Bhutan",
+    "lat": 26.8620099,
+    "lon": 89.3821729,
+    "distance_m": 2729
+  }
+]

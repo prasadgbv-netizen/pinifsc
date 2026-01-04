@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.5126485,
+    "lon": 77.0211473,
+    "distance_m": 2811
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.4947375,
+    "lon": 77.0611782,
+    "distance_m": 2967
+  }
+]

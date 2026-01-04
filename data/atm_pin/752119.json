@@ -1,0 +1,44 @@
+[
+  {
+    "name": "UCO Bank ATM",
+    "operator": "UCO Bank",
+    "lat": 20.0021657,
+    "lon": 86.1959114,
+    "distance_m": 2679
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 20.0023587,
+    "lon": 86.1948922,
+    "distance_m": 2760
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 20.0023597,
+    "lon": 86.1948118,
+    "distance_m": 2767
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 20.003237,
+    "lon": 86.1921885,
+    "distance_m": 2965
+  },
+  {
+    "name": "Odisha Gramya Bank",
+    "operator": "Odisha Gramya Bank",
+    "lat": 20.0037326,
+    "lon": 86.1919149,
+    "distance_m": 2968
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 20.0039596,
+    "lon": 86.1915908,
+    "distance_m": 2988
+  }
+]

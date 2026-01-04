@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "icici bank",
+    "lat": 9.0057547,
+    "lon": 76.7761482,
+    "distance_m": 930
+  },
+  {
+    "name": "Federal bank",
+    "operator": "",
+    "lat": 9.0056307,
+    "lon": 76.7765391,
+    "distance_m": 952
+  },
+  {
+    "name": "STATE BANK ATM",
+    "operator": "STATE BANK ATM",
+    "lat": 8.9913531,
+    "lon": 76.7756827,
+    "distance_m": 1146
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank ATM",
+    "lat": 9.0056009,
+    "lon": 76.7804907,
+    "distance_m": 1309
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 9.0057097,
+    "lon": 76.7809628,
+    "distance_m": 1361
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank",
+    "lat": 8.9982834,
+    "lon": 76.7823835,
+    "distance_m": 1373
+  },
+  {
+    "name": "ATM",
+    "operator": "Coorporation Bank Atm",
+    "lat": 9.0037339,
+    "lon": 76.7830396,
+    "distance_m": 1491
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.0062975,
+    "lon": 76.7839051,
+    "distance_m": 1680
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 9.0072901,
+    "lon": 76.7838593,
+    "distance_m": 1724
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.9931578,
+    "lon": 76.7501568,
+    "distance_m": 2308
+  }
+]

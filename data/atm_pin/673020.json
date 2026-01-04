@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.28209,
+    "lon": 75.7889097,
+    "distance_m": 374
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2883124,
+    "lon": 75.7857059,
+    "distance_m": 661
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 11.2881336,
+    "lon": 75.7854592,
+    "distance_m": 673
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank",
+    "lat": 11.2879101,
+    "lon": 75.7815887,
+    "distance_m": 1047
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 11.2788213,
+    "lon": 75.7826767,
+    "distance_m": 1110
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2758533,
+    "lon": 75.785424,
+    "distance_m": 1164
+  },
+  {
+    "name": "ATM",
+    "operator": "SYNDICATE BANK",
+    "lat": 11.2867665,
+    "lon": 75.8032366,
+    "distance_m": 1380
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "",
+    "lat": 11.2872282,
+    "lon": 75.8032053,
+    "distance_m": 1385
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 11.2872343,
+    "lon": 75.8033169,
+    "distance_m": 1397
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 11.2980935,
+    "lon": 75.793438,
+    "distance_m": 1490
+  }
+]

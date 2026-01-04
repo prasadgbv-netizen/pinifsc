@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.9900024,
+    "lon": 77.7300331,
+    "distance_m": 3
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.9893992,
+    "lon": 77.7288793,
+    "distance_m": 127
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.9879525,
+    "lon": 77.7297609,
+    "distance_m": 228
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.9881176,
+    "lon": 77.7271175,
+    "distance_m": 349
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.9868945,
+    "lon": 77.7323964,
+    "distance_m": 416
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.9891453,
+    "lon": 77.725441,
+    "distance_m": 453
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.9887614,
+    "lon": 77.7254992,
+    "distance_m": 458
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.9883883,
+    "lon": 77.7186242,
+    "distance_m": 1120
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 28.9802702,
+    "lon": 77.7343647,
+    "distance_m": 1162
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.979058,
+    "lon": 77.7318247,
+    "distance_m": 1229
+  }
+]

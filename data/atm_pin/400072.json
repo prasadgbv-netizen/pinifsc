@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Kotak Mahindra bank ATM",
+    "operator": "",
+    "lat": 19.1043253,
+    "lon": 72.887046,
+    "distance_m": 1616
+  },
+  {
+    "name": "ATM",
+    "operator": "Bharat Co-op Bank",
+    "lat": 19.1149556,
+    "lon": 72.9068158,
+    "distance_m": 1798
+  },
+  {
+    "name": "ATM",
+    "operator": "Apna Sahakari Bank Ltd",
+    "lat": 19.1150011,
+    "lon": 72.9068674,
+    "distance_m": 1802
+  },
+  {
+    "name": "ATM",
+    "operator": "Jana Small Finance Bank",
+    "lat": 19.1152112,
+    "lon": 72.907777,
+    "distance_m": 1890
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 19.1158805,
+    "lon": 72.9093316,
+    "distance_m": 2038
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.1165397,
+    "lon": 72.9097557,
+    "distance_m": 2073
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0979381,
+    "lon": 72.8880744,
+    "distance_m": 2304
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.1118251,
+    "lon": 72.8673188,
+    "distance_m": 2511
+  },
+  {
+    "name": "SBI ATM State Bank of India, Kotak Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 19.1000752,
+    "lon": 72.8752069,
+    "distance_m": 2586
+  },
+  {
+    "name": "Indusind bank ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.0989697,
+    "lon": 72.8754902,
+    "distance_m": 2667
+  }
+]

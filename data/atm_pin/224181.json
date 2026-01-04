@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Baroda",
+    "operator": "",
+    "lat": 26.9128525,
+    "lon": 70.9156675,
+    "distance_m": 351
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 26.9126858,
+    "lon": 70.9155769,
+    "distance_m": 368
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 26.9116998,
+    "lon": 70.9150576,
+    "distance_m": 474
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.9113169,
+    "lon": 70.9151281,
+    "distance_m": 496
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.9175944,
+    "lon": 70.9132937,
+    "distance_m": 650
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.9144048,
+    "lon": 70.9118087,
+    "distance_m": 690
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 26.9142501,
+    "lon": 70.9117453,
+    "distance_m": 697
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 26.9194968,
+    "lon": 70.9145674,
+    "distance_m": 705
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 26.9149435,
+    "lon": 70.9112856,
+    "distance_m": 745
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 26.9161353,
+    "lon": 70.9112138,
+    "distance_m": 774
+  }
+]

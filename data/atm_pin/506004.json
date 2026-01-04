@@ -1,0 +1,37 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 17.9809327,
+    "lon": 79.5323887,
+    "distance_m": 344
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 17.9846201,
+    "lon": 79.5228457,
+    "distance_m": 773
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 17.9948505,
+    "lon": 79.545802,
+    "distance_m": 2335
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.9977633,
+    "lon": 79.5446821,
+    "distance_m": 2479
+  },
+  {
+    "name": "State Bank of Hyderabad ATM",
+    "operator": "",
+    "lat": 18.0045751,
+    "lon": 79.5418239,
+    "distance_m": 2937
+  }
+]

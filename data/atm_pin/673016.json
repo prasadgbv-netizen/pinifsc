@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab Bank ATM",
+    "lat": 11.2532629,
+    "lon": 75.827086,
+    "distance_m": 482
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2509046,
+    "lon": 75.8419961,
+    "distance_m": 1312
+  },
+  {
+    "name": "ATM",
+    "operator": "Kozhikode District Co-operative Bank",
+    "lat": 11.2311847,
+    "lon": 75.8170493,
+    "distance_m": 2524
+  },
+  {
+    "name": "Chevayur service co-operative bank",
+    "operator": "",
+    "lat": 11.2624782,
+    "lon": 75.8092677,
+    "distance_m": 2652
+  },
+  {
+    "name": "ICICI bank",
+    "operator": "",
+    "lat": 11.2611483,
+    "lon": 75.8083919,
+    "distance_m": 2662
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 11.2601659,
+    "lon": 75.8076757,
+    "distance_m": 2684
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2730547,
+    "lon": 75.8382507,
+    "distance_m": 2716
+  },
+  {
+    "name": "Union bank",
+    "operator": "",
+    "lat": 11.2589885,
+    "lon": 75.8066555,
+    "distance_m": 2735
+  }
+]

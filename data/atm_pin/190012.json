@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "JAMMU AND KASHMIR BANK",
+    "lat": 34.1106175,
+    "lon": 74.7351808,
+    "distance_m": 1074
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.1091497,
+    "lon": 74.7464355,
+    "distance_m": 1422
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0887392,
+    "lon": 74.7600772,
+    "distance_m": 2715
+  }
+]

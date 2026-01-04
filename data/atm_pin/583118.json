@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 15.1531172,
+    "lon": 76.9339145,
+    "distance_m": 539
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "",
+    "lat": 15.1584599,
+    "lon": 76.933441,
+    "distance_m": 1132
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "",
+    "lat": 15.134439,
+    "lon": 76.930481,
+    "distance_m": 1633
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 15.1367376,
+    "lon": 76.9190423,
+    "distance_m": 2163
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 19.8129287,
+    "lon": 85.8306484,
+    "distance_m": 47
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.8099937,
+    "lon": 85.8244292,
+    "distance_m": 766
+  },
+  {
+    "name": "Central Bank",
+    "operator": "",
+    "lat": 19.8069349,
+    "lon": 85.821671,
+    "distance_m": 1185
+  },
+  {
+    "name": "IDBI",
+    "operator": "",
+    "lat": 19.7949439,
+    "lon": 85.8237921,
+    "distance_m": 2133
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 19.7954426,
+    "lon": 85.8188693,
+    "distance_m": 2320
+  },
+  {
+    "name": "UCO",
+    "operator": "",
+    "lat": 19.7939425,
+    "lon": 85.8202923,
+    "distance_m": 2387
+  }
+]

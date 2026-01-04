@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indus Bank",
+    "lat": 9.5952669,
+    "lon": 76.5172959,
+    "distance_m": 318
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5984068,
+    "lon": 76.5172816,
+    "distance_m": 462
+  },
+  {
+    "name": "ATM",
+    "operator": "indian overseas bank atm",
+    "lat": 9.5910148,
+    "lon": 76.5210942,
+    "distance_m": 497
+  },
+  {
+    "name": "Union bank of india ATM",
+    "operator": "",
+    "lat": 9.5920693,
+    "lon": 76.5250307,
+    "distance_m": 646
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank",
+    "lat": 9.5896438,
+    "lon": 76.5225548,
+    "distance_m": 690
+  },
+  {
+    "name": "ATM",
+    "operator": "city union bank ATM",
+    "lat": 9.5892942,
+    "lon": 76.5180102,
+    "distance_m": 720
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5889637,
+    "lon": 76.5218784,
+    "distance_m": 738
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5902108,
+    "lon": 76.5156101,
+    "distance_m": 765
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.6031228,
+    "lon": 76.5166978,
+    "distance_m": 940
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5892829,
+    "lon": 76.5271541,
+    "distance_m": 1021
+  }
+]

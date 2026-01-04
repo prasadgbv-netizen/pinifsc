@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lakshmi Vilas Bank ATM",
+    "operator": "",
+    "lat": 13.0212073,
+    "lon": 77.6284431,
+    "distance_m": 880
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.02084,
+    "lon": 77.63612,
+    "distance_m": 1078
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0234056,
+    "lon": 77.6296912,
+    "distance_m": 1113
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0050034,
+    "lon": 77.6233355,
+    "distance_m": 1162
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 13.0217371,
+    "lon": 77.6370282,
+    "distance_m": 1217
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0042947,
+    "lon": 77.6229746,
+    "distance_m": 1249
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.00594,
+    "lon": 77.6386489,
+    "distance_m": 1271
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0019326,
+    "lon": 77.6317974,
+    "distance_m": 1293
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0039002,
+    "lon": 77.6227483,
+    "distance_m": 1299
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0030193,
+    "lon": 77.6353183,
+    "distance_m": 1301
+  }
+]

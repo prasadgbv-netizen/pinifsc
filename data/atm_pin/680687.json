@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.3338704,
+    "lon": 76.1774616,
+    "distance_m": 2668
+  },
+  {
+    "name": "ATM",
+    "operator": "Fedral bank",
+    "lat": 10.3338748,
+    "lon": 76.1774575,
+    "distance_m": 2669
+  }
+]

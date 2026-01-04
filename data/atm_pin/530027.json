@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India1",
+    "lat": 17.7616279,
+    "lon": 83.2170393,
+    "distance_m": 437
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7686408,
+    "lon": 83.2173428,
+    "distance_m": 840
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 17.7525112,
+    "lon": 83.2180041,
+    "distance_m": 1107
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7518555,
+    "lon": 83.2180663,
+    "distance_m": 1175
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 17.7489455,
+    "lon": 83.219232,
+    "distance_m": 1467
+  },
+  {
+    "name": "India1",
+    "operator": "",
+    "lat": 17.7759176,
+    "lon": 83.2168151,
+    "distance_m": 1613
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7769475,
+    "lon": 83.2165815,
+    "distance_m": 1729
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.778111,
+    "lon": 83.2159285,
+    "distance_m": 1873
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 17.7781243,
+    "lon": 83.2159198,
+    "distance_m": 1875
+  },
+  {
+    "name": "ATM",
+    "operator": "Kanaka Mahalaxmi Cooperative Bank",
+    "lat": 17.7442349,
+    "lon": 83.2281788,
+    "distance_m": 2111
+  }
+]

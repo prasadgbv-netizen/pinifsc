@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 15.722205,
+    "lon": 75.3860817,
+    "distance_m": 753
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 15.7235011,
+    "lon": 75.3835531,
+    "distance_m": 874
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 15.7238515,
+    "lon": 75.3866105,
+    "distance_m": 944
+  }
+]

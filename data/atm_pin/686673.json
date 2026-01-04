@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.9924786,
+    "lon": 76.5848577,
+    "distance_m": 276
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 9.9929724,
+    "lon": 76.5877495,
+    "distance_m": 572
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA",
+    "lat": 9.9928254,
+    "lon": 76.5880703,
+    "distance_m": 597
+  },
+  {
+    "name": "Kerala Bank",
+    "operator": "Kerala Bank",
+    "lat": 9.9859499,
+    "lon": 76.5777264,
+    "distance_m": 789
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.9827998,
+    "lon": 76.5793117,
+    "distance_m": 974
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9815051,
+    "lon": 76.5851091,
+    "distance_m": 1054
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.9797197,
+    "lon": 76.5847834,
+    "distance_m": 1242
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9792999,
+    "lon": 76.5812069,
+    "distance_m": 1290
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.978978,
+    "lon": 76.5871496,
+    "distance_m": 1385
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.9765314,
+    "lon": 76.5793871,
+    "distance_m": 1631
+  }
+]

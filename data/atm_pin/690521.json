@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI sasthamcotta",
+    "lat": 9.0441064,
+    "lon": 76.6237427,
+    "distance_m": 923
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 9.0580278,
+    "lon": 76.6377863,
+    "distance_m": 1261
+  },
+  {
+    "name": "ATM",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.0588591,
+    "lon": 76.6408943,
+    "distance_m": 1580
+  },
+  {
+    "name": "ATM",
+    "operator": "central bank atm",
+    "lat": 9.0455886,
+    "lon": 76.6494365,
+    "distance_m": 2240
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 9.0325822,
+    "lon": 76.6495174,
+    "distance_m": 2933
+  }
+]

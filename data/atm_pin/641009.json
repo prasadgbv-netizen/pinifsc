@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.013299,
+    "lon": 76.9646084,
+    "distance_m": 303
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0083413,
+    "lon": 76.9667546,
+    "distance_m": 304
+  },
+  {
+    "name": "ATM",
+    "operator": "KVB",
+    "lat": 11.0135289,
+    "lon": 76.9672686,
+    "distance_m": 308
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.0151494,
+    "lon": 76.9676182,
+    "distance_m": 490
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.008244,
+    "lon": 76.97052,
+    "distance_m": 571
+  },
+  {
+    "name": "Dhanlaxmi Bank",
+    "operator": "Dhanlaxmi Bank",
+    "lat": 11.0164675,
+    "lon": 76.9632872,
+    "distance_m": 681
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0162782,
+    "lon": 76.9695741,
+    "distance_m": 698
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 11.0171427,
+    "lon": 76.9643142,
+    "distance_m": 710
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 11.0194813,
+    "lon": 76.9641976,
+    "distance_m": 965
+  },
+  {
+    "name": "ATM",
+    "operator": "AXIS",
+    "lat": 11.0192162,
+    "lon": 76.9629675,
+    "distance_m": 975
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.5087084,
+    "lon": 76.6636903,
+    "distance_m": 2591
+  },
+  {
+    "name": "Poovathumoottil arcade",
+    "operator": "Federal atm",
+    "lat": 9.50134,
+    "lon": 76.6396717,
+    "distance_m": 2767
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5033903,
+    "lon": 76.6405145,
+    "distance_m": 2847
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB",
+    "lat": 9.5015151,
+    "lon": 76.6384264,
+    "distance_m": 2887
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Central Bank of India",
+    "operator": "",
+    "lat": 26.6626742,
+    "lon": 79.1742905,
+    "distance_m": 346
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 26.662869,
+    "lon": 79.1746303,
+    "distance_m": 347
+  }
+]

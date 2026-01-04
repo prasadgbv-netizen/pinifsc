@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 12.6198928,
+    "lon": 80.1943592,
+    "distance_m": 2151
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.6193661,
+    "lon": 80.1943978,
+    "distance_m": 2210
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.6178924,
+    "lon": 80.1941041,
+    "distance_m": 2371
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.6167742,
+    "lon": 80.1937743,
+    "distance_m": 2493
+  }
+]

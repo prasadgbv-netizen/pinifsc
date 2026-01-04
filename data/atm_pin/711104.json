@@ -1,0 +1,23 @@
+[
+  {
+    "name": "58 Bus stand",
+    "operator": "United Bank of India",
+    "lat": 22.5705956,
+    "lon": 88.3109829,
+    "distance_m": 1497
+  },
+  {
+    "name": "Mandir tala",
+    "operator": "Axis Bank",
+    "lat": 22.5699611,
+    "lon": 88.3176768,
+    "distance_m": 1797
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.5649372,
+    "lon": 88.3211869,
+    "distance_m": 2462
+  }
+]

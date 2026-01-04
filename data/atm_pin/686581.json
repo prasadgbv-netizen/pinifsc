@@ -1,0 +1,30 @@
+[
+  {
+    "name": "sib atm",
+    "operator": "",
+    "lat": 9.6721849,
+    "lon": 76.7966065,
+    "distance_m": 140
+  },
+  {
+    "name": "Meenachil coop bank atm",
+    "operator": "",
+    "lat": 9.6707371,
+    "lon": 76.81523,
+    "distance_m": 1921
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.6818381,
+    "lon": 76.7790802,
+    "distance_m": 2341
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 9.6868115,
+    "lon": 76.7780286,
+    "distance_m": 2744
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "State Bank Of India ATM & CDM",
+    "operator": "State Bank Of India, Puliyoor Branch",
+    "lat": 9.3073462,
+    "lon": 76.5877947,
+    "distance_m": 2441
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.3024515,
+    "lon": 76.5870556,
+    "distance_m": 2907
+  }
+]

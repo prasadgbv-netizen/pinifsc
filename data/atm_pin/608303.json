@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank(IOB) ATM",
+    "lat": 11.2986752,
+    "lon": 79.5552733,
+    "distance_m": 1873
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 11.2996517,
+    "lon": 79.5545156,
+    "distance_m": 2000
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.2990046,
+    "lon": 79.5538839,
+    "distance_m": 2022
+  }
+]

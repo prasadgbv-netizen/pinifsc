@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 12.9264381,
+    "lon": 77.5691045,
+    "distance_m": 59
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.9269195,
+    "lon": 77.5682037,
+    "distance_m": 167
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9239653,
+    "lon": 77.5705721,
+    "distance_m": 289
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9301278,
+    "lon": 77.5636876,
+    "distance_m": 767
+  },
+  {
+    "name": "Citibank ATM Jayanagar 7th Block",
+    "operator": "Citibank",
+    "lat": 12.9238284,
+    "lon": 77.5763354,
+    "distance_m": 778
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9278968,
+    "lon": 77.5622171,
+    "distance_m": 822
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.931931,
+    "lon": 77.5640576,
+    "distance_m": 862
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank ATM",
+    "lat": 12.9174899,
+    "lon": 77.5732745,
+    "distance_m": 1067
+  },
+  {
+    "name": "State ATM",
+    "operator": "RSBL",
+    "lat": 12.935048,
+    "lon": 77.5743056,
+    "distance_m": 1084
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9351238,
+    "lon": 77.5741634,
+    "distance_m": 1084
+  }
+]

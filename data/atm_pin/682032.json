@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 9.9801685,
+    "lon": 76.3135695,
+    "distance_m": 471
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9903793,
+    "lon": 76.309784,
+    "distance_m": 738
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.9738043,
+    "lon": 76.3099311,
+    "distance_m": 1187
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9732696,
+    "lon": 76.3081347,
+    "distance_m": 1300
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 9.972414,
+    "lon": 76.3040515,
+    "distance_m": 1594
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.9687743,
+    "lon": 76.3156547,
+    "distance_m": 1756
+  },
+  {
+    "name": "Dhanlaxmi Bank",
+    "operator": "Dhanlaxmi Bank",
+    "lat": 9.9689455,
+    "lon": 76.3167515,
+    "distance_m": 1767
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.9869091,
+    "lon": 76.2961274,
+    "distance_m": 1796
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT, Vyttila",
+    "lat": 9.9680115,
+    "lon": 76.3120781,
+    "distance_m": 1802
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 9.9679172,
+    "lon": 76.3119848,
+    "distance_m": 1813
+  }
+]

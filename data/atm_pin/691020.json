@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.8724175,
+    "lon": 76.6380173,
+    "distance_m": 345
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.875412,
+    "lon": 76.6261005,
+    "distance_m": 1641
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 8.8529144,
+    "lon": 76.6372285,
+    "distance_m": 1924
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.8929152,
+    "lon": 76.6312292,
+    "distance_m": 2724
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 8.8575967,
+    "lon": 76.6180539,
+    "distance_m": 2777
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 8.895404,
+    "lon": 76.6396379,
+    "distance_m": 2825
+  }
+]

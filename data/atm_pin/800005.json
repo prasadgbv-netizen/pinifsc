@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.6204014,
+    "lon": 85.1716922,
+    "distance_m": 396
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 25.6055865,
+    "lon": 85.1707144,
+    "distance_m": 1452
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 25.602128,
+    "lon": 85.1617199,
+    "distance_m": 1935
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 25.6171282,
+    "lon": 85.1488702,
+    "distance_m": 1959
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 25.6010521,
+    "lon": 85.1649128,
+    "distance_m": 1967
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.5991625,
+    "lon": 85.1646497,
+    "distance_m": 2179
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.5996225,
+    "lon": 85.1593708,
+    "distance_m": 2281
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.5975848,
+    "lon": 85.1642688,
+    "distance_m": 2358
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 25.5975732,
+    "lon": 85.1640328,
+    "distance_m": 2364
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI ATM",
+    "lat": 25.5975036,
+    "lon": 85.1642516,
+    "distance_m": 2367
+  }
+]

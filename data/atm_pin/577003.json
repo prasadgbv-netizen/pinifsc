@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Pragathi Krishna Bank Atm",
+    "operator": "",
+    "lat": 14.4541621,
+    "lon": 75.9363503,
+    "distance_m": 1227
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 14.4486274,
+    "lon": 75.9305373,
+    "distance_m": 1556
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 14.441831,
+    "lon": 75.931266,
+    "distance_m": 1566
+  },
+  {
+    "name": "Bapuji Bank Atm",
+    "operator": "",
+    "lat": 14.4316245,
+    "lon": 75.9416967,
+    "distance_m": 1724
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 14.4581593,
+    "lon": 75.9299919,
+    "distance_m": 2038
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 14.4515661,
+    "lon": 75.9244709,
+    "distance_m": 2259
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 14.4577062,
+    "lon": 75.9269568,
+    "distance_m": 2276
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 14.457727,
+    "lon": 75.9256384,
+    "distance_m": 2399
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 14.4577192,
+    "lon": 75.9255982,
+    "distance_m": 2402
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 14.443248,
+    "lon": 75.922029,
+    "distance_m": 2491
+  }
+]

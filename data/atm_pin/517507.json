@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Karnataka bank",
+    "lat": 13.6323419,
+    "lon": 79.4228859,
+    "distance_m": 2014
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank of India",
+    "lat": 13.632344,
+    "lon": 79.4228949,
+    "distance_m": 2015
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.6226241,
+    "lon": 79.4148374,
+    "distance_m": 2265
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 13.6226417,
+    "lon": 79.4150195,
+    "distance_m": 2270
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 13.6226673,
+    "lon": 79.4152468,
+    "distance_m": 2278
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.6292939,
+    "lon": 79.4260631,
+    "distance_m": 2484
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.6291627,
+    "lon": 79.425994,
+    "distance_m": 2486
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 13.6290789,
+    "lon": 79.4259987,
+    "distance_m": 2491
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 13.6290019,
+    "lon": 79.4260102,
+    "distance_m": 2497
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 13.6289556,
+    "lon": 79.4260015,
+    "distance_m": 2499
+  }
+]

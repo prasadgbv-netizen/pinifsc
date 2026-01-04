@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.9332984,
+    "lon": 77.2740302,
+    "distance_m": 1193
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 8.9569694,
+    "lon": 77.276797,
+    "distance_m": 1638
+  }
+]

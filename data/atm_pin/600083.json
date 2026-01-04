@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0246639,
+    "lon": 80.2165936,
+    "distance_m": 398
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.024672,
+    "lon": 80.217235,
+    "distance_m": 405
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0241666,
+    "lon": 80.217252,
+    "distance_m": 460
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0239202,
+    "lon": 80.2164689,
+    "distance_m": 481
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 13.0278116,
+    "lon": 80.2120008,
+    "distance_m": 492
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0241522,
+    "lon": 80.218528,
+    "distance_m": 504
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 13.0232974,
+    "lon": 80.2163635,
+    "distance_m": 550
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0252072,
+    "lon": 80.2221539,
+    "distance_m": 697
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0277712,
+    "lon": 80.2099479,
+    "distance_m": 714
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0277798,
+    "lon": 80.2099324,
+    "distance_m": 716
+  }
+]

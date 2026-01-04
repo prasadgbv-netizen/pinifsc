@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 30.8696832,
+    "lon": 75.8108615,
+    "distance_m": 551
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 30.8808771,
+    "lon": 75.8197242,
+    "distance_m": 994
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 30.8651313,
+    "lon": 75.8063769,
+    "distance_m": 1207
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.8818359,
+    "lon": 75.8241997,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 30.8573931,
+    "lon": 75.8283547,
+    "distance_m": 2106
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 30.8889108,
+    "lon": 75.8309843,
+    "distance_m": 2333
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.890931,
+    "lon": 75.8289033,
+    "distance_m": 2398
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusind bank",
+    "lat": 30.8897384,
+    "lon": 75.8335439,
+    "distance_m": 2562
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM Machine",
+    "lat": 30.8739441,
+    "lon": 75.8437077,
+    "distance_m": 2703
+  }
+]

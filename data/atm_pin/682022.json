@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.7407473,
+    "lon": 76.3627524,
+    "distance_m": 1243
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank",
+    "lat": 9.7496968,
+    "lon": 76.390922,
+    "distance_m": 2567
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank Atm,Ksrtc Bus Stand Vaikom",
+    "lat": 9.7528853,
+    "lon": 76.391439,
+    "distance_m": 2629
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.1014007,
+    "lon": 72.9107427,
+    "distance_m": 1073
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.102235,
+    "lon": 72.9200154,
+    "distance_m": 1566
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.081938,
+    "lon": 72.8961266,
+    "distance_m": 1825
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.08187,
+    "lon": 72.8961233,
+    "distance_m": 1830
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.081755,
+    "lon": 72.8961094,
+    "distance_m": 1839
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1042663,
+    "lon": 72.921596,
+    "distance_m": 1845
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0816691,
+    "lon": 72.896103,
+    "distance_m": 1845
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0979381,
+    "lon": 72.8880744,
+    "distance_m": 2407
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0723489,
+    "lon": 72.8976559,
+    "distance_m": 2521
+  },
+  {
+    "name": "ATM",
+    "operator": "Bharat Co-op Bank",
+    "lat": 19.1149556,
+    "lon": 72.9068158,
+    "distance_m": 2599
+  }
+]

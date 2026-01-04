@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Bank Of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 10.9786548,
+    "lon": 76.2253702,
+    "distance_m": 291
+  },
+  {
+    "name": "Panchab National Bank",
+    "operator": "Panchab National Bank",
+    "lat": 10.9796908,
+    "lon": 76.2255772,
+    "distance_m": 406
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.9779346,
+    "lon": 76.2081679,
+    "distance_m": 1897
+  }
+]

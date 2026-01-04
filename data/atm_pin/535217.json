@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Andhra Pradesh Grameena Vikas Bank",
+    "operator": "Andhra Pradesh Grameena Vikas Bank",
+    "lat": 18.1227814,
+    "lon": 83.4178269,
+    "distance_m": 1443
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.1093016,
+    "lon": 83.4208666,
+    "distance_m": 2708
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.1125882,
+    "lon": 83.411064,
+    "distance_m": 2780
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.1129723,
+    "lon": 83.410093,
+    "distance_m": 2806
+  }
+]

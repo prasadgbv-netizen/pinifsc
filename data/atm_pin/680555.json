@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.5635724,
+    "lon": 76.1679221,
+    "distance_m": 90
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5523874,
+    "lon": 76.1738568,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC bank ATM",
+    "lat": 10.5765089,
+    "lon": 76.1623469,
+    "distance_m": 1651
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.5627733,
+    "lon": 76.148684,
+    "distance_m": 2125
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 10.5463812,
+    "lon": 76.1788345,
+    "distance_m": 2166
+  }
+]

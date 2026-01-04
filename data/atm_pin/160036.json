@@ -1,0 +1,23 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7164318,
+    "lon": 76.7445256,
+    "distance_m": 2183
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7113768,
+    "lon": 76.7535869,
+    "distance_m": 2708
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 42 Chandigarh",
+    "lat": 30.7234664,
+    "lon": 76.7448209,
+    "distance_m": 2748
+  }
+]

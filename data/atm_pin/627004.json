@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Indian Overseas Bank ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.725905,
+    "lon": 77.6643884,
+    "distance_m": 399
+  },
+  {
+    "name": "City Union Bank",
+    "operator": "",
+    "lat": 8.7259314,
+    "lon": 77.6644606,
+    "distance_m": 407
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.7219248,
+    "lon": 77.6581886,
+    "distance_m": 422
+  },
+  {
+    "name": "Tamilnad Mercantile Bank ATM",
+    "operator": "",
+    "lat": 8.7263211,
+    "lon": 77.6755542,
+    "distance_m": 1556
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 8.7259828,
+    "lon": 77.6787328,
+    "distance_m": 1893
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.7259587,
+    "lon": 77.6788058,
+    "distance_m": 1901
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 8.7259527,
+    "lon": 77.6788408,
+    "distance_m": 1905
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.7254336,
+    "lon": 77.6831919,
+    "distance_m": 2373
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 8.7254291,
+    "lon": 77.6832299,
+    "distance_m": 2377
+  }
+]

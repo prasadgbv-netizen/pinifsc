@@ -1,0 +1,51 @@
+[
+  {
+    "name": "HDFC",
+    "operator": "",
+    "lat": 15.3160675,
+    "lon": 73.9192527,
+    "distance_m": 821
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.3008431,
+    "lon": 73.9211478,
+    "distance_m": 888
+  },
+  {
+    "name": "HDFC",
+    "operator": "",
+    "lat": 15.3182918,
+    "lon": 73.9101386,
+    "distance_m": 1549
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 15.319576,
+    "lon": 73.90802,
+    "distance_m": 1813
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 15.3227364,
+    "lon": 73.907019,
+    "distance_m": 2134
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 15.31706,
+    "lon": 73.942206,
+    "distance_m": 2478
+  },
+  {
+    "name": "HDFC",
+    "operator": "",
+    "lat": 15.3278334,
+    "lon": 73.9343922,
+    "distance_m": 2571
+  }
+]

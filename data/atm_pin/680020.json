@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 10.5269222,
+    "lon": 76.2168325,
+    "distance_m": 272
+  },
+  {
+    "name": "SIB ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.5295272,
+    "lon": 76.2145021,
+    "distance_m": 277
+  },
+  {
+    "name": "Union Bank ATM",
+    "operator": "",
+    "lat": 10.5312317,
+    "lon": 76.2150138,
+    "distance_m": 303
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.5284832,
+    "lon": 76.2141198,
+    "distance_m": 333
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ATM",
+    "lat": 10.5255477,
+    "lon": 76.2176173,
+    "distance_m": 429
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 10.5244559,
+    "lon": 76.2170986,
+    "distance_m": 546
+  },
+  {
+    "name": "Dhanlaxmi Bank",
+    "operator": "Dhanlaxmi Bank",
+    "lat": 10.5266492,
+    "lon": 76.2123181,
+    "distance_m": 597
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi bank",
+    "lat": 10.5266468,
+    "lon": 76.2121661,
+    "distance_m": 612
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.5355394,
+    "lon": 76.2147793,
+    "distance_m": 729
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.5310231,
+    "lon": 76.2234972,
+    "distance_m": 729
+  }
+]

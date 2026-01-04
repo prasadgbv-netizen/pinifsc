@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Badla chouraha",
+    "operator": "State Bank of India",
+    "lat": 25.3379356,
+    "lon": 74.640867,
+    "distance_m": 1920
+  },
+  {
+    "name": "Near Akshay Coffee House",
+    "operator": "HDFC Bank",
+    "lat": 25.3344264,
+    "lon": 74.6423667,
+    "distance_m": 2300
+  },
+  {
+    "name": "Near Akshay Coffee House",
+    "operator": "Sate Bank of India",
+    "lat": 25.3342033,
+    "lon": 74.6422835,
+    "distance_m": 2325
+  }
+]

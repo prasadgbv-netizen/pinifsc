@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3728875,
+    "lon": 78.4735131,
+    "distance_m": 449
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3835174,
+    "lon": 78.4659296,
+    "distance_m": 1053
+  },
+  {
+    "name": "ATM",
+    "operator": "kotak",
+    "lat": 17.3829901,
+    "lon": 78.4748572,
+    "distance_m": 1060
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3721656,
+    "lon": 78.4807267,
+    "distance_m": 1198
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.3866112,
+    "lon": 78.4724462,
+    "distance_m": 1345
+  },
+  {
+    "name": "ATM",
+    "operator": "AXIS",
+    "lat": 17.3633975,
+    "lon": 78.4754189,
+    "distance_m": 1400
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.3622124,
+    "lon": 78.4716365,
+    "distance_m": 1411
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.3871402,
+    "lon": 78.4760952,
+    "distance_m": 1529
+  },
+  {
+    "name": "YES Bank",
+    "operator": "",
+    "lat": 17.3886782,
+    "lon": 78.4737943,
+    "distance_m": 1603
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3785289,
+    "lon": 78.4843675,
+    "distance_m": 1604
+  }
+]

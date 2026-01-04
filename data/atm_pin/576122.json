@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bank of Baroda Atm",
+    "operator": "",
+    "lat": 13.248205,
+    "lon": 74.7681119,
+    "distance_m": 112
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.2595344,
+    "lon": 74.770153,
+    "distance_m": 1388
+  },
+  {
+    "name": "Bank of Baroda ATM",
+    "operator": "",
+    "lat": 13.260127,
+    "lon": 74.7697762,
+    "distance_m": 1448
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 13.2554989,
+    "lon": 74.7848589,
+    "distance_m": 2025
+  }
+]

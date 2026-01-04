@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 12.9256783,
+    "lon": 74.8582306,
+    "distance_m": 1679
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.9248919,
+    "lon": 74.8524969,
+    "distance_m": 1692
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "",
+    "lat": 12.9247926,
+    "lon": 74.8443419,
+    "distance_m": 1969
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.9264658,
+    "lon": 74.8395512,
+    "distance_m": 2141
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9510072,
+    "lon": 74.8722152,
+    "distance_m": 2361
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 12.9139994,
+    "lon": 74.8561687,
+    "distance_m": 2913
+  }
+]

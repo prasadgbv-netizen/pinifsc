@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.3083918,
+    "lon": 72.854467,
+    "distance_m": 1178
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 19.307983,
+    "lon": 72.8550062,
+    "distance_m": 1181
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.3095923,
+    "lon": 72.85305,
+    "distance_m": 1206
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 19.3043989,
+    "lon": 72.8590268,
+    "distance_m": 1307
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra",
+    "lat": 19.3115395,
+    "lon": 72.8522636,
+    "distance_m": 1365
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 19.3048719,
+    "lon": 72.8598777,
+    "distance_m": 1409
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra",
+    "lat": 19.3054194,
+    "lon": 72.8608909,
+    "distance_m": 1531
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 19.3038081,
+    "lon": 72.8637944,
+    "distance_m": 1766
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 19.3037708,
+    "lon": 72.8638977,
+    "distance_m": 1776
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC",
+    "lat": 19.2971296,
+    "lon": 72.8647097,
+    "distance_m": 1845
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.0263288,
+    "lon": 77.0196818,
+    "distance_m": 591
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 11.0259638,
+    "lon": 77.0192162,
+    "distance_m": 629
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.027443,
+    "lon": 77.0235527,
+    "distance_m": 670
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0256161,
+    "lon": 77.0163456,
+    "distance_m": 733
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 11.0332801,
+    "lon": 77.02769,
+    "distance_m": 953
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.0311453,
+    "lon": 77.0287044,
+    "distance_m": 1047
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 11.0314128,
+    "lon": 77.0289941,
+    "distance_m": 1077
+  },
+  {
+    "name": "Dhanlaxmi Bank",
+    "operator": "Dhanlaxmi Bank",
+    "lat": 11.0250059,
+    "lon": 77.0116823,
+    "distance_m": 1095
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0200283,
+    "lon": 77.0187192,
+    "distance_m": 1289
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0242576,
+    "lon": 77.006414,
+    "distance_m": 1610
+  }
+]

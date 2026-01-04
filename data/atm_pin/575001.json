@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.8699963,
+    "lon": 74.8405689,
+    "distance_m": 79
+  },
+  {
+    "name": "ATM",
+    "operator": "J & K Bank ATM",
+    "lat": 12.8691293,
+    "lon": 74.8417884,
+    "distance_m": 96
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "",
+    "lat": 12.8692274,
+    "lon": 74.8418427,
+    "distance_m": 99
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 12.8700917,
+    "lon": 74.8417589,
+    "distance_m": 119
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank ATM",
+    "lat": 12.8702231,
+    "lon": 74.8417975,
+    "distance_m": 132
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank ATM",
+    "lat": 12.870163,
+    "lon": 74.8419495,
+    "distance_m": 139
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 12.86939,
+    "lon": 74.8437839,
+    "distance_m": 308
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 12.869251,
+    "lon": 74.8438594,
+    "distance_m": 317
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 12.8693742,
+    "lon": 74.8441828,
+    "distance_m": 351
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank ATM",
+    "lat": 12.8689618,
+    "lon": 74.8444482,
+    "distance_m": 383
+  }
+]

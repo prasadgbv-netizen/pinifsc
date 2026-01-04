@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6460886,
+    "lon": 77.2070915,
+    "distance_m": 226
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6453308,
+    "lon": 77.211746,
+    "distance_m": 243
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6437322,
+    "lon": 77.2095729,
+    "distance_m": 264
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6417766,
+    "lon": 77.2104626,
+    "distance_m": 492
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.641178,
+    "lon": 77.2106033,
+    "distance_m": 560
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.644321,
+    "lon": 77.2151897,
+    "distance_m": 597
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.641708,
+    "lon": 77.2048736,
+    "distance_m": 660
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.6413467,
+    "lon": 77.2053065,
+    "distance_m": 664
+  },
+  {
+    "name": "AXIS Bank",
+    "operator": "Axis Bank",
+    "lat": 28.6412802,
+    "lon": 77.2147522,
+    "distance_m": 748
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.6413641,
+    "lon": 77.2152163,
+    "distance_m": 773
+  }
+]

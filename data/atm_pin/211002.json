@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4622718,
+    "lon": 81.8563931,
+    "distance_m": 557
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 25.465973,
+    "lon": 81.86197,
+    "distance_m": 1208
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "Punjab National Bank",
+    "lat": 25.466971,
+    "lon": 81.862945,
+    "distance_m": 1356
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 25.4642476,
+    "lon": 81.8656304,
+    "distance_m": 1359
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.463548,
+    "lon": 81.8691613,
+    "distance_m": 1636
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4688312,
+    "lon": 81.8650898,
+    "distance_m": 1653
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4497243,
+    "lon": 81.8390254,
+    "distance_m": 1762
+  },
+  {
+    "name": "Punjab National ATM",
+    "operator": "",
+    "lat": 25.4646294,
+    "lon": 81.870656,
+    "distance_m": 1822
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4390021,
+    "lon": 81.8582631,
+    "distance_m": 2112
+  },
+  {
+    "name": "ATM",
+    "operator": "BOB",
+    "lat": 25.4425594,
+    "lon": 81.8360786,
+    "distance_m": 2477
+  }
+]

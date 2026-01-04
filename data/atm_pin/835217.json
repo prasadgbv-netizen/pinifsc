@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kodak Mahindra Bank ATM",
+    "lat": 23.3712044,
+    "lon": 85.3232251,
+    "distance_m": 254
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.3764194,
+    "lon": 85.3247486,
+    "distance_m": 726
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3625904,
+    "lon": 85.3261665,
+    "distance_m": 817
+  },
+  {
+    "name": "S.B.I A.T.M",
+    "operator": "",
+    "lat": 23.361089,
+    "lon": 85.3262241,
+    "distance_m": 984
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3766412,
+    "lon": 85.3315991,
+    "distance_m": 988
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 23.3592252,
+    "lon": 85.3203685,
+    "distance_m": 1288
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 23.3785938,
+    "lon": 85.3162958,
+    "distance_m": 1332
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 23.3697339,
+    "lon": 85.3118661,
+    "distance_m": 1369
+  },
+  {
+    "name": "Bank of India",
+    "operator": "",
+    "lat": 23.3787497,
+    "lon": 85.3158141,
+    "distance_m": 1379
+  },
+  {
+    "name": "PNB Bank",
+    "operator": "",
+    "lat": 23.3683472,
+    "lon": 85.3106753,
+    "distance_m": 1500
+  }
+]

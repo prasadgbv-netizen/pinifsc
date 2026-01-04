@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 11.3917756,
+    "lon": 79.6855629,
+    "distance_m": 522
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.3884192,
+    "lon": 79.6807428,
+    "distance_m": 1024
+  }
+]

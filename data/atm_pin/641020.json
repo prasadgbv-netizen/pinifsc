@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.1501586,
+    "lon": 76.9437782,
+    "distance_m": 570
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.1679748,
+    "lon": 76.9508689,
+    "distance_m": 1583
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.1695585,
+    "lon": 76.9518608,
+    "distance_m": 1783
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 11.1750211,
+    "lon": 76.954431,
+    "distance_m": 2448
+  }
+]

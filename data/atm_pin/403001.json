@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 15.4980616,
+    "lon": 73.8323476,
+    "distance_m": 150
+  },
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 15.4976103,
+    "lon": 73.8321282,
+    "distance_m": 202
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 15.4959285,
+    "lon": 73.8317336,
+    "distance_m": 394
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.4959838,
+    "lon": 73.8336285,
+    "distance_m": 404
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 15.499016,
+    "lon": 73.8266917,
+    "distance_m": 612
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.4942151,
+    "lon": 73.8353369,
+    "distance_m": 659
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharaashtra",
+    "lat": 15.4992366,
+    "lon": 73.8259246,
+    "distance_m": 692
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 15.5006039,
+    "lon": 73.8260349,
+    "distance_m": 693
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 15.4952004,
+    "lon": 73.8371908,
+    "distance_m": 696
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 15.5004719,
+    "lon": 73.8228099,
+    "distance_m": 1033
+  }
+]

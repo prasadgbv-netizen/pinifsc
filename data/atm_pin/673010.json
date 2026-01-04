@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "DHANALAKSHMI ATM",
+    "lat": 11.2689333,
+    "lon": 75.8094483,
+    "distance_m": 1037
+  },
+  {
+    "name": "IDBI bank",
+    "operator": "",
+    "lat": 11.2586517,
+    "lon": 75.8030248,
+    "distance_m": 1304
+  },
+  {
+    "name": "Chevayur service co-operative bank",
+    "operator": "",
+    "lat": 11.2624782,
+    "lon": 75.8092677,
+    "distance_m": 1311
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 11.2582469,
+    "lon": 75.8024254,
+    "distance_m": 1333
+  },
+  {
+    "name": "ICICI bank",
+    "operator": "",
+    "lat": 11.2611483,
+    "lon": 75.8083919,
+    "distance_m": 1343
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 11.2601659,
+    "lon": 75.8076757,
+    "distance_m": 1377
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 11.2770353,
+    "lon": 75.8104119,
+    "distance_m": 1378
+  },
+  {
+    "name": "Union bank",
+    "operator": "",
+    "lat": 11.2589885,
+    "lon": 75.8066555,
+    "distance_m": 1423
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2758533,
+    "lon": 75.785424,
+    "distance_m": 1717
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.28209,
+    "lon": 75.7889097,
+    "distance_m": 1808
+  }
+]

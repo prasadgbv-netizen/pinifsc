@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 15.8391317,
+    "lon": 74.5211997,
+    "distance_m": 382
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 15.8350215,
+    "lon": 74.5195947,
+    "distance_m": 537
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 15.8339564,
+    "lon": 74.5201406,
+    "distance_m": 669
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 15.8293709,
+    "lon": 74.5186174,
+    "distance_m": 1128
+  },
+  {
+    "name": "ICICI BANK ATM",
+    "operator": "",
+    "lat": 15.83608,
+    "lon": 74.50608,
+    "distance_m": 1292
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 15.8330383,
+    "lon": 74.49653,
+    "distance_m": 2368
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "",
+    "lat": 15.856023,
+    "lon": 74.503636,
+    "distance_m": 2372
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 15.8505073,
+    "lon": 74.4982501,
+    "distance_m": 2409
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI BANK",
+    "lat": 15.8611263,
+    "lon": 74.5076592,
+    "distance_m": 2633
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 15.852689,
+    "lon": 74.495482,
+    "distance_m": 2788
+  }
+]

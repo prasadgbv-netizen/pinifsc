@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 9.227355,
+    "lon": 76.6779246,
+    "distance_m": 136
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 9.2273765,
+    "lon": 76.6778179,
+    "distance_m": 140
+  },
+  {
+    "name": "CSB Bank",
+    "operator": "CSB Bank",
+    "lat": 9.2236617,
+    "lon": 76.6785594,
+    "distance_m": 280
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.2252188,
+    "lon": 76.6748025,
+    "distance_m": 366
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.2295603,
+    "lon": 76.6772826,
+    "distance_m": 389
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.2226376,
+    "lon": 76.6786332,
+    "distance_m": 394
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.2251466,
+    "lon": 76.673475,
+    "distance_m": 509
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.2426462,
+    "lon": 76.6721293,
+    "distance_m": 1946
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.2431094,
+    "lon": 76.6720345,
+    "distance_m": 1998
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.2364645,
+    "lon": 76.6961682,
+    "distance_m": 2300
+  }
+]

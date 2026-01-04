@@ -1,0 +1,37 @@
+[
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 15.4679296,
+    "lon": 74.9937151,
+    "distance_m": 1131
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 15.4691481,
+    "lon": 74.9931723,
+    "distance_m": 1172
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "operator": "",
+    "lat": 15.4571816,
+    "lon": 75.0073465,
+    "distance_m": 1451
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 15.4596301,
+    "lon": 74.993735,
+    "distance_m": 1588
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 15.4473098,
+    "lon": 75.0040114,
+    "distance_m": 2506
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM",
+    "lat": 8.5867117,
+    "lon": 76.8591236,
+    "distance_m": 1203
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post ATM",
+    "lat": 8.567667,
+    "lon": 76.8728827,
+    "distance_m": 1774
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5655954,
+    "lon": 76.8735159,
+    "distance_m": 2013
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.5657773,
+    "lon": 76.8872734,
+    "distance_m": 2756
+  },
+  {
+    "name": "Catholic Syrian Bank",
+    "operator": "",
+    "lat": 8.5578256,
+    "lon": 76.8761105,
+    "distance_m": 2920
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5573223,
+    "lon": 76.8766569,
+    "distance_m": 2990
+  }
+]

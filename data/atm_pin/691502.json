@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.0169822,
+    "lon": 76.6521677,
+    "distance_m": 411
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 9.0169425,
+    "lon": 76.6529856,
+    "distance_m": 472
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 9.0325822,
+    "lon": 76.6495174,
+    "distance_m": 1400
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK",
+    "lat": 9.0084196,
+    "lon": 76.6594305,
+    "distance_m": 1652
+  },
+  {
+    "name": "ATM",
+    "operator": "central bank atm",
+    "lat": 9.0455886,
+    "lon": 76.6494365,
+    "distance_m": 2845
+  },
+  {
+    "name": "ATM",
+    "operator": "Atm",
+    "lat": 9.0022802,
+    "lon": 76.6296766,
+    "distance_m": 2977
+  }
+]

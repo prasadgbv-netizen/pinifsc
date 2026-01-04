@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Dhanlaxmi Bank ATM",
+    "operator": "",
+    "lat": 17.4828411,
+    "lon": 78.413664,
+    "distance_m": 449
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4839063,
+    "lon": 78.4141216,
+    "distance_m": 538
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4819763,
+    "lon": 78.4147136,
+    "distance_m": 543
+  },
+  {
+    "name": "State Bank Of India ATM",
+    "operator": "",
+    "lat": 17.4889581,
+    "lon": 78.4001112,
+    "distance_m": 1290
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank atm",
+    "lat": 17.490765,
+    "lon": 78.4000532,
+    "distance_m": 1428
+  },
+  {
+    "name": "ICICI BANK ATM",
+    "operator": "",
+    "lat": 17.4929916,
+    "lon": 78.4020258,
+    "distance_m": 1490
+  },
+  {
+    "name": "ICICI BANK ATM",
+    "operator": "",
+    "lat": 17.487404,
+    "lon": 78.3959,
+    "distance_m": 1585
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 17.4943712,
+    "lon": 78.402039,
+    "distance_m": 1621
+  },
+  {
+    "name": "Dhanalakshmi Bank ATM",
+    "operator": "",
+    "lat": 17.4943811,
+    "lon": 78.4020135,
+    "distance_m": 1623
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 17.4953707,
+    "lon": 78.4032296,
+    "distance_m": 1663
+  }
+]

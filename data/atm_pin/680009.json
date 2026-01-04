@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.5540944,
+    "lon": 76.2264121,
+    "distance_m": 17
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.5542328,
+    "lon": 76.2265731,
+    "distance_m": 40
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank ATM",
+    "lat": 10.5533061,
+    "lon": 76.2267506,
+    "distance_m": 85
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 10.5519133,
+    "lon": 76.2267944,
+    "distance_m": 232
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India ATM",
+    "lat": 10.5665653,
+    "lon": 76.216908,
+    "distance_m": 1739
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5583745,
+    "lon": 76.2069622,
+    "distance_m": 2173
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 10.5584913,
+    "lon": 76.2069217,
+    "distance_m": 2180
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 10.5721971,
+    "lon": 76.2178323,
+    "distance_m": 2230
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.5355394,
+    "lon": 76.2147793,
+    "distance_m": 2405
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanlaxmi Bank ATM",
+    "lat": 10.5353088,
+    "lon": 76.2137598,
+    "distance_m": 2487
+  }
+]

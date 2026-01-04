@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4364271,
+    "lon": 81.8345703,
+    "distance_m": 1181
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.4416003,
+    "lon": 81.8359338,
+    "distance_m": 1225
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4390021,
+    "lon": 81.8582631,
+    "distance_m": 1251
+  },
+  {
+    "name": "ATM",
+    "operator": "BOB",
+    "lat": 25.4425594,
+    "lon": 81.8360786,
+    "distance_m": 1272
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4497243,
+    "lon": 81.8390254,
+    "distance_m": 1712
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 25.4305143,
+    "lon": 81.8290998,
+    "distance_m": 1825
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.430214,
+    "lon": 81.8288227,
+    "distance_m": 1862
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4433449,
+    "lon": 81.8250792,
+    "distance_m": 2291
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 25.4534761,
+    "lon": 81.8270895,
+    "distance_m": 2754
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 25.4253535,
+    "lon": 81.8192452,
+    "distance_m": 2955
+  }
+]

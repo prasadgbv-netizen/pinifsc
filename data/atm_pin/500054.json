@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Adarsh Co Operative Bank Atm",
+    "operator": "",
+    "lat": 17.514555,
+    "lon": 78.447519,
+    "distance_m": 1481
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC ATM",
+    "lat": 17.5193215,
+    "lon": 78.4350837,
+    "distance_m": 1977
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 17.5193573,
+    "lon": 78.435122,
+    "distance_m": 1980
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 17.5153941,
+    "lon": 78.4265864,
+    "distance_m": 2119
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 17.5170484,
+    "lon": 78.4270278,
+    "distance_m": 2215
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 17.5016493,
+    "lon": 78.416084,
+    "distance_m": 2685
+  },
+  {
+    "name": "SBI atm",
+    "operator": "",
+    "lat": 17.5032432,
+    "lon": 78.4692865,
+    "distance_m": 2959
+  }
+]

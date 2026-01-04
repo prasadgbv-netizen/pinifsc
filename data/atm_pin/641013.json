@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "canara",
+    "lat": 11.0224445,
+    "lon": 76.9369015,
+    "distance_m": 203
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0200213,
+    "lon": 76.9397613,
+    "distance_m": 384
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0134637,
+    "lon": 76.939759,
+    "distance_m": 889
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 11.0134636,
+    "lon": 76.9318399,
+    "distance_m": 941
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0132845,
+    "lon": 76.9318636,
+    "distance_m": 957
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0259906,
+    "lon": 76.9459943,
+    "distance_m": 1209
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0268899,
+    "lon": 76.9470038,
+    "distance_m": 1354
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0275718,
+    "lon": 76.9468885,
+    "distance_m": 1383
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 11.0149091,
+    "lon": 76.9491827,
+    "distance_m": 1545
+  },
+  {
+    "name": "ATM",
+    "operator": "DBS Bank India",
+    "lat": 11.0095833,
+    "lon": 76.9457009,
+    "distance_m": 1606
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0777386,
+    "lon": 80.1812905,
+    "distance_m": 845
+  },
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 13.0798051,
+    "lon": 80.1804073,
+    "distance_m": 1093
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0648605,
+    "lon": 80.1936185,
+    "distance_m": 1252
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 13.0833915,
+    "lon": 80.1793893,
+    "distance_m": 1506
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0832304,
+    "lon": 80.1919927,
+    "distance_m": 1685
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0598649,
+    "lon": 80.1953222,
+    "distance_m": 1734
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 13.0835496,
+    "lon": 80.1748405,
+    "distance_m": 1735
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0835193,
+    "lon": 80.1746201,
+    "distance_m": 1745
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0839195,
+    "lon": 80.1750656,
+    "distance_m": 1757
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 13.0737738,
+    "lon": 80.2001665,
+    "distance_m": 1832
+  }
+]

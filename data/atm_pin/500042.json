@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 17.392811,
+    "lon": 78.4748836,
+    "distance_m": 152
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3947073,
+    "lon": 78.4754676,
+    "distance_m": 194
+  },
+  {
+    "name": "Lekshmi Vilas ATM",
+    "operator": "",
+    "lat": 17.3935142,
+    "lon": 78.4786104,
+    "distance_m": 251
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 17.3934109,
+    "lon": 78.4786483,
+    "distance_m": 253
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 17.3939835,
+    "lon": 78.4787602,
+    "distance_m": 279
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 17.3949996,
+    "lon": 78.4781294,
+    "distance_m": 285
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 17.3936044,
+    "lon": 78.4812223,
+    "distance_m": 527
+  },
+  {
+    "name": "YES Bank",
+    "operator": "",
+    "lat": 17.3886782,
+    "lon": 78.4737943,
+    "distance_m": 561
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.3871402,
+    "lon": 78.4760952,
+    "distance_m": 667
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 17.3991374,
+    "lon": 78.4808419,
+    "distance_m": 824
+  }
+]

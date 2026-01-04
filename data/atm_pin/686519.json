@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SBT ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 9.5365659,
+    "lon": 76.7570435,
+    "distance_m": 575
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5165365,
+    "lon": 76.7667828,
+    "distance_m": 2389
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5628276,
+    "lon": 76.7594174,
+    "distance_m": 2827
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi",
+    "lat": 9.5634048,
+    "lon": 76.7613313,
+    "distance_m": 2877
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.5636344,
+    "lon": 76.7608247,
+    "distance_m": 2905
+  }
+]

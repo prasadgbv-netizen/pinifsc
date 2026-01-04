@@ -1,0 +1,30 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.1190245,
+    "lon": 80.157572,
+    "distance_m": 1569
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.1185673,
+    "lon": 80.1571858,
+    "distance_m": 1624
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 13.1213581,
+    "lon": 80.1480866,
+    "distance_m": 1767
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 13.1177438,
+    "lon": 80.149259,
+    "distance_m": 2010
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India cash atm",
+    "lat": 17.9514838,
+    "lon": 79.59992,
+    "distance_m": 191
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis bank atm",
+    "lat": 17.9537194,
+    "lon": 79.6005389,
+    "distance_m": 256
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank atm",
+    "lat": 17.9542369,
+    "lon": 79.6003121,
+    "distance_m": 273
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.9721332,
+    "lon": 79.6012463,
+    "distance_m": 2201
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak atm",
+    "lat": 17.9769139,
+    "lon": 79.5984921,
+    "distance_m": 2713
+  }
+]

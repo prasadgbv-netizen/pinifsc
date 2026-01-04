@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4120135,
+    "lon": 78.5078611,
+    "distance_m": 340
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4105701,
+    "lon": 78.5069506,
+    "distance_m": 386
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4114638,
+    "lon": 78.5083743,
+    "distance_m": 419
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4114123,
+    "lon": 78.5083605,
+    "distance_m": 421
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4104182,
+    "lon": 78.5076664,
+    "distance_m": 443
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4158155,
+    "lon": 78.5096825,
+    "distance_m": 548
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4162314,
+    "lon": 78.5100514,
+    "distance_m": 605
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4177269,
+    "lon": 78.5098931,
+    "distance_m": 689
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4177588,
+    "lon": 78.5098848,
+    "distance_m": 691
+  },
+  {
+    "name": "ATM",
+    "operator": "AXIS BANK",
+    "lat": 17.4085497,
+    "lon": 78.5098684,
+    "distance_m": 753
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank Of India",
+    "operator": "",
+    "lat": 9.9188716,
+    "lon": 76.7195511,
+    "distance_m": 324
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 9.9341095,
+    "lon": 76.7090641,
+    "distance_m": 1730
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 9.9107508,
+    "lon": 76.7320319,
+    "distance_m": 1914
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM - Axis Bank",
+    "lat": 9.9100222,
+    "lon": 76.7315764,
+    "distance_m": 1929
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank, Muthalakodam",
+    "lat": 9.9104627,
+    "lon": 76.7320332,
+    "distance_m": 1935
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 9.9088434,
+    "lon": 76.7021824,
+    "distance_m": 2275
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9013058,
+    "lon": 76.7240975,
+    "distance_m": 2338
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9113121,
+    "lon": 76.6992899,
+    "distance_m": 2388
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9148301,
+    "lon": 76.7428632,
+    "distance_m": 2778
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 9.9135671,
+    "lon": 76.69436,
+    "distance_m": 2783
+  }
+]

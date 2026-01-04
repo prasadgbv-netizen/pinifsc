@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Vijaya bank ATM",
+    "operator": "",
+    "lat": 11.1126284,
+    "lon": 76.9360002,
+    "distance_m": 270
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.102513,
+    "lon": 76.9318482,
+    "distance_m": 1475
+  }
+]

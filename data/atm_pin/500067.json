@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SBI atm",
+    "operator": "",
+    "lat": 17.5032432,
+    "lon": 78.4692865,
+    "distance_m": 788
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.499461,
+    "lon": 78.4758073,
+    "distance_m": 1011
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 17.4993766,
+    "lon": 78.4764098,
+    "distance_m": 1032
+  },
+  {
+    "name": "ATM",
+    "operator": "state bank of india atm",
+    "lat": 17.5285891,
+    "lon": 78.4854382,
+    "distance_m": 2529
+  },
+  {
+    "name": "Adarsh Co Operative Bank Atm",
+    "operator": "",
+    "lat": 17.514555,
+    "lon": 78.447519,
+    "distance_m": 2924
+  }
+]

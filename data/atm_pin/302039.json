@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PNB ATM",
+    "operator": "",
+    "lat": 26.9598587,
+    "lon": 75.742391,
+    "distance_m": 1792
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 26.9592866,
+    "lon": 75.742038,
+    "distance_m": 1850
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9703671,
+    "lon": 75.7605239,
+    "distance_m": 2122
+  },
+  {
+    "name": "BOI ATM",
+    "operator": "Bank Of India",
+    "lat": 26.9560726,
+    "lon": 75.7422099,
+    "distance_m": 2208
+  }
+]

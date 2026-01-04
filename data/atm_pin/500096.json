@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.4162253,
+    "lon": 78.4106974,
+    "distance_m": 53
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 17.4162429,
+    "lon": 78.4112628,
+    "distance_m": 67
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 17.4166582,
+    "lon": 78.4102663,
+    "distance_m": 116
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 17.4173469,
+    "lon": 78.4121488,
+    "distance_m": 222
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.4178327,
+    "lon": 78.4103814,
+    "distance_m": 234
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 17.4141729,
+    "lon": 78.4086668,
+    "distance_m": 292
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.4182409,
+    "lon": 78.4097132,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.420837,
+    "lon": 78.4025537,
+    "distance_m": 1045
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 17.4070066,
+    "lon": 78.4030334,
+    "distance_m": 1280
+  },
+  {
+    "name": "Oriental Bank of Commerce",
+    "operator": "",
+    "lat": 17.4050054,
+    "lon": 78.4051834,
+    "distance_m": 1340
+  }
+]

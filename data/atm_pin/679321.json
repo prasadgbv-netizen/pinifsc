@@ -1,0 +1,16 @@
+[
+  {
+    "name": "India ATM",
+    "operator": "",
+    "lat": 10.9785653,
+    "lon": 76.1568087,
+    "distance_m": 254
+  },
+  {
+    "name": "Gramin Bank ATM",
+    "operator": "",
+    "lat": 10.9784518,
+    "lon": 76.1560755,
+    "distance_m": 315
+  }
+]

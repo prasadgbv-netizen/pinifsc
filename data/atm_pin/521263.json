@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Karur vysya bank",
+    "lat": 16.434334,
+    "lon": 80.9928373,
+    "distance_m": 2515
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 16.4339415,
+    "lon": 80.9971707,
+    "distance_m": 2975
+  }
+]

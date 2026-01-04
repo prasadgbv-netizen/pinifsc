@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.5355497,
+    "lon": 76.3274411,
+    "distance_m": 1711
+  },
+  {
+    "name": "sbi atm",
+    "operator": "",
+    "lat": 9.5362487,
+    "lon": 76.3274134,
+    "distance_m": 1740
+  },
+  {
+    "name": "Federal bank ATM",
+    "operator": "",
+    "lat": 9.5222627,
+    "lon": 76.3273853,
+    "distance_m": 1766
+  },
+  {
+    "name": "IOB ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.5375635,
+    "lon": 76.3273748,
+    "distance_m": 1804
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5106856,
+    "lon": 76.3277644,
+    "distance_m": 2644
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 9.5091922,
+    "lon": 76.3280627,
+    "distance_m": 2796
+  }
+]

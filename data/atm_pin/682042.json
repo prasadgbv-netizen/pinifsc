@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.972303,
+    "lon": 76.2830289,
+    "distance_m": 93
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 9.9734816,
+    "lon": 76.2796288,
+    "distance_m": 344
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 9.9688446,
+    "lon": 76.2809615,
+    "distance_m": 366
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab & Sind Bank",
+    "lat": 9.9695326,
+    "lon": 76.2856303,
+    "distance_m": 446
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.9680517,
+    "lon": 76.2847519,
+    "distance_m": 501
+  },
+  {
+    "name": "Kerala Bank",
+    "operator": "Kerala Bank",
+    "lat": 9.9751181,
+    "lon": 76.2780078,
+    "distance_m": 593
+  },
+  {
+    "name": "Catholic Syrian Bank",
+    "operator": "CSB Bank",
+    "lat": 9.9771691,
+    "lon": 76.2803607,
+    "distance_m": 627
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.9663672,
+    "lon": 76.283843,
+    "distance_m": 633
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 9.9780172,
+    "lon": 76.2829692,
+    "distance_m": 688
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 9.9780701,
+    "lon": 76.2829685,
+    "distance_m": 694
+  }
+]

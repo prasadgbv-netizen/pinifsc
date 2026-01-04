@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4468039,
+    "lon": 75.8316908,
+    "distance_m": 265
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.447631,
+    "lon": 75.8265208,
+    "distance_m": 306
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4467477,
+    "lon": 75.8320881,
+    "distance_m": 308
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4463093,
+    "lon": 75.8328466,
+    "distance_m": 400
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4463197,
+    "lon": 75.8329138,
+    "distance_m": 407
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.44886,
+    "lon": 75.8189177,
+    "distance_m": 1145
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 11.4226757,
+    "lon": 75.8316185,
+    "distance_m": 2750
+  }
+]

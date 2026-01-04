@@ -1,0 +1,65 @@
+[
+  {
+    "name": "UCO Bank",
+    "operator": "UCO Bank",
+    "lat": 11.4542845,
+    "lon": 77.4351795,
+    "distance_m": 422
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 11.4549653,
+    "lon": 77.4381715,
+    "distance_m": 461
+  },
+  {
+    "name": "City Union Bank",
+    "operator": "",
+    "lat": 11.455106,
+    "lon": 77.4389266,
+    "distance_m": 509
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4586584,
+    "lon": 77.4400996,
+    "distance_m": 520
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 11.4549541,
+    "lon": 77.4391546,
+    "distance_m": 539
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.4549463,
+    "lon": 77.4392578,
+    "distance_m": 548
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.45933,
+    "lon": 77.4402683,
+    "distance_m": 552
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.4576178,
+    "lon": 77.4295154,
+    "distance_m": 639
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 11.4502729,
+    "lon": 77.4352399,
+    "distance_m": 867
+  }
+]

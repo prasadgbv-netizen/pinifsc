@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3625904,
+    "lon": 85.3261665,
+    "distance_m": 453
+  },
+  {
+    "name": "S.B.I A.T.M",
+    "operator": "",
+    "lat": 23.361089,
+    "lon": 85.3262241,
+    "distance_m": 615
+  },
+  {
+    "name": "ATM",
+    "operator": "Kodak Mahindra Bank ATM",
+    "lat": 23.3712044,
+    "lon": 85.3232251,
+    "distance_m": 665
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 23.3592252,
+    "lon": 85.3203685,
+    "distance_m": 1077
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.3764194,
+    "lon": 85.3247486,
+    "distance_m": 1129
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3561004,
+    "lon": 85.3241282,
+    "distance_m": 1204
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3766412,
+    "lon": 85.3315991,
+    "distance_m": 1206
+  },
+  {
+    "name": "ATM: Bank of India.",
+    "operator": "",
+    "lat": 23.3583024,
+    "lon": 85.3371529,
+    "distance_m": 1359
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 23.3544287,
+    "lon": 85.324087,
+    "distance_m": 1385
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 23.3697339,
+    "lon": 85.3118661,
+    "distance_m": 1615
+  }
+]

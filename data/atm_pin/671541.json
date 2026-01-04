@@ -1,0 +1,37 @@
+[
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 12.4804109,
+    "lon": 75.0580779,
+    "distance_m": 1094
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 12.5089237,
+    "lon": 75.0580352,
+    "distance_m": 2165
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.5093697,
+    "lon": 75.0550328,
+    "distance_m": 2186
+  },
+  {
+    "name": "ATM",
+    "operator": "Sounth Indian Bank",
+    "lat": 12.5093401,
+    "lon": 75.0525494,
+    "distance_m": 2196
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.5093589,
+    "lon": 75.052448,
+    "distance_m": 2199
+  }
+]

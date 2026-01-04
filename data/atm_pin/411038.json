@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "TJSB Bank",
+    "lat": 18.5019789,
+    "lon": 73.814491,
+    "distance_m": 12
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 18.5025663,
+    "lon": 73.8169989,
+    "distance_m": 259
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 18.5029138,
+    "lon": 73.8181703,
+    "distance_m": 388
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.4983766,
+    "lon": 73.8141404,
+    "distance_m": 405
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 18.5032107,
+    "lon": 73.8200655,
+    "distance_m": 590
+  },
+  {
+    "name": "Citi Bank ATM",
+    "operator": "Citibank",
+    "lat": 18.5032984,
+    "lon": 73.8202144,
+    "distance_m": 608
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 18.5038583,
+    "lon": 73.8210128,
+    "distance_m": 705
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 18.5093073,
+    "lon": 73.8142557,
+    "distance_m": 813
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5097727,
+    "lon": 73.8141239,
+    "distance_m": 865
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 18.5051023,
+    "lon": 73.8225391,
+    "distance_m": 904
+  }
+]

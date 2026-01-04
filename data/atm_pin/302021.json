@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "bank of india",
+    "lat": 26.9139619,
+    "lon": 75.7378824,
+    "distance_m": 330
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.914587,
+    "lon": 75.7387878,
+    "distance_m": 346
+  },
+  {
+    "name": "ATM",
+    "operator": "Citibank",
+    "lat": 26.9113575,
+    "lon": 75.7443533,
+    "distance_m": 433
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.9114589,
+    "lon": 75.7448179,
+    "distance_m": 478
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.9058054,
+    "lon": 75.7366927,
+    "distance_m": 729
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9113161,
+    "lon": 75.7288367,
+    "distance_m": 1107
+  },
+  {
+    "name": "Sbi atm",
+    "operator": "",
+    "lat": 26.9017925,
+    "lon": 75.7426909,
+    "distance_m": 1129
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.9018904,
+    "lon": 75.7368783,
+    "distance_m": 1130
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.9016549,
+    "lon": 75.7360391,
+    "distance_m": 1180
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9013145,
+    "lon": 75.7364284,
+    "distance_m": 1204
+  }
+]

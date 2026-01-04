@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 13.1944144,
+    "lon": 74.9718718,
+    "distance_m": 1507
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.2265443,
+    "lon": 74.9849322,
+    "distance_m": 2516
+  }
+]

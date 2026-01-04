@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank Kulathupuzha Branch",
+    "lat": 8.9075119,
+    "lon": 77.0532904,
+    "distance_m": 2911
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank Of India ATM",
+    "lat": 8.9094449,
+    "lon": 77.0548772,
+    "distance_m": 2974
+  }
+]

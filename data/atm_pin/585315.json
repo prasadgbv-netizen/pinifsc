@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBH ATM",
+    "lat": 16.7686616,
+    "lon": 77.135852,
+    "distance_m": 792
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis",
+    "lat": 16.7715661,
+    "lon": 77.1381845,
+    "distance_m": 1154
+  },
+  {
+    "name": "Axis bank",
+    "operator": "Axis Bank",
+    "lat": 16.7510378,
+    "lon": 77.1353431,
+    "distance_m": 1169
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 16.7503546,
+    "lon": 77.1345063,
+    "distance_m": 1248
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 16.748931,
+    "lon": 77.133875,
+    "distance_m": 1412
+  },
+  {
+    "name": "ICICI BANK ATM",
+    "operator": "",
+    "lat": 16.766065,
+    "lon": 77.149559,
+    "distance_m": 1598
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 16.744303,
+    "lon": 77.1300489,
+    "distance_m": 1998
+  }
+]

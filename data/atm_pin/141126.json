@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union bank",
+    "lat": 30.9005819,
+    "lon": 75.8739839,
+    "distance_m": 1103
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 30.8747651,
+    "lon": 75.8682281,
+    "distance_m": 2008
+  },
+  {
+    "name": "SBI ",
+    "operator": "",
+    "lat": 30.881747,
+    "lon": 75.858621,
+    "distance_m": 2061
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB",
+    "lat": 30.8805012,
+    "lon": 75.8533967,
+    "distance_m": 2565
+  },
+  {
+    "name": "axis bank",
+    "operator": "",
+    "lat": 30.8663751,
+    "lon": 75.8804454,
+    "distance_m": 2762
+  }
+]

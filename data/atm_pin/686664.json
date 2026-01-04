@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "union bank of india",
+    "lat": 9.8785741,
+    "lon": 76.4830551,
+    "distance_m": 1753
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI BANK ATM",
+    "lat": 9.8784038,
+    "lon": 76.4820233,
+    "distance_m": 1790
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.8766022,
+    "lon": 76.4875346,
+    "distance_m": 1977
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 9.8750311,
+    "lon": 76.4878142,
+    "distance_m": 2155
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.8747274,
+    "lon": 76.4883648,
+    "distance_m": 2197
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.8747072,
+    "lon": 76.4883619,
+    "distance_m": 2199
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA ATM",
+    "lat": 9.8743951,
+    "lon": 76.4958924,
+    "distance_m": 2503
+  }
+]

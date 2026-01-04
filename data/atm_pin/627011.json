@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.7087879,
+    "lon": 77.7529519,
+    "distance_m": 420
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.7051997,
+    "lon": 77.7419198,
+    "distance_m": 1027
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.7246855,
+    "lon": 77.7455255,
+    "distance_m": 1635
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.7141835,
+    "lon": 77.7640164,
+    "distance_m": 1640
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 8.7247137,
+    "lon": 77.745415,
+    "distance_m": 1641
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 8.7258411,
+    "lon": 77.742792,
+    "distance_m": 1857
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.7127288,
+    "lon": 77.7668112,
+    "distance_m": 1912
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.7168967,
+    "lon": 77.732581,
+    "distance_m": 1995
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.719202,
+    "lon": 77.7326773,
+    "distance_m": 2090
+  },
+  {
+    "name": "TMB",
+    "operator": "Tamilnadu Merchantile Bank",
+    "lat": 8.7106344,
+    "lon": 77.7704708,
+    "distance_m": 2298
+  }
+]

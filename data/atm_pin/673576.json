@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank",
+    "lat": 11.5505947,
+    "lon": 76.0386774,
+    "distance_m": 140
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.5540733,
+    "lon": 76.0391436,
+    "distance_m": 508
+  }
+]

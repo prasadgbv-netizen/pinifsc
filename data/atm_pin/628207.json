@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.6169289,
+    "lon": 78.0698727,
+    "distance_m": 2105
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 8.620415,
+    "lon": 78.0703219,
+    "distance_m": 2453
+  },
+  {
+    "name": "ATM",
+    "operator": "RAJA RATHINAM.S",
+    "lat": 8.592178,
+    "lon": 78.0382997,
+    "distance_m": 2454
+  }
+]

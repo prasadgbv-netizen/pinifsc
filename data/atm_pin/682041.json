@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.0417111,
+    "lon": 76.2981843,
+    "distance_m": 1106
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank",
+    "lat": 10.0461121,
+    "lon": 76.2963678,
+    "distance_m": 1447
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank ATM",
+    "lat": 10.0191024,
+    "lon": 76.290491,
+    "distance_m": 1644
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.0190297,
+    "lon": 76.2904496,
+    "distance_m": 1653
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 10.0189123,
+    "lon": 76.2891262,
+    "distance_m": 1687
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0278479,
+    "lon": 76.3083355,
+    "distance_m": 1905
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.0246429,
+    "lon": 76.3070355,
+    "distance_m": 1934
+  },
+  {
+    "name": "ATM",
+    "operator": "Edappally Metro Station ATM",
+    "lat": 10.02554,
+    "lon": 76.3080055,
+    "distance_m": 1976
+  },
+  {
+    "name": "Punjab national bank",
+    "operator": "",
+    "lat": 10.0284432,
+    "lon": 76.3099727,
+    "distance_m": 2053
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 10.0213888,
+    "lon": 76.3062436,
+    "distance_m": 2081
+  }
+]

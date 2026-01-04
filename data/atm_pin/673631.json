@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 11.1551738,
+    "lon": 75.8466618,
+    "distance_m": 2954
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank",
+    "lat": 11.1550501,
+    "lon": 75.8465576,
+    "distance_m": 2959
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SHIVRAM Meena",
+    "lat": 23.0676297,
+    "lon": 70.1477348,
+    "distance_m": 2323
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.0717488,
+    "lon": 70.1453332,
+    "distance_m": 2425
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India Atm",
+    "lat": 16.5094888,
+    "lon": 80.7198253,
+    "distance_m": 139
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Atm",
+    "lat": 16.5095474,
+    "lon": 80.7199433,
+    "distance_m": 148
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 16.5096295,
+    "lon": 80.7199662,
+    "distance_m": 157
+  }
+]

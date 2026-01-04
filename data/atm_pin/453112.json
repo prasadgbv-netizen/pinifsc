@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7087605,
+    "lon": 75.8794209,
+    "distance_m": 109
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.710308,
+    "lon": 75.8784404,
+    "distance_m": 288
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 22.709374,
+    "lon": 75.8759165,
+    "distance_m": 376
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.7110453,
+    "lon": 75.8803368,
+    "distance_m": 379
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 22.7103483,
+    "lon": 75.8756074,
+    "distance_m": 461
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.710394,
+    "lon": 75.8756074,
+    "distance_m": 464
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.7131014,
+    "lon": 75.8773515,
+    "distance_m": 617
+  },
+  {
+    "name": "ATM",
+    "operator": "RBL Bank",
+    "lat": 22.713759,
+    "lon": 75.8745023,
+    "distance_m": 816
+  },
+  {
+    "name": "ATM",
+    "operator": "rbl",
+    "lat": 22.7138206,
+    "lon": 75.874487,
+    "distance_m": 823
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 22.6995099,
+    "lon": 75.8769462,
+    "distance_m": 950
+  }
+]

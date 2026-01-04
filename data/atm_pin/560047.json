@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 12.9466123,
+    "lon": 77.6218766,
+    "distance_m": 1186
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9478479,
+    "lon": 77.6066562,
+    "distance_m": 1291
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9669962,
+    "lon": 77.6140576,
+    "distance_m": 1299
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9434676,
+    "lon": 77.6178331,
+    "distance_m": 1348
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.943452,
+    "lon": 77.6178697,
+    "distance_m": 1351
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9647139,
+    "lon": 77.6056671,
+    "distance_m": 1499
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9416121,
+    "lon": 77.6172504,
+    "distance_m": 1544
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9437857,
+    "lon": 77.6236824,
+    "distance_m": 1556
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9414316,
+    "lon": 77.6174359,
+    "distance_m": 1566
+  },
+  {
+    "name": "ATM",
+    "operator": "RBL Bank",
+    "lat": 12.942267,
+    "lon": 77.6228332,
+    "distance_m": 1654
+  }
+]

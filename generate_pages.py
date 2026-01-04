@@ -58,7 +58,6 @@ for pin, branches in pin_data.items():
 
     page_path = f"pincode/{pin_clean}.html"
 
-    # ✅ STEP 1: Breadcrumb schema (PIN)
     breadcrumb_schema = f"""
 <script type="application/ld+json">
 {{
@@ -88,7 +87,6 @@ for pin, branches in pin_data.items():
 </script>
 """
 
-    # ✅ STEP 2: FAQ schema (PIN)
     faq_schema = f"""
 <script type="application/ld+json">
 {{
@@ -160,6 +158,8 @@ for pin, branches in pin_data.items():
 {rows}
 </table>
 
+<section class="atm-section" data-pin="{pin_clean}"></section>
+
 </main>
 
 <footer class="footer">
@@ -171,10 +171,10 @@ for pin, branches in pin_data.items():
   </div>
 </footer>
 
+<script src="/assets/atm.js" defer></script>
 
 </body>
 </html>
-
 """
 
     with open(f"{PIN_DIR}/{pin_clean}.html", "w", encoding="utf-8") as f:
@@ -202,7 +202,6 @@ for ifsc, info in ifsc_data.items():
         </p>
         """
 
-    # ✅ STEP 1: Breadcrumb schema (IFSC)
     breadcrumb_schema = f"""
 <script type="application/ld+json">
 {{
@@ -265,6 +264,8 @@ for ifsc, info in ifsc_data.items():
   <a href="../pincode/{pin_clean}.html">{pin_clean}</a>
 </p>
 
+<section class="atm-section" data-pin="{pin_clean}"></section>
+
 {map_block}
 
 </main>
@@ -278,10 +279,10 @@ for ifsc, info in ifsc_data.items():
   </div>
 </footer>
 
+<script src="/assets/atm.js" defer></script>
 
 </body>
 </html>
-
 """
 
     with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:

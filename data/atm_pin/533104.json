@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank",
+    "lat": 17.0096079,
+    "lon": 81.7721595,
+    "distance_m": 103
+  },
+  {
+    "name": "Aryapuram Co-op Bank ATM",
+    "operator": "Aryapuram Co-op Bank",
+    "lat": 17.0102034,
+    "lon": 81.7713435,
+    "distance_m": 121
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 17.0107028,
+    "lon": 81.7756834,
+    "distance_m": 345
+  },
+  {
+    "name": "Central Bank ATM",
+    "operator": "Central Bank of India",
+    "lat": 17.0090772,
+    "lon": 81.7754638,
+    "distance_m": 357
+  },
+  {
+    "name": "Karur Vysya Bank ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.006714,
+    "lon": 81.7728399,
+    "distance_m": 423
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank",
+    "lat": 17.0116821,
+    "lon": 81.7775352,
+    "distance_m": 557
+  },
+  {
+    "name": "Andhra Bank ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.0058162,
+    "lon": 81.7705198,
+    "distance_m": 559
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.0058576,
+    "lon": 81.7700059,
+    "distance_m": 577
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 17.0058726,
+    "lon": 81.7699711,
+    "distance_m": 577
+  },
+  {
+    "name": "Indian Overseas Bank ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 17.0110225,
+    "lon": 81.7782186,
+    "distance_m": 616
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank",
+    "lat": 12.1913354,
+    "lon": 75.1687761,
+    "distance_m": 1107
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 12.1913135,
+    "lon": 75.1687777,
+    "distance_m": 1109
+  },
+  {
+    "name": "Kalaiakdavu Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 12.189982,
+    "lon": 75.1693103,
+    "distance_m": 1266
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.2151286,
+    "lon": 75.1598716,
+    "distance_m": 1751
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.216835,
+    "lon": 75.1626659,
+    "distance_m": 1902
+  }
+]

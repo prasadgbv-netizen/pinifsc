@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ",
+    "lat": 15.4732103,
+    "lon": 73.8120363,
+    "distance_m": 1625
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.4726836,
+    "lon": 73.8118981,
+    "distance_m": 1630
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.4942151,
+    "lon": 73.8353369,
+    "distance_m": 2761
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.459548,
+    "lon": 73.8038582,
+    "distance_m": 2772
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 15.4959285,
+    "lon": 73.8317336,
+    "distance_m": 2848
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.4959838,
+    "lon": 73.8336285,
+    "distance_m": 2897
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 15.4952004,
+    "lon": 73.8371908,
+    "distance_m": 2933
+  }
+]

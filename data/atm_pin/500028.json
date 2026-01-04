@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Yes bank atm",
+    "lat": 17.4008825,
+    "lon": 78.453714,
+    "distance_m": 196
+  },
+  {
+    "name": "ATM",
+    "operator": "bank of india",
+    "lat": 17.4001254,
+    "lon": 78.4569677,
+    "distance_m": 209
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 17.400124,
+    "lon": 78.453512,
+    "distance_m": 252
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank atm",
+    "lat": 17.4037672,
+    "lon": 78.4531849,
+    "distance_m": 361
+  },
+  {
+    "name": "ATM",
+    "operator": "syndicate bank and atm",
+    "lat": 17.4039011,
+    "lon": 78.4533155,
+    "distance_m": 363
+  },
+  {
+    "name": "Indusnd",
+    "operator": "",
+    "lat": 17.4031155,
+    "lon": 78.4602923,
+    "distance_m": 544
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusland",
+    "lat": 17.4031073,
+    "lon": 78.4604012,
+    "distance_m": 554
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 17.3978974,
+    "lon": 78.4596842,
+    "distance_m": 589
+  },
+  {
+    "name": "ATM",
+    "operator": "Oriental Bank Of Commerce",
+    "lat": 17.4062281,
+    "lon": 78.4517258,
+    "distance_m": 671
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 17.4005602,
+    "lon": 78.4624878,
+    "distance_m": 747
+  }
+]

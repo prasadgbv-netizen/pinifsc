@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 22.7171343,
+    "lon": 75.8497301,
+    "distance_m": 109
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank ATM",
+    "lat": 22.7170477,
+    "lon": 75.8497408,
+    "distance_m": 118
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 22.719324,
+    "lon": 75.8501379,
+    "distance_m": 138
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 22.7192367,
+    "lon": 75.8491802,
+    "distance_m": 141
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 22.7194239,
+    "lon": 75.8492975,
+    "distance_m": 155
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.7193728,
+    "lon": 75.8484936,
+    "distance_m": 196
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.7194693,
+    "lon": 75.8485123,
+    "distance_m": 202
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank ATM",
+    "lat": 22.7163704,
+    "lon": 75.8485687,
+    "distance_m": 232
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank ATM",
+    "lat": 22.7163618,
+    "lon": 75.8484614,
+    "distance_m": 240
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 22.7161391,
+    "lon": 75.8483621,
+    "distance_m": 266
+  }
+]

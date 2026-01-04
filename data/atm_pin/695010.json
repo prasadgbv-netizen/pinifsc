@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 8.5038171,
+    "lon": 76.966568,
+    "distance_m": 784
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.510143,
+    "lon": 76.9606327,
+    "distance_m": 1030
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 8.5136834,
+    "lon": 76.979221,
+    "distance_m": 1093
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 8.5189606,
+    "lon": 76.9610023,
+    "distance_m": 1404
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.5190016,
+    "lon": 76.9610121,
+    "distance_m": 1406
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi Atm",
+    "lat": 8.5039665,
+    "lon": 76.9815458,
+    "distance_m": 1436
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank Cash Machine (ATM cum CDM)",
+    "lat": 8.5190003,
+    "lon": 76.9588948,
+    "distance_m": 1578
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 8.5163724,
+    "lon": 76.9568726,
+    "distance_m": 1608
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalekshmi Bank",
+    "lat": 8.5176381,
+    "lon": 76.9565701,
+    "distance_m": 1703
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank Of India",
+    "lat": 8.5229605,
+    "lon": 76.9603739,
+    "distance_m": 1788
+  }
+]

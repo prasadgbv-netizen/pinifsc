@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.53889,
+    "lon": 76.6451491,
+    "distance_m": 1424
+  },
+  {
+    "name": "ATM",
+    "operator": "SOUTH INDIAN BANK",
+    "lat": 9.5058635,
+    "lon": 76.6399277,
+    "distance_m": 2305
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5033903,
+    "lon": 76.6405145,
+    "distance_m": 2562
+  },
+  {
+    "name": "Poovathumoottil arcade",
+    "operator": "Federal atm",
+    "lat": 9.50134,
+    "lon": 76.6396717,
+    "distance_m": 2803
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB",
+    "lat": 9.5015151,
+    "lon": 76.6384264,
+    "distance_m": 2813
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.5087084,
+    "lon": 76.6636903,
+    "distance_m": 2858
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 23.2153919,
+    "lon": 72.6486962,
+    "distance_m": 1168
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 23.2159396,
+    "lon": 72.6491577,
+    "distance_m": 1211
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2161228,
+    "lon": 72.6492337,
+    "distance_m": 1218
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2166304,
+    "lon": 72.6496548,
+    "distance_m": 1261
+  }
+]

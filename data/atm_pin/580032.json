@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 15.3676426,
+    "lon": 75.1382098,
+    "distance_m": 100
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 15.3713875,
+    "lon": 75.1360395,
+    "distance_m": 379
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 15.366779,
+    "lon": 75.1334934,
+    "distance_m": 472
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 15.3715381,
+    "lon": 75.141587,
+    "distance_m": 557
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 15.3631426,
+    "lon": 75.1407622,
+    "distance_m": 668
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 15.3709898,
+    "lon": 75.1291503,
+    "distance_m": 953
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 15.3617081,
+    "lon": 75.1318181,
+    "distance_m": 962
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 15.3605783,
+    "lon": 75.1267151,
+    "distance_m": 1450
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 15.3574855,
+    "lon": 75.1290804,
+    "distance_m": 1512
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 15.3647547,
+    "lon": 75.123634,
+    "distance_m": 1549
+  }
+]

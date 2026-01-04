@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ESAF ATM",
+    "lat": 8.8985183,
+    "lon": 76.8615947,
+    "distance_m": 2694
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank Of India ATM",
+    "lat": 8.8962467,
+    "lon": 76.8616298,
+    "distance_m": 2825
+  }
+]

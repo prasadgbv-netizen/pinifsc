@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Camera Bank",
+    "operator": "",
+    "lat": 11.3101136,
+    "lon": 75.8254117,
+    "distance_m": 2723
+  },
+  {
+    "name": "CanaraBank Atm",
+    "operator": "",
+    "lat": 11.3094213,
+    "lon": 75.8248164,
+    "distance_m": 2824
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK",
+    "lat": 11.3092995,
+    "lon": 75.8241008,
+    "distance_m": 2881
+  }
+]

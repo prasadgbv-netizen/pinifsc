@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 10.9663925,
+    "lon": 79.3776495,
+    "distance_m": 590
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.9712488,
+    "lon": 79.3773075,
+    "distance_m": 621
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.9631132,
+    "lon": 79.3782842,
+    "distance_m": 840
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.9627575,
+    "lon": 79.3781702,
+    "distance_m": 858
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.9620059,
+    "lon": 79.3782411,
+    "distance_m": 924
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.9613082,
+    "lon": 79.3780024,
+    "distance_m": 967
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.9580696,
+    "lon": 79.3734736,
+    "distance_m": 1127
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India Atm",
+    "lat": 10.9596832,
+    "lon": 79.3784766,
+    "distance_m": 1143
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.9578917,
+    "lon": 79.3705122,
+    "distance_m": 1164
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.9576448,
+    "lon": 79.3740941,
+    "distance_m": 1181
+  }
+]

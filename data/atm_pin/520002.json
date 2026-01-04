@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5100986,
+    "lon": 80.6165545,
+    "distance_m": 936
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5090885,
+    "lon": 80.6160049,
+    "distance_m": 946
+  },
+  {
+    "name": "ATM",
+    "operator": "LVB ATM",
+    "lat": 16.5089592,
+    "lon": 80.6159858,
+    "distance_m": 953
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 16.5088621,
+    "lon": 80.6161222,
+    "distance_m": 971
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 16.5205561,
+    "lon": 80.6152611,
+    "distance_m": 991
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 16.5073154,
+    "lon": 80.6243743,
+    "distance_m": 1821
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 16.5264032,
+    "lon": 80.5944698,
+    "distance_m": 2052
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 16.5326374,
+    "lon": 80.6059416,
+    "distance_m": 2082
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.5112477,
+    "lon": 80.6302043,
+    "distance_m": 2300
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 16.5140771,
+    "lon": 80.6317022,
+    "distance_m": 2438
+  }
+]

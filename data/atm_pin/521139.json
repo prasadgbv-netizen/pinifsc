@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indian Atm",
+    "lat": 16.4604603,
+    "lon": 80.7168677,
+    "distance_m": 190
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Atm",
+    "lat": 16.4636499,
+    "lon": 80.7179895,
+    "distance_m": 197
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Atm",
+    "lat": 16.4636498,
+    "lon": 80.7179895,
+    "distance_m": 197
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Bank",
+    "lat": 16.4762479,
+    "lon": 80.709472,
+    "distance_m": 1758
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 16.4767422,
+    "lon": 80.7104273,
+    "distance_m": 1764
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 16.4770993,
+    "lon": 80.7100402,
+    "distance_m": 1817
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi Atm",
+    "lat": 16.4775041,
+    "lon": 80.7093893,
+    "distance_m": 1887
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi Atm",
+    "lat": 16.4772662,
+    "lon": 80.7080362,
+    "distance_m": 1930
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 16.4767967,
+    "lon": 80.7056517,
+    "distance_m": 2025
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbi",
+    "lat": 16.4768883,
+    "lon": 80.7054367,
+    "distance_m": 2047
+  }
+]

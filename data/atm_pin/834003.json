@@ -1,0 +1,51 @@
+[
+  {
+    "name": "SBI",
+    "operator": "government",
+    "lat": 23.3213993,
+    "lon": 85.3074138,
+    "distance_m": 2283
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "government",
+    "lat": 23.3217392,
+    "lon": 85.3073641,
+    "distance_m": 2289
+  },
+  {
+    "name": "icici",
+    "operator": "",
+    "lat": 23.3215948,
+    "lon": 85.305864,
+    "distance_m": 2441
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3227759,
+    "lon": 85.3053407,
+    "distance_m": 2501
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 23.3442275,
+    "lon": 85.3249739,
+    "distance_m": 2608
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3441941,
+    "lon": 85.3237876,
+    "distance_m": 2629
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 23.3017817,
+    "lon": 85.3140699,
+    "distance_m": 2688
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "RbL bank ltd thrissur branch&atm",
+    "lat": 10.5352419,
+    "lon": 76.2053911,
+    "distance_m": 238
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.5328857,
+    "lon": 76.2015867,
+    "distance_m": 549
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.532147,
+    "lon": 76.2015447,
+    "distance_m": 568
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 10.5327222,
+    "lon": 76.20135,
+    "distance_m": 577
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.532273,
+    "lon": 76.2014228,
+    "distance_m": 578
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.5282312,
+    "lon": 76.2053767,
+    "distance_m": 593
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanlaxmi Bank ATM",
+    "lat": 10.5353088,
+    "lon": 76.2137598,
+    "distance_m": 811
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.5355394,
+    "lon": 76.2147793,
+    "distance_m": 926
+  },
+  {
+    "name": "Union Bank ATM",
+    "operator": "",
+    "lat": 10.5312317,
+    "lon": 76.2150138,
+    "distance_m": 954
+  },
+  {
+    "name": "SIB ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.5295272,
+    "lon": 76.2145021,
+    "distance_m": 969
+  }
+]

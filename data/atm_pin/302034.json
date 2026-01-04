@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.9117579,
+    "lon": 75.7230808,
+    "distance_m": 900
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9115307,
+    "lon": 75.7238828,
+    "distance_m": 955
+  },
+  {
+    "name": "Sbi atm",
+    "operator": "",
+    "lat": 26.9095222,
+    "lon": 75.7189548,
+    "distance_m": 1083
+  },
+  {
+    "name": "Sbi ATM",
+    "operator": "",
+    "lat": 26.9210339,
+    "lon": 75.7309184,
+    "distance_m": 1135
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9113161,
+    "lon": 75.7288367,
+    "distance_m": 1268
+  },
+  {
+    "name": "Sbi atm",
+    "operator": "",
+    "lat": 26.9092921,
+    "lon": 75.712728,
+    "distance_m": 1302
+  },
+  {
+    "name": "ATM",
+    "operator": "bank of india",
+    "lat": 26.9139619,
+    "lon": 75.7378824,
+    "distance_m": 1901
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 26.914587,
+    "lon": 75.7387878,
+    "distance_m": 1968
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.9058054,
+    "lon": 75.7366927,
+    "distance_m": 2257
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9335304,
+    "lon": 75.7358394,
+    "distance_m": 2258
+  }
+]

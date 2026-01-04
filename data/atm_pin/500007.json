@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 17.4271625,
+    "lon": 78.5316212,
+    "distance_m": 889
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 17.4281657,
+    "lon": 78.5324339,
+    "distance_m": 899
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.4293627,
+    "lon": 78.5339866,
+    "distance_m": 906
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4158393,
+    "lon": 78.5448348,
+    "distance_m": 1000
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.428384,
+    "lon": 78.5279463,
+    "distance_m": 1288
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "ICICI",
+    "lat": 17.42922,
+    "lon": 78.5270963,
+    "distance_m": 1414
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.435739,
+    "lon": 78.537549,
+    "distance_m": 1492
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 17.4193249,
+    "lon": 78.5194199,
+    "distance_m": 2031
+  },
+  {
+    "name": "HDFC ATM",
+    "operator": "",
+    "lat": 17.4193338,
+    "lon": 78.519389,
+    "distance_m": 2034
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 17.4181003,
+    "lon": 78.5193729,
+    "distance_m": 2063
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 12.9227273,
+    "lon": 79.3313758,
+    "distance_m": 2426
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 12.9228143,
+    "lon": 79.3317774,
+    "distance_m": 2458
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.926562,
+    "lon": 79.3343444,
+    "distance_m": 2959
+  }
+]

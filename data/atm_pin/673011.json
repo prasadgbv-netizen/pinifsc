@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.2635958,
+    "lon": 75.7803652,
+    "distance_m": 796
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2610639,
+    "lon": 75.7799474,
+    "distance_m": 814
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2606527,
+    "lon": 75.7805951,
+    "distance_m": 897
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.259948,
+    "lon": 75.7805656,
+    "distance_m": 928
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 11.2546317,
+    "lon": 75.7705127,
+    "distance_m": 1067
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 11.2768793,
+    "lon": 75.7715706,
+    "distance_m": 1452
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2758533,
+    "lon": 75.785424,
+    "distance_m": 1893
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 11.2788213,
+    "lon": 75.7826767,
+    "distance_m": 1962
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 11.2506027,
+    "lon": 75.7866187,
+    "distance_m": 2090
+  },
+  {
+    "name": "Punjan National Bank",
+    "operator": "",
+    "lat": 11.2832631,
+    "lon": 75.7692687,
+    "distance_m": 2192
+  }
+]

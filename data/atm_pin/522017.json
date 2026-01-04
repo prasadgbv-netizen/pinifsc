@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Andhra bank ATM com bank",
+    "operator": "",
+    "lat": 16.2931614,
+    "lon": 80.44357,
+    "distance_m": 1679
+  },
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "",
+    "lat": 16.2912407,
+    "lon": 80.4439576,
+    "distance_m": 1889
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 16.3136253,
+    "lon": 80.4203742,
+    "distance_m": 1889
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 16.2963594,
+    "lon": 80.4542862,
+    "distance_m": 2214
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 16.2955506,
+    "lon": 80.4549935,
+    "distance_m": 2326
+  }
+]

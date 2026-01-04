@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0816904,
+    "lon": 72.8415545,
+    "distance_m": 136
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.0833899,
+    "lon": 72.8381913,
+    "distance_m": 536
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.0815393,
+    "lon": 72.8346918,
+    "distance_m": 835
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.0821808,
+    "lon": 72.8346376,
+    "distance_m": 849
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.0843713,
+    "lon": 72.835003,
+    "distance_m": 884
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 19.0801523,
+    "lon": 72.8510376,
+    "distance_m": 889
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0801686,
+    "lon": 72.8511058,
+    "distance_m": 895
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0783278,
+    "lon": 72.8345773,
+    "distance_m": 896
+  },
+  {
+    "name": "NKGSB Bank ATM",
+    "operator": "",
+    "lat": 19.080197,
+    "lon": 72.8511726,
+    "distance_m": 902
+  },
+  {
+    "name": "DCB Bank",
+    "operator": "",
+    "lat": 19.0786129,
+    "lon": 72.8342266,
+    "distance_m": 921
+  }
+]

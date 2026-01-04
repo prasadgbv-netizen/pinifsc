@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Union Bank ATM",
+    "operator": "",
+    "lat": 19.9134309,
+    "lon": 83.172158,
+    "distance_m": 764
+  },
+  {
+    "name": "DCB Bank ATM",
+    "operator": "",
+    "lat": 19.9130741,
+    "lon": 83.1720731,
+    "distance_m": 802
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 19.9269584,
+    "lon": 83.1515377,
+    "distance_m": 2714
+  }
+]

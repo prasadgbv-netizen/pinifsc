@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM State Bank of India, Vallabhacharya Rd, Hirabaugh, Surat, Gujarat 395006",
+    "lat": 21.2178046,
+    "lon": 72.857507,
+    "distance_m": 595
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Near Effil tower Road, Varachha, Surat",
+    "lat": 21.2058207,
+    "lon": 72.8482363,
+    "distance_m": 1088
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Poddar Arcade, Khand Bazar, Kodiyar Nagar, Surat",
+    "lat": 21.2073092,
+    "lon": 72.843433,
+    "distance_m": 1273
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 2, R.B Dhami Road, Pandesara, Rachana Society, Varachha, Surat, Gujarat 394210",
+    "lat": 21.2113104,
+    "lon": 72.8678349,
+    "distance_m": 1588
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sachin, Bombay Market, Umarwada, Surat",
+    "lat": 21.1993649,
+    "lon": 72.8492594,
+    "distance_m": 1734
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM  Lal Darwaja, Varachha, Surat",
+    "lat": 21.2063069,
+    "lon": 72.8372369,
+    "distance_m": 1867
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Mahadev Complex, Station Rd, Delhi Gate, Haripura, Surat",
+    "lat": 21.2018834,
+    "lon": 72.8386401,
+    "distance_m": 2045
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Kantareshwar Society, Katargam, Surat",
+    "lat": 21.2197144,
+    "lon": 72.832373,
+    "distance_m": 2204
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 534, Jay Prakash Narayan Marg, Sahara Darwaja, New Textile Market, Surat, Gujarat 395002",
+    "lat": 21.1952236,
+    "lon": 72.8439339,
+    "distance_m": 2345
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 11, Char Khana Road, Pramukh Darshan, Saiyed Pura, Haripura, Surat, Gujarat 395003",
+    "lat": 21.2041483,
+    "lon": 72.8308008,
+    "distance_m": 2569
+  }
+]

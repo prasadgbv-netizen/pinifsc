@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bank Of Baroda ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.9934326,
+    "lon": 80.0706734,
+    "distance_m": 2067
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 28.99212,
+    "lon": 80.0699078,
+    "distance_m": 2140
+  }
+]

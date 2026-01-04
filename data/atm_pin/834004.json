@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 23.3227759,
+    "lon": 85.3053407,
+    "distance_m": 1100
+  },
+  {
+    "name": "icici",
+    "operator": "",
+    "lat": 23.3215948,
+    "lon": 85.305864,
+    "distance_m": 1185
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "government",
+    "lat": 23.3217392,
+    "lon": 85.3073641,
+    "distance_m": 1328
+  },
+  {
+    "name": "SBI",
+    "operator": "government",
+    "lat": 23.3213993,
+    "lon": 85.3074138,
+    "distance_m": 1342
+  }
+]

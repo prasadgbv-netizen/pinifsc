@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 32.1033395,
+    "lon": 76.2734799,
+    "distance_m": 2876
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 32.1045362,
+    "lon": 76.2736773,
+    "distance_m": 2996
+  }
+]

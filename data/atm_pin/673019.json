@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.227788,
+    "lon": 75.853162,
+    "distance_m": 2174
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India ATM",
+    "lat": 11.239369,
+    "lon": 75.878168,
+    "distance_m": 2297
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 11.2303,
+    "lon": 75.8515868,
+    "distance_m": 2452
+  }
+]

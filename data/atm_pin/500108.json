@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 17.2365889,
+    "lon": 78.4295977,
+    "distance_m": 146
+  },
+  {
+    "name": "SBI Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 17.2365606,
+    "lon": 78.4295436,
+    "distance_m": 153
+  },
+  {
+    "name": "Kotak Bank ATM",
+    "operator": "",
+    "lat": 17.2362419,
+    "lon": 78.4298079,
+    "distance_m": 154
+  },
+  {
+    "name": "KVB Bank ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.2362524,
+    "lon": 78.4297764,
+    "distance_m": 155
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "Bank of Baroda",
+    "lat": 17.236655,
+    "lon": 78.4293292,
+    "distance_m": 168
+  },
+  {
+    "name": "Andhra Bank ATM",
+    "operator": "Union Bank of India",
+    "lat": 17.2364729,
+    "lon": 78.4294234,
+    "distance_m": 169
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.235901,
+    "lon": 78.4296424,
+    "distance_m": 194
+  },
+  {
+    "name": "SBI Bank ATM, Kotak Bank ATM, Canara Bank ATM",
+    "operator": "SBI Bank ATM, Kotak Bank ATM, Canara Bank ATM",
+    "lat": 17.2365931,
+    "lon": 78.4290249,
+    "distance_m": 201
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 17.2352031,
+    "lon": 78.4307052,
+    "distance_m": 229
+  }
+]

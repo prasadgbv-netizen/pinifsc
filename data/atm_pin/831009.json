@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 22.8061957,
+    "lon": 86.2027414,
+    "distance_m": 2518
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 22.8232775,
+    "lon": 86.2204634,
+    "distance_m": 2521
+  },
+  {
+    "name": "Bank Of India ATM",
+    "operator": "Bank of India",
+    "lat": 22.8198957,
+    "lon": 86.2121763,
+    "distance_m": 2545
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 22.8275445,
+    "lon": 86.2237178,
+    "distance_m": 2929
+  }
+]

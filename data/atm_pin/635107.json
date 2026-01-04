@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.5279037,
+    "lon": 77.7896871,
+    "distance_m": 215
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.5279486,
+    "lon": 77.7896606,
+    "distance_m": 221
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.5279628,
+    "lon": 77.7897022,
+    "distance_m": 222
+  },
+  {
+    "name": "India ONE ATM",
+    "operator": "",
+    "lat": 12.5282906,
+    "lon": 77.7894907,
+    "distance_m": 261
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.5225434,
+    "lon": 77.7913028,
+    "distance_m": 410
+  }
+]

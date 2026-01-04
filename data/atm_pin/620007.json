@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.7572688,
+    "lon": 78.6923545,
+    "distance_m": 1063
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.7577255,
+    "lon": 78.6921588,
+    "distance_m": 1084
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.7516552,
+    "lon": 78.6925187,
+    "distance_m": 1232
+  },
+  {
+    "name": "Allahabad Bank",
+    "operator": "Allahabad Bank",
+    "lat": 10.7736857,
+    "lon": 78.6932156,
+    "distance_m": 2041
+  }
+]

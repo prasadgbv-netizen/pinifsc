@@ -1,0 +1,44 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.525031,
+    "lon": 76.5246061,
+    "distance_m": 1215
+  },
+  {
+    "name": "ATM",
+    "operator": "co operative bank",
+    "lat": 9.5223521,
+    "lon": 76.5252421,
+    "distance_m": 1417
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 9.5201629,
+    "lon": 76.5247154,
+    "distance_m": 1518
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5203918,
+    "lon": 76.5252038,
+    "distance_m": 1542
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5182347,
+    "lon": 76.5246931,
+    "distance_m": 1667
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5444659,
+    "lon": 76.5191086,
+    "distance_m": 1768
+  }
+]

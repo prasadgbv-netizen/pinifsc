@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 16.9770914,
+    "lon": 81.7939328,
+    "distance_m": 1254
+  },
+  {
+    "name": "Indian Overseas Bank ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 16.9770498,
+    "lon": 81.7938862,
+    "distance_m": 1261
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 16.9847382,
+    "lon": 81.7834952,
+    "distance_m": 1852
+  },
+  {
+    "name": "Indian Bank ATM",
+    "operator": "Indian Bank",
+    "lat": 16.9847688,
+    "lon": 81.7834686,
+    "distance_m": 1854
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 16.9854951,
+    "lon": 81.7825866,
+    "distance_m": 1943
+  },
+  {
+    "name": "Andhra Bank ATM",
+    "operator": "Andhra Bank",
+    "lat": 16.9857212,
+    "lon": 81.7824404,
+    "distance_m": 1957
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.0044366,
+    "lon": 81.7948704,
+    "distance_m": 2121
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 16.9877838,
+    "lon": 81.7807892,
+    "distance_m": 2139
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 16.9882084,
+    "lon": 81.7804511,
+    "distance_m": 2179
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.0054008,
+    "lon": 81.7948664,
+    "distance_m": 2223
+  }
+]

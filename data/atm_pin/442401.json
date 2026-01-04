@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.9608769,
+    "lon": 79.2999791,
+    "distance_m": 414
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.9673977,
+    "lon": 79.3040236,
+    "distance_m": 988
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.952915,
+    "lon": 79.2976431,
+    "distance_m": 1049
+  },
+  {
+    "name": "ATM",
+    "operator": "bank of baroda",
+    "lat": 19.9433662,
+    "lon": 79.2958392,
+    "distance_m": 2102
+  },
+  {
+    "name": "ATM",
+    "operator": "uco bank",
+    "lat": 19.9483468,
+    "lon": 79.3108167,
+    "distance_m": 2167
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.9848702,
+    "lon": 79.3001676,
+    "distance_m": 2545
+  }
+]

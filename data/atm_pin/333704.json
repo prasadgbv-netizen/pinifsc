@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 28.0555401,
+    "lon": 75.150319,
+    "distance_m": 153
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "",
+    "lat": 28.0547454,
+    "lon": 75.1472959,
+    "distance_m": 172
+  }
+]

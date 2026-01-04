@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.9509465,
+    "lon": 79.1962926,
+    "distance_m": 1911
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi vilas bank",
+    "lat": 11.9751274,
+    "lon": 79.2234326,
+    "distance_m": 2276
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.9604876,
+    "lon": 79.1828866,
+    "distance_m": 2448
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.9516643,
+    "lon": 79.1858531,
+    "distance_m": 2597
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9877059,
+    "lon": 77.5596356,
+    "distance_m": 539
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9852752,
+    "lon": 77.5564539,
+    "distance_m": 549
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9853419,
+    "lon": 77.5564646,
+    "distance_m": 552
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.9821863,
+    "lon": 77.5660957,
+    "distance_m": 562
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.986288,
+    "lon": 77.5558088,
+    "distance_m": 666
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9876052,
+    "lon": 77.5558577,
+    "distance_m": 752
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.990191,
+    "lon": 77.560667,
+    "distance_m": 796
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9799118,
+    "lon": 77.5541722,
+    "distance_m": 815
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.975994,
+    "lon": 77.558578,
+    "distance_m": 825
+  },
+  {
+    "name": "NKGSB Bank",
+    "operator": "",
+    "lat": 12.9885991,
+    "lon": 77.555898,
+    "distance_m": 828
+  }
+]

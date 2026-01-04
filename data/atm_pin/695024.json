@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.4894649,
+    "lon": 76.9255158,
+    "distance_m": 408
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 8.492855,
+    "lon": 76.9247049,
+    "distance_m": 631
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 8.4943171,
+    "lon": 76.9276422,
+    "distance_m": 943
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 8.4941634,
+    "lon": 76.9280739,
+    "distance_m": 961
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.4965156,
+    "lon": 76.9311846,
+    "distance_m": 1386
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB",
+    "lat": 8.4968118,
+    "lon": 76.9337843,
+    "distance_m": 1622
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India ATM",
+    "lat": 8.4812884,
+    "lon": 76.9367757,
+    "distance_m": 1751
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 8.495851,
+    "lon": 76.9079379,
+    "distance_m": 1814
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 8.4970147,
+    "lon": 76.9383495,
+    "distance_m": 2050
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank ATM",
+    "lat": 8.504871,
+    "lon": 76.9315266,
+    "distance_m": 2162
+  }
+]

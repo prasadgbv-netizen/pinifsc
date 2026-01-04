@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 10.7842524,
+    "lon": 78.7756613,
+    "distance_m": 1922
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.7842851,
+    "lon": 78.7756613,
+    "distance_m": 1925
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 10.7843333,
+    "lon": 78.7756617,
+    "distance_m": 1930
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7843751,
+    "lon": 78.7756673,
+    "distance_m": 1935
+  },
+  {
+    "name": "All Cards accepted",
+    "operator": "",
+    "lat": 10.7844153,
+    "lon": 78.7756661,
+    "distance_m": 1939
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 10.7845343,
+    "lon": 78.7756629,
+    "distance_m": 1951
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 10.79291,
+    "lon": 78.7631851,
+    "distance_m": 2778
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7769088,
+    "lon": 78.7930978,
+    "distance_m": 2848
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7773809,
+    "lon": 78.7930344,
+    "distance_m": 2860
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7719064,
+    "lon": 78.7952816,
+    "distance_m": 2953
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "AXIS bank ATM 24& 7 services",
+    "operator": "",
+    "lat": 19.0661359,
+    "lon": 72.9201218,
+    "distance_m": 536
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.0664226,
+    "lon": 72.9048599,
+    "distance_m": 1801
+  },
+  {
+    "name": "State Bamk ATM Chheda Nagar",
+    "operator": "State Bank of India",
+    "lat": 19.0664637,
+    "lon": 72.9048132,
+    "distance_m": 1807
+  },
+  {
+    "name": "Ghadi House, Mankhurd",
+    "operator": "ICICI Bank",
+    "lat": 19.0429098,
+    "lon": 72.9283214,
+    "distance_m": 2190
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0542623,
+    "lon": 72.900267,
+    "distance_m": 2335
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0540362,
+    "lon": 72.9002287,
+    "distance_m": 2347
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0587342,
+    "lon": 72.8987021,
+    "distance_m": 2379
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584202,
+    "lon": 72.8986786,
+    "distance_m": 2386
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584099,
+    "lon": 72.8986662,
+    "distance_m": 2387
+  },
+  {
+    "name": "Saraswat Co-op Bank Ltd",
+    "operator": "",
+    "lat": 19.0520442,
+    "lon": 72.9001958,
+    "distance_m": 2437
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "APCOB-AP State Government Cooperative Bank",
+    "operator": "",
+    "lat": 17.3950969,
+    "lon": 78.4912393,
+    "distance_m": 330
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi Bank ATM",
+    "lat": 17.3900805,
+    "lon": 78.4946821,
+    "distance_m": 598
+  },
+  {
+    "name": "HDFC",
+    "operator": "HDFC",
+    "lat": 17.4020034,
+    "lon": 78.4951821,
+    "distance_m": 733
+  },
+  {
+    "name": "ATM",
+    "operator": "icici bank atm",
+    "lat": 17.4019129,
+    "lon": 78.4889337,
+    "distance_m": 918
+  },
+  {
+    "name": "andhra bank atm",
+    "operator": "",
+    "lat": 17.4038885,
+    "lon": 78.4953224,
+    "distance_m": 943
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Atm center",
+    "lat": 17.3966312,
+    "lon": 78.5034672,
+    "distance_m": 977
+  },
+  {
+    "name": "SBI ATM (2 Nos)",
+    "operator": "",
+    "lat": 17.3977147,
+    "lon": 78.4833926,
+    "distance_m": 1187
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3850823,
+    "lon": 78.4880982,
+    "distance_m": 1329
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.3846266,
+    "lon": 78.488919,
+    "distance_m": 1334
+  },
+  {
+    "name": "ATM",
+    "operator": "Oriental bank atm",
+    "lat": 17.4075909,
+    "lon": 78.4944944,
+    "distance_m": 1349
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3393988,
+    "lon": 78.5657244,
+    "distance_m": 1136
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 17.3395566,
+    "lon": 78.5642022,
+    "distance_m": 1218
+  },
+  {
+    "name": "HDFC",
+    "operator": "HDFC",
+    "lat": 17.3370589,
+    "lon": 78.5734836,
+    "distance_m": 1227
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3405818,
+    "lon": 78.562031,
+    "distance_m": 1304
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.336319,
+    "lon": 78.5798029,
+    "distance_m": 1559
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.3340553,
+    "lon": 78.5692774,
+    "distance_m": 1564
+  },
+  {
+    "name": "ATM",
+    "operator": "BARODA ATM",
+    "lat": 17.3438412,
+    "lon": 78.5554592,
+    "distance_m": 1772
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 17.3319489,
+    "lon": 78.5694685,
+    "distance_m": 1793
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK ATM",
+    "lat": 17.345578,
+    "lon": 78.5543294,
+    "distance_m": 1850
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI",
+    "lat": 17.3438595,
+    "lon": 78.5542071,
+    "distance_m": 1900
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "KGBI",
+    "lat": 11.3845507,
+    "lon": 75.7353953,
+    "distance_m": 712
+  },
+  {
+    "name": "ATM",
+    "operator": "SMG",
+    "lat": 11.3806789,
+    "lon": 75.7264841,
+    "distance_m": 1475
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala District Co-operative Bank ATM",
+    "lat": 11.3882315,
+    "lon": 75.7585119,
+    "distance_m": 2215
+  },
+  {
+    "name": "ATM",
+    "operator": "SMG",
+    "lat": 11.3954761,
+    "lon": 75.7263096,
+    "distance_m": 2277
+  }
+]

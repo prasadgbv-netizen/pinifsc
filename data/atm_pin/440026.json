@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1823331,
+    "lon": 79.1277448,
+    "distance_m": 2716
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 21.1818878,
+    "lon": 79.128016,
+    "distance_m": 2763
+  }
+]

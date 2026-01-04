@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3778206,
+    "lon": 76.77885,
+    "distance_m": 1074
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3983991,
+    "lon": 76.7807139,
+    "distance_m": 1519
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM, Thottamon",
+    "lat": 9.370811,
+    "lon": 76.7794942,
+    "distance_m": 1727
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 9.3677354,
+    "lon": 76.7800978,
+    "distance_m": 2033
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.888857,
+    "lon": 76.5984906,
+    "distance_m": 208
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.8855887,
+    "lon": 76.5954639,
+    "distance_m": 699
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 8.8855862,
+    "lon": 76.5948204,
+    "distance_m": 751
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.8835342,
+    "lon": 76.5959109,
+    "distance_m": 847
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 8.8942259,
+    "lon": 76.6064441,
+    "distance_m": 849
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.8869393,
+    "lon": 76.5921553,
+    "distance_m": 926
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.8879598,
+    "lon": 76.5913539,
+    "distance_m": 976
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.8805158,
+    "lon": 76.6033179,
+    "distance_m": 1115
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 8.8875249,
+    "lon": 76.6104844,
+    "distance_m": 1184
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.8861177,
+    "lon": 76.5897634,
+    "distance_m": 1204
+  }
+]

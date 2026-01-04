@@ -1,0 +1,30 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7157915,
+    "lon": 76.8432341,
+    "distance_m": 1078
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM ManiMajra Chandigarh",
+    "lat": 30.7180005,
+    "lon": 76.8348676,
+    "distance_m": 1730
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM shanti nagar Manimajra Chandigarh",
+    "lat": 30.7197782,
+    "lon": 76.8324617,
+    "distance_m": 1930
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 30.7131771,
+    "lon": 76.8346614,
+    "distance_m": 1932
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 22.6108744,
+    "lon": 88.4004177,
+    "distance_m": 456
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6103136,
+    "lon": 88.4093694,
+    "distance_m": 944
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5971099,
+    "lon": 88.4089825,
+    "distance_m": 1353
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.6160449,
+    "lon": 88.4121953,
+    "distance_m": 1542
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 22.6204763,
+    "lon": 88.3972095,
+    "distance_m": 1569
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.620171,
+    "lon": 88.3956669,
+    "distance_m": 1584
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.6201757,
+    "lon": 88.3956872,
+    "distance_m": 1584
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 22.6210195,
+    "lon": 88.3990577,
+    "distance_m": 1593
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.6210276,
+    "lon": 88.3991021,
+    "distance_m": 1593
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6210749,
+    "lon": 88.3992451,
+    "distance_m": 1597
+  }
+]

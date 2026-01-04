@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 26.8465139,
+    "lon": 75.7934439,
+    "distance_m": 79
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.8458821,
+    "lon": 75.7934158,
+    "distance_m": 149
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.8496805,
+    "lon": 75.7936962,
+    "distance_m": 275
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.8526183,
+    "lon": 75.7820266,
+    "distance_m": 1272
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8545195,
+    "lon": 75.8052136,
+    "distance_m": 1430
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8496322,
+    "lon": 75.7735414,
+    "distance_m": 1981
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8503573,
+    "lon": 75.7733094,
+    "distance_m": 2016
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.8596866,
+    "lon": 75.8087573,
+    "distance_m": 2064
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8594642,
+    "lon": 75.8091873,
+    "distance_m": 2080
+  },
+  {
+    "name": "ATM",
+    "operator": "Lalit",
+    "lat": 26.866179,
+    "lon": 75.7908165,
+    "distance_m": 2122
+  }
+]

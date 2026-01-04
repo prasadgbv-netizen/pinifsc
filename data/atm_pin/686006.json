@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "INDUSLAND BANK ATM",
+    "lat": 9.6080417,
+    "lon": 76.5319335,
+    "distance_m": 411
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank",
+    "lat": 9.5995485,
+    "lon": 76.5295595,
+    "distance_m": 627
+  },
+  {
+    "name": "Karnataka bank ATM",
+    "operator": "",
+    "lat": 9.5948991,
+    "lon": 76.5296227,
+    "distance_m": 1144
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5946542,
+    "lon": 76.5312962,
+    "distance_m": 1187
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank ATM",
+    "lat": 9.594262,
+    "lon": 76.5317061,
+    "distance_m": 1238
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.6160528,
+    "lon": 76.5326253,
+    "distance_m": 1254
+  },
+  {
+    "name": "ATM",
+    "operator": "union bank of india atm",
+    "lat": 9.6170251,
+    "lon": 76.5328089,
+    "distance_m": 1363
+  },
+  {
+    "name": "ATM",
+    "operator": "central bank of india atm",
+    "lat": 9.6170654,
+    "lon": 76.5328148,
+    "distance_m": 1368
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.6031228,
+    "lon": 76.5166978,
+    "distance_m": 1426
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank kottayam",
+    "lat": 9.5921634,
+    "lon": 76.5320155,
+    "distance_m": 1473
+  }
+]

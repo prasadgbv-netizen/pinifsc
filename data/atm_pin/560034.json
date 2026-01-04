@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC ATM",
+    "operator": "",
+    "lat": 12.9209127,
+    "lon": 77.6336572,
+    "distance_m": 210
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9180396,
+    "lon": 77.631926,
+    "distance_m": 385
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9169799,
+    "lon": 77.6338738,
+    "distance_m": 550
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9170321,
+    "lon": 77.6289637,
+    "distance_m": 584
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 12.9173826,
+    "lon": 77.6278011,
+    "distance_m": 631
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9154792,
+    "lon": 77.6344183,
+    "distance_m": 726
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9164063,
+    "lon": 77.6365397,
+    "distance_m": 764
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9256885,
+    "lon": 77.6250527,
+    "distance_m": 867
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9272827,
+    "lon": 77.6379132,
+    "distance_m": 922
+  },
+  {
+    "name": "Ujjivan",
+    "operator": "Ujjivan Small Finance Bank",
+    "lat": 12.9117281,
+    "lon": 77.6326118,
+    "distance_m": 1090
+  }
+]

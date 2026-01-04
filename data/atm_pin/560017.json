@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9451475,
+    "lon": 77.5719389,
+    "distance_m": 231
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9458998,
+    "lon": 77.5717344,
+    "distance_m": 280
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 12.940402,
+    "lon": 77.5766481,
+    "distance_m": 558
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of Indi",
+    "lat": 12.9500017,
+    "lon": 77.5721635,
+    "distance_m": 620
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Nivas Bank",
+    "lat": 12.9437347,
+    "lon": 77.5799634,
+    "distance_m": 652
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9506158,
+    "lon": 77.5736394,
+    "distance_m": 656
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9446167,
+    "lon": 77.5677552,
+    "distance_m": 679
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9464594,
+    "lon": 77.5801001,
+    "distance_m": 685
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 12.9472769,
+    "lon": 77.5799705,
+    "distance_m": 703
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 12.947717,
+    "lon": 77.5798294,
+    "distance_m": 711
+  }
+]

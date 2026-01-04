@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Nepal SBI Bank Limited",
+    "operator": "Nepal SBI Bank Limited",
+    "lat": 28.2348353,
+    "lon": 83.9972613,
+    "distance_m": 386
+  },
+  {
+    "name": "ATM",
+    "operator": "HZHS",
+    "lat": 28.2403837,
+    "lon": 83.9889439,
+    "distance_m": 703
+  },
+  {
+    "name": "Om Development Bank",
+    "operator": "Om Development Bank Limited",
+    "lat": 28.2398143,
+    "lon": 83.9883938,
+    "distance_m": 733
+  },
+  {
+    "name": "Nepal Bank Limited",
+    "operator": "Nepal Bank Limited",
+    "lat": 28.2397639,
+    "lon": 83.9882089,
+    "distance_m": 749
+  },
+  {
+    "name": "Fewa Bikash Bank Limited",
+    "operator": "Fewa Bikash Bank",
+    "lat": 28.2400741,
+    "lon": 83.9882337,
+    "distance_m": 756
+  },
+  {
+    "name": "Prabhu Development Bank Limited",
+    "operator": "Prabhu Bank",
+    "lat": 28.2415174,
+    "lon": 83.9888945,
+    "distance_m": 764
+  },
+  {
+    "name": "Pokhara Finance Limited",
+    "operator": "Pokhara Finance Limited",
+    "lat": 28.2427729,
+    "lon": 83.9887968,
+    "distance_m": 851
+  },
+  {
+    "name": "KIST Bank Limited",
+    "operator": "KIST Bank Limited",
+    "lat": 28.2429634,
+    "lon": 83.9888015,
+    "distance_m": 864
+  },
+  {
+    "name": "Machhapuchchre Bank Limited",
+    "operator": "Machhapuchchre Bank Limited",
+    "lat": 28.2419901,
+    "lon": 83.98731,
+    "distance_m": 925
+  },
+  {
+    "name": "Nepal Bank Limited",
+    "operator": "Nepal Bank Limited",
+    "lat": 28.2270408,
+    "lon": 83.9899737,
+    "distance_m": 1335
+  }
+]

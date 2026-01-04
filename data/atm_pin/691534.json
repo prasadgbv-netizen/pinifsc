@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India 1 ATM",
+    "lat": 8.8703359,
+    "lon": 76.8705083,
+    "distance_m": 67
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 8.8738281,
+    "lon": 76.8688282,
+    "distance_m": 444
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 8.8747855,
+    "lon": 76.8693236,
+    "distance_m": 537
+  },
+  {
+    "name": "ATM",
+    "operator": "BOI ATM",
+    "lat": 8.8862939,
+    "lon": 76.8879724,
+    "distance_m": 2679
+  }
+]

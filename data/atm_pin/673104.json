@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Dhanalakshmi Bank",
+    "operator": "",
+    "lat": 11.6013257,
+    "lon": 75.5917984,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.5982214,
+    "lon": 75.5940694,
+    "distance_m": 1460
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.5942933,
+    "lon": 75.594511,
+    "distance_m": 1846
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 11.5941361,
+    "lon": 75.5944527,
+    "distance_m": 1864
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.5937964,
+    "lon": 75.5945468,
+    "distance_m": 1897
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.5951089,
+    "lon": 75.5907251,
+    "distance_m": 1939
+  }
+]

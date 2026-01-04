@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.5830504,
+    "lon": 78.0564661,
+    "distance_m": 1940
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.5965744,
+    "lon": 78.084942,
+    "distance_m": 2527
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.5119179,
+    "lon": 75.6223837,
+    "distance_m": 1890
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.5134046,
+    "lon": 75.6213776,
+    "distance_m": 2082
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.4740461,
+    "lon": 75.6395841,
+    "distance_m": 2739
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.474204,
+    "lon": 75.6399124,
+    "distance_m": 2741
+  },
+  {
+    "name": "KGB ATM",
+    "operator": "",
+    "lat": 11.4733788,
+    "lon": 75.6404988,
+    "distance_m": 2853
+  }
+]

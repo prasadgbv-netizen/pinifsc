@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India Post Atm",
+    "lat": 24.6922386,
+    "lon": 78.4203777,
+    "distance_m": 33
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 24.7052384,
+    "lon": 78.4203088,
+    "distance_m": 1438
+  }
+]

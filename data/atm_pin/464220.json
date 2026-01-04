@@ -1,0 +1,51 @@
+[
+  {
+    "name": "3 Банка",
+    "operator": "3 Банка",
+    "lat": 42.5517509,
+    "lon": 21.9014909,
+    "distance_m": 83
+  },
+  {
+    "name": "АИК банка",
+    "operator": "AIK banka",
+    "lat": 42.5518764,
+    "lon": 21.8984913,
+    "distance_m": 266
+  },
+  {
+    "name": "Yettel",
+    "operator": "Yettel bank",
+    "lat": 42.5506857,
+    "lon": 21.89877,
+    "distance_m": 309
+  },
+  {
+    "name": "MoneyGet",
+    "operator": "Payten",
+    "lat": 42.5540242,
+    "lon": 21.8979811,
+    "distance_m": 344
+  },
+  {
+    "name": "АИК банка",
+    "operator": "AIK banka",
+    "lat": 42.5486977,
+    "lon": 21.8996144,
+    "distance_m": 453
+  },
+  {
+    "name": "Поштанска штедионица",
+    "operator": "Поштанска штедионица",
+    "lat": 42.5441601,
+    "lon": 21.901264,
+    "distance_m": 927
+  },
+  {
+    "name": "АИК банка",
+    "operator": "AIK banka",
+    "lat": 42.5403624,
+    "lon": 21.9028356,
+    "distance_m": 1352
+  }
+]

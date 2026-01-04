@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 17.4756889,
+    "lon": 78.3623182,
+    "distance_m": 477
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 17.4649832,
+    "lon": 78.3651673,
+    "distance_m": 751
+  },
+  {
+    "name": "KVB ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 17.4643247,
+    "lon": 78.3690216,
+    "distance_m": 1007
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4625121,
+    "lon": 78.3663477,
+    "distance_m": 1051
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4625754,
+    "lon": 78.3670074,
+    "distance_m": 1069
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 17.462443,
+    "lon": 78.366768,
+    "distance_m": 1073
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4608719,
+    "lon": 78.366336,
+    "distance_m": 1225
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.4619676,
+    "lon": 78.356004,
+    "distance_m": 1302
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4593336,
+    "lon": 78.3663932,
+    "distance_m": 1392
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 17.4577178,
+    "lon": 78.3651339,
+    "distance_m": 1543
+  }
+]

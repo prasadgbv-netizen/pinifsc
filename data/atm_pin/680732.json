@@ -1,0 +1,44 @@
+[
+  {
+    "name": "South Indian Bank ATM",
+    "operator": "",
+    "lat": 10.2125061,
+    "lon": 76.2653811,
+    "distance_m": 1878
+  },
+  {
+    "name": "ATM",
+    "operator": "atm",
+    "lat": 10.2407817,
+    "lon": 76.2640013,
+    "distance_m": 2772
+  },
+  {
+    "name": "ATM",
+    "operator": "South indian bank atm",
+    "lat": 10.2411054,
+    "lon": 76.2636083,
+    "distance_m": 2779
+  },
+  {
+    "name": "ATM",
+    "operator": "atm federal bank",
+    "lat": 10.2404899,
+    "lon": 76.2648425,
+    "distance_m": 2798
+  },
+  {
+    "name": "S",
+    "operator": "Syndicate Bank ATM",
+    "lat": 10.2422256,
+    "lon": 76.2630908,
+    "distance_m": 2856
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.2429801,
+    "lon": 76.2632618,
+    "distance_m": 2938
+  }
+]

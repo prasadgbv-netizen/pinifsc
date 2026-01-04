@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 35 Chandigarh",
+    "lat": 30.7216714,
+    "lon": 76.760248,
+    "distance_m": 521
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 30.7209208,
+    "lon": 76.7590777,
+    "distance_m": 564
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 30.723781,
+    "lon": 76.7635482,
+    "distance_m": 591
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 22 Chandigarh",
+    "lat": 30.7277724,
+    "lon": 76.7679642,
+    "distance_m": 987
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.724319,
+    "lon": 76.7681183,
+    "distance_m": 995
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 36 Chandigarh",
+    "lat": 30.734242,
+    "lon": 76.7533476,
+    "distance_m": 1024
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7230801,
+    "lon": 76.7681781,
+    "distance_m": 1033
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7231834,
+    "lon": 76.7684198,
+    "distance_m": 1052
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7221656,
+    "lon": 76.7687083,
+    "distance_m": 1115
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 30.7276786,
+    "lon": 76.7696686,
+    "distance_m": 1145
+  }
+]

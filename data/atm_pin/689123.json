@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IOB ATM",
+    "lat": 9.3256703,
+    "lon": 76.6334709,
+    "distance_m": 613
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.3172247,
+    "lon": 76.6163034,
+    "distance_m": 2067
+  },
+  {
+    "name": "ATM",
+    "operator": "fedral banck",
+    "lat": 9.3189827,
+    "lon": 76.6125893,
+    "distance_m": 2269
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3350285,
+    "lon": 76.6045555,
+    "distance_m": 2847
+  }
+]

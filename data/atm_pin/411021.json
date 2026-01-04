@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 18.5375711,
+    "lon": 73.7959192,
+    "distance_m": 98
+  },
+  {
+    "name": "ATM",
+    "operator": "Cosmos Bank",
+    "lat": 18.5374006,
+    "lon": 73.7935752,
+    "distance_m": 157
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 18.546023,
+    "lon": 73.7904805,
+    "distance_m": 1091
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.5450982,
+    "lon": 73.808023,
+    "distance_m": 1623
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 18.5522152,
+    "lon": 73.7933012,
+    "distance_m": 1677
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.5450455,
+    "lon": 73.7797174,
+    "distance_m": 1836
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.5531646,
+    "lon": 73.8024619,
+    "distance_m": 1937
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5548303,
+    "lon": 73.7962146,
+    "distance_m": 1961
+  },
+  {
+    "name": "ATM",
+    "operator": "Saraswat Bank",
+    "lat": 18.5552884,
+    "lon": 73.796162,
+    "distance_m": 2012
+  },
+  {
+    "name": "ATM",
+    "operator": "RBL Bank",
+    "lat": 18.5548107,
+    "lon": 73.7999423,
+    "distance_m": 2022
+  }
+]

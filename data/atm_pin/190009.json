@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Punjab National Bank Atm",
+    "operator": "",
+    "lat": 34.0758153,
+    "lon": 74.7976899,
+    "distance_m": 338
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0753299,
+    "lon": 74.7959337,
+    "distance_m": 480
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 34.0720503,
+    "lon": 74.8073126,
+    "distance_m": 641
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0688782,
+    "lon": 74.8033909,
+    "distance_m": 674
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0806958,
+    "lon": 74.8014089,
+    "distance_m": 674
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 34.0718007,
+    "lon": 74.8077388,
+    "distance_m": 689
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0672892,
+    "lon": 74.8051003,
+    "distance_m": 897
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0828185,
+    "lon": 74.7979773,
+    "distance_m": 953
+  },
+  {
+    "name": "J&K Bank Atm",
+    "operator": "",
+    "lat": 34.0658285,
+    "lon": 74.8037109,
+    "distance_m": 1009
+  },
+  {
+    "name": "SBI Bank Atm",
+    "operator": "",
+    "lat": 34.0842923,
+    "lon": 74.7966906,
+    "distance_m": 1147
+  }
+]

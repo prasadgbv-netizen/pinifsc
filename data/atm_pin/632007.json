@@ -1,0 +1,44 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9697492,
+    "lon": 79.1551859,
+    "distance_m": 1842
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9502942,
+    "lon": 79.137376,
+    "distance_m": 2035
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 12.9504625,
+    "lon": 79.1416444,
+    "distance_m": 2048
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.9499887,
+    "lon": 79.1414465,
+    "distance_m": 2096
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.9716022,
+    "lon": 79.1631515,
+    "distance_m": 2722
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.9732385,
+    "lon": 79.1642447,
+    "distance_m": 2866
+  }
+]

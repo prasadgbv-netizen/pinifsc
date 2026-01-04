@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.0512652,
+    "lon": 74.9650625,
+    "distance_m": 1708
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.0437879,
+    "lon": 74.979072,
+    "distance_m": 1989
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0700069,
+    "lon": 74.996399,
+    "distance_m": 2323
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 13.0613666,
+    "lon": 74.9550001,
+    "distance_m": 2360
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC Bank",
+    "lat": 13.0706157,
+    "lon": 74.9997728,
+    "distance_m": 2686
+  }
+]

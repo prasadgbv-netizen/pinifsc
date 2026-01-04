@@ -1,0 +1,72 @@
+[
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9143063,
+    "lon": 78.1262573,
+    "distance_m": 1515
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9145146,
+    "lon": 78.1254934,
+    "distance_m": 1522
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 9.9154237,
+    "lon": 78.1255306,
+    "distance_m": 1622
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9159923,
+    "lon": 78.1250261,
+    "distance_m": 1678
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.91881,
+    "lon": 78.1218004,
+    "distance_m": 1986
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9050969,
+    "lon": 78.105316,
+    "distance_m": 2019
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 9.9189616,
+    "lon": 78.1150501,
+    "distance_m": 2191
+  },
+  {
+    "name": "ATM",
+    "operator": "Canada Bank",
+    "lat": 9.9186085,
+    "lon": 78.113775,
+    "distance_m": 2217
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9185466,
+    "lon": 78.1136122,
+    "distance_m": 2219
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9213856,
+    "lon": 78.1277932,
+    "distance_m": 2320
+  }
+]

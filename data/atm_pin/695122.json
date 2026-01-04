@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank",
+    "lat": 8.3871277,
+    "lon": 77.1132183,
+    "distance_m": 103
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 8.3865101,
+    "lon": 77.1300599,
+    "distance_m": 1944
+  },
+  {
+    "name": "ATM",
+    "operator": "canara Bank",
+    "lat": 8.3971042,
+    "lon": 77.0889716,
+    "distance_m": 2786
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.3975267,
+    "lon": 77.0882268,
+    "distance_m": 2880
+  }
+]

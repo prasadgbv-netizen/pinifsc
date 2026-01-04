@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 28.513712,
+    "lon": 77.2344806,
+    "distance_m": 355
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5137441,
+    "lon": 77.2342597,
+    "distance_m": 371
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5141173,
+    "lon": 77.2327466,
+    "distance_m": 487
+  },
+  {
+    "name": "ATM",
+    "operator": "union bank",
+    "lat": 28.5111474,
+    "lon": 77.237689,
+    "distance_m": 487
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.516561,
+    "lon": 77.2272104,
+    "distance_m": 1009
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.5169615,
+    "lon": 77.2271789,
+    "distance_m": 1018
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.5167524,
+    "lon": 77.2271259,
+    "distance_m": 1020
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5247002,
+    "lon": 77.2369691,
+    "distance_m": 1021
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.5164119,
+    "lon": 77.2247295,
+    "distance_m": 1248
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi bank atm",
+    "lat": 28.5084236,
+    "lon": 77.2510098,
+    "distance_m": 1540
+  }
+]

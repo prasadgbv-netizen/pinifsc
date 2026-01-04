@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 11.0149091,
+    "lon": 76.9491827,
+    "distance_m": 607
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0260408,
+    "lon": 76.9511194,
+    "distance_m": 692
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 11.0138643,
+    "lon": 76.9535094,
+    "distance_m": 695
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0176933,
+    "lon": 76.9579777,
+    "distance_m": 735
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.027778,
+    "lon": 76.9516596,
+    "distance_m": 883
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0259906,
+    "lon": 76.9459943,
+    "distance_m": 918
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0268899,
+    "lon": 76.9470038,
+    "distance_m": 931
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0275718,
+    "lon": 76.9468885,
+    "distance_m": 1002
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0097609,
+    "lon": 76.9501164,
+    "distance_m": 1131
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.009274,
+    "lon": 76.9504819,
+    "distance_m": 1180
+  }
+]

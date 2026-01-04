@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.8818755,
+    "lon": 76.6716917,
+    "distance_m": 1333
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.8929984,
+    "lon": 76.6809003,
+    "distance_m": 2823
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 8.8942254,
+    "lon": 76.6795591,
+    "distance_m": 2891
+  }
+]

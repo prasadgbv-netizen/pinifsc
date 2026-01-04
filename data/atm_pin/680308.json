@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.2683258,
+    "lon": 76.3534916,
+    "distance_m": 1815
+  },
+  {
+    "name": "ATM",
+    "operator": "Irinjalakuda Town Co-operative Bank ATM",
+    "lat": 10.2644952,
+    "lon": 76.3506355,
+    "distance_m": 2205
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.2708302,
+    "lon": 76.3477554,
+    "distance_m": 2435
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 10.2459622,
+    "lon": 76.3702041,
+    "distance_m": 2672
+  }
+]

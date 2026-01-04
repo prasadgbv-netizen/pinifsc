@@ -1,0 +1,30 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 18.6334162,
+    "lon": 73.8201237,
+    "distance_m": 126
+  },
+  {
+    "name": "Bank O",
+    "operator": "Bank of India",
+    "lat": 18.6264548,
+    "lon": 73.8051057,
+    "distance_m": 1788
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.6304144,
+    "lon": 73.8027412,
+    "distance_m": 1920
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.6360703,
+    "lon": 73.7961247,
+    "distance_m": 2633
+  }
+]

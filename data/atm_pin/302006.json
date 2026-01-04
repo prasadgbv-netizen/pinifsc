@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.898933,
+    "lon": 75.7840779,
+    "distance_m": 837
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 26.9026028,
+    "lon": 75.7926001,
+    "distance_m": 950
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.9202289,
+    "lon": 75.7896248,
+    "distance_m": 1627
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post ATM",
+    "lat": 26.9139188,
+    "lon": 75.799137,
+    "distance_m": 1710
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9146995,
+    "lon": 75.7996987,
+    "distance_m": 1801
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank ATM",
+    "lat": 26.9147271,
+    "lon": 75.7997268,
+    "distance_m": 1805
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 26.9173574,
+    "lon": 75.7994798,
+    "distance_m": 1951
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 26.91869,
+    "lon": 75.7985653,
+    "distance_m": 1979
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab & Sindh Bank",
+    "lat": 26.9209472,
+    "lon": 75.7959054,
+    "distance_m": 1994
+  },
+  {
+    "name": "Indian State Bank",
+    "operator": "",
+    "lat": 26.9177877,
+    "lon": 75.7998401,
+    "distance_m": 2009
+  }
+]

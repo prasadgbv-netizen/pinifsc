@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 29.218156,
+    "lon": 79.5179387,
+    "distance_m": 470
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 29.2186023,
+    "lon": 79.5156976,
+    "distance_m": 594
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 29.2163606,
+    "lon": 79.5235999,
+    "distance_m": 640
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 29.2191095,
+    "lon": 79.5141319,
+    "distance_m": 702
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 29.2159064,
+    "lon": 79.5240333,
+    "distance_m": 704
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 29.2203875,
+    "lon": 79.5298375,
+    "distance_m": 887
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 29.2199405,
+    "lon": 79.5115937,
+    "distance_m": 911
+  },
+  {
+    "name": "ATM",
+    "operator": "Nainital District Cooperative Bank Limited",
+    "lat": 29.2186005,
+    "lon": 79.5296801,
+    "distance_m": 923
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 29.2207207,
+    "lon": 79.5104124,
+    "distance_m": 1011
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 29.2149874,
+    "lon": 79.5283087,
+    "distance_m": 1033
+  }
+]

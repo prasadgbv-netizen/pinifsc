@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.67568,
+    "lon": 77.312347,
+    "distance_m": 657
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6757443,
+    "lon": 77.3123479,
+    "distance_m": 662
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.67802,
+    "lon": 77.3088782,
+    "distance_m": 682
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.6780429,
+    "lon": 77.30906,
+    "distance_m": 690
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6780582,
+    "lon": 77.3090869,
+    "distance_m": 692
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6781577,
+    "lon": 77.308806,
+    "distance_m": 695
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 28.6781445,
+    "lon": 77.3092467,
+    "distance_m": 706
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6798755,
+    "lon": 77.3064324,
+    "distance_m": 864
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6737902,
+    "lon": 77.2890714,
+    "distance_m": 1756
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.6737826,
+    "lon": 77.2890277,
+    "distance_m": 1760
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Oriental Bank of Commerce",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 27.1792826,
+    "lon": 78.0024553,
+    "distance_m": 681
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 27.1791669,
+    "lon": 78.0056431,
+    "distance_m": 918
+  },
+  {
+    "name": "Cororation bank ATM",
+    "operator": "",
+    "lat": 27.175626,
+    "lon": 78.007113,
+    "distance_m": 928
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 27.1722673,
+    "lon": 78.0089433,
+    "distance_m": 1139
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 27.1846507,
+    "lon": 78.0014044,
+    "distance_m": 1154
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 27.1830361,
+    "lon": 78.0093378,
+    "distance_m": 1466
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 27.1650349,
+    "lon": 78.0088245,
+    "distance_m": 1539
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1593386,
+    "lon": 77.9918443,
+    "distance_m": 1814
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 27.1909018,
+    "lon": 78.000796,
+    "distance_m": 1817
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 27.1910187,
+    "lon": 78.0008143,
+    "distance_m": 1830
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.6715484,
+    "lon": 78.1138263,
+    "distance_m": 945
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6714634,
+    "lon": 78.1135963,
+    "distance_m": 965
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6714474,
+    "lon": 78.1135704,
+    "distance_m": 968
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6714293,
+    "lon": 78.113544,
+    "distance_m": 971
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.6703145,
+    "lon": 78.1142496,
+    "distance_m": 1052
+  }
+]

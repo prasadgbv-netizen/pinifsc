@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 9.9644276,
+    "lon": 76.2952413,
+    "distance_m": 267
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.9643085,
+    "lon": 76.3002716,
+    "distance_m": 372
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 9.9663407,
+    "lon": 76.2986531,
+    "distance_m": 411
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9595605,
+    "lon": 76.2955638,
+    "distance_m": 415
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 9.9592608,
+    "lon": 76.2961681,
+    "distance_m": 423
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.9657122,
+    "lon": 76.3000474,
+    "distance_m": 440
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 9.9608592,
+    "lon": 76.3011202,
+    "distance_m": 491
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 9.9656608,
+    "lon": 76.2934744,
+    "distance_m": 504
+  },
+  {
+    "name": "Federal bank",
+    "operator": "Federal Bank",
+    "lat": 9.9583977,
+    "lon": 76.2957004,
+    "distance_m": 530
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9674297,
+    "lon": 76.2996499,
+    "distance_m": 568
+  }
+]

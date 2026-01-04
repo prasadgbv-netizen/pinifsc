@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.7847133,
+    "lon": 76.0057826,
+    "distance_m": 518
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 10.7854677,
+    "lon": 76.0079701,
+    "distance_m": 750
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.7858724,
+    "lon": 76.0082111,
+    "distance_m": 777
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 10.7825584,
+    "lon": 76.0076335,
+    "distance_m": 784
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK",
+    "lat": 10.7817253,
+    "lon": 76.0111165,
+    "distance_m": 1171
+  },
+  {
+    "name": "Dhanalaxmi Bank ATM",
+    "operator": "",
+    "lat": 10.7822197,
+    "lon": 76.0114428,
+    "distance_m": 1186
+  },
+  {
+    "name": "ATM",
+    "operator": "kerala gramin bank",
+    "lat": 10.7859242,
+    "lon": 76.025347,
+    "distance_m": 2648
+  }
+]

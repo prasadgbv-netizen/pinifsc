@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4390021,
+    "lon": 81.8582631,
+    "distance_m": 2334
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.463548,
+    "lon": 81.8691613,
+    "distance_m": 2616
+  },
+  {
+    "name": "Punjab National ATM",
+    "operator": "",
+    "lat": 25.4646294,
+    "lon": 81.870656,
+    "distance_m": 2660
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 25.4642476,
+    "lon": 81.8656304,
+    "distance_m": 2862
+  }
+]

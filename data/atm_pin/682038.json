@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9529419,
+    "lon": 76.3411427,
+    "distance_m": 874
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.9389037,
+    "lon": 76.3271476,
+    "distance_m": 1488
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.9448396,
+    "lon": 76.3460938,
+    "distance_m": 1530
+  },
+  {
+    "name": "ATM",
+    "operator": "People's Urban Cooperative Bank",
+    "lat": 9.9476786,
+    "lon": 76.3479209,
+    "distance_m": 1618
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.9436417,
+    "lon": 76.3465823,
+    "distance_m": 1639
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 9.9449192,
+    "lon": 76.3473095,
+    "distance_m": 1648
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.9639362,
+    "lon": 76.341017,
+    "distance_m": 1683
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank ATM",
+    "lat": 9.9655479,
+    "lon": 76.3403882,
+    "distance_m": 1811
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB",
+    "lat": 9.9462697,
+    "lon": 76.3504616,
+    "distance_m": 1926
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 9.9454258,
+    "lon": 76.350504,
+    "distance_m": 1957
+  }
+]

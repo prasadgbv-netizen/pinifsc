@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 18.0049176,
+    "lon": 79.5738584,
+    "distance_m": 758
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 18.0043595,
+    "lon": 79.5727411,
+    "distance_m": 786
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 18.0035767,
+    "lon": 79.5662052,
+    "distance_m": 1016
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.0040579,
+    "lon": 79.5778377,
+    "distance_m": 1059
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.01007,
+    "lon": 79.5601499,
+    "distance_m": 1190
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.00212,
+    "lon": 79.5650081,
+    "distance_m": 1220
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "HDFC ATM",
+    "operator": "HDFC Bank",
+    "lat": 30.8609502,
+    "lon": 75.8595304,
+    "distance_m": 302
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 30.8681668,
+    "lon": 75.8592697,
+    "distance_m": 1053
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 30.8681879,
+    "lon": 75.8592694,
+    "distance_m": 1055
+  },
+  {
+    "name": "SBI atm",
+    "operator": "SBI",
+    "lat": 30.86089,
+    "lon": 75.878848,
+    "distance_m": 1657
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 30.8747651,
+    "lon": 75.8682281,
+    "distance_m": 1871
+  },
+  {
+    "name": "axis bank",
+    "operator": "",
+    "lat": 30.8663751,
+    "lon": 75.8804454,
+    "distance_m": 1977
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM Machine",
+    "lat": 30.8739441,
+    "lon": 75.8437077,
+    "distance_m": 2391
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB",
+    "lat": 30.8805012,
+    "lon": 75.8533967,
+    "distance_m": 2525
+  },
+  {
+    "name": "SBI ",
+    "operator": "",
+    "lat": 30.881747,
+    "lon": 75.858621,
+    "distance_m": 2554
+  }
+]

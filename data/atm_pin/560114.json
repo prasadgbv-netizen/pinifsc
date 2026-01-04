@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 12.8758604,
+    "lon": 77.6169923,
+    "distance_m": 1230
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.8816846,
+    "lon": 77.6264499,
+    "distance_m": 1248
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.881686,
+    "lon": 77.6279626,
+    "distance_m": 1252
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.8746789,
+    "lon": 77.6401603,
+    "distance_m": 1511
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.8777704,
+    "lon": 77.6386842,
+    "distance_m": 1513
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank ATM",
+    "lat": 12.8789708,
+    "lon": 77.6378821,
+    "distance_m": 1519
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.8743888,
+    "lon": 77.6405192,
+    "distance_m": 1538
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 12.8628669,
+    "lon": 77.6148979,
+    "distance_m": 1551
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.8901975,
+    "lon": 77.6258846,
+    "distance_m": 2196
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of Mysore",
+    "lat": 12.8847042,
+    "lon": 77.6429877,
+    "distance_m": 2354
+  }
+]

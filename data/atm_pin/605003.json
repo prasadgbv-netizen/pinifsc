@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 11.9563565,
+    "lon": 79.8333876,
+    "distance_m": 202
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 11.9561954,
+    "lon": 79.8329117,
+    "distance_m": 257
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.9557201,
+    "lon": 79.8329807,
+    "distance_m": 269
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.9514164,
+    "lon": 79.8321697,
+    "distance_m": 683
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.9510792,
+    "lon": 79.8321267,
+    "distance_m": 718
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.9520565,
+    "lon": 79.8304862,
+    "distance_m": 735
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.9508255,
+    "lon": 79.8318657,
+    "distance_m": 757
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 11.9477974,
+    "lon": 79.831508,
+    "distance_m": 1078
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.9682939,
+    "lon": 79.8382534,
+    "distance_m": 1320
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.9684303,
+    "lon": 79.8382945,
+    "distance_m": 1335
+  }
+]

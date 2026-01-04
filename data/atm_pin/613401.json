@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.7297489,
+    "lon": 79.016913,
+    "distance_m": 2221
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.7297526,
+    "lon": 79.0168964,
+    "distance_m": 2222
+  }
+]

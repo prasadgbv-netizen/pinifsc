@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0726474,
+    "lon": 75.8533388,
+    "distance_m": 1271
+  },
+  {
+    "name": "SBT ATM",
+    "operator": "SBT",
+    "lat": 11.0970612,
+    "lon": 75.8413715,
+    "distance_m": 1746
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "",
+    "lat": 11.0886993,
+    "lon": 75.8691626,
+    "distance_m": 2277
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "PNB",
+    "lat": 11.088656,
+    "lon": 75.8691787,
+    "distance_m": 2277
+  }
+]

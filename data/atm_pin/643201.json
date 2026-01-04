@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Dena Bank ATM",
+    "operator": "Dena Bank",
+    "lat": 11.4232585,
+    "lon": 76.8701311,
+    "distance_m": 1787
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.4226868,
+    "lon": 76.8666326,
+    "distance_m": 1847
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "Vijaya Bank",
+    "lat": 11.4235845,
+    "lon": 76.8664591,
+    "distance_m": 1946
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.4237212,
+    "lon": 76.8666549,
+    "distance_m": 1951
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 11.4239561,
+    "lon": 76.8659897,
+    "distance_m": 2005
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 11.4249515,
+    "lon": 76.8681699,
+    "distance_m": 2023
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 11.4263617,
+    "lon": 76.8660728,
+    "distance_m": 2247
+  }
+]

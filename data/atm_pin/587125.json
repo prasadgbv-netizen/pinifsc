@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "",
+    "lat": 15.9636049,
+    "lon": 76.1184646,
+    "distance_m": 1461
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 15.967562,
+    "lon": 76.111449,
+    "distance_m": 2321
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.478172,
+    "lon": 85.8629853,
+    "distance_m": 620
+  },
+  {
+    "name": "Union Bank of India ATM",
+    "operator": "Union Bank of India",
+    "lat": 20.4781978,
+    "lon": 85.8631526,
+    "distance_m": 625
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 20.4783401,
+    "lon": 85.8632495,
+    "distance_m": 642
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 20.4832348,
+    "lon": 85.8596767,
+    "distance_m": 1214
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 20.4836136,
+    "lon": 85.8583488,
+    "distance_m": 1294
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 20.483639,
+    "lon": 85.8583957,
+    "distance_m": 1295
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 20.4837049,
+    "lon": 85.8581137,
+    "distance_m": 1312
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 20.456699,
+    "lon": 85.8854186,
+    "distance_m": 2978
+  }
+]

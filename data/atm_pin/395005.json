@@ -1,0 +1,30 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Tribhuvan Nagar, Katargam, Surat",
+    "lat": 21.221067,
+    "lon": 72.8191858,
+    "distance_m": 2612
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Ground floor, Green Elina Complex, Anand Mahal Rd, Adajan, Surat, Gujarat 395009",
+    "lat": 21.1981948,
+    "lon": 72.7961496,
+    "distance_m": 2637
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Katargam, Surat",
+    "lat": 21.2203916,
+    "lon": 72.8212699,
+    "distance_m": 2831
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Govindham Society LP Savani Surat",
+    "lat": 21.1965118,
+    "lon": 72.7845193,
+    "distance_m": 2982
+  }
+]

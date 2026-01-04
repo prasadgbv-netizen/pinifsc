@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank ATM",
+    "lat": 10.2394226,
+    "lon": 76.3306783,
+    "distance_m": 1418
+  },
+  {
+    "name": "ATM",
+    "operator": "Irinjalakuda Town Co-operative Bank",
+    "lat": 10.2394281,
+    "lon": 76.3296673,
+    "distance_m": 1443
+  },
+  {
+    "name": "ATM",
+    "operator": "Thrissur Co-operative Bank",
+    "lat": 10.2390092,
+    "lon": 76.3286575,
+    "distance_m": 1521
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.2384884,
+    "lon": 76.3286045,
+    "distance_m": 1577
+  },
+  {
+    "name": "ATM",
+    "operator": "Irinjalakuda Town Co-operative Bank ATM",
+    "lat": 10.2644952,
+    "lon": 76.3506355,
+    "distance_m": 2363
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.2708302,
+    "lon": 76.3477554,
+    "distance_m": 2635
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.2683258,
+    "lon": 76.3534916,
+    "distance_m": 2871
+  }
+]

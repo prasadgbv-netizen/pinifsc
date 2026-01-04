@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank ATM",
+    "lat": 13.0823715,
+    "lon": 80.169016,
+    "distance_m": 2252
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0835193,
+    "lon": 80.1746201,
+    "distance_m": 2871
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 13.0835496,
+    "lon": 80.1748405,
+    "distance_m": 2895
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0839195,
+    "lon": 80.1750656,
+    "distance_m": 2930
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1869713,
+    "lon": 72.9765239,
+    "distance_m": 314
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1870405,
+    "lon": 72.9768319,
+    "distance_m": 324
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1943885,
+    "lon": 72.9631705,
+    "distance_m": 1802
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2007568,
+    "lon": 72.9772104,
+    "distance_m": 1849
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1718562,
+    "lon": 72.958413,
+    "distance_m": 2337
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.1701529,
+    "lon": 72.9557259,
+    "distance_m": 2676
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.1635227,
+    "lon": 72.9917001,
+    "distance_m": 2795
+  },
+  {
+    "name": "ATM",
+    "operator": "SVC Bank",
+    "lat": 19.1718562,
+    "lon": 72.9524688,
+    "distance_m": 2867
+  }
+]

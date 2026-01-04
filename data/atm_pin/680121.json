@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "south indian bank atm",
+    "lat": 10.3467883,
+    "lon": 76.2084651,
+    "distance_m": 95
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.3467859,
+    "lon": 76.208467,
+    "distance_m": 95
+  },
+  {
+    "name": "ATM",
+    "operator": "Irinjalakuda service co operative bank",
+    "lat": 10.3468038,
+    "lon": 76.204983,
+    "distance_m": 288
+  },
+  {
+    "name": "ATM",
+    "operator": "south indian bank",
+    "lat": 10.3539155,
+    "lon": 76.2086361,
+    "distance_m": 780
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank",
+    "lat": 10.3497523,
+    "lon": 76.2172408,
+    "distance_m": 1097
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 10.3476564,
+    "lon": 76.219718,
+    "distance_m": 1326
+  },
+  {
+    "name": "ATM",
+    "operator": "south indian bank",
+    "lat": 10.3534564,
+    "lon": 76.2178945,
+    "distance_m": 1336
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 10.3455996,
+    "lon": 76.1948747,
+    "distance_m": 1401
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.3456096,
+    "lon": 76.1947986,
+    "distance_m": 1409
+  },
+  {
+    "name": "ATM",
+    "operator": "kallamkunnu service cooperative",
+    "lat": 10.3299511,
+    "lon": 76.215758,
+    "distance_m": 2091
+  }
+]

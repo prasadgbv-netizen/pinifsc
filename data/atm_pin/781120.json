@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Union Bank",
+    "operator": "",
+    "lat": 26.0907717,
+    "lon": 91.5361384,
+    "distance_m": 2621
+  },
+  {
+    "name": "PNB",
+    "operator": "",
+    "lat": 26.0908087,
+    "lon": 91.53615,
+    "distance_m": 2622
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 26.0908554,
+    "lon": 91.5361668,
+    "distance_m": 2623
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 26.092655,
+    "lon": 91.536566,
+    "distance_m": 2685
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 22.6308617,
+    "lon": 88.354255,
+    "distance_m": 2638
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 22.5917094,
+    "lon": 88.3697572,
+    "distance_m": 2760
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 22.6038061,
+    "lon": 88.3767409,
+    "distance_m": 2867
+  },
+  {
+    "name": "BUS",
+    "operator": "",
+    "lat": 22.5823111,
+    "lon": 88.3431909,
+    "distance_m": 2878
+  }
+]

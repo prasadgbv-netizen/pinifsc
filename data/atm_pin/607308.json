@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.6194891,
+    "lon": 79.5496196,
+    "distance_m": 70
+  },
+  {
+    "name": "Tata ATM",
+    "operator": "",
+    "lat": 11.6172161,
+    "lon": 79.5488673,
+    "distance_m": 333
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.6113372,
+    "lon": 79.5489462,
+    "distance_m": 970
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6038249,
+    "lon": 79.5505788,
+    "distance_m": 1799
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6043317,
+    "lon": 79.543906,
+    "distance_m": 1864
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.6220985,
+    "lon": 79.5250332,
+    "distance_m": 2729
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.5126485,
+    "lon": 77.0211473,
+    "distance_m": 341
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 8.5071049,
+    "lon": 76.9988046,
+    "distance_m": 2370
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India, vilappishala",
+    "lat": 8.5239924,
+    "lon": 77.0401802,
+    "distance_m": 2552
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "",
+    "lat": 8.5247228,
+    "lon": 77.0402733,
+    "distance_m": 2595
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 8.5084051,
+    "lon": 76.9944374,
+    "distance_m": 2783
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank ATM",
+    "lat": 8.4986206,
+    "lon": 76.9977465,
+    "distance_m": 2941
+  }
+]

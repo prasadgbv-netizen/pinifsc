@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India 1 ATM Ottasekharamangalam",
+    "lat": 8.4768305,
+    "lon": 77.1351567,
+    "distance_m": 61
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.491761,
+    "lon": 77.1251107,
+    "distance_m": 2055
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.4918769,
+    "lon": 77.1249766,
+    "distance_m": 2074
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.4924566,
+    "lon": 77.1252153,
+    "distance_m": 2114
+  }
+]

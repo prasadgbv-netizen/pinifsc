@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.0085947,
+    "lon": 76.3440357,
+    "distance_m": 53
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0063827,
+    "lon": 76.3454397,
+    "distance_m": 237
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 10.0028576,
+    "lon": 76.3485812,
+    "distance_m": 757
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0166947,
+    "lon": 76.3447475,
+    "distance_m": 949
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.0180688,
+    "lon": 76.3448379,
+    "distance_m": 1102
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.0183599,
+    "lon": 76.343863,
+    "distance_m": 1134
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 10.0183816,
+    "lon": 76.3435655,
+    "distance_m": 1138
+  },
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 10.0210842,
+    "lon": 76.343383,
+    "distance_m": 1439
+  },
+  {
+    "name": "Kerala Bank Atm Trikkakara Br.",
+    "operator": "",
+    "lat": 10.021158,
+    "lon": 76.3432255,
+    "distance_m": 1448
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 10.0215702,
+    "lon": 76.344441,
+    "distance_m": 1490
+  }
+]

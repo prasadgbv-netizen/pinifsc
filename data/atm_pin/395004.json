@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Kantareshwar Society, Katargam, Surat",
+    "lat": 21.2197144,
+    "lon": 72.832373,
+    "distance_m": 334
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Katargam, Surat",
+    "lat": 21.2203916,
+    "lon": 72.8212699,
+    "distance_m": 1410
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Ved Rd, Fatakdawadi, Pandol, Industrial Area, Katargam, Surat, Gujarat 395004",
+    "lat": 21.2152233,
+    "lon": 72.8223837,
+    "distance_m": 1475
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Tribhuvan Nagar, Katargam, Surat",
+    "lat": 21.221067,
+    "lon": 72.8191858,
+    "distance_m": 1620
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM Aamba Talavadi, Vaikunthdham Society, Vishal Nagar, Surat, Gujarat 395004",
+    "lat": 21.2364585,
+    "lon": 72.8310539,
+    "distance_m": 1687
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM  Lal Darwaja, Varachha, Surat",
+    "lat": 21.2063069,
+    "lon": 72.8372369,
+    "distance_m": 1729
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Poddar Arcade, Khand Bazar, Kodiyar Nagar, Surat",
+    "lat": 21.2073092,
+    "lon": 72.843433,
+    "distance_m": 1832
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State bank ATM Variyavi Bhagol, Katargam, Surat",
+    "lat": 21.2065756,
+    "lon": 72.8244553,
+    "distance_m": 1994
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 11, Char Khana Road, Pramukh Darshan, Saiyed Pura, Haripura, Surat, Gujarat 395003",
+    "lat": 21.2041483,
+    "lon": 72.8308008,
+    "distance_m": 1994
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 5/2791, Saiyedpura Main Rd, Sayedpura, Surat, Gujarat 395003",
+    "lat": 21.2030763,
+    "lon": 72.8276294,
+    "distance_m": 2199
+  }
+]

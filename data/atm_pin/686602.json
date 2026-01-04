@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.6693564,
+    "lon": 76.5071538,
+    "distance_m": 436
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.6600765,
+    "lon": 76.5299122,
+    "distance_m": 2327
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.6483251,
+    "lon": 76.5211732,
+    "distance_m": 2363
+  },
+  {
+    "name": "ATM",
+    "operator": "state bank of india ATM",
+    "lat": 9.6483327,
+    "lon": 76.5214744,
+    "distance_m": 2381
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank Mannanam Extension Counter",
+    "lat": 9.6479287,
+    "lon": 76.5227303,
+    "distance_m": 2495
+  }
+]

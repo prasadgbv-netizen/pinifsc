@@ -1,0 +1,65 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 16.7511223,
+    "lon": 78.0017333,
+    "distance_m": 2070
+  },
+  {
+    "name": "SBI ATM & CDM",
+    "operator": "",
+    "lat": 16.7491382,
+    "lon": 78.001618,
+    "distance_m": 2122
+  },
+  {
+    "name": "Karur Vaysya Bank ATM",
+    "operator": "",
+    "lat": 16.7490702,
+    "lon": 78.001602,
+    "distance_m": 2125
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 16.7554775,
+    "lon": 77.999809,
+    "distance_m": 2267
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 16.7483973,
+    "lon": 77.999695,
+    "distance_m": 2341
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 16.7569254,
+    "lon": 77.9987173,
+    "distance_m": 2402
+  },
+  {
+    "name": "Canara Bank, Mahabubnagar",
+    "operator": "Canara Bank",
+    "lat": 16.748439,
+    "lon": 77.9990617,
+    "distance_m": 2405
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 16.751597,
+    "lon": 77.9943378,
+    "distance_m": 2848
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 16.7514147,
+    "lon": 77.9940448,
+    "distance_m": 2880
+  }
+]

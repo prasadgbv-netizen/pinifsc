@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "state bank of india SBI",
+    "lat": 27.3361569,
+    "lon": 88.6213322,
+    "distance_m": 1892
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 27.3336654,
+    "lon": 88.6142256,
+    "distance_m": 2641
+  },
+  {
+    "name": "Oriental Bank",
+    "operator": "",
+    "lat": 27.3337002,
+    "lon": 88.6142103,
+    "distance_m": 2641
+  },
+  {
+    "name": "UCO bank",
+    "operator": "",
+    "lat": 27.3324491,
+    "lon": 88.6142035,
+    "distance_m": 2682
+  },
+  {
+    "name": "UCO Bank",
+    "operator": "",
+    "lat": 27.332439,
+    "lon": 88.6141903,
+    "distance_m": 2684
+  },
+  {
+    "name": "ATM",
+    "operator": "hdfc atm",
+    "lat": 27.342296,
+    "lon": 88.6126666,
+    "distance_m": 2711
+  },
+  {
+    "name": "Central Bank",
+    "operator": "",
+    "lat": 27.331598,
+    "lon": 88.6136562,
+    "distance_m": 2764
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.3315635,
+    "lon": 88.6135831,
+    "distance_m": 2772
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.3275254,
+    "lon": 88.6137778,
+    "distance_m": 2938
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "IDBI Bank",
+    "lat": 27.3291913,
+    "lon": 88.6122865,
+    "distance_m": 2989
+  }
+]

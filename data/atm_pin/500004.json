@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IOB",
+    "operator": "IOB",
+    "lat": 17.4026329,
+    "lon": 78.4665416,
+    "distance_m": 292
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4012421,
+    "lon": 78.471645,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "SBH",
+    "lat": 17.3992308,
+    "lon": 78.4661365,
+    "distance_m": 355
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4046527,
+    "lon": 78.4724753,
+    "distance_m": 550
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 17.4035491,
+    "lon": 78.4633632,
+    "distance_m": 636
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of Baroda",
+    "lat": 17.4058964,
+    "lon": 78.4651743,
+    "distance_m": 653
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 17.4005602,
+    "lon": 78.4624878,
+    "distance_m": 674
+  },
+  {
+    "name": "ATM",
+    "operator": "IOB",
+    "lat": 17.4068392,
+    "lon": 78.4658491,
+    "distance_m": 706
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 17.3944846,
+    "lon": 78.4657651,
+    "distance_m": 808
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4072994,
+    "lon": 78.4733696,
+    "distance_m": 837
+  }
+]

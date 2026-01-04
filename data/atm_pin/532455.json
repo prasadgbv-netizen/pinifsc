@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.2950805,
+    "lon": 83.892998,
+    "distance_m": 75
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.2949105,
+    "lon": 83.8967117,
+    "distance_m": 322
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.29791,
+    "lon": 83.8948709,
+    "distance_m": 365
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 18.2991976,
+    "lon": 83.8944858,
+    "distance_m": 493
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 18.2996919,
+    "lon": 83.8948745,
+    "distance_m": 555
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.3070005,
+    "lon": 83.8942106,
+    "distance_m": 1354
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.3048874,
+    "lon": 83.8822014,
+    "distance_m": 1647
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.3123962,
+    "lon": 83.8947162,
+    "distance_m": 1956
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 18.3124521,
+    "lon": 83.8946758,
+    "distance_m": 1962
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.3129807,
+    "lon": 83.8949193,
+    "distance_m": 2022
+  }
+]

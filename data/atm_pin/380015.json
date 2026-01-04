@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "The amdavad distric co-operative bank ltd",
+    "lat": 23.0257545,
+    "lon": 72.5251753,
+    "distance_m": 2158
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "SBI ATM",
+    "lat": 23.0353395,
+    "lon": 72.5429261,
+    "distance_m": 2218
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 23.0116557,
+    "lon": 72.5687622,
+    "distance_m": 2667
+  }
+]

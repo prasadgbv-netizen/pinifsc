@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7404688,
+    "lon": 76.7863602,
+    "distance_m": 565
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7407222,
+    "lon": 76.7875813,
+    "distance_m": 583
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7406662,
+    "lon": 76.7896857,
+    "distance_m": 615
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7411531,
+    "lon": 76.7858959,
+    "distance_m": 648
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7356628,
+    "lon": 76.7797793,
+    "distance_m": 732
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7378512,
+    "lon": 76.794737,
+    "distance_m": 745
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.7348549,
+    "lon": 76.7789088,
+    "distance_m": 818
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 30.7427101,
+    "lon": 76.7895584,
+    "distance_m": 829
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 30.7406984,
+    "lon": 76.7976783,
+    "distance_m": 1137
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.7409174,
+    "lon": 76.7976806,
+    "distance_m": 1150
+  }
+]

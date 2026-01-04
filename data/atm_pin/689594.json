@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Sbi",
+    "lat": 9.4350842,
+    "lon": 76.6124231,
+    "distance_m": 2003
+  },
+  {
+    "name": "Gramin Bank ATM",
+    "operator": "",
+    "lat": 9.4349444,
+    "lon": 76.6116383,
+    "distance_m": 2091
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.4353509,
+    "lon": 76.6083325,
+    "distance_m": 2432
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.4637206,
+    "lon": 76.636405,
+    "distance_m": 2729
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 32.6743899,
+    "lon": 74.9052063,
+    "distance_m": 2774
+  },
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 32.6742445,
+    "lon": 74.907588,
+    "distance_m": 2998
+  }
+]

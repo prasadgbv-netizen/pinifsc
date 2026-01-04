@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kangra Central co-op Bank",
+    "lat": 32.2239179,
+    "lon": 78.0724712,
+    "distance_m": 227
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 32.2236305,
+    "lon": 78.0734061,
+    "distance_m": 283
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 32.2272787,
+    "lon": 78.0685986,
+    "distance_m": 364
+  }
+]

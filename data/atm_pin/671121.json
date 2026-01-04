@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 12.5021048,
+    "lon": 74.9926571,
+    "distance_m": 164
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 12.5048302,
+    "lon": 74.9933609,
+    "distance_m": 367
+  },
+  {
+    "name": "ATM",
+    "operator": "Town Bank Atm",
+    "lat": 12.5014199,
+    "lon": 74.9870461,
+    "distance_m": 457
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 12.5069827,
+    "lon": 74.9935504,
+    "distance_m": 579
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI BANK",
+    "lat": 12.5074736,
+    "lon": 74.9953194,
+    "distance_m": 729
+  }
+]

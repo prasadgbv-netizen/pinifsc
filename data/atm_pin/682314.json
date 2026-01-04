@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 9.9021321,
+    "lon": 76.3849155,
+    "distance_m": 105
+  },
+  {
+    "name": "ATM",
+    "operator": "SBT",
+    "lat": 9.8976281,
+    "lon": 76.3693808,
+    "distance_m": 1861
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 9.9269327,
+    "lon": 76.374456,
+    "distance_m": 2936
+  }
+]

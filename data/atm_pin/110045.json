@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 28.586196,
+    "lon": 77.0876812,
+    "distance_m": 1257
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5861864,
+    "lon": 77.0876987,
+    "distance_m": 1258
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5857538,
+    "lon": 77.0883753,
+    "distance_m": 1291
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.5938906,
+    "lon": 77.077978,
+    "distance_m": 1302
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.5845091,
+    "lon": 77.0908069,
+    "distance_m": 1408
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5857481,
+    "lon": 77.0836076,
+    "distance_m": 1451
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.5863009,
+    "lon": 77.0821383,
+    "distance_m": 1474
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.5835005,
+    "lon": 77.0873761,
+    "distance_m": 1556
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.5833403,
+    "lon": 77.0874593,
+    "distance_m": 1572
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.5823436,
+    "lon": 77.0894826,
+    "distance_m": 1654
+  }
+]

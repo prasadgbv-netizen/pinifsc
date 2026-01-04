@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "DBS",
+    "lat": 9.5086584,
+    "lon": 77.6327164,
+    "distance_m": 1222
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 9.5175082,
+    "lon": 77.6330404,
+    "distance_m": 2124
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.5176541,
+    "lon": 77.6328969,
+    "distance_m": 2134
+  }
+]

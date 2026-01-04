@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "",
+    "lat": 26.1221683,
+    "lon": 85.3795906,
+    "distance_m": 2309
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "",
+    "lat": 26.1220761,
+    "lon": 85.3802337,
+    "distance_m": 2356
+  }
+]

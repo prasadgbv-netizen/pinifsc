@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 12.9954058,
+    "lon": 77.6992647,
+    "distance_m": 20
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.9940421,
+    "lon": 77.7019634,
+    "distance_m": 348
+  },
+  {
+    "name": "Citibank ATM",
+    "operator": "Citibank",
+    "lat": 12.9925169,
+    "lon": 77.7031605,
+    "distance_m": 548
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 12.9970313,
+    "lon": 77.6915828,
+    "distance_m": 831
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9916549,
+    "lon": 77.6907785,
+    "distance_m": 993
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9878629,
+    "lon": 77.7095289,
+    "distance_m": 1411
+  },
+  {
+    "name": "ING",
+    "operator": "ING",
+    "lat": 12.985436,
+    "lon": 77.7081208,
+    "distance_m": 1482
+  },
+  {
+    "name": "Standard Chartered",
+    "operator": "Standard Chartered",
+    "lat": 12.9853637,
+    "lon": 77.7081623,
+    "distance_m": 1491
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.9923765,
+    "lon": 77.7129548,
+    "distance_m": 1541
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9917884,
+    "lon": 77.7134046,
+    "distance_m": 1604
+  }
+]

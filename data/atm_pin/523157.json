@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 15.8286651,
+    "lon": 80.356473,
+    "distance_m": 1865
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India TOWN BRANCH CHIRALA",
+    "lat": 15.8262438,
+    "lon": 80.3546325,
+    "distance_m": 2074
+  }
+]

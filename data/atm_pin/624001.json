@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.361894,
+    "lon": 77.9692415,
+    "distance_m": 531
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 10.3633201,
+    "lon": 77.975414,
+    "distance_m": 858
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.360343,
+    "lon": 77.9742423,
+    "distance_m": 950
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.361643,
+    "lon": 77.9755183,
+    "distance_m": 961
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.3607862,
+    "lon": 77.975744,
+    "distance_m": 1038
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.3599392,
+    "lon": 77.976242,
+    "distance_m": 1139
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 10.359651,
+    "lon": 77.9762134,
+    "distance_m": 1158
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 10.3561445,
+    "lon": 77.9701028,
+    "distance_m": 1177
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 10.3592472,
+    "lon": 77.97636,
+    "distance_m": 1200
+  },
+  {
+    "name": "ATM",
+    "operator": "DBS Bank India",
+    "lat": 10.3586321,
+    "lon": 77.9765561,
+    "distance_m": 1263
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0582022,
+    "lon": 77.6437419,
+    "distance_m": 829
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.065231,
+    "lon": 77.6404066,
+    "distance_m": 930
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0669064,
+    "lon": 77.6379603,
+    "distance_m": 1231
+  },
+  {
+    "name": "Union Bank",
+    "operator": "Union Bank",
+    "lat": 13.0672422,
+    "lon": 77.6361014,
+    "distance_m": 1435
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 13.0674024,
+    "lon": 77.635487,
+    "distance_m": 1504
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.067194,
+    "lon": 77.634866,
+    "distance_m": 1563
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 13.055866,
+    "lon": 77.6326224,
+    "distance_m": 1965
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 13.0553751,
+    "lon": 77.6322956,
+    "distance_m": 2021
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0685102,
+    "lon": 77.627112,
+    "distance_m": 2414
+  }
+]

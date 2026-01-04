@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 9.9896701,
+    "lon": 76.2502424,
+    "distance_m": 768
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.988127,
+    "lon": 76.252863,
+    "distance_m": 964
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India Atm",
+    "lat": 9.9862924,
+    "lon": 76.2403238,
+    "distance_m": 1619
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Of India Atm",
+    "lat": 9.9862604,
+    "lon": 76.2403323,
+    "distance_m": 1621
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 9.9734211,
+    "lon": 76.2439537,
+    "distance_m": 2680
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab national bank",
+    "lat": 11.0506171,
+    "lon": 75.9755556,
+    "distance_m": 1595
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 11.0512495,
+    "lon": 75.9809753,
+    "distance_m": 2113
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.0514495,
+    "lon": 75.9816244,
+    "distance_m": 2174
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK",
+    "lat": 11.0512811,
+    "lon": 75.98167,
+    "distance_m": 2184
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0671279,
+    "lon": 75.9405338,
+    "distance_m": 2645
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 11.0510652,
+    "lon": 75.9873268,
+    "distance_m": 2785
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 11.0595623,
+    "lon": 75.935858,
+    "distance_m": 2929
+  },
+  {
+    "name": "SBT",
+    "operator": "",
+    "lat": 11.0593372,
+    "lon": 75.9356079,
+    "distance_m": 2954
+  }
+]

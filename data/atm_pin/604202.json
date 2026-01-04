@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.2512905,
+    "lon": 79.4165703,
+    "distance_m": 121
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.2528265,
+    "lon": 79.4158536,
+    "distance_m": 150
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.252858,
+    "lon": 79.4131153,
+    "distance_m": 439
+  }
+]

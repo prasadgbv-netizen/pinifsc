@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 12.9847048,
+    "lon": 77.6756194,
+    "distance_m": 181
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.9845904,
+    "lon": 77.6748205,
+    "distance_m": 266
+  },
+  {
+    "name": "ATM",
+    "operator": "SBH",
+    "lat": 12.9854091,
+    "lon": 77.6734083,
+    "distance_m": 404
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 12.9832075,
+    "lon": 77.6802595,
+    "distance_m": 416
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.9932782,
+    "lon": 77.6793591,
+    "distance_m": 909
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.9853409,
+    "lon": 77.6678905,
+    "distance_m": 1002
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9765781,
+    "lon": 77.6738208,
+    "distance_m": 1043
+  },
+  {
+    "name": "DCB",
+    "operator": "DCB",
+    "lat": 12.9746026,
+    "lon": 77.6731914,
+    "distance_m": 1273
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9744681,
+    "lon": 77.673175,
+    "distance_m": 1288
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 12.9853876,
+    "lon": 77.6647856,
+    "distance_m": 1338
+  }
+]

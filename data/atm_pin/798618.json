@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3253044,
+    "lon": 94.5157266,
+    "distance_m": 380
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3259885,
+    "lon": 94.5137129,
+    "distance_m": 441
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3234795,
+    "lon": 94.5213685,
+    "distance_m": 704
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3189019,
+    "lon": 94.5211876,
+    "distance_m": 755
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3264918,
+    "lon": 94.522679,
+    "distance_m": 953
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.3287012,
+    "lon": 94.5327935,
+    "distance_m": 1968
+  }
+]

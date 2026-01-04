@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9733292,
+    "lon": 77.5824593,
+    "distance_m": 232
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9692728,
+    "lon": 77.579469,
+    "distance_m": 483
+  },
+  {
+    "name": "IDFC First Bank",
+    "operator": "IDFC First Bank",
+    "lat": 12.9692487,
+    "lon": 77.5794495,
+    "distance_m": 486
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.971335,
+    "lon": 77.5845467,
+    "distance_m": 519
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9688815,
+    "lon": 77.5791931,
+    "distance_m": 532
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9755945,
+    "lon": 77.5752997,
+    "distance_m": 590
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9680202,
+    "lon": 77.5787717,
+    "distance_m": 636
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 12.9772383,
+    "lon": 77.5752995,
+    "distance_m": 682
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 12.9773643,
+    "lon": 77.5747535,
+    "distance_m": 738
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 12.9713364,
+    "lon": 77.5867555,
+    "distance_m": 738
+  }
+]

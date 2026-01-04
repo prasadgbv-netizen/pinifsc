@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 48.6199103,
+    "lon": 7.7553535,
+    "distance_m": 1908
+  },
+  {
+    "name": "ATM",
+    "operator": "Banque Populaire",
+    "lat": 48.6169283,
+    "lon": 7.7538296,
+    "distance_m": 2097
+  },
+  {
+    "name": "ATM",
+    "operator": "Caisse d'Épargne",
+    "lat": 48.6165545,
+    "lon": 7.753889,
+    "distance_m": 2133
+  },
+  {
+    "name": "ATM",
+    "operator": "Crédit Mutuel",
+    "lat": 48.6149069,
+    "lon": 7.7527219,
+    "distance_m": 2244
+  },
+  {
+    "name": "ATM",
+    "operator": "Crédit Mutuel",
+    "lat": 48.6086414,
+    "lon": 7.7345785,
+    "distance_m": 2657
+  },
+  {
+    "name": "ATM",
+    "operator": "La Poste",
+    "lat": 48.6079043,
+    "lon": 7.732681,
+    "distance_m": 2753
+  },
+  {
+    "name": "ATM",
+    "operator": "CIC",
+    "lat": 48.6080381,
+    "lon": 7.7501249,
+    "distance_m": 2865
+  },
+  {
+    "name": "ATM",
+    "operator": "SG",
+    "lat": 48.6074567,
+    "lon": 7.7497512,
+    "distance_m": 2918
+  },
+  {
+    "name": "ATM",
+    "operator": "BNP Paribas",
+    "lat": 48.6067556,
+    "lon": 7.7490875,
+    "distance_m": 2978
+  },
+  {
+    "name": "ATM",
+    "operator": "Crédit Mutuel",
+    "lat": 48.6112458,
+    "lon": 7.7126097,
+    "distance_m": 2990
+  }
+]

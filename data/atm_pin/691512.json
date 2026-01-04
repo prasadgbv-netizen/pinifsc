@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Muthoot ATM",
+    "lat": 8.9419291,
+    "lon": 76.7721174,
+    "distance_m": 927
+  },
+  {
+    "name": "India 1 ATM",
+    "operator": "",
+    "lat": 8.967054,
+    "lon": 76.7769837,
+    "distance_m": 2045
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 12.7339499,
+    "lon": 77.8317719,
+    "distance_m": 203
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.7349701,
+    "lon": 77.8311124,
+    "distance_m": 238
+  },
+  {
+    "name": "ATM",
+    "operator": "Dharmapuri DCC Bank",
+    "lat": 12.7356676,
+    "lon": 77.8289402,
+    "distance_m": 320
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.7358473,
+    "lon": 77.8284285,
+    "distance_m": 363
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.736957,
+    "lon": 77.8299714,
+    "distance_m": 435
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.7293238,
+    "lon": 77.8276799,
+    "distance_m": 492
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 12.736352,
+    "lon": 77.8268276,
+    "distance_m": 515
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB Bank",
+    "lat": 12.7326983,
+    "lon": 77.8352319,
+    "distance_m": 552
+  },
+  {
+    "name": "ATM",
+    "operator": "DBS Bank India",
+    "lat": 12.7359941,
+    "lon": 77.8254334,
+    "distance_m": 607
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 12.7361538,
+    "lon": 77.8249836,
+    "distance_m": 658
+  }
+]

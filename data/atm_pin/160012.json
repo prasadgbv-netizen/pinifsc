@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7411531,
+    "lon": 76.7858959,
+    "distance_m": 263
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7404688,
+    "lon": 76.7863602,
+    "distance_m": 338
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7407222,
+    "lon": 76.7875813,
+    "distance_m": 430
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 30.7427101,
+    "lon": 76.7895584,
+    "distance_m": 596
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7406662,
+    "lon": 76.7896857,
+    "distance_m": 624
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7471008,
+    "lon": 76.7877155,
+    "distance_m": 696
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7356628,
+    "lon": 76.7797793,
+    "distance_m": 791
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.7348549,
+    "lon": 76.7789088,
+    "distance_m": 909
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.74855,
+    "lon": 76.7902572,
+    "distance_m": 975
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7513124,
+    "lon": 76.7854608,
+    "distance_m": 1045
+  }
+]

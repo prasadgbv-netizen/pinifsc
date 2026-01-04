@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Ring Road, Opposite Jolly Plaza, Chandan Park Co Operative Housing Society,, Athwalines, Athwa Gate, Surat, Gujarat 395001",
+    "lat": 21.1865121,
+    "lon": 72.8095669,
+    "distance_m": 307
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Jay Prakash Narayan Marg, Main, Opp. Jain Temple, Kailash Nagar, Majura Gate, Surat",
+    "lat": 21.1806966,
+    "lon": 72.8200756,
+    "distance_m": 963
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 21.1715028,
+    "lon": 72.8119316,
+    "distance_m": 1550
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Jay Prakash Narayan Marg, Sagrampura, Surat",
+    "lat": 21.1821403,
+    "lon": 72.8274439,
+    "distance_m": 1611
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC ATM, Subash Chowk Br.",
+    "lat": 21.1945933,
+    "lon": 72.8243878,
+    "distance_m": 1613
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Chowk Bazar Rd, Chauta Pul, Surat, Gujarat 395003",
+    "lat": 21.1986625,
+    "lon": 72.8251249,
+    "distance_m": 1981
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank Atm City Centre, Udhana - Magdalla Rd, Sosyo Circle, Udhna, Surat, Gujarat 395002",
+    "lat": 21.172065,
+    "lon": 72.827048,
+    "distance_m": 2133
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM 9/1971, Chowk Bazar Rd, Limda Chowk, Mian Road, Shahpore, Bhagal, Surat",
+    "lat": 21.1985851,
+    "lon": 72.8280991,
+    "distance_m": 2194
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Ground floor, Green Elina Complex, Anand Mahal Rd, Adajan, Surat, Gujarat 395009",
+    "lat": 21.1981948,
+    "lon": 72.7961496,
+    "distance_m": 2194
+  },
+  {
+    "name": "BOB",
+    "operator": "",
+    "lat": 21.1709641,
+    "lon": 72.8271758,
+    "distance_m": 2229
+  }
+]

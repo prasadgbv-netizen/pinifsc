@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Citi Bank",
+    "operator": "Citibank",
+    "lat": 28.4767072,
+    "lon": 77.0633541,
+    "distance_m": 2296
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.4765489,
+    "lon": 77.0629523,
+    "distance_m": 2314
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 28.477754,
+    "lon": 77.0726,
+    "distance_m": 2371
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.4748625,
+    "lon": 77.0706974,
+    "distance_m": 2610
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.4745865,
+    "lon": 77.070711,
+    "distance_m": 2640
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.4934379,
+    "lon": 77.092174,
+    "distance_m": 2878
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.493598,
+    "lon": 77.0929044,
+    "distance_m": 2946
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 28.4937082,
+    "lon": 77.0930212,
+    "distance_m": 2956
+  },
+  {
+    "name": "ATM",
+    "operator": "ABN Amro Bank",
+    "lat": 28.4941065,
+    "lon": 77.093327,
+    "distance_m": 2980
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 28.4741534,
+    "lon": 77.047729,
+    "distance_m": 2983
+  }
+]

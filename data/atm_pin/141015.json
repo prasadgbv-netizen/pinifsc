@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 30.8945997,
+    "lon": 75.9230951,
+    "distance_m": 615
+  },
+  {
+    "name": "ATM",
+    "operator": "punjab national bank",
+    "lat": 30.9018604,
+    "lon": 75.9091575,
+    "distance_m": 2076
+  },
+  {
+    "name": "ATM",
+    "operator": "OBC ATM",
+    "lat": 30.8814378,
+    "lon": 75.9512052,
+    "distance_m": 2576
+  }
+]

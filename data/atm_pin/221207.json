@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 25.5274761,
+    "lon": 82.736015,
+    "distance_m": 649
+  },
+  {
+    "name": "Union bank Of India Kathirao",
+    "operator": "Union Bank of India",
+    "lat": 25.5265441,
+    "lon": 82.7375101,
+    "distance_m": 737
+  },
+  {
+    "name": "ATM",
+    "operator": "India 1 ATM",
+    "lat": 25.5258695,
+    "lon": 82.7370426,
+    "distance_m": 813
+  },
+  {
+    "name": "S.B.I. ATM",
+    "operator": "State Bank of India",
+    "lat": 25.5250614,
+    "lon": 82.7377931,
+    "distance_m": 903
+  },
+  {
+    "name": "State Bank of India KATHIRAON VARANASI",
+    "operator": "State Bank of India",
+    "lat": 25.524158,
+    "lon": 82.7375682,
+    "distance_m": 1003
+  }
+]

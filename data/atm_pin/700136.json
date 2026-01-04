@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6422336,
+    "lon": 88.439252,
+    "distance_m": 2031
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.6418755,
+    "lon": 88.4392325,
+    "distance_m": 2041
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 22.622417,
+    "lon": 88.4506627,
+    "distance_m": 2721
+  }
+]

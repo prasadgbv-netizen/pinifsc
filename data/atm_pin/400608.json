@@ -1,0 +1,44 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.2290239,
+    "lon": 72.9803887,
+    "distance_m": 1212
+  },
+  {
+    "name": "ICICI bank ATM",
+    "operator": "",
+    "lat": 19.2281154,
+    "lon": 72.9703466,
+    "distance_m": 1356
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.2281072,
+    "lon": 72.9702764,
+    "distance_m": 1359
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2007568,
+    "lon": 72.9772104,
+    "distance_m": 1957
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.2363478,
+    "lon": 72.9704052,
+    "distance_m": 2157
+  },
+  {
+    "name": "Parsik Bank ATM",
+    "operator": "GP Parsik Sahakari Bank",
+    "lat": 19.2032904,
+    "lon": 73.0016801,
+    "distance_m": 2990
+  }
+]

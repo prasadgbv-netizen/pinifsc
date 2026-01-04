@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 11.0510652,
+    "lon": 75.9873268,
+    "distance_m": 2257
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.0514495,
+    "lon": 75.9816244,
+    "distance_m": 2820
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK",
+    "lat": 11.0512811,
+    "lon": 75.98167,
+    "distance_m": 2821
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 11.0512495,
+    "lon": 75.9809753,
+    "distance_m": 2894
+  }
+]

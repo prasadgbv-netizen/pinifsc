@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India ATM",
+    "lat": 9.0954159,
+    "lon": 76.7527742,
+    "distance_m": 2846
+  },
+  {
+    "name": "ATM",
+    "operator": "Muthoot ATM",
+    "lat": 9.1328975,
+    "lon": 76.7367919,
+    "distance_m": 2923
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 9.1449241,
+    "lon": 76.7685505,
+    "distance_m": 2926
+  }
+]

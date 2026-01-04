@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDCB Bank ATM",
+    "lat": 9.8127495,
+    "lon": 77.1984529,
+    "distance_m": 2010
+  },
+  {
+    "name": "ATM",
+    "operator": "south indian bank atm",
+    "lat": 9.8134498,
+    "lon": 77.1963498,
+    "distance_m": 2087
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank ATM",
+    "lat": 9.814191,
+    "lon": 77.1935864,
+    "distance_m": 2205
+  }
+]

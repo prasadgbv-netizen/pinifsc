@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Baroda",
+    "lat": 29.9539296,
+    "lon": 78.1667806,
+    "distance_m": 476
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO",
+    "lat": 29.9466446,
+    "lon": 78.1587263,
+    "distance_m": 656
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 29.9478622,
+    "lon": 78.1571579,
+    "distance_m": 670
+  }
+]

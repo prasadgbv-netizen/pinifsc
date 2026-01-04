@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.3124378,
+    "lon": 83.0107597,
+    "distance_m": 2109
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI - State Bank of India",
+    "lat": 25.3231907,
+    "lon": 83.0008051,
+    "distance_m": 2145
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.3109948,
+    "lon": 83.0086329,
+    "distance_m": 2357
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak",
+    "lat": 25.3105298,
+    "lon": 83.0070334,
+    "distance_m": 2489
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.3086298,
+    "lon": 83.0093577,
+    "distance_m": 2548
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK ATM",
+    "lat": 25.3360218,
+    "lon": 82.9965708,
+    "distance_m": 2598
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 25.309149,
+    "lon": 83.0067144,
+    "distance_m": 2635
+  },
+  {
+    "name": "ATM",
+    "operator": "UNION BANK OF INDIA ATM",
+    "lat": 25.3378393,
+    "lon": 82.9964968,
+    "distance_m": 2674
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.3085263,
+    "lon": 83.0068896,
+    "distance_m": 2683
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 25.306941,
+    "lon": 83.0095637,
+    "distance_m": 2707
+  }
+]

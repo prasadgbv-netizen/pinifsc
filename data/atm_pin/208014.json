@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda ATM",
+    "lat": 26.4251359,
+    "lon": 80.3222113,
+    "distance_m": 1995
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 26.4239845,
+    "lon": 80.3220607,
+    "distance_m": 2077
+  },
+  {
+    "name": "HDFC Home Loan",
+    "operator": "HDFC Bank",
+    "lat": 26.4218124,
+    "lon": 80.3195195,
+    "distance_m": 2111
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda ATM",
+    "lat": 26.4642783,
+    "lon": 80.3029814,
+    "distance_m": 2996
+  }
+]

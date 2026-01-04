@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Fedral Bank",
+    "lat": 9.5554578,
+    "lon": 76.7915515,
+    "distance_m": 443
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5568891,
+    "lon": 76.7920887,
+    "distance_m": 458
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 9.5555367,
+    "lon": 76.7910633,
+    "distance_m": 497
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5576114,
+    "lon": 76.7920768,
+    "distance_m": 510
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 9.555384,
+    "lon": 76.7903606,
+    "distance_m": 569
+  },
+  {
+    "name": "Bank of baradora ATM",
+    "operator": "",
+    "lat": 9.5532738,
+    "lon": 76.7901897,
+    "distance_m": 593
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.5579274,
+    "lon": 76.7883938,
+    "distance_m": 866
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5580973,
+    "lon": 76.7881929,
+    "distance_m": 894
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5549223,
+    "lon": 76.7849957,
+    "distance_m": 1149
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 9.5587224,
+    "lon": 76.8129865,
+    "distance_m": 1978
+  }
+]

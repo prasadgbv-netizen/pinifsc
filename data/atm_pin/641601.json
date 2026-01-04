@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 11.0971292,
+    "lon": 77.3556139,
+    "distance_m": 1998
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 11.0970814,
+    "lon": 77.3556299,
+    "distance_m": 2002
+  },
+  {
+    "name": "ATM",
+    "operator": "CUB",
+    "lat": 11.0970691,
+    "lon": 77.355641,
+    "distance_m": 2004
+  }
+]

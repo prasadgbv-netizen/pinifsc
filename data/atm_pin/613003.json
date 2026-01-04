@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.797118,
+    "lon": 79.1377445,
+    "distance_m": 2131
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 10.7902099,
+    "lon": 79.1382025,
+    "distance_m": 2898
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.7899156,
+    "lon": 79.1382127,
+    "distance_m": 2931
+  }
+]

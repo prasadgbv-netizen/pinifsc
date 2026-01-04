@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 19.2807183,
+    "lon": 72.8718303,
+    "distance_m": 2256
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.2808585,
+    "lon": 72.8716701,
+    "distance_m": 2265
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.2929715,
+    "lon": 72.8670941,
+    "distance_m": 2590
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC",
+    "lat": 19.2971296,
+    "lon": 72.8647097,
+    "distance_m": 2943
+  }
+]

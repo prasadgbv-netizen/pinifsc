@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 22 Chandigarh",
+    "lat": 30.7359209,
+    "lon": 76.7687251,
+    "distance_m": 444
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.7359128,
+    "lon": 76.7688005,
+    "distance_m": 447
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 30.7346221,
+    "lon": 76.7699986,
+    "distance_m": 625
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 30.7345571,
+    "lon": 76.7700794,
+    "distance_m": 635
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.7343193,
+    "lon": 76.7704823,
+    "distance_m": 677
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 30.7340841,
+    "lon": 76.7702028,
+    "distance_m": 688
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 30.730544,
+    "lon": 76.7732125,
+    "distance_m": 1171
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7305253,
+    "lon": 76.7739684,
+    "distance_m": 1211
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.731749,
+    "lon": 76.776027,
+    "distance_m": 1228
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.7348549,
+    "lon": 76.7789088,
+    "distance_m": 1253
+  }
+]

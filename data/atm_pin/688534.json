@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.4988091,
+    "lon": 76.3387295,
+    "distance_m": 96
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.4997161,
+    "lon": 76.3390702,
+    "distance_m": 99
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.4976818,
+    "lon": 76.3388546,
+    "distance_m": 214
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.4974356,
+    "lon": 76.3385408,
+    "distance_m": 232
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.4978393,
+    "lon": 76.3360055,
+    "distance_m": 302
+  },
+  {
+    "name": "ATM",
+    "operator": "Catholic Syrian Bank ATM",
+    "lat": 9.5007137,
+    "lon": 76.3454934,
+    "distance_m": 812
+  },
+  {
+    "name": "Dhanalakshmi Bank",
+    "operator": "",
+    "lat": 9.4921951,
+    "lon": 76.338859,
+    "distance_m": 815
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank, Thathampalli Branch",
+    "lat": 9.5075299,
+    "lon": 76.3400334,
+    "distance_m": 915
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5003013,
+    "lon": 76.3467927,
+    "distance_m": 947
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.4999169,
+    "lon": 76.3470792,
+    "distance_m": 975
+  }
+]

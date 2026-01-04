@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6721175,
+    "lon": 76.7673914,
+    "distance_m": 523
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6730879,
+    "lon": 76.7672761,
+    "distance_m": 616
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6783991,
+    "lon": 76.767974,
+    "distance_m": 1129
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ATM",
+    "lat": 8.6800488,
+    "lon": 76.7699524,
+    "distance_m": 1279
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6875904,
+    "lon": 76.7738001,
+    "distance_m": 2147
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 8.6886206,
+    "lon": 76.7595107,
+    "distance_m": 2537
+  }
+]

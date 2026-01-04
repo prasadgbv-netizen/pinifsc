@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank of India ATM cum CDM",
+    "lat": 10.7370888,
+    "lon": 76.0287995,
+    "distance_m": 1930
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.7369706,
+    "lon": 76.0287433,
+    "distance_m": 1945
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 10.7340388,
+    "lon": 76.032189,
+    "distance_m": 2150
+  }
+]

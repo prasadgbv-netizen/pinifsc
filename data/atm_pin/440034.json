@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 21.1256148,
+    "lon": 79.1161863,
+    "distance_m": 789
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1176727,
+    "lon": 79.1159464,
+    "distance_m": 792
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1180326,
+    "lon": 79.1155358,
+    "distance_m": 808
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1180332,
+    "lon": 79.115532,
+    "distance_m": 808
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1232439,
+    "lon": 79.1140132,
+    "distance_m": 890
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1232379,
+    "lon": 79.1120718,
+    "distance_m": 1087
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.123226,
+    "lon": 79.1119943,
+    "distance_m": 1095
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1232385,
+    "lon": 79.1116775,
+    "distance_m": 1127
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1197693,
+    "lon": 79.111494,
+    "distance_m": 1146
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 21.1145484,
+    "lon": 79.1141141,
+    "distance_m": 1155
+  }
+]

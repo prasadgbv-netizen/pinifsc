@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.3788031,
+    "lon": 76.1482209,
+    "distance_m": 2522
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.4140848,
+    "lon": 76.1208918,
+    "distance_m": 2611
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 10.3792639,
+    "lon": 76.1520824,
+    "distance_m": 2657
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.3788488,
+    "lon": 76.1523166,
+    "distance_m": 2710
+  },
+  {
+    "name": "ATM",
+    "operator": "STAT EBANK OF INDIA",
+    "lat": 10.3786631,
+    "lon": 76.1520475,
+    "distance_m": 2713
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 10.3981317,
+    "lon": 76.11457,
+    "distance_m": 2788
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Indicash Atm",
+    "lat": 16.9356137,
+    "lon": 82.2280367,
+    "distance_m": 1018
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 16.9530181,
+    "lon": 82.2323303,
+    "distance_m": 2760
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 9.0612436,
+    "lon": 76.5362559,
+    "distance_m": 433
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.0564814,
+    "lon": 76.5352232,
+    "distance_m": 654
+  },
+  {
+    "name": "Sbt atm",
+    "operator": "",
+    "lat": 9.0542374,
+    "lon": 76.5416895,
+    "distance_m": 667
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 9.0540906,
+    "lon": 76.541647,
+    "distance_m": 681
+  },
+  {
+    "name": "ATM",
+    "operator": "IOB",
+    "lat": 9.0622514,
+    "lon": 76.546476,
+    "distance_m": 753
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.0510237,
+    "lon": 76.5362101,
+    "distance_m": 1081
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.0473485,
+    "lon": 76.5362753,
+    "distance_m": 1465
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.0641834,
+    "lon": 76.5549785,
+    "distance_m": 1709
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.0759863,
+    "lon": 76.5323649,
+    "distance_m": 1965
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.0772242,
+    "lon": 76.5319647,
+    "distance_m": 2108
+  }
+]

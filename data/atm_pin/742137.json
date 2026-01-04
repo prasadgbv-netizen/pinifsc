@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM (Axis Bank)",
+    "operator": "",
+    "lat": 23.9603767,
+    "lon": 88.038134,
+    "distance_m": 293
+  },
+  {
+    "name": "ATM (UBI)",
+    "operator": "",
+    "lat": 23.9604698,
+    "lon": 88.0381125,
+    "distance_m": 296
+  },
+  {
+    "name": "ATM (SBI)",
+    "operator": "",
+    "lat": 23.9629483,
+    "lon": 88.0394412,
+    "distance_m": 350
+  },
+  {
+    "name": "ATM (Axis Bank)",
+    "operator": "",
+    "lat": 23.9560161,
+    "lon": 88.0372354,
+    "distance_m": 597
+  },
+  {
+    "name": "ATM ( Canara Bank)",
+    "operator": "",
+    "lat": 23.9546991,
+    "lon": 88.040191,
+    "distance_m": 610
+  },
+  {
+    "name": "ATM (IDBI)",
+    "operator": "",
+    "lat": 23.9552914,
+    "lon": 88.0378051,
+    "distance_m": 629
+  },
+  {
+    "name": "ATM (OBC)",
+    "operator": "",
+    "lat": 23.9552945,
+    "lon": 88.0377907,
+    "distance_m": 630
+  },
+  {
+    "name": "ATM (SBI)",
+    "operator": "",
+    "lat": 23.9656571,
+    "lon": 88.0387384,
+    "distance_m": 655
+  },
+  {
+    "name": "ATM (UBI)",
+    "operator": "",
+    "lat": 23.9537249,
+    "lon": 88.0424176,
+    "distance_m": 727
+  },
+  {
+    "name": "ATM (UBI)",
+    "operator": "",
+    "lat": 23.9512208,
+    "lon": 88.0381903,
+    "distance_m": 1032
+  }
+]

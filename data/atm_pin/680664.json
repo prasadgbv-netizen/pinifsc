@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 10.2187339,
+    "lon": 76.2016119,
+    "distance_m": 149
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank",
+    "lat": 10.2254875,
+    "lon": 76.1996482,
+    "distance_m": 750
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.225592,
+    "lon": 76.1996307,
+    "distance_m": 761
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.2274319,
+    "lon": 76.1996131,
+    "distance_m": 949
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 10.2280847,
+    "lon": 76.1991875,
+    "distance_m": 1033
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal bank",
+    "lat": 10.2305034,
+    "lon": 76.1973104,
+    "distance_m": 1363
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank of india",
+    "lat": 10.2305259,
+    "lon": 76.1972885,
+    "distance_m": 1366
+  },
+  {
+    "name": "ATM",
+    "operator": "TDCB ATM",
+    "lat": 10.207098,
+    "lon": 76.2026437,
+    "distance_m": 1375
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.2065665,
+    "lon": 76.2017866,
+    "distance_m": 1438
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate bank",
+    "lat": 10.2312671,
+    "lon": 76.1963117,
+    "distance_m": 1488
+  }
+]

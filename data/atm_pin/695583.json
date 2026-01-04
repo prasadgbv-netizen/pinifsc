@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5447682,
+    "lon": 76.8769487,
+    "distance_m": 574
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5312396,
+    "lon": 76.88375,
+    "distance_m": 1121
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.553026,
+    "lon": 76.8770081,
+    "distance_m": 1415
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5573223,
+    "lon": 76.8766569,
+    "distance_m": 1890
+  },
+  {
+    "name": "Catholic Syrian Bank",
+    "operator": "",
+    "lat": 8.5578256,
+    "lon": 76.8761105,
+    "distance_m": 1957
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 8.5465355,
+    "lon": 76.9045393,
+    "distance_m": 2760
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 8.5467806,
+    "lon": 76.9050821,
+    "distance_m": 2825
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5655954,
+    "lon": 76.8735159,
+    "distance_m": 2865
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.5657773,
+    "lon": 76.8872734,
+    "distance_m": 2899
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "SBI",
+    "lat": 8.5458516,
+    "lon": 76.9061836,
+    "distance_m": 2920
+  }
+]

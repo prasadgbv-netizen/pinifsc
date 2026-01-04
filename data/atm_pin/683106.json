@@ -1,0 +1,72 @@
+[
+  {
+    "name": "India One Atm",
+    "operator": "",
+    "lat": 10.0807929,
+    "lon": 76.3479463,
+    "distance_m": 460
+  },
+  {
+    "name": "ATM",
+    "operator": "The Ernakulam District Co-operative Bank Ltd ATM",
+    "lat": 10.080807,
+    "lon": 76.3436925,
+    "distance_m": 626
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 10.0913419,
+    "lon": 76.3455156,
+    "distance_m": 750
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.079316,
+    "lon": 76.3386128,
+    "distance_m": 1165
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 10.0905405,
+    "lon": 76.3614578,
+    "distance_m": 1639
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 10.0898533,
+    "lon": 76.3623284,
+    "distance_m": 1701
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.1078396,
+    "lon": 76.3495019,
+    "distance_m": 2557
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.1077728,
+    "lon": 76.3565313,
+    "distance_m": 2722
+  },
+  {
+    "name": "SIB Atm",
+    "operator": "",
+    "lat": 10.1076209,
+    "lon": 76.3571331,
+    "distance_m": 2731
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Of India ATM",
+    "lat": 10.0844127,
+    "lon": 76.372851,
+    "distance_m": 2763
+  }
+]

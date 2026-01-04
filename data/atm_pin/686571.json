@@ -1,0 +1,16 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.7027115,
+    "lon": 76.5888384,
+    "distance_m": 2595
+  },
+  {
+    "name": "ATM, State Bank of Travancore",
+    "operator": "ATM, State Bank of Travancore",
+    "lat": 9.7416255,
+    "lon": 76.6126936,
+    "distance_m": 2996
+  }
+]

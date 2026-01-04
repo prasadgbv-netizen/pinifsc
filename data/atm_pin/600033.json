@@ -1,0 +1,72 @@
+[
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 13.0382672,
+    "lon": 80.2274043,
+    "distance_m": 104
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.037288,
+    "lon": 80.227272,
+    "distance_m": 160
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0387955,
+    "lon": 80.223371,
+    "distance_m": 337
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0412117,
+    "lon": 80.2247324,
+    "distance_m": 355
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0411995,
+    "lon": 80.2296079,
+    "distance_m": 453
+  },
+  {
+    "name": "LVB",
+    "operator": "DBS Bank",
+    "lat": 13.0378727,
+    "lon": 80.2212406,
+    "distance_m": 571
+  },
+  {
+    "name": "City Union Bank",
+    "operator": "City Union Bank",
+    "lat": 13.0362873,
+    "lon": 80.2216334,
+    "distance_m": 579
+  },
+  {
+    "name": "PNB",
+    "operator": "",
+    "lat": 13.0354306,
+    "lon": 80.2211964,
+    "distance_m": 665
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "Central Bank of India",
+    "lat": 13.0312627,
+    "lon": 80.2243552,
+    "distance_m": 836
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0312474,
+    "lon": 80.224393,
+    "distance_m": 837
+  }
+]

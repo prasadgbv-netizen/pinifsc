@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.4972204,
+    "lon": 73.8510308,
+    "distance_m": 408
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5042539,
+    "lon": 73.8548358,
+    "distance_m": 840
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.48626,
+    "lon": 73.8567026,
+    "distance_m": 1176
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 18.4859515,
+    "lon": 73.8555104,
+    "distance_m": 1196
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 18.4859414,
+    "lon": 73.8553052,
+    "distance_m": 1196
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5070206,
+    "lon": 73.8513139,
+    "distance_m": 1207
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5058286,
+    "lon": 73.8626419,
+    "distance_m": 1305
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.5058846,
+    "lon": 73.8626294,
+    "distance_m": 1309
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.508265,
+    "lon": 73.8498951,
+    "distance_m": 1389
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 18.5084927,
+    "lon": 73.8496085,
+    "distance_m": 1424
+  }
+]

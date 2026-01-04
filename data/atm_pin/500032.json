@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI",
+    "operator": "",
+    "lat": 17.4328164,
+    "lon": 78.3698238,
+    "distance_m": 944
+  },
+  {
+    "name": "IOB Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 17.4367246,
+    "lon": 78.3659476,
+    "distance_m": 962
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusland bank",
+    "lat": 17.4346581,
+    "lon": 78.3689651,
+    "distance_m": 981
+  },
+  {
+    "name": "Yes bank Atm",
+    "operator": "Yes Bank",
+    "lat": 17.439975,
+    "lon": 78.3633183,
+    "distance_m": 1230
+  },
+  {
+    "name": "ICICI bank",
+    "operator": "ICICI Bank",
+    "lat": 17.4411479,
+    "lon": 78.3603676,
+    "distance_m": 1361
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "State Bank of India",
+    "lat": 17.4413094,
+    "lon": 78.3600633,
+    "distance_m": 1383
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4413077,
+    "lon": 78.3588154,
+    "distance_m": 1407
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 17.4418593,
+    "lon": 78.3575674,
+    "distance_m": 1502
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 17.4419203,
+    "lon": 78.3574274,
+    "distance_m": 1513
+  },
+  {
+    "name": "City bank ATM",
+    "operator": "Citi Bank",
+    "lat": 17.4427907,
+    "lon": 78.3572026,
+    "distance_m": 1612
+  }
+]

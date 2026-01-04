@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.7414312,
+    "lon": 80.1963339,
+    "distance_m": 628
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.7421445,
+    "lon": 80.1980075,
+    "distance_m": 817
+  }
+]

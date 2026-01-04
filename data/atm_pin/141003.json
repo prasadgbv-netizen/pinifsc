@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ",
+    "operator": "",
+    "lat": 30.881747,
+    "lon": 75.858621,
+    "distance_m": 927
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB",
+    "lat": 30.8805012,
+    "lon": 75.8533967,
+    "distance_m": 1229
+  },
+  {
+    "name": "ATM",
+    "operator": "Union bank",
+    "lat": 30.9005819,
+    "lon": 75.8739839,
+    "distance_m": 1779
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 30.8747651,
+    "lon": 75.8682281,
+    "distance_m": 1867
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM Machine",
+    "lat": 30.8739441,
+    "lon": 75.8437077,
+    "distance_m": 2367
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 30.8681879,
+    "lon": 75.8592694,
+    "distance_m": 2426
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 30.8681668,
+    "lon": 75.8592697,
+    "distance_m": 2428
+  },
+  {
+    "name": "ATM",
+    "operator": "Indusind bank",
+    "lat": 30.8897384,
+    "lon": 75.8335439,
+    "distance_m": 2524
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 30.8889108,
+    "lon": 75.8309843,
+    "distance_m": 2771
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.890931,
+    "lon": 75.8289033,
+    "distance_m": 2969
+  }
+]

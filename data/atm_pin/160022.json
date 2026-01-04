@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.7176395,
+    "lon": 76.7664591,
+    "distance_m": 83
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7199259,
+    "lon": 76.7682115,
+    "distance_m": 343
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7221656,
+    "lon": 76.7687083,
+    "distance_m": 594
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7230801,
+    "lon": 76.7681781,
+    "distance_m": 682
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7231834,
+    "lon": 76.7684198,
+    "distance_m": 698
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 30.724319,
+    "lon": 76.7681183,
+    "distance_m": 818
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 30.723781,
+    "lon": 76.7635482,
+    "distance_m": 819
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Sector 35 Chandigarh",
+    "lat": 30.7216714,
+    "lon": 76.760248,
+    "distance_m": 824
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 30.7209208,
+    "lon": 76.7590777,
+    "distance_m": 869
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.716188,
+    "lon": 76.7764158,
+    "distance_m": 907
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 26.8716423,
+    "lon": 80.9423628,
+    "distance_m": 831
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.8747625,
+    "lon": 80.942095,
+    "distance_m": 1036
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8492319,
+    "lon": 80.9444926,
+    "distance_m": 2243
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8491703,
+    "lon": 80.9445735,
+    "distance_m": 2248
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8484634,
+    "lon": 80.9394726,
+    "distance_m": 2493
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8473949,
+    "lon": 80.9418664,
+    "distance_m": 2514
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8481534,
+    "lon": 80.9394783,
+    "distance_m": 2524
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8463948,
+    "lon": 80.9455284,
+    "distance_m": 2530
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.8475673,
+    "lon": 80.9407262,
+    "distance_m": 2535
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.845277,
+    "lon": 80.9480991,
+    "distance_m": 2620
+  }
+]

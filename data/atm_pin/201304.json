@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 28.5690899,
+    "lon": 77.3620452,
+    "distance_m": 1402
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.565415,
+    "lon": 77.3596741,
+    "distance_m": 1451
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5705975,
+    "lon": 77.3624255,
+    "distance_m": 1471
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.5688731,
+    "lon": 77.3576786,
+    "distance_m": 1764
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.5792025,
+    "lon": 77.3613067,
+    "distance_m": 2264
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB",
+    "lat": 28.5815824,
+    "lon": 77.3611151,
+    "distance_m": 2499
+  },
+  {
+    "name": "ATM",
+    "operator": "Corp Bank",
+    "lat": 28.5838153,
+    "lon": 77.3606777,
+    "distance_m": 2736
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 28.5838741,
+    "lon": 77.3606402,
+    "distance_m": 2744
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.5839095,
+    "lon": 77.3605409,
+    "distance_m": 2752
+  }
+]

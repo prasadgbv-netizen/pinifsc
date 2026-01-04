@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India (SBI)",
+    "lat": 17.4908162,
+    "lon": 78.3930704,
+    "distance_m": 273
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.4956808,
+    "lon": 78.3929219,
+    "distance_m": 275
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 17.4948333,
+    "lon": 78.3946942,
+    "distance_m": 286
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 17.4948389,
+    "lon": 78.394691,
+    "distance_m": 287
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI BANK ATM",
+    "lat": 17.4950798,
+    "lon": 78.3947667,
+    "distance_m": 310
+  },
+  {
+    "name": "ING Vysya",
+    "operator": "ING Vysya",
+    "lat": 17.4903484,
+    "lon": 78.3929128,
+    "distance_m": 322
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank, ICICI Bank, Canara Bank",
+    "lat": 17.4974176,
+    "lon": 78.3888636,
+    "distance_m": 609
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4935321,
+    "lon": 78.399284,
+    "distance_m": 712
+  },
+  {
+    "name": "ICICI BANK ATM",
+    "operator": "",
+    "lat": 17.487404,
+    "lon": 78.3959,
+    "distance_m": 737
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank atm",
+    "lat": 17.490765,
+    "lon": 78.4000532,
+    "distance_m": 839
+  }
+]

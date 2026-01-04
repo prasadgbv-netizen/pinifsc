@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 11.8713289,
+    "lon": 75.3608571,
+    "distance_m": 499
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 11.8685629,
+    "lon": 75.363219,
+    "distance_m": 544
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.871548,
+    "lon": 75.3636597,
+    "distance_m": 729
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.8720475,
+    "lon": 75.3637788,
+    "distance_m": 774
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 11.8665029,
+    "lon": 75.3659092,
+    "distance_m": 834
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.8660411,
+    "lon": 75.3666412,
+    "distance_m": 921
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.8691129,
+    "lon": 75.36686,
+    "distance_m": 944
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.8731866,
+    "lon": 75.3650159,
+    "distance_m": 958
+  },
+  {
+    "name": "Indian Bank ATM",
+    "operator": "",
+    "lat": 11.8724196,
+    "lon": 75.3656631,
+    "distance_m": 963
+  },
+  {
+    "name": "Central Bank of India ATM",
+    "operator": "Central Bank of India",
+    "lat": 11.8724541,
+    "lon": 75.3656514,
+    "distance_m": 964
+  }
+]

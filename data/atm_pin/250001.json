@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 28.9915519,
+    "lon": 77.7116286,
+    "distance_m": 234
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.9908434,
+    "lon": 77.7062537,
+    "distance_m": 376
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 28.9918908,
+    "lon": 77.7059136,
+    "distance_m": 449
+  },
+  {
+    "name": "UCO Bank",
+    "operator": "UCO Bank",
+    "lat": 28.9907467,
+    "lon": 77.7145778,
+    "distance_m": 452
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.9862511,
+    "lon": 77.7141989,
+    "distance_m": 583
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.9941016,
+    "lon": 77.7059116,
+    "distance_m": 605
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab & Sind Bank",
+    "lat": 28.9947208,
+    "lon": 77.7059159,
+    "distance_m": 658
+  },
+  {
+    "name": "Axis bank atm",
+    "operator": "Axis Bank",
+    "lat": 28.9956576,
+    "lon": 77.7149634,
+    "distance_m": 792
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.9883883,
+    "lon": 77.7186242,
+    "distance_m": 857
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.9973887,
+    "lon": 77.706086,
+    "distance_m": 905
+  }
+]

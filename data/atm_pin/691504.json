@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.9379731,
+    "lon": 76.6793012,
+    "distance_m": 238
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.9577811,
+    "lon": 76.6734392,
+    "distance_m": 2104
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.9619925,
+    "lon": 76.683538,
+    "distance_m": 2476
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.9150797,
+    "lon": 76.6805714,
+    "distance_m": 2771
+  },
+  {
+    "name": "ATM",
+    "operator": "Sbt Atm",
+    "lat": 8.9270852,
+    "lon": 76.703476,
+    "distance_m": 2951
+  }
+]

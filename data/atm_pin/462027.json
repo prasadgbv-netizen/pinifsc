@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2348593,
+    "lon": 77.4330306,
+    "distance_m": 976
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2305472,
+    "lon": 77.4304512,
+    "distance_m": 1264
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2307003,
+    "lon": 77.4185927,
+    "distance_m": 1440
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2457391,
+    "lon": 77.4113856,
+    "distance_m": 1629
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2336866,
+    "lon": 77.4414089,
+    "distance_m": 1736
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2260126,
+    "lon": 77.4193232,
+    "distance_m": 1862
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2314931,
+    "lon": 77.4424839,
+    "distance_m": 1958
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 23.2221632,
+    "lon": 77.4390976,
+    "distance_m": 2486
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 23.2589167,
+    "lon": 77.4108463,
+    "distance_m": 2530
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 23.2216266,
+    "lon": 77.4392183,
+    "distance_m": 2544
+  }
+]

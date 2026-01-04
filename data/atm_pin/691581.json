@@ -1,0 +1,16 @@
+[
+  {
+    "name": "indus ind bank atm",
+    "operator": "",
+    "lat": 8.9222112,
+    "lon": 76.5582356,
+    "distance_m": 937
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal bank",
+    "lat": 8.9403498,
+    "lon": 76.5406644,
+    "distance_m": 2484
+  }
+]

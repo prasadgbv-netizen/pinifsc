@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.2981165,
+    "lon": 76.9394162,
+    "distance_m": 623
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.2997153,
+    "lon": 76.9387046,
+    "distance_m": 811
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.3001512,
+    "lon": 76.9416305,
+    "distance_m": 859
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 11.3002964,
+    "lon": 76.9386362,
+    "distance_m": 876
+  },
+  {
+    "name": "Tamilnad Mercantile Bank Limited",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 11.3054744,
+    "lon": 76.9353285,
+    "distance_m": 1530
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.3086087,
+    "lon": 76.9328365,
+    "distance_m": 1955
+  },
+  {
+    "name": "Syndicate Bank",
+    "operator": "Syndicate Bank",
+    "lat": 11.3085544,
+    "lon": 76.9326768,
+    "distance_m": 1957
+  }
+]

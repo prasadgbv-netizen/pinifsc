@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "federal bank atm",
+    "lat": 9.3250011,
+    "lon": 76.5326615,
+    "distance_m": 1810
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.3247731,
+    "lon": 76.5330209,
+    "distance_m": 1846
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.3188375,
+    "lon": 76.5335856,
+    "distance_m": 1940
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3188996,
+    "lon": 76.5336123,
+    "distance_m": 1942
+  },
+  {
+    "name": "SBT ATM",
+    "operator": "STATE BANK OF TRAVANCORE, NIRANAM BR",
+    "lat": 9.341202,
+    "lon": 76.5269219,
+    "distance_m": 2366
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank",
+    "lat": 9.3090919,
+    "lon": 76.5341133,
+    "distance_m": 2466
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3079894,
+    "lon": 76.5337863,
+    "distance_m": 2516
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.786262,
+    "lon": 75.5325058,
+    "distance_m": 1983
+  },
+  {
+    "name": "India 1 ATM",
+    "operator": "",
+    "lat": 11.7746034,
+    "lon": 75.5223025,
+    "distance_m": 1993
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7865495,
+    "lon": 75.5328446,
+    "distance_m": 1998
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7897265,
+    "lon": 75.5357454,
+    "distance_m": 2241
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7677385,
+    "lon": 75.5150621,
+    "distance_m": 2726
+  }
+]

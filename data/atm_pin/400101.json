@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.2072788,
+    "lon": 72.8725186,
+    "distance_m": 299
+  },
+  {
+    "name": "HDFC ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.2063203,
+    "lon": 72.8728436,
+    "distance_m": 368
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.212065,
+    "lon": 72.8744807,
+    "distance_m": 683
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2284193,
+    "lon": 72.8562813,
+    "distance_m": 2686
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.2056685,
+    "lon": 72.8437792,
+    "distance_m": 2736
+  },
+  {
+    "name": "RBL Bank ATM",
+    "operator": "RBL Bank",
+    "lat": 19.2019651,
+    "lon": 72.8439367,
+    "distance_m": 2787
+  },
+  {
+    "name": "ATM",
+    "operator": "United Bank of India",
+    "lat": 19.2145433,
+    "lon": 72.8436923,
+    "distance_m": 2833
+  }
+]

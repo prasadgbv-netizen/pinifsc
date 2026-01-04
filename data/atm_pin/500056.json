@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 17.471944,
+    "lon": 78.5392673,
+    "distance_m": 103
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 17.4720054,
+    "lon": 78.5392566,
+    "distance_m": 105
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 17.4716939,
+    "lon": 78.5392277,
+    "distance_m": 105
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 17.4720822,
+    "lon": 78.5392512,
+    "distance_m": 109
+  },
+  {
+    "name": "ATM",
+    "operator": "Andhra Bank",
+    "lat": 17.4709053,
+    "lon": 78.5389293,
+    "distance_m": 166
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 17.4687306,
+    "lon": 78.5388971,
+    "distance_m": 364
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4685454,
+    "lon": 78.5457308,
+    "distance_m": 684
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4722547,
+    "lon": 78.5502032,
+    "distance_m": 1060
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4755912,
+    "lon": 78.5514425,
+    "distance_m": 1264
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4757799,
+    "lon": 78.5520219,
+    "distance_m": 1329
+  }
+]

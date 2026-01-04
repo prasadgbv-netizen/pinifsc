@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9050969,
+    "lon": 78.105316,
+    "distance_m": 1192
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.9154388,
+    "lon": 78.0955319,
+    "distance_m": 1798
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9154495,
+    "lon": 78.0955586,
+    "distance_m": 1799
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamil Nadu Grama Bank",
+    "lat": 9.9154719,
+    "lon": 78.0955744,
+    "distance_m": 1801
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 9.9156073,
+    "lon": 78.0958858,
+    "distance_m": 1816
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.9159471,
+    "lon": 78.0966849,
+    "distance_m": 1854
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 9.9180583,
+    "lon": 78.0936811,
+    "distance_m": 2105
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 9.9201108,
+    "lon": 78.0939804,
+    "distance_m": 2328
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.9214556,
+    "lon": 78.0922213,
+    "distance_m": 2503
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.922097,
+    "lon": 78.0934604,
+    "distance_m": 2554
+  }
+]

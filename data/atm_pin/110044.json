@@ -1,0 +1,65 @@
+[
+  {
+    "name": "HDFC Bank atm",
+    "operator": "",
+    "lat": 28.4962951,
+    "lon": 77.3238529,
+    "distance_m": 1638
+  },
+  {
+    "name": "Canara bank atm",
+    "operator": "",
+    "lat": 28.495975,
+    "lon": 77.3242539,
+    "distance_m": 1657
+  },
+  {
+    "name": "Axis bank ATM",
+    "operator": "",
+    "lat": 28.5000516,
+    "lon": 77.3130875,
+    "distance_m": 1988
+  },
+  {
+    "name": "ICICI bank ATM",
+    "operator": "",
+    "lat": 28.5000227,
+    "lon": 77.3130157,
+    "distance_m": 1996
+  },
+  {
+    "name": "Punjab National Bank atm",
+    "operator": "",
+    "lat": 28.5000255,
+    "lon": 77.3130002,
+    "distance_m": 1997
+  },
+  {
+    "name": "HDFC Bank atm",
+    "operator": "",
+    "lat": 28.5001319,
+    "lon": 77.3125324,
+    "distance_m": 2029
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.4973912,
+    "lon": 77.3035107,
+    "distance_m": 2943
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.5008909,
+    "lon": 77.3015445,
+    "distance_m": 2959
+  },
+  {
+    "name": "Kotak Bank atm",
+    "operator": "",
+    "lat": 28.5034886,
+    "lon": 77.3003552,
+    "distance_m": 2985
+  }
+]

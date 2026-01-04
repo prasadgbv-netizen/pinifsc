@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICIC Bank",
+    "lat": 18.5735655,
+    "lon": 73.7951404,
+    "distance_m": 907
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 18.582699,
+    "lon": 73.8111976,
+    "distance_m": 1067
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 18.5643802,
+    "lon": 73.8027191,
+    "distance_m": 1521
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5927628,
+    "lon": 73.8021643,
+    "distance_m": 1635
+  },
+  {
+    "name": "SVC Bank",
+    "operator": "SVC Bank",
+    "lat": 18.5620759,
+    "lon": 73.8026641,
+    "distance_m": 1777
+  },
+  {
+    "name": "Pune People's Co-Op. Bank Ltd.",
+    "operator": "Pune People's Co-Op. Bank Ltd.",
+    "lat": 18.5619967,
+    "lon": 73.8026773,
+    "distance_m": 1786
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5603944,
+    "lon": 73.8072715,
+    "distance_m": 2031
+  },
+  {
+    "name": "ATM",
+    "operator": "Citibank",
+    "lat": 18.5603799,
+    "lon": 73.8078755,
+    "distance_m": 2050
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 18.5603814,
+    "lon": 73.807906,
+    "distance_m": 2051
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 18.560796,
+    "lon": 73.8107336,
+    "distance_m": 2113
+  }
+]

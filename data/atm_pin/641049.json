@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Pallavan Grama Bank",
+    "lat": 11.058952,
+    "lon": 76.9970853,
+    "distance_m": 1314
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.0591244,
+    "lon": 76.9971831,
+    "distance_m": 1321
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysa Bank",
+    "lat": 11.0645682,
+    "lon": 77.0001282,
+    "distance_m": 1669
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.0781993,
+    "lon": 76.9863632,
+    "distance_m": 1905
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Visya Bank",
+    "lat": 11.0414867,
+    "lon": 76.9826814,
+    "distance_m": 2198
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.0409322,
+    "lon": 76.9823368,
+    "distance_m": 2264
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 11.0406613,
+    "lon": 76.9820258,
+    "distance_m": 2299
+  },
+  {
+    "name": "Bank Atm",
+    "operator": "",
+    "lat": 11.075898,
+    "lon": 77.002329,
+    "distance_m": 2487
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.076324,
+    "lon": 77.0023705,
+    "distance_m": 2521
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 11.0390444,
+    "lon": 76.9797411,
+    "distance_m": 2524
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 32.5708343,
+    "lon": 77.0312664,
+    "distance_m": 71
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 32.5703672,
+    "lon": 77.0335601,
+    "distance_m": 162
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 32.5714275,
+    "lon": 77.0295775,
+    "distance_m": 231
+  },
+  {
+    "name": "UCO Bank ATM",
+    "operator": "UCO Bank",
+    "lat": 32.571393,
+    "lon": 77.0292506,
+    "distance_m": 261
+  }
+]

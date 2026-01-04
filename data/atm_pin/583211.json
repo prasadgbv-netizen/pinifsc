@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank ATM",
+    "lat": 15.2746124,
+    "lon": 76.3814621,
+    "distance_m": 824
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "AXIS Bank ATM",
+    "lat": 15.2748194,
+    "lon": 76.3826141,
+    "distance_m": 879
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "AXIS Bank ATM",
+    "lat": 15.2748627,
+    "lon": 76.3827385,
+    "distance_m": 884
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 15.2765163,
+    "lon": 76.3846026,
+    "distance_m": 917
+  },
+  {
+    "name": "State Bank of Mysore ATM",
+    "operator": "State Bank of Mysore",
+    "lat": 15.2863869,
+    "lon": 76.3867477,
+    "distance_m": 1181
+  },
+  {
+    "name": "State Bank of India - Hospet",
+    "operator": "State Bank of India - Hospet",
+    "lat": 15.2796778,
+    "lon": 76.3884784,
+    "distance_m": 1202
+  },
+  {
+    "name": "ING Vysya Bank ATM",
+    "operator": "ING Vysya Bank",
+    "lat": 15.2771294,
+    "lon": 76.3891945,
+    "distance_m": 1338
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 15.2683897,
+    "lon": 76.3807206,
+    "distance_m": 1434
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 15.2748465,
+    "lon": 76.3898281,
+    "distance_m": 1498
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 15.2747078,
+    "lon": 76.3898773,
+    "distance_m": 1509
+  }
+]

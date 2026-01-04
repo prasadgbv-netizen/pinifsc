@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9315024,
+    "lon": 78.089835,
+    "distance_m": 2445
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 9.931399,
+    "lon": 78.0899791,
+    "distance_m": 2463
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.9321258,
+    "lon": 78.0938908,
+    "distance_m": 2616
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara bank",
+    "lat": 9.9342629,
+    "lon": 78.0965612,
+    "distance_m": 2622
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 9.9311366,
+    "lon": 78.0944137,
+    "distance_m": 2739
+  },
+  {
+    "name": "ATM",
+    "operator": "DBS Bank India",
+    "lat": 9.9321254,
+    "lon": 78.096084,
+    "distance_m": 2764
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 9.9309244,
+    "lon": 78.0950551,
+    "distance_m": 2799
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9295026,
+    "lon": 78.0944761,
+    "distance_m": 2893
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 9.9301634,
+    "lon": 78.0959905,
+    "distance_m": 2928
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 9.9300079,
+    "lon": 78.0959335,
+    "distance_m": 2939
+  }
+]

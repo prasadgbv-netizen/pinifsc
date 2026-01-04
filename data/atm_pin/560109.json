@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 12.8745875,
+    "lon": 77.5414755,
+    "distance_m": 777
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.8591588,
+    "lon": 77.5422795,
+    "distance_m": 1123
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India, City Engineering College Branch",
+    "lat": 12.8876505,
+    "lon": 77.5507441,
+    "distance_m": 2539
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 12.8876502,
+    "lon": 77.5525271,
+    "distance_m": 2648
+  }
+]

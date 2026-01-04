@@ -1,0 +1,30 @@
+[
+  {
+    "name": "YES Bank ATM",
+    "operator": "",
+    "lat": 12.819568,
+    "lon": 74.859425,
+    "distance_m": 1918
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 12.818212,
+    "lon": 74.8606618,
+    "distance_m": 2064
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 12.8069967,
+    "lon": 74.8586213,
+    "distance_m": 2358
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 12.84656,
+    "lon": 74.84575,
+    "distance_m": 2942
+  }
+]

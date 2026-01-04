@@ -1,0 +1,30 @@
+[
+  {
+    "name": "India One ATM",
+    "operator": "",
+    "lat": 10.9615843,
+    "lon": 76.0074886,
+    "distance_m": 2159
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 10.9974613,
+    "lon": 75.9879665,
+    "distance_m": 2625
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM & CDM",
+    "lat": 10.9948726,
+    "lon": 75.9807395,
+    "distance_m": 2626
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of india",
+    "lat": 10.9974563,
+    "lon": 75.9872428,
+    "distance_m": 2640
+  }
+]

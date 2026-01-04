@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.9107641,
+    "lon": 79.7545575,
+    "distance_m": 2062
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.9133814,
+    "lon": 79.7542546,
+    "distance_m": 2269
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 11.9152724,
+    "lon": 79.754241,
+    "distance_m": 2413
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.9140517,
+    "lon": 79.7526816,
+    "distance_m": 2447
+  }
+]

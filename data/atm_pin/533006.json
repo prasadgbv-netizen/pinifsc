@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ceduga",
+    "lat": 16.9620733,
+    "lon": 82.2112623,
+    "distance_m": 991
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 16.9530181,
+    "lon": 82.2323303,
+    "distance_m": 1560
+  },
+  {
+    "name": "State bank of india",
+    "operator": "",
+    "lat": 16.9728164,
+    "lon": 82.236928,
+    "distance_m": 2155
+  },
+  {
+    "name": "ATM",
+    "operator": "Indicash Atm",
+    "lat": 16.9356137,
+    "lon": 82.2280367,
+    "distance_m": 2974
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 9.948721,
+    "lon": 76.2915755,
+    "distance_m": 130
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 9.9509392,
+    "lon": 76.2930034,
+    "distance_m": 168
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9482381,
+    "lon": 76.2933859,
+    "distance_m": 176
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.9509776,
+    "lon": 76.2931363,
+    "distance_m": 178
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.953917,
+    "lon": 76.292447,
+    "distance_m": 488
+  },
+  {
+    "name": "ATM",
+    "operator": "Indicash",
+    "lat": 9.9547565,
+    "lon": 76.2964352,
+    "distance_m": 727
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 9.9551179,
+    "lon": 76.2970916,
+    "distance_m": 803
+  },
+  {
+    "name": "IndusInd bank",
+    "operator": "IndusInd Bank",
+    "lat": 9.9531556,
+    "lon": 76.2991749,
+    "distance_m": 840
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.9459762,
+    "lon": 76.2993876,
+    "distance_m": 856
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.955993,
+    "lon": 76.29669,
+    "distance_m": 856
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 22.5557549,
+    "lon": 88.3537169,
+    "distance_m": 376
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.5618667,
+    "lon": 88.352453,
+    "distance_m": 429
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5557169,
+    "lon": 88.3525494,
+    "distance_m": 440
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.5545386,
+    "lon": 88.3539363,
+    "distance_m": 498
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.5544955,
+    "lon": 88.3539282,
+    "distance_m": 503
+  },
+  {
+    "name": "ATM",
+    "operator": "Central Bank of India",
+    "lat": 22.5550448,
+    "lon": 88.3506726,
+    "distance_m": 624
+  },
+  {
+    "name": "ATM",
+    "operator": "Bandhan Bank",
+    "lat": 22.5547183,
+    "lon": 88.3505934,
+    "distance_m": 655
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 22.5543609,
+    "lon": 88.3508239,
+    "distance_m": 668
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 22.5540394,
+    "lon": 88.3511917,
+    "distance_m": 672
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5536321,
+    "lon": 88.3516368,
+    "distance_m": 684
+  }
+]

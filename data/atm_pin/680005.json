@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.521353,
+    "lon": 76.2252694,
+    "distance_m": 220
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank ATM",
+    "lat": 10.5206067,
+    "lon": 76.2322293,
+    "distance_m": 544
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Ltd /ATM",
+    "lat": 10.5226701,
+    "lon": 76.2210545,
+    "distance_m": 699
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ATM",
+    "lat": 10.5255477,
+    "lon": 76.2176173,
+    "distance_m": 1161
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.5310231,
+    "lon": 76.2234972,
+    "distance_m": 1165
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 10.5244559,
+    "lon": 76.2170986,
+    "distance_m": 1170
+  },
+  {
+    "name": "SIB ATM",
+    "operator": "",
+    "lat": 10.5224457,
+    "lon": 76.2162942,
+    "distance_m": 1209
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.5138738,
+    "lon": 76.2184166,
+    "distance_m": 1268
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.5136555,
+    "lon": 76.2185996,
+    "distance_m": 1268
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 10.5269222,
+    "lon": 76.2168325,
+    "distance_m": 1306
+  }
+]

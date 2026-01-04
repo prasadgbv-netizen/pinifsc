@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI",
+    "operator": "SBI",
+    "lat": 13.3330405,
+    "lon": 75.7733632,
+    "distance_m": 2952
+  },
+  {
+    "name": "Canara bank ATM",
+    "operator": "",
+    "lat": 13.333788,
+    "lon": 75.7734278,
+    "distance_m": 2983
+  }
+]

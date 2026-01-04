@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.0473485,
+    "lon": 76.5362753,
+    "distance_m": 2629
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.0510237,
+    "lon": 76.5362101,
+    "distance_m": 2938
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal bank",
+    "lat": 10.1399971,
+    "lon": 76.5368317,
+    "distance_m": 1399
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 10.1218548,
+    "lon": 76.5568077,
+    "distance_m": 2308
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 17.7392832,
+    "lon": 83.3001448,
+    "distance_m": 750
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7384859,
+    "lon": 83.3001272,
+    "distance_m": 795
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7345955,
+    "lon": 83.2899586,
+    "distance_m": 980
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7334908,
+    "lon": 83.3006379,
+    "distance_m": 1232
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 17.732045,
+    "lon": 83.299497,
+    "distance_m": 1308
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7316072,
+    "lon": 83.2995137,
+    "distance_m": 1352
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7349278,
+    "lon": 83.3041649,
+    "distance_m": 1375
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 17.7299427,
+    "lon": 83.2993587,
+    "distance_m": 1515
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 17.7331908,
+    "lon": 83.3071705,
+    "distance_m": 1745
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.726951,
+    "lon": 83.3004384,
+    "distance_m": 1866
+  }
+]

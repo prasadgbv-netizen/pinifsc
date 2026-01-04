@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 11.2303,
+    "lon": 75.8515868,
+    "distance_m": 1264
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.227788,
+    "lon": 75.853162,
+    "distance_m": 1456
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2509046,
+    "lon": 75.8419961,
+    "distance_m": 2334
+  },
+  {
+    "name": "ATM",
+    "operator": "Kozhikode District Co-operative Bank",
+    "lat": 11.2311847,
+    "lon": 75.8170493,
+    "distance_m": 2506
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab Bank ATM",
+    "lat": 11.2532629,
+    "lon": 75.827086,
+    "distance_m": 2945
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 10.0865168,
+    "lon": 77.0612251,
+    "distance_m": 13
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0864757,
+    "lon": 77.0610001,
+    "distance_m": 25
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.086492,
+    "lon": 77.060784,
+    "distance_m": 44
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.087473,
+    "lon": 77.0604023,
+    "distance_m": 125
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.0848143,
+    "lon": 77.0600432,
+    "distance_m": 236
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0884912,
+    "lon": 77.0584287,
+    "distance_m": 364
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Atm - no extra fee",
+    "lat": 10.0747095,
+    "lon": 77.0631695,
+    "distance_m": 1343
+  }
+]

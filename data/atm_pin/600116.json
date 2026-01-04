@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 13.0330479,
+    "lon": 80.161486,
+    "distance_m": 1607
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.0200137,
+    "lon": 80.1407781,
+    "distance_m": 2328
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0200272,
+    "lon": 80.1406648,
+    "distance_m": 2331
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.020386,
+    "lon": 80.1300646,
+    "distance_m": 2911
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0574532,
+    "lon": 80.1277565,
+    "distance_m": 2977
+  }
+]

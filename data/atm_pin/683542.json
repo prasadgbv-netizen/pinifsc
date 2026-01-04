@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank ATM",
+    "lat": 10.1151047,
+    "lon": 76.4745509,
+    "distance_m": 217
+  },
+  {
+    "name": "Dhanlakshmi Bank ATM",
+    "operator": "",
+    "lat": 10.1131736,
+    "lon": 76.4759623,
+    "distance_m": 251
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 10.1124255,
+    "lon": 76.4752745,
+    "distance_m": 354
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.112899,
+    "lon": 76.4787215,
+    "distance_m": 365
+  },
+  {
+    "name": "ATM",
+    "operator": "south indian bank",
+    "lat": 10.1153489,
+    "lon": 76.4815457,
+    "distance_m": 550
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 10.1108618,
+    "lon": 76.4816647,
+    "distance_m": 753
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.116655,
+    "lon": 76.4911271,
+    "distance_m": 1605
+  },
+  {
+    "name": "india one ATM",
+    "operator": "india one ATM",
+    "lat": 10.1122237,
+    "lon": 76.4612311,
+    "distance_m": 1709
+  },
+  {
+    "name": "ATM",
+    "operator": "S B I Atm",
+    "lat": 10.0971752,
+    "lon": 76.4742303,
+    "distance_m": 2038
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank A T M",
+    "lat": 10.0969921,
+    "lon": 76.4740354,
+    "distance_m": 2061
+  }
+]

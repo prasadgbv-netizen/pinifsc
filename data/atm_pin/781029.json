@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 26.1107087,
+    "lon": 91.7995956,
+    "distance_m": 221
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 26.1157882,
+    "lon": 91.7983277,
+    "distance_m": 375
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.1161377,
+    "lon": 91.7973256,
+    "distance_m": 428
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 26.11186,
+    "lon": 91.7880424,
+    "distance_m": 1040
+  },
+  {
+    "name": "sbi atm",
+    "operator": "",
+    "lat": 26.1247619,
+    "lon": 91.7982847,
+    "distance_m": 1372
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank",
+    "lat": 26.1199782,
+    "lon": 91.7870668,
+    "distance_m": 1413
+  },
+  {
+    "name": "ATM",
+    "operator": "Bandhan Bank",
+    "lat": 26.1269865,
+    "lon": 91.7867621,
+    "distance_m": 1996
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 26.1286372,
+    "lon": 91.7862959,
+    "distance_m": 2173
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 26.1377744,
+    "lon": 91.7980388,
+    "distance_m": 2819
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 26.1359072,
+    "lon": 91.7856093,
+    "distance_m": 2909
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0380791,
+    "lon": 72.9256285,
+    "distance_m": 84
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.0356077,
+    "lon": 72.924432,
+    "distance_m": 269
+  },
+  {
+    "name": "Ghadi House, Mankhurd",
+    "operator": "ICICI Bank",
+    "lat": 19.0429098,
+    "lon": 72.9283214,
+    "distance_m": 657
+  }
+]

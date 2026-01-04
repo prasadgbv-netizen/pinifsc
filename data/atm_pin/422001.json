@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.0057141,
+    "lon": 73.788157,
+    "distance_m": 1931
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.9971157,
+    "lon": 73.7912286,
+    "distance_m": 2012
+  },
+  {
+    "name": "ATM",
+    "operator": "Western Union",
+    "lat": 20.0049985,
+    "lon": 73.7859474,
+    "distance_m": 2171
+  }
+]

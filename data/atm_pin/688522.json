@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.5653203,
+    "lon": 76.3091969,
+    "distance_m": 905
+  },
+  {
+    "name": "ATM",
+    "operator": "Vijaya Bank Atm",
+    "lat": 9.5719587,
+    "lon": 76.3288872,
+    "distance_m": 1459
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5708922,
+    "lon": 76.3294136,
+    "distance_m": 1508
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.586264,
+    "lon": 76.3056683,
+    "distance_m": 2079
+  }
+]

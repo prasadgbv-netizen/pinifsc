@@ -1,0 +1,37 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 22.5917094,
+    "lon": 88.3697572,
+    "distance_m": 1448
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.5789015,
+    "lon": 88.3591809,
+    "distance_m": 1820
+  },
+  {
+    "name": "BUS",
+    "operator": "",
+    "lat": 22.5823111,
+    "lon": 88.3431909,
+    "distance_m": 1938
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 22.6038061,
+    "lon": 88.3767409,
+    "distance_m": 2331
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 22.5799995,
+    "lon": 88.3741115,
+    "distance_m": 2491
+  }
+]

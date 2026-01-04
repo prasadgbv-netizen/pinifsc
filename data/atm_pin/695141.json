@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Catholic Syrian Bank ATM",
+    "operator": "",
+    "lat": 8.732284,
+    "lon": 76.7110598,
+    "distance_m": 441
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 8.7317795,
+    "lon": 76.7179594,
+    "distance_m": 1167
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 8.7319281,
+    "lon": 76.7183904,
+    "distance_m": 1209
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 8.7335408,
+    "lon": 76.723516,
+    "distance_m": 1742
+  },
+  {
+    "name": "India1 atm",
+    "operator": "",
+    "lat": 8.747788,
+    "lon": 76.7162799,
+    "distance_m": 1758
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 8.7407232,
+    "lon": 76.722585,
+    "distance_m": 1779
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 8.7339625,
+    "lon": 76.724313,
+    "distance_m": 1827
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.7397819,
+    "lon": 76.723438,
+    "distance_m": 1829
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.7378284,
+    "lon": 76.7244727,
+    "distance_m": 1882
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.734144,
+    "lon": 76.7249493,
+    "distance_m": 1897
+  }
+]

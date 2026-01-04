@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.2626641,
+    "lon": 88.1901615,
+    "distance_m": 102
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 26.2587582,
+    "lon": 88.189898,
+    "distance_m": 347
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 26.2584267,
+    "lon": 88.1898221,
+    "distance_m": 384
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 26.2571186,
+    "lon": 88.1896508,
+    "distance_m": 530
+  },
+  {
+    "name": "SBI Customer Service Point",
+    "operator": "State Bank of India",
+    "lat": 26.2569859,
+    "lon": 88.189512,
+    "distance_m": 548
+  },
+  {
+    "name": "India Post ATM",
+    "operator": "",
+    "lat": 26.2590334,
+    "lon": 88.1856001,
+    "distance_m": 585
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 26.264691,
+    "lon": 88.1847165,
+    "distance_m": 665
+  },
+  {
+    "name": "SBM Bank ATM",
+    "operator": "",
+    "lat": 26.2581147,
+    "lon": 88.1844858,
+    "distance_m": 733
+  },
+  {
+    "name": "Raiganj Central Co-Operative Bank",
+    "operator": "",
+    "lat": 26.2574747,
+    "lon": 88.1846958,
+    "distance_m": 759
+  },
+  {
+    "name": "State Bank Of India E Gallery",
+    "operator": "",
+    "lat": 26.2579196,
+    "lon": 88.1842512,
+    "distance_m": 765
+  }
+]

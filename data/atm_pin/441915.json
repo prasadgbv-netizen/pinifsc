@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 21.1695117,
+    "lon": 79.6571363,
+    "distance_m": 731
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 21.1568751,
+    "lon": 79.6526355,
+    "distance_m": 761
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 21.1566563,
+    "lon": 79.6484298,
+    "distance_m": 1044
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 21.1571491,
+    "lon": 79.6459219,
+    "distance_m": 1217
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India",
+    "lat": 21.1567686,
+    "lon": 79.6461029,
+    "distance_m": 1225
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of Maharashtra",
+    "lat": 21.1567336,
+    "lon": 79.646127,
+    "distance_m": 1225
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of Maharashtra",
+    "lat": 21.173055,
+    "lon": 79.6502548,
+    "distance_m": 1252
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank Of India",
+    "lat": 21.1772143,
+    "lon": 79.653983,
+    "distance_m": 1585
+  }
+]

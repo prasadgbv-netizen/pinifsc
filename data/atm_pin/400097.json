@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.1782548,
+    "lon": 72.8558799,
+    "distance_m": 610
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.1721325,
+    "lon": 72.8506143,
+    "distance_m": 836
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.1704053,
+    "lon": 72.8497042,
+    "distance_m": 1029
+  },
+  {
+    "name": "ATM",
+    "operator": "The Saraswat Bank",
+    "lat": 19.1668093,
+    "lon": 72.8511593,
+    "distance_m": 1430
+  },
+  {
+    "name": "ATM",
+    "operator": "axis",
+    "lat": 19.1679024,
+    "lon": 72.8417029,
+    "distance_m": 1584
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.1652857,
+    "lon": 72.85053,
+    "distance_m": 1596
+  },
+  {
+    "name": "Yes Bank ATM",
+    "operator": "Yes Bank",
+    "lat": 19.1938396,
+    "lon": 72.8393922,
+    "distance_m": 1947
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "",
+    "lat": 19.1844539,
+    "lon": 72.829998,
+    "distance_m": 2193
+  },
+  {
+    "name": "RBL Bank ATM",
+    "operator": "RBL Bank",
+    "lat": 19.2019651,
+    "lon": 72.8439367,
+    "distance_m": 2569
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.2034364,
+    "lon": 72.8385136,
+    "distance_m": 2918
+  }
+]

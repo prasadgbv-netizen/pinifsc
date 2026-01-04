@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.6387911,
+    "lon": 77.3648201,
+    "distance_m": 1897
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 28.638789,
+    "lon": 77.3650632,
+    "distance_m": 1909
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.638815,
+    "lon": 77.3653779,
+    "distance_m": 1922
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6389494,
+    "lon": 77.3711554,
+    "distance_m": 2248
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.6374856,
+    "lon": 77.3694642,
+    "distance_m": 2266
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.636321,
+    "lon": 77.3694033,
+    "distance_m": 2367
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.6395859,
+    "lon": 77.3745928,
+    "distance_m": 2442
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "SBI",
+    "lat": 28.674293,
+    "lon": 77.3648986,
+    "distance_m": 2462
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6380536,
+    "lon": 77.3782803,
+    "distance_m": 2829
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 28.66876,
+    "lon": 77.331057,
+    "distance_m": 2908
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "union bank CSP",
+    "lat": 25.2472042,
+    "lon": 86.9489964,
+    "distance_m": 795
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi atm",
+    "lat": 25.247304,
+    "lon": 86.9491507,
+    "distance_m": 798
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.2470764,
+    "lon": 86.9458826,
+    "distance_m": 978
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB atm and bank",
+    "lat": 25.2481354,
+    "lon": 86.9606213,
+    "distance_m": 1113
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 25.2340731,
+    "lon": 86.973591,
+    "distance_m": 2219
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.2320466,
+    "lon": 86.9733377,
+    "distance_m": 2283
+  }
+]

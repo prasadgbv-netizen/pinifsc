@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5889375,
+    "lon": 73.862455,
+    "distance_m": 2175
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5901306,
+    "lon": 73.8627951,
+    "distance_m": 2247
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 18.5626003,
+    "lon": 73.8320961,
+    "distance_m": 2601
+  }
+]

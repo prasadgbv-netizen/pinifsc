@@ -1,0 +1,23 @@
+[
+  {
+    "name": "south indian",
+    "operator": "",
+    "lat": 10.1769172,
+    "lon": 76.3088346,
+    "distance_m": 187
+  },
+  {
+    "name": "federal bank",
+    "operator": "Federal Bank",
+    "lat": 10.1773174,
+    "lon": 76.3299666,
+    "distance_m": 2499
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of india",
+    "lat": 10.1878096,
+    "lon": 76.328552,
+    "distance_m": 2628
+  }
+]

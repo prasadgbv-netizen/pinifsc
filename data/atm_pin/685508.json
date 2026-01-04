@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7553767,
+    "lon": 77.1117573,
+    "distance_m": 89
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 9.7528425,
+    "lon": 77.1158624,
+    "distance_m": 582
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7555679,
+    "lon": 77.1174224,
+    "distance_m": 623
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7557573,
+    "lon": 77.1178617,
+    "distance_m": 669
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7557918,
+    "lon": 77.117984,
+    "distance_m": 682
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7557672,
+    "lon": 77.1181887,
+    "distance_m": 704
+  },
+  {
+    "name": "SBI ATM Counter",
+    "operator": "",
+    "lat": 9.7539264,
+    "lon": 77.1180682,
+    "distance_m": 734
+  },
+  {
+    "name": "ATM",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.7527575,
+    "lon": 77.1183909,
+    "distance_m": 819
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7494606,
+    "lon": 77.1155341,
+    "distance_m": 853
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7515463,
+    "lon": 77.1240911,
+    "distance_m": 1445
+  }
+]

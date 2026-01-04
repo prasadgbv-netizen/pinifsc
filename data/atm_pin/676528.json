@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South indian Bank",
+    "lat": 11.025639,
+    "lon": 76.0277873,
+    "distance_m": 1153
+  },
+  {
+    "name": "ATM",
+    "operator": "The Kottakkal Co-op Urban Bank ATM",
+    "lat": 11.0259168,
+    "lon": 76.0272307,
+    "distance_m": 1200
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 11.0259773,
+    "lon": 76.0271556,
+    "distance_m": 1206
+  },
+  {
+    "name": "ESAF Small Finance Bank",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 11.0257309,
+    "lon": 76.0268952,
+    "distance_m": 1242
+  }
+]

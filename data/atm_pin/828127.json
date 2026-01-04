@@ -1,0 +1,58 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.8139363,
+    "lon": 86.4612287,
+    "distance_m": 279
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 23.8128488,
+    "lon": 86.4595714,
+    "distance_m": 360
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 23.811733,
+    "lon": 86.4560306,
+    "distance_m": 617
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 23.8114379,
+    "lon": 86.4532102,
+    "distance_m": 846
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 23.8112352,
+    "lon": 86.4524933,
+    "distance_m": 918
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.819832,
+    "lon": 86.4685463,
+    "distance_m": 982
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.8114282,
+    "lon": 86.4476081,
+    "distance_m": 1344
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 23.8162661,
+    "lon": 86.4403631,
+    "distance_m": 1977
+  }
+]

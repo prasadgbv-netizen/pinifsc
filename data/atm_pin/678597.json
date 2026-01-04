@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "vijaya bank ATM",
+    "lat": 10.9177635,
+    "lon": 76.5248352,
+    "distance_m": 127
+  },
+  {
+    "name": "ATM",
+    "operator": "KGB ATM",
+    "lat": 10.8958129,
+    "lon": 76.5371588,
+    "distance_m": 2911
+  },
+  {
+    "name": "ATM",
+    "operator": "India 1 ATM",
+    "lat": 10.9372522,
+    "lon": 76.505034,
+    "distance_m": 2934
+  }
+]

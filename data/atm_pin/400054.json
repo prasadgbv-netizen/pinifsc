@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.0821808,
+    "lon": 72.8346376,
+    "distance_m": 43
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 19.0815393,
+    "lon": 72.8346918,
+    "distance_m": 105
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 19.0843713,
+    "lon": 72.835003,
+    "distance_m": 230
+  },
+  {
+    "name": "DCB Bank",
+    "operator": "",
+    "lat": 19.0786129,
+    "lon": 72.8342266,
+    "distance_m": 422
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.0833899,
+    "lon": 72.8381913,
+    "distance_m": 423
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0783278,
+    "lon": 72.8345773,
+    "distance_m": 454
+  },
+  {
+    "name": "ATM",
+    "operator": "HSBC",
+    "lat": 19.0760494,
+    "lon": 72.8344693,
+    "distance_m": 707
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0816904,
+    "lon": 72.8415545,
+    "distance_m": 766
+  },
+  {
+    "name": "RBL Bank ATM Juhu Tara Road",
+    "operator": "RBL Bank",
+    "lat": 19.0869036,
+    "lon": 72.8274364,
+    "distance_m": 877
+  },
+  {
+    "name": "Yes Bank ATM - Juhu Tara Road",
+    "operator": "Yes Bank",
+    "lat": 19.0867919,
+    "lon": 72.8271598,
+    "distance_m": 894
+  }
+]

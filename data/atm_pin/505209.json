@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SBH ATM",
+    "operator": "",
+    "lat": 18.7447704,
+    "lon": 79.5065124,
+    "distance_m": 597
+  },
+  {
+    "name": "SBI ATM machine",
+    "operator": "State Bank of India",
+    "lat": 18.7418377,
+    "lon": 79.5218067,
+    "distance_m": 1847
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.7388183,
+    "lon": 79.522743,
+    "distance_m": 2114
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.7348131,
+    "lon": 79.5194716,
+    "distance_m": 2176
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 18.762001,
+    "lon": 79.483233,
+    "distance_m": 2792
+  }
+]

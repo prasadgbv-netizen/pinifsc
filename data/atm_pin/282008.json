@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1583698,
+    "lon": 77.9905536,
+    "distance_m": 829
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1585603,
+    "lon": 77.9906322,
+    "distance_m": 832
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1593386,
+    "lon": 77.9918443,
+    "distance_m": 937
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 27.1539146,
+    "lon": 77.9896254,
+    "distance_m": 995
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1595571,
+    "lon": 78.0093554,
+    "distance_m": 2666
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 27.1650349,
+    "lon": 78.0088245,
+    "distance_m": 2668
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1590544,
+    "lon": 78.0106495,
+    "distance_m": 2796
+  },
+  {
+    "name": "Oriental Bank of Commerce",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 27.1792826,
+    "lon": 78.0024553,
+    "distance_m": 2908
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 27.1722673,
+    "lon": 78.0089433,
+    "distance_m": 2950
+  },
+  {
+    "name": "Cororation bank ATM",
+    "operator": "",
+    "lat": 27.175626,
+    "lon": 78.007113,
+    "distance_m": 2988
+  }
+]

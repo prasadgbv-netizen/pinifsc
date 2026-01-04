@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 12.3094995,
+    "lon": 78.203173,
+    "distance_m": 268
+  },
+  {
+    "name": "ATM",
+    "operator": "Lakshmi Vilas Bank",
+    "lat": 12.3162164,
+    "lon": 78.2060054,
+    "distance_m": 1064
+  }
+]

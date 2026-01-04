@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 8.9162061,
+    "lon": 77.3814046,
+    "distance_m": 129
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 8.9159791,
+    "lon": 77.3815118,
+    "distance_m": 157
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 8.9159111,
+    "lon": 77.3816146,
+    "distance_m": 168
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.9170929,
+    "lon": 77.3793875,
+    "distance_m": 178
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 8.9141155,
+    "lon": 77.3838931,
+    "distance_m": 475
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 8.9140993,
+    "lon": 77.383938,
+    "distance_m": 480
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.9124813,
+    "lon": 77.3890569,
+    "distance_m": 1034
+  }
+]

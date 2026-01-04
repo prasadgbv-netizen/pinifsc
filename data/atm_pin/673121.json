@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 11.607933,
+    "lon": 76.0830954,
+    "distance_m": 66
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.6080931,
+    "lon": 76.0833714,
+    "distance_m": 88
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.612396,
+    "lon": 76.0829731,
+    "distance_m": 562
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 11.6138649,
+    "lon": 76.0826564,
+    "distance_m": 727
+  },
+  {
+    "name": "Bank of India",
+    "operator": "Bank of India",
+    "lat": 11.6142603,
+    "lon": 76.0827194,
+    "distance_m": 770
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 11.616659,
+    "lon": 76.0837587,
+    "distance_m": 1038
+  }
+]

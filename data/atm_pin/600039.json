@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.1283384,
+    "lon": 80.2745986,
+    "distance_m": 1575
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.1306982,
+    "lon": 80.2769535,
+    "distance_m": 1915
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.1132183,
+    "lon": 80.242254,
+    "distance_m": 2316
+  }
+]

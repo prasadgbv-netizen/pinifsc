@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 16.5766999,
+    "lon": 82.0024966,
+    "distance_m": 54
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 16.576662,
+    "lon": 82.0024728,
+    "distance_m": 55
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 16.5758746,
+    "lon": 82.0038262,
+    "distance_m": 116
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 16.5702961,
+    "lon": 82.0001758,
+    "distance_m": 754
+  }
+]

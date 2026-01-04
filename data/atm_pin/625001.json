@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9220209,
+    "lon": 78.1124771,
+    "distance_m": 281
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9246689,
+    "lon": 78.1173756,
+    "distance_m": 457
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 9.9189616,
+    "lon": 78.1150501,
+    "distance_m": 642
+  },
+  {
+    "name": "ATM",
+    "operator": "Canada Bank",
+    "lat": 9.9186085,
+    "lon": 78.113775,
+    "distance_m": 652
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9185466,
+    "lon": 78.1136122,
+    "distance_m": 657
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.9186218,
+    "lon": 78.1114525,
+    "distance_m": 675
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 9.9186669,
+    "lon": 78.1112943,
+    "distance_m": 676
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 9.918698,
+    "lon": 78.1111954,
+    "distance_m": 676
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 9.918639,
+    "lon": 78.1113793,
+    "distance_m": 676
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.91881,
+    "lon": 78.1218004,
+    "distance_m": 1130
+  }
+]

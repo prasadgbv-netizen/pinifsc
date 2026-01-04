@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 23.07632,
+    "lon": 72.5670756,
+    "distance_m": 537
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 23.0721014,
+    "lon": 72.5675918,
+    "distance_m": 539
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI",
+    "lat": 23.0794785,
+    "lon": 72.5709062,
+    "distance_m": 541
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.0708588,
+    "lon": 72.5768807,
+    "distance_m": 655
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 23.0707904,
+    "lon": 72.576858,
+    "distance_m": 658
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 23.0798606,
+    "lon": 72.5687465,
+    "distance_m": 663
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 23.0677939,
+    "lon": 72.5725289,
+    "distance_m": 771
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 23.0786893,
+    "lon": 72.5782479,
+    "distance_m": 774
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 23.0899418,
+    "lon": 72.5657014,
+    "distance_m": 1812
+  }
+]

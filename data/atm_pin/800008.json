@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.598388,
+    "lon": 85.202231,
+    "distance_m": 1135
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.600655,
+    "lon": 85.210463,
+    "distance_m": 1268
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 25.6007615,
+    "lon": 85.2105028,
+    "distance_m": 1281
+  },
+  {
+    "name": "ATM",
+    "operator": "Allahabad Bank ATM",
+    "lat": 25.600906,
+    "lon": 85.210577,
+    "distance_m": 1298
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 25.601217,
+    "lon": 85.210635,
+    "distance_m": 1333
+  },
+  {
+    "name": "ATM",
+    "operator": "IndiCash",
+    "lat": 25.601357,
+    "lon": 85.210867,
+    "distance_m": 1353
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.5968542,
+    "lon": 85.2302628,
+    "distance_m": 2396
+  }
+]

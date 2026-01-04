@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 10.79291,
+    "lon": 78.7631851,
+    "distance_m": 2313
+  },
+  {
+    "name": "Indi Cash",
+    "operator": "",
+    "lat": 10.8051608,
+    "lon": 78.7336797,
+    "distance_m": 2769
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 10.8053033,
+    "lon": 78.7320045,
+    "distance_m": 2867
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.6032406,
+    "lon": 76.6814498,
+    "distance_m": 370
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi atm poovathilappu",
+    "lat": 9.6260068,
+    "lon": 76.6752836,
+    "distance_m": 2932
+  }
+]

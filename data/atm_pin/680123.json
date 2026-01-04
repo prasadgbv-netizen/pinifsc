@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 10.2728399,
+    "lon": 76.2078162,
+    "distance_m": 2105
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.2804445,
+    "lon": 76.212986,
+    "distance_m": 2515
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank",
+    "lat": 10.2822285,
+    "lon": 76.2131287,
+    "distance_m": 2542
+  }
+]

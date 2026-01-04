@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 11.7660701,
+    "lon": 79.744962,
+    "distance_m": 701
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.7663374,
+    "lon": 79.7444464,
+    "distance_m": 728
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7719883,
+    "lon": 79.7603846,
+    "distance_m": 1151
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.7643324,
+    "lon": 79.7649375,
+    "distance_m": 1743
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 11.7624282,
+    "lon": 79.7643262,
+    "distance_m": 1772
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.7603102,
+    "lon": 79.7637196,
+    "distance_m": 1841
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7598187,
+    "lon": 79.7636845,
+    "distance_m": 1871
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank ATM",
+    "lat": 11.7580578,
+    "lon": 79.763143,
+    "distance_m": 1952
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.7532593,
+    "lon": 79.7615179,
+    "distance_m": 2244
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda ATM",
+    "lat": 11.7525355,
+    "lon": 79.7615276,
+    "distance_m": 2312
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.038201,
+    "lon": 75.6652547,
+    "distance_m": 1047
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.0390521,
+    "lon": 75.6643813,
+    "distance_m": 1177
+  }
+]

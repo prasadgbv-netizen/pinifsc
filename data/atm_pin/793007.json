@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.5628444,
+    "lon": 91.9087799,
+    "distance_m": 956
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.5666397,
+    "lon": 91.9106864,
+    "distance_m": 1004
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 25.5601212,
+    "lon": 91.9071729,
+    "distance_m": 1078
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.5593538,
+    "lon": 91.9054635,
+    "distance_m": 1254
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India (SBI)",
+    "lat": 25.568122,
+    "lon": 91.904617,
+    "distance_m": 1587
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.5602928,
+    "lon": 91.8992789,
+    "distance_m": 1869
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 25.5834097,
+    "lon": 91.9093086,
+    "distance_m": 2701
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 25.5832048,
+    "lon": 91.9080101,
+    "distance_m": 2724
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1464779,
+    "lon": 75.96587,
+    "distance_m": 189
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1462604,
+    "lon": 75.9664761,
+    "distance_m": 246
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1436224,
+    "lon": 75.96696,
+    "distance_m": 384
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1438303,
+    "lon": 75.967257,
+    "distance_m": 396
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1491202,
+    "lon": 75.9610063,
+    "distance_m": 508
+  },
+  {
+    "name": "HDFC",
+    "operator": "",
+    "lat": 11.1490737,
+    "lon": 75.9604982,
+    "distance_m": 545
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1503397,
+    "lon": 75.9596476,
+    "distance_m": 709
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.1429266,
+    "lon": 75.9705847,
+    "distance_m": 762
+  }
+]

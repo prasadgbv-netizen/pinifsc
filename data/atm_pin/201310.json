@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "P&B",
+    "lat": 28.4809526,
+    "lon": 77.499589,
+    "distance_m": 1188
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.4808942,
+    "lon": 77.4992189,
+    "distance_m": 1214
+  },
+  {
+    "name": "ATM",
+    "operator": "Nihal",
+    "lat": 28.4700186,
+    "lon": 77.4956399,
+    "distance_m": 1445
+  }
+]

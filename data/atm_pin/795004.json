@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 24.8043664,
+    "lon": 93.9343789,
+    "distance_m": 1971
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 24.8005112,
+    "lon": 93.9361158,
+    "distance_m": 2171
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 24.811734,
+    "lon": 93.9349944,
+    "distance_m": 2225
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 24.8076832,
+    "lon": 93.9367789,
+    "distance_m": 2258
+  }
+]

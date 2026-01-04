@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "dhanalakshimi atm",
+    "lat": 10.9498429,
+    "lon": 78.0883096,
+    "distance_m": 2533
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.9534288,
+    "lon": 78.0663498,
+    "distance_m": 2825
+  }
+]

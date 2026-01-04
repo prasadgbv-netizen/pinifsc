@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.8145389,
+    "lon": 83.206862,
+    "distance_m": 852
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.8143868,
+    "lon": 83.2068933,
+    "distance_m": 868
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.8111725,
+    "lon": 83.2072423,
+    "distance_m": 1203
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "Axis Bank",
+    "lat": 17.8095703,
+    "lon": 83.2080391,
+    "distance_m": 1400
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.8056315,
+    "lon": 83.2091524,
+    "distance_m": 1850
+  }
+]

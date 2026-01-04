@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0380791,
+    "lon": 72.9256285,
+    "distance_m": 1200
+  },
+  {
+    "name": "Ghadi House, Mankhurd",
+    "operator": "ICICI Bank",
+    "lat": 19.0429098,
+    "lon": 72.9283214,
+    "distance_m": 1224
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.0356077,
+    "lon": 72.924432,
+    "distance_m": 1313
+  },
+  {
+    "name": "Saraswat Co-op Bank Ltd",
+    "operator": "",
+    "lat": 19.0520442,
+    "lon": 72.9001958,
+    "distance_m": 1920
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0540362,
+    "lon": 72.9002287,
+    "distance_m": 2017
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0542623,
+    "lon": 72.900267,
+    "distance_m": 2026
+  },
+  {
+    "name": "AXIS bank ATM 24& 7 services",
+    "operator": "",
+    "lat": 19.0661359,
+    "lon": 72.9201218,
+    "distance_m": 2371
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 19.0534789,
+    "lon": 72.8961777,
+    "distance_m": 2371
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584099,
+    "lon": 72.8986662,
+    "distance_m": 2425
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584202,
+    "lon": 72.8986786,
+    "distance_m": 2425
+  }
+]

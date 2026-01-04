@@ -1,0 +1,72 @@
+[
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 18.5202627,
+    "lon": 73.8640356,
+    "distance_m": 180
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 18.5202083,
+    "lon": 73.8639928,
+    "distance_m": 183
+  },
+  {
+    "name": "Union Bank",
+    "operator": "Union Bank",
+    "lat": 18.5242907,
+    "lon": 73.8643134,
+    "distance_m": 310
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 18.5224248,
+    "lon": 73.866525,
+    "distance_m": 356
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.5152976,
+    "lon": 73.86587,
+    "distance_m": 763
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 18.5154527,
+    "lon": 73.8663448,
+    "distance_m": 767
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5152684,
+    "lon": 73.8659174,
+    "distance_m": 768
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.5152937,
+    "lon": 73.8664672,
+    "distance_m": 789
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 18.5137742,
+    "lon": 73.8617339,
+    "distance_m": 894
+  },
+  {
+    "name": "ATM",
+    "operator": "Cosmos Bank",
+    "lat": 18.5150213,
+    "lon": 73.8687272,
+    "distance_m": 941
+  }
+]

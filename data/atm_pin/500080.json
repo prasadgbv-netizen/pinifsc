@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4237297,
+    "lon": 78.492945,
+    "distance_m": 515
+  },
+  {
+    "name": "andhra bank",
+    "operator": "",
+    "lat": 17.413233,
+    "lon": 78.4884427,
+    "distance_m": 745
+  },
+  {
+    "name": "DCB Bank ATM",
+    "operator": "DCB",
+    "lat": 17.4118417,
+    "lon": 78.4890161,
+    "distance_m": 872
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 17.4114616,
+    "lon": 78.4909764,
+    "distance_m": 885
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "",
+    "lat": 17.4179308,
+    "lon": 78.4995689,
+    "distance_m": 907
+  },
+  {
+    "name": "icici bank atm",
+    "operator": "",
+    "lat": 17.4104214,
+    "lon": 78.4890007,
+    "distance_m": 1026
+  },
+  {
+    "name": "HDFC ATM",
+    "operator": "",
+    "lat": 17.4206689,
+    "lon": 78.5009442,
+    "distance_m": 1047
+  },
+  {
+    "name": "canara bank ATM",
+    "operator": "",
+    "lat": 17.4098439,
+    "lon": 78.4885901,
+    "distance_m": 1099
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 17.4091385,
+    "lon": 78.4891954,
+    "distance_m": 1162
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4230186,
+    "lon": 78.5015412,
+    "distance_m": 1172
+  }
+]

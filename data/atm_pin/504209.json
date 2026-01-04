@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 18.8737267,
+    "lon": 79.4438541,
+    "distance_m": 166
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "",
+    "lat": 18.8722317,
+    "lon": 79.4414714,
+    "distance_m": 398
+  },
+  {
+    "name": "CITY UNION BANK AND ATM",
+    "operator": "",
+    "lat": 18.8789924,
+    "lon": 79.4454316,
+    "distance_m": 675
+  },
+  {
+    "name": "ATM",
+    "operator": "india 1 atm",
+    "lat": 18.873109,
+    "lon": 79.426533,
+    "distance_m": 1962
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 34.1522112,
+    "lon": 77.5769758,
+    "distance_m": 69
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 34.1543875,
+    "lon": 77.5776077,
+    "distance_m": 180
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 34.1531373,
+    "lon": 77.5740688,
+    "distance_m": 275
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank",
+    "lat": 34.1540154,
+    "lon": 77.5832919,
+    "distance_m": 590
+  },
+  {
+    "name": "ATM",
+    "operator": "J&K Bank",
+    "lat": 34.1569015,
+    "lon": 77.5839102,
+    "distance_m": 777
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 34.1462391,
+    "lon": 77.5813448,
+    "distance_m": 833
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 34.1469992,
+    "lon": 77.56975,
+    "distance_m": 933
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 34.1598487,
+    "lon": 77.5866936,
+    "distance_m": 1181
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 34.162591,
+    "lon": 77.5834288,
+    "distance_m": 1233
+  },
+  {
+    "name": "Jammu and Kashmir Bank",
+    "operator": "Jammu and Kashmir Bank",
+    "lat": 34.163656,
+    "lon": 77.5840148,
+    "distance_m": 1363
+  }
+]

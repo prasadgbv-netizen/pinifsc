@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Federal Bank PUTHANATHANI",
+    "lat": 10.9361612,
+    "lon": 76.0021241,
+    "distance_m": 2676
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.9349355,
+    "lon": 76.0027207,
+    "distance_m": 2805
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.9347307,
+    "lon": 76.0027522,
+    "distance_m": 2820
+  }
+]

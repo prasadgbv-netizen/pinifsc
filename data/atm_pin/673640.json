@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2458666,
+    "lon": 75.9753049,
+    "distance_m": 904
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.2457745,
+    "lon": 75.975152,
+    "distance_m": 908
+  },
+  {
+    "name": "ATM",
+    "operator": "Gramin Bank",
+    "lat": 11.2600281,
+    "lon": 75.9541597,
+    "distance_m": 2122
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 11.2607152,
+    "lon": 75.9534934,
+    "distance_m": 2217
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "Punjab National Bank",
+    "lat": 11.246011,
+    "lon": 75.95346,
+    "distance_m": 2232
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.2603848,
+    "lon": 75.9497547,
+    "distance_m": 2590
+  }
+]

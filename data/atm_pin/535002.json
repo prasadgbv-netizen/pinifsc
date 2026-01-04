@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.1093016,
+    "lon": 83.4208666,
+    "distance_m": 1388
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 18.0995085,
+    "lon": 83.4116805,
+    "distance_m": 2088
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 18.1125882,
+    "lon": 83.411064,
+    "distance_m": 2456
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.1129723,
+    "lon": 83.410093,
+    "distance_m": 2567
+  },
+  {
+    "name": "Andhra Pradesh Grameena Vikas Bank",
+    "operator": "Andhra Pradesh Grameena Vikas Bank",
+    "lat": 18.1227814,
+    "lon": 83.4178269,
+    "distance_m": 2740
+  },
+  {
+    "name": "ATM",
+    "operator": "India1",
+    "lat": 18.0859064,
+    "lon": 83.411285,
+    "distance_m": 2751
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 10.4485738,
+    "lon": 77.5242098,
+    "distance_m": 2692
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 10.4434324,
+    "lon": 77.5194022,
+    "distance_m": 2702
+  }
+]

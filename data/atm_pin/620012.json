@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 10.7882894,
+    "lon": 78.6682965,
+    "distance_m": 1250
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.7899956,
+    "lon": 78.6749904,
+    "distance_m": 1294
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7827717,
+    "lon": 78.6884341,
+    "distance_m": 1672
+  },
+  {
+    "name": "Allahabad Bank",
+    "operator": "Allahabad Bank",
+    "lat": 10.7736857,
+    "lon": 78.6932156,
+    "distance_m": 2187
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 10.7997448,
+    "lon": 78.680874,
+    "distance_m": 2495
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.7981252,
+    "lon": 78.6855062,
+    "distance_m": 2538
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 10.8027025,
+    "lon": 78.6850093,
+    "distance_m": 2966
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 10.8046538,
+    "lon": 78.6790739,
+    "distance_m": 2974
+  },
+  {
+    "name": "ATM",
+    "operator": "kvB bank",
+    "lat": 10.8048645,
+    "lon": 78.6789613,
+    "distance_m": 2994
+  }
+]

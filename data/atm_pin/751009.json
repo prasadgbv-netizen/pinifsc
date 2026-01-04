@@ -1,0 +1,72 @@
+[
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.2499159,
+    "lon": 85.8350814,
+    "distance_m": 896
+  },
+  {
+    "name": "IDBI Bank ATM",
+    "operator": "IDBI Bank",
+    "lat": 20.2462518,
+    "lon": 85.8324733,
+    "distance_m": 1088
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2638377,
+    "lon": 85.8345268,
+    "distance_m": 1112
+  },
+  {
+    "name": "IDBI Bank",
+    "operator": "",
+    "lat": 20.2638782,
+    "lon": 85.8345614,
+    "distance_m": 1118
+  },
+  {
+    "name": "SBI ecorner",
+    "operator": "",
+    "lat": 20.2686083,
+    "lon": 85.8309993,
+    "distance_m": 1485
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 20.2693113,
+    "lon": 85.8335387,
+    "distance_m": 1623
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 20.2398276,
+    "lon": 85.8334328,
+    "distance_m": 1799
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 20.2718176,
+    "lon": 85.8334103,
+    "distance_m": 1887
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 20.2668683,
+    "lon": 85.8434709,
+    "distance_m": 1992
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "",
+    "lat": 20.2668902,
+    "lon": 85.8434931,
+    "distance_m": 1995
+  }
+]

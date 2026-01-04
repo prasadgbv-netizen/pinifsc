@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Hitachi ATM",
+    "lat": 11.3535677,
+    "lon": 75.7593106,
+    "distance_m": 2382
+  },
+  {
+    "name": "ATM",
+    "operator": "India One",
+    "lat": 11.3468071,
+    "lon": 75.7618134,
+    "distance_m": 2387
+  }
+]

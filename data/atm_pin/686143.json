@@ -1,0 +1,16 @@
+[
+  {
+    "name": "India1 ATM",
+    "operator": "India1",
+    "lat": 9.7821233,
+    "lon": 76.3951119,
+    "distance_m": 408
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank Atm,Ksrtc Bus Stand Vaikom",
+    "lat": 9.7528853,
+    "lon": 76.391439,
+    "distance_m": 2874
+  }
+]

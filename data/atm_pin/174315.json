@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI ATM, IIT Mandi Kamand Campus",
+    "lat": 31.7754118,
+    "lon": 76.9864484,
+    "distance_m": 1100
+  },
+  {
+    "name": "ATM",
+    "operator": "PNB ATM",
+    "lat": 31.7753614,
+    "lon": 76.9864365,
+    "distance_m": 1103
+  }
+]

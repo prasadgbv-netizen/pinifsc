@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SHUBHRAJIT CHAKRABORTY",
+    "lat": 22.66269,
+    "lon": 88.4304399,
+    "distance_m": 1618
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.6371244,
+    "lon": 88.4131301,
+    "distance_m": 1838
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6365593,
+    "lon": 88.4144615,
+    "distance_m": 1859
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 22.6360503,
+    "lon": 88.4109575,
+    "distance_m": 2030
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 22.6361973,
+    "lon": 88.410315,
+    "distance_m": 2042
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 22.635755,
+    "lon": 88.4101397,
+    "distance_m": 2095
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.6422336,
+    "lon": 88.439252,
+    "distance_m": 2396
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.6418755,
+    "lon": 88.4392325,
+    "distance_m": 2414
+  }
+]

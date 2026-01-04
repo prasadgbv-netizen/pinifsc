@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "CSB Bank Choondal Branch",
+    "lat": 10.6168548,
+    "lon": 76.0944826,
+    "distance_m": 266
+  },
+  {
+    "name": "ATM",
+    "operator": "punjab national bank ATM",
+    "lat": 10.6274768,
+    "lon": 76.0945571,
+    "distance_m": 1045
+  }
+]

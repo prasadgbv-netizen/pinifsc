@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 25.4534761,
+    "lon": 81.8270895,
+    "distance_m": 50
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 25.461064,
+    "lon": 81.826185,
+    "distance_m": 885
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 25.4611571,
+    "lon": 81.8247018,
+    "distance_m": 929
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4433449,
+    "lon": 81.8250792,
+    "distance_m": 1119
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4497243,
+    "lon": 81.8390254,
+    "distance_m": 1221
+  },
+  {
+    "name": "ATM",
+    "operator": "BOB",
+    "lat": 25.4425594,
+    "lon": 81.8360786,
+    "distance_m": 1463
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 25.4416003,
+    "lon": 81.8359338,
+    "distance_m": 1542
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 25.4670621,
+    "lon": 81.8252852,
+    "distance_m": 1558
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 25.4364271,
+    "lon": 81.8345703,
+    "distance_m": 1994
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 25.4305143,
+    "lon": 81.8290998,
+    "distance_m": 2525
+  }
+]

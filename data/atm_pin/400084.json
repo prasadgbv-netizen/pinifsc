@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.1014007,
+    "lon": 72.9107427,
+    "distance_m": 778
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0979381,
+    "lon": 72.8880744,
+    "distance_m": 1705
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.102235,
+    "lon": 72.9200154,
+    "distance_m": 1718
+  },
+  {
+    "name": "ATM",
+    "operator": "Bharat Co-op Bank",
+    "lat": 19.1149556,
+    "lon": 72.9068158,
+    "distance_m": 1910
+  },
+  {
+    "name": "ATM",
+    "operator": "Apna Sahakari Bank Ltd",
+    "lat": 19.1150011,
+    "lon": 72.9068674,
+    "distance_m": 1916
+  },
+  {
+    "name": "Kotak Mahindra bank ATM",
+    "operator": "",
+    "lat": 19.1043253,
+    "lon": 72.887046,
+    "distance_m": 1947
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1042663,
+    "lon": 72.921596,
+    "distance_m": 1948
+  },
+  {
+    "name": "ATM",
+    "operator": "Jana Small Finance Bank",
+    "lat": 19.1152112,
+    "lon": 72.907777,
+    "distance_m": 1955
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 19.081938,
+    "lon": 72.8961266,
+    "distance_m": 1975
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.08187,
+    "lon": 72.8961233,
+    "distance_m": 1982
+  }
+]

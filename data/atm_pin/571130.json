@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Canara Bank ATM",
+    "operator": "",
+    "lat": 12.359066,
+    "lon": 76.542322,
+    "distance_m": 163
+  },
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 12.3598926,
+    "lon": 76.5390856,
+    "distance_m": 201
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "federal bank",
+    "operator": "Federal Bank",
+    "lat": 10.1773174,
+    "lon": 76.3299666,
+    "distance_m": 2391
+  },
+  {
+    "name": "south indian",
+    "operator": "",
+    "lat": 10.1769172,
+    "lon": 76.3088346,
+    "distance_m": 2828
+  }
+]

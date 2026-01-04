@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA , ATM , SOJAT ROAD",
+    "lat": 25.8648927,
+    "lon": 73.7470441,
+    "distance_m": 2833
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of Baroda",
+    "lat": 25.8636431,
+    "lon": 73.747171,
+    "distance_m": 2842
+  }
+]

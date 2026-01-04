@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.5880173,
+    "lon": 77.1679014,
+    "distance_m": 839
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.5875348,
+    "lon": 77.1690259,
+    "distance_m": 892
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5790267,
+    "lon": 77.148443,
+    "distance_m": 1348
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.570786,
+    "lon": 77.1634244,
+    "distance_m": 1368
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 28.5652278,
+    "lon": 77.1671988,
+    "distance_m": 2050
+  },
+  {
+    "name": "Andhra Bank",
+    "operator": "Andhra Bank",
+    "lat": 28.5651928,
+    "lon": 77.1674642,
+    "distance_m": 2060
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5650324,
+    "lon": 77.1672942,
+    "distance_m": 2073
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 28.5649944,
+    "lon": 77.1673028,
+    "distance_m": 2077
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 28.5793317,
+    "lon": 77.1828926,
+    "distance_m": 2127
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.5712997,
+    "lon": 77.1842925,
+    "distance_m": 2576
+  }
+]

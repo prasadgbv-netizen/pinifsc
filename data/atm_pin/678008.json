@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.7969555,
+    "lon": 76.641615,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 10.7966076,
+    "lon": 76.6433651,
+    "distance_m": 348
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.7952229,
+    "lon": 76.6391002,
+    "distance_m": 597
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.7935618,
+    "lon": 76.644152,
+    "distance_m": 697
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.8052134,
+    "lon": 76.636166,
+    "distance_m": 919
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI ATM",
+    "lat": 10.8098855,
+    "lon": 76.6361635,
+    "distance_m": 1329
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 10.811805,
+    "lon": 76.6359212,
+    "distance_m": 1529
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM (PNB)",
+    "lat": 10.7853655,
+    "lon": 76.6444841,
+    "distance_m": 1597
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 10.8025676,
+    "lon": 76.6272101,
+    "distance_m": 1683
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 10.8136918,
+    "lon": 76.6358529,
+    "distance_m": 1721
+  }
+]

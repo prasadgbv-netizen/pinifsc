@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5925394,
+    "lon": 76.1539982,
+    "distance_m": 54
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "",
+    "lat": 10.5911071,
+    "lon": 76.1556788,
+    "distance_m": 190
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara",
+    "lat": 10.5937438,
+    "lon": 76.153315,
+    "distance_m": 201
+  },
+  {
+    "name": "ATM",
+    "operator": "ICIC bank ATM",
+    "lat": 10.5765089,
+    "lon": 76.1623469,
+    "distance_m": 1957
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank Atm",
+    "lat": 10.6074954,
+    "lon": 76.1395689,
+    "distance_m": 2343
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.6080838,
+    "lon": 76.1395761,
+    "distance_m": 2390
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB ATM",
+    "lat": 10.6068033,
+    "lon": 76.1733012,
+    "distance_m": 2617
+  }
+]

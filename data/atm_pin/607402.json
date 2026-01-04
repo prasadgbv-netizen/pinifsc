@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.8081088,
+    "lon": 79.7774898,
+    "distance_m": 1529
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 11.8100741,
+    "lon": 79.7785248,
+    "distance_m": 1579
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7985726,
+    "lon": 79.7740838,
+    "distance_m": 1639
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 11.8129783,
+    "lon": 79.7797522,
+    "distance_m": 1736
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.8141722,
+    "lon": 79.7798952,
+    "distance_m": 1837
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.7918958,
+    "lon": 79.7687629,
+    "distance_m": 2396
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.821143,
+    "lon": 79.7824221,
+    "distance_m": 2428
+  }
+]

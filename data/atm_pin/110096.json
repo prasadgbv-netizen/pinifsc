@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6140616,
+    "lon": 77.3376193,
+    "distance_m": 614
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6155268,
+    "lon": 77.337998,
+    "distance_m": 781
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6036207,
+    "lon": 77.3299634,
+    "distance_m": 841
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6147184,
+    "lon": 77.3480647,
+    "distance_m": 1322
+  },
+  {
+    "name": "ICICI ATM",
+    "operator": "",
+    "lat": 28.5967437,
+    "lon": 77.3376025,
+    "distance_m": 1327
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6128704,
+    "lon": 77.3230587,
+    "distance_m": 1386
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.6007709,
+    "lon": 77.3232144,
+    "distance_m": 1557
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6090206,
+    "lon": 77.3201408,
+    "distance_m": 1589
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6012581,
+    "lon": 77.3224259,
+    "distance_m": 1593
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.6167874,
+    "lon": 77.3179655,
+    "distance_m": 2016
+  }
+]

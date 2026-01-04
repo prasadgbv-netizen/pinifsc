@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.6920916,
+    "lon": 77.291576,
+    "distance_m": 174
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6847189,
+    "lon": 77.2897575,
+    "distance_m": 721
+  },
+  {
+    "name": "PUNJAB NATIO",
+    "operator": "Punjab National Bank",
+    "lat": 28.6893369,
+    "lon": 77.3000458,
+    "distance_m": 992
+  },
+  {
+    "name": "ATM",
+    "operator": "fjjdi",
+    "lat": 28.7059612,
+    "lon": 77.2817747,
+    "distance_m": 1831
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.6737902,
+    "lon": 77.2890714,
+    "distance_m": 1938
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.6737826,
+    "lon": 77.2890277,
+    "distance_m": 1939
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 28.6798755,
+    "lon": 77.3064324,
+    "distance_m": 2030
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.6781577,
+    "lon": 77.308806,
+    "distance_m": 2330
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 28.67802,
+    "lon": 77.3088782,
+    "distance_m": 2345
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 28.6707258,
+    "lon": 77.284189,
+    "distance_m": 2348
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.754648,
+    "lon": 83.3386207,
+    "distance_m": 1039
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.7435006,
+    "lon": 83.3372987,
+    "distance_m": 1613
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.7433628,
+    "lon": 83.336993,
+    "distance_m": 1647
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7413984,
+    "lon": 83.3333918,
+    "distance_m": 2077
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 17.7323903,
+    "lon": 83.3405137,
+    "distance_m": 2487
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 17.7340086,
+    "lon": 83.3321713,
+    "distance_m": 2761
+  }
+]

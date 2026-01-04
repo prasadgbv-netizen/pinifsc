@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 13.0906026,
+    "lon": 74.7890425,
+    "distance_m": 520
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 13.0890485,
+    "lon": 74.7891524,
+    "distance_m": 570
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 13.0883784,
+    "lon": 74.7893435,
+    "distance_m": 593
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0898657,
+    "lon": 74.7879629,
+    "distance_m": 654
+  },
+  {
+    "name": "Vijaya Bank ATM",
+    "operator": "",
+    "lat": 13.0903988,
+    "lon": 74.787586,
+    "distance_m": 679
+  }
+]

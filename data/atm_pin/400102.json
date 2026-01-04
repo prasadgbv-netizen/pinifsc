@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.1440727,
+    "lon": 72.8559604,
+    "distance_m": 1290
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 19.1317228,
+    "lon": 72.8350702,
+    "distance_m": 1378
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Maharashtra",
+    "lat": 19.1367912,
+    "lon": 72.831537,
+    "distance_m": 1684
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 19.1395745,
+    "lon": 72.8320213,
+    "distance_m": 1686
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 19.1192823,
+    "lon": 72.8454627,
+    "distance_m": 1831
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1192458,
+    "lon": 72.8436912,
+    "distance_m": 1866
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 19.1187954,
+    "lon": 72.8447484,
+    "distance_m": 1895
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1185343,
+    "lon": 72.8463342,
+    "distance_m": 1906
+  },
+  {
+    "name": "Karnataka Bank Ltd",
+    "operator": "Karnataka Bank",
+    "lat": 19.127488,
+    "lon": 72.8311548,
+    "distance_m": 1943
+  },
+  {
+    "name": "Corporation Bank",
+    "operator": "Corporation Bank",
+    "lat": 19.1273029,
+    "lon": 72.8311701,
+    "distance_m": 1952
+  }
+]

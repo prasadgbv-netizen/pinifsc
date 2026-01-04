@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.8676272,
+    "lon": 75.8050489,
+    "distance_m": 864
+  },
+  {
+    "name": "ATM",
+    "operator": "Lalit",
+    "lat": 26.866179,
+    "lon": 75.7908165,
+    "distance_m": 1161
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 26.8628215,
+    "lon": 75.8066208,
+    "distance_m": 1387
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 26.8626539,
+    "lon": 75.806571,
+    "distance_m": 1400
+  },
+  {
+    "name": "Hdfc atm",
+    "operator": "HDFC Bank",
+    "lat": 26.8867051,
+    "lon": 75.8031081,
+    "distance_m": 1525
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.8596866,
+    "lon": 75.8087573,
+    "distance_m": 1795
+  },
+  {
+    "name": "ICICI atm",
+    "operator": "ICICI Bank",
+    "lat": 26.8893976,
+    "lon": 75.803636,
+    "distance_m": 1828
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 26.8594642,
+    "lon": 75.8091873,
+    "distance_m": 1839
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "",
+    "lat": 26.8895118,
+    "lon": 75.793699,
+    "distance_m": 1871
+  },
+  {
+    "name": "Yes Bank ATM",
+    "operator": "Yes Bank",
+    "lat": 26.8894912,
+    "lon": 75.7936148,
+    "distance_m": 1871
+  }
+]

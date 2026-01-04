@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank",
+    "lat": 9.7496968,
+    "lon": 76.390922,
+    "distance_m": 87
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank Atm,Ksrtc Bus Stand Vaikom",
+    "lat": 9.7528853,
+    "lon": 76.391439,
+    "distance_m": 339
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7506588,
+    "lon": 76.395109,
+    "distance_m": 539
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.7474934,
+    "lon": 76.4019881,
+    "distance_m": 1321
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 9.7507837,
+    "lon": 76.4059965,
+    "distance_m": 1730
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.5908182,
+    "lon": 76.51172,
+    "distance_m": 847
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5902108,
+    "lon": 76.5156101,
+    "distance_m": 971
+  },
+  {
+    "name": "ATM",
+    "operator": "city union bank ATM",
+    "lat": 9.5892942,
+    "lon": 76.5180102,
+    "distance_m": 1088
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.5758725,
+    "lon": 76.5199803,
+    "distance_m": 1365
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5889637,
+    "lon": 76.5218784,
+    "distance_m": 1432
+  },
+  {
+    "name": "ATM",
+    "operator": "indian overseas bank atm",
+    "lat": 9.5910148,
+    "lon": 76.5210942,
+    "distance_m": 1474
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Bank",
+    "lat": 9.5896438,
+    "lon": 76.5225548,
+    "distance_m": 1532
+  },
+  {
+    "name": "ATM",
+    "operator": "Indus Bank",
+    "lat": 9.5952669,
+    "lon": 76.5172959,
+    "distance_m": 1540
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.596907,
+    "lon": 76.5021946,
+    "distance_m": 1738
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5984068,
+    "lon": 76.5172816,
+    "distance_m": 1848
+  }
+]

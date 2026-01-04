@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "",
+    "lat": 12.8171159,
+    "lon": 74.921266,
+    "distance_m": 207
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 12.8066745,
+    "lon": 74.9136942,
+    "distance_m": 1520
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 12.8103,
+    "lon": 74.9454,
+    "distance_m": 2517
+  }
+]

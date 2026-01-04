@@ -1,0 +1,51 @@
+[
+  {
+    "name": "ATM",
+    "operator": "CANARA BANK ATM",
+    "lat": 10.5358547,
+    "lon": 76.2623067,
+    "distance_m": 52
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.5334007,
+    "lon": 76.26232,
+    "distance_m": 283
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 10.5289417,
+    "lon": 76.2557581,
+    "distance_m": 1020
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.5247245,
+    "lon": 76.2520427,
+    "distance_m": 1640
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.5239151,
+    "lon": 76.2509479,
+    "distance_m": 1787
+  },
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "Canara Bank",
+    "lat": 10.5108443,
+    "lon": 76.25888,
+    "distance_m": 2805
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank of India",
+    "lat": 10.5105577,
+    "lon": 76.258211,
+    "distance_m": 2846
+  }
+]

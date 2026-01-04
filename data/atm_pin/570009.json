@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of Mysore",
+    "operator": "",
+    "lat": 12.3015403,
+    "lon": 76.6303301,
+    "distance_m": 158
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.3003383,
+    "lon": 76.6298108,
+    "distance_m": 301
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 12.2964459,
+    "lon": 76.6303417,
+    "distance_m": 703
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.2964656,
+    "lon": 76.6292137,
+    "distance_m": 726
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 12.2964703,
+    "lon": 76.6291621,
+    "distance_m": 727
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.298395,
+    "lon": 76.626095,
+    "distance_m": 729
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 12.2998304,
+    "lon": 76.6244292,
+    "distance_m": 796
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of Mysore",
+    "lat": 12.2961656,
+    "lon": 76.6275156,
+    "distance_m": 828
+  },
+  {
+    "name": "State Bank of Mysore",
+    "operator": "",
+    "lat": 12.3020732,
+    "lon": 76.6221977,
+    "distance_m": 974
+  },
+  {
+    "name": "ATM",
+    "operator": "arnataka Bank",
+    "lat": 12.2968219,
+    "lon": 76.6414461,
+    "distance_m": 1297
+  }
+]

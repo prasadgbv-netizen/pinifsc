@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.0029967,
+    "lon": 75.7872263,
+    "distance_m": 388
+  },
+  {
+    "name": "ATM",
+    "operator": "AU Small Finance Bank ATm",
+    "lat": 28.0006623,
+    "lon": 75.7881758,
+    "distance_m": 396
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.9956685,
+    "lon": 75.7880853,
+    "distance_m": 690
+  }
+]

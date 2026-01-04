@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584099,
+    "lon": 72.8986662,
+    "distance_m": 197
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0584202,
+    "lon": 72.8986786,
+    "distance_m": 198
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.0587342,
+    "lon": 72.8987021,
+    "distance_m": 233
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 19.0542623,
+    "lon": 72.900267,
+    "distance_m": 345
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.0540362,
+    "lon": 72.9002287,
+    "distance_m": 363
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 19.0534789,
+    "lon": 72.8961777,
+    "distance_m": 416
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 19.0536333,
+    "lon": 72.8955957,
+    "distance_m": 437
+  },
+  {
+    "name": "Saraswat Co-op Bank Ltd",
+    "operator": "",
+    "lat": 19.0520442,
+    "lon": 72.9001958,
+    "distance_m": 556
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 19.0664226,
+    "lon": 72.9048599,
+    "distance_m": 1287
+  },
+  {
+    "name": "State Bamk ATM Chheda Nagar",
+    "operator": "State Bank of India",
+    "lat": 19.0664637,
+    "lon": 72.9048132,
+    "distance_m": 1289
+  }
+]

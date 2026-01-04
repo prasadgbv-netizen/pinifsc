@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ESAF Small Finance Bank",
+    "lat": 9.3930805,
+    "lon": 76.5718388,
+    "distance_m": 397
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 9.3871805,
+    "lon": 76.5752636,
+    "distance_m": 657
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 9.3978279,
+    "lon": 76.566708,
+    "distance_m": 942
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM",
+    "lat": 9.3926248,
+    "lon": 76.5783466,
+    "distance_m": 961
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.3815377,
+    "lon": 76.5723973,
+    "distance_m": 977
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3812489,
+    "lon": 76.5714252,
+    "distance_m": 985
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.3983644,
+    "lon": 76.5658237,
+    "distance_m": 1036
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3802678,
+    "lon": 76.5701837,
+    "distance_m": 1082
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3801803,
+    "lon": 76.5704219,
+    "distance_m": 1092
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.3799861,
+    "lon": 76.5702001,
+    "distance_m": 1113
+  }
+]

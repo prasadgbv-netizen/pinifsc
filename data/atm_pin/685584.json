@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.8930716,
+    "lon": 76.7083001,
+    "distance_m": 442
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.893662,
+    "lon": 76.7092542,
+    "distance_m": 459
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.8934325,
+    "lon": 76.7149046,
+    "distance_m": 1015
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 9.9088434,
+    "lon": 76.7021824,
+    "distance_m": 1446
+  },
+  {
+    "name": "State Bank Of India ATM, SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 9.8867585,
+    "lon": 76.6968178,
+    "distance_m": 1484
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9113121,
+    "lon": 76.6992899,
+    "distance_m": 1816
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9013058,
+    "lon": 76.7240975,
+    "distance_m": 2039
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 9.9135671,
+    "lon": 76.69436,
+    "distance_m": 2301
+  },
+  {
+    "name": "State Bank Of India",
+    "operator": "",
+    "lat": 9.9188716,
+    "lon": 76.7195511,
+    "distance_m": 2894
+  }
+]

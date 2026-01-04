@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 26.9893014,
+    "lon": 75.7732095,
+    "distance_m": 1209
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 26.9703671,
+    "lon": 75.7605239,
+    "distance_m": 1688
+  }
+]

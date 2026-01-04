@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 18.5497509,
+    "lon": 73.9413781,
+    "distance_m": 1842
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 18.533798,
+    "lon": 73.9300422,
+    "distance_m": 1925
+  },
+  {
+    "name": "Yes Bank",
+    "operator": "Yes Bank",
+    "lat": 18.518568,
+    "lon": 73.936825,
+    "distance_m": 2147
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5531267,
+    "lon": 73.9369377,
+    "distance_m": 2388
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 18.5571717,
+    "lon": 73.9521101,
+    "distance_m": 2549
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5540714,
+    "lon": 73.9355132,
+    "distance_m": 2556
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5540399,
+    "lon": 73.9353365,
+    "distance_m": 2563
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 18.5593908,
+    "lon": 73.9385849,
+    "distance_m": 2947
+  }
+]

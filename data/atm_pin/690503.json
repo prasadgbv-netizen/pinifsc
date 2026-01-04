@@ -1,0 +1,23 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.1778879,
+    "lon": 76.5456444,
+    "distance_m": 1057
+  },
+  {
+    "name": "ATM",
+    "operator": "Soth Indian Bank",
+    "lat": 9.1766498,
+    "lon": 76.562764,
+    "distance_m": 2220
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank ATM",
+    "lat": 9.1766646,
+    "lon": 76.5629211,
+    "distance_m": 2234
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.5193824,
+    "lon": 88.3852049,
+    "distance_m": 207
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 22.5149164,
+    "lon": 88.3898205,
+    "distance_m": 698
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5286153,
+    "lon": 88.3755256,
+    "distance_m": 1461
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 22.5130031,
+    "lon": 88.4052192,
+    "distance_m": 2260
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.5130006,
+    "lon": 88.4052502,
+    "distance_m": 2263
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 22.5341697,
+    "lon": 88.3649089,
+    "distance_m": 2653
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.5347593,
+    "lon": 88.3650167,
+    "distance_m": 2690
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.5350978,
+    "lon": 88.3651556,
+    "distance_m": 2706
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank ATM",
+    "lat": 22.4966809,
+    "lon": 88.36687,
+    "distance_m": 2942
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank ATM",
+    "lat": 22.4964668,
+    "lon": 88.3668788,
+    "distance_m": 2961
+  }
+]

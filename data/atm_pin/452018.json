@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7188582,
+    "lon": 75.8970409,
+    "distance_m": 164
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 22.7190363,
+    "lon": 75.8961986,
+    "distance_m": 168
+  },
+  {
+    "name": "ATM",
+    "operator": "Induslnd Bank",
+    "lat": 22.7189943,
+    "lon": 75.8969604,
+    "distance_m": 175
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 22.7189176,
+    "lon": 75.8989345,
+    "distance_m": 308
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 22.7189738,
+    "lon": 75.8990693,
+    "distance_m": 323
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 22.7189726,
+    "lon": 75.8991015,
+    "distance_m": 326
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7149682,
+    "lon": 75.8943607,
+    "distance_m": 349
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 22.7149694,
+    "lon": 75.8941823,
+    "distance_m": 360
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 22.721347,
+    "lon": 75.8974888,
+    "distance_m": 440
+  },
+  {
+    "name": "ATM",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 22.7196035,
+    "lon": 75.9000134,
+    "distance_m": 442
+  }
+]

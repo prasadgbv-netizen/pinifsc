@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.060851,
+    "lon": 72.8508145,
+    "distance_m": 333
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0607205,
+    "lon": 72.8442959,
+    "distance_m": 382
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 19.0606672,
+    "lon": 72.8442583,
+    "distance_m": 387
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 19.0606386,
+    "lon": 72.8442446,
+    "distance_m": 389
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 19.0605089,
+    "lon": 72.8517486,
+    "distance_m": 438
+  },
+  {
+    "name": "Hitachi Money Spot ATM",
+    "operator": "",
+    "lat": 19.0547009,
+    "lon": 72.8402018,
+    "distance_m": 1114
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 19.0679935,
+    "lon": 72.8380235,
+    "distance_m": 1239
+  },
+  {
+    "name": "Saraswat Bank",
+    "operator": "Saraswat Bank",
+    "lat": 19.0555186,
+    "lon": 72.8371884,
+    "distance_m": 1308
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0612447,
+    "lon": 72.8352831,
+    "distance_m": 1313
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 19.0616291,
+    "lon": 72.8352673,
+    "distance_m": 1314
+  }
+]

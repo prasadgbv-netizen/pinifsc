@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.069449,
+    "lon": 80.2554789,
+    "distance_m": 426
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank",
+    "lat": 13.0602416,
+    "lon": 80.2602547,
+    "distance_m": 731
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 13.0644175,
+    "lon": 80.2489591,
+    "distance_m": 837
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0741156,
+    "lon": 80.2619955,
+    "distance_m": 1099
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.0744128,
+    "lon": 80.2622478,
+    "distance_m": 1142
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 13.0744747,
+    "lon": 80.2627557,
+    "distance_m": 1178
+  },
+  {
+    "name": "Kotak Mahindra Bank",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 13.0551653,
+    "lon": 80.2577916,
+    "distance_m": 1185
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 13.0551257,
+    "lon": 80.2577775,
+    "distance_m": 1189
+  },
+  {
+    "name": "Punjab Bank",
+    "operator": "",
+    "lat": 13.0555789,
+    "lon": 80.2490116,
+    "distance_m": 1396
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 13.0616316,
+    "lon": 80.2442655,
+    "distance_m": 1409
+  }
+]

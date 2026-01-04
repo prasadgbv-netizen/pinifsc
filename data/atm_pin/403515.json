@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5189997,
+    "lon": 73.7674142,
+    "distance_m": 59
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5194672,
+    "lon": 73.7676208,
+    "distance_m": 89
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5194783,
+    "lon": 73.7673722,
+    "distance_m": 101
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 15.5194554,
+    "lon": 73.7672452,
+    "distance_m": 107
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5205601,
+    "lon": 73.7671403,
+    "distance_m": 220
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5151576,
+    "lon": 73.7685346,
+    "distance_m": 400
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.5150275,
+    "lon": 73.7685271,
+    "distance_m": 414
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI",
+    "lat": 15.524132,
+    "lon": 73.766537,
+    "distance_m": 620
+  },
+  {
+    "name": "State Bank",
+    "operator": "",
+    "lat": 15.5115963,
+    "lon": 73.7692974,
+    "distance_m": 804
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 15.5115039,
+    "lon": 73.7688859,
+    "distance_m": 807
+  }
+]

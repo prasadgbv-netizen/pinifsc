@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 9.5909259,
+    "lon": 76.5327057,
+    "distance_m": 373
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI bank kottayam",
+    "lat": 9.5921634,
+    "lon": 76.5320155,
+    "distance_m": 375
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 9.5909089,
+    "lon": 76.532486,
+    "distance_m": 393
+  },
+  {
+    "name": "Punjab national bank ATM",
+    "operator": "",
+    "lat": 9.5912992,
+    "lon": 76.53201,
+    "distance_m": 413
+  },
+  {
+    "name": "ATM",
+    "operator": "canara bank ATM",
+    "lat": 9.594262,
+    "lon": 76.5317061,
+    "distance_m": 415
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5946542,
+    "lon": 76.5312962,
+    "distance_m": 472
+  },
+  {
+    "name": "Karnataka bank ATM",
+    "operator": "",
+    "lat": 9.5948991,
+    "lon": 76.5296227,
+    "distance_m": 655
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank",
+    "lat": 9.5995485,
+    "lon": 76.5295595,
+    "distance_m": 955
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.5892829,
+    "lon": 76.5271541,
+    "distance_m": 989
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank AtM",
+    "lat": 9.5873295,
+    "lon": 76.5431975,
+    "distance_m": 1076
+  }
+]

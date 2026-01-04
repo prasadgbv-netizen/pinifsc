@@ -1,0 +1,37 @@
+[
+  {
+    "name": "State Bank of India, Niphad ATM",
+    "operator": "State Bank of India",
+    "lat": 20.0762777,
+    "lon": 74.1102444,
+    "distance_m": 429
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 20.0758182,
+    "lon": 74.1104084,
+    "distance_m": 481
+  },
+  {
+    "name": "HDFC Bank ATM, Niphad",
+    "operator": "HDFC Bank",
+    "lat": 20.0751843,
+    "lon": 74.1146161,
+    "distance_m": 742
+  },
+  {
+    "name": "Bank Of India ATM, Niphad",
+    "operator": "Bank of India",
+    "lat": 20.0751726,
+    "lon": 74.1147188,
+    "distance_m": 751
+  },
+  {
+    "name": "ATM",
+    "operator": "IDFC First Bank",
+    "lat": 20.075498,
+    "lon": 74.1166716,
+    "distance_m": 881
+  }
+]

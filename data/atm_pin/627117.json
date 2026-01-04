@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 8.3866215,
+    "lon": 77.6092711,
+    "distance_m": 1064
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 8.3870832,
+    "lon": 77.6091966,
+    "distance_m": 1077
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 8.3881029,
+    "lon": 77.6091831,
+    "distance_m": 1097
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 8.390262,
+    "lon": 77.6096623,
+    "distance_m": 1123
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 8.3896483,
+    "lon": 77.6091744,
+    "distance_m": 1146
+  }
+]

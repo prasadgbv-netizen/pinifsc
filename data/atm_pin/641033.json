@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0012615,
+    "lon": 77.0323044,
+    "distance_m": 1175
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara",
+    "lat": 11.001921,
+    "lon": 77.0283994,
+    "distance_m": 1330
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0096292,
+    "lon": 77.0238146,
+    "distance_m": 1360
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.0157574,
+    "lon": 77.0234625,
+    "distance_m": 1481
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0158676,
+    "lon": 77.0234463,
+    "distance_m": 1487
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 11.0162413,
+    "lon": 77.0233743,
+    "distance_m": 1510
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.0142031,
+    "lon": 77.0187599,
+    "distance_m": 1933
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 11.0200283,
+    "lon": 77.0187192,
+    "distance_m": 2148
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 11.027443,
+    "lon": 77.0235527,
+    "distance_m": 2279
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.0311453,
+    "lon": 77.0287044,
+    "distance_m": 2371
+  }
+]

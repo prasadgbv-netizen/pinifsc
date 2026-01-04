@@ -1,0 +1,16 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.9440432,
+    "lon": 76.9533024,
+    "distance_m": 2068
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 10.9438828,
+    "lon": 76.9532082,
+    "distance_m": 2075
+  }
+]

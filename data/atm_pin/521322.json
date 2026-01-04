@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Union bank",
+    "operator": "Andhra Bank",
+    "lat": 16.4224941,
+    "lon": 81.0018134,
+    "distance_m": 1196
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 16.4339415,
+    "lon": 80.9971707,
+    "distance_m": 2375
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur vysya bank",
+    "lat": 16.434334,
+    "lon": 80.9928373,
+    "distance_m": 2468
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahendra Bank",
+    "lat": 13.6226626,
+    "lon": 79.430315,
+    "distance_m": 653
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 13.6185332,
+    "lon": 79.4302523,
+    "distance_m": 994
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of india",
+    "lat": 13.6170631,
+    "lon": 79.4342977,
+    "distance_m": 1002
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank",
+    "lat": 13.6169893,
+    "lon": 79.4343587,
+    "distance_m": 1009
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI",
+    "lat": 13.6169053,
+    "lon": 79.4344291,
+    "distance_m": 1018
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 13.6289556,
+    "lon": 79.4260015,
+    "distance_m": 1053
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 13.6290019,
+    "lon": 79.4260102,
+    "distance_m": 1054
+  },
+  {
+    "name": "ATM",
+    "operator": "DCC Bank",
+    "lat": 13.6289253,
+    "lon": 79.425975,
+    "distance_m": 1055
+  },
+  {
+    "name": "ATM",
+    "operator": "Hitachi",
+    "lat": 13.6290789,
+    "lon": 79.4259987,
+    "distance_m": 1058
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank",
+    "lat": 13.6292939,
+    "lon": 79.4260631,
+    "distance_m": 1059
+  }
+]

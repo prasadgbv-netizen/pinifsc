@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Syndicate Bank ATM",
+    "operator": "Syndicate Bank",
+    "lat": 10.9133222,
+    "lon": 75.9189419,
+    "distance_m": 2243
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of Travancore ATM",
+    "lat": 10.9175003,
+    "lon": 75.9218914,
+    "distance_m": 2250
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India ATM",
+    "lat": 10.912721,
+    "lon": 75.9191443,
+    "distance_m": 2304
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 10.9123435,
+    "lon": 75.919118,
+    "distance_m": 2330
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 10.9138674,
+    "lon": 75.9213023,
+    "distance_m": 2406
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.9087505,
+    "lon": 75.9181926,
+    "distance_m": 2554
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO BANK ATM",
+    "lat": 10.9183603,
+    "lon": 75.926082,
+    "distance_m": 2631
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank ATM",
+    "lat": 10.9173586,
+    "lon": 75.9258959,
+    "distance_m": 2653
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 10.9085246,
+    "lon": 75.9204376,
+    "distance_m": 2733
+  }
+]

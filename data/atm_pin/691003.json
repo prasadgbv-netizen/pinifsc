@@ -1,0 +1,23 @@
+[
+  {
+    "name": "indus ind bank atm",
+    "operator": "",
+    "lat": 8.9222112,
+    "lon": 76.5582356,
+    "distance_m": 1371
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 8.8930877,
+    "lon": 76.5761964,
+    "distance_m": 2588
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank",
+    "lat": 8.8930559,
+    "lon": 76.5763278,
+    "distance_m": 2601
+  }
+]

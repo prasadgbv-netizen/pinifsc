@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 15.4420048,
+    "lon": 73.8806426,
+    "distance_m": 135
+  },
+  {
+    "name": "ATM",
+    "operator": "Dena Bank",
+    "lat": 15.441788,
+    "lon": 73.88094,
+    "distance_m": 147
+  },
+  {
+    "name": "ATM",
+    "operator": "Ing Vysya Bank",
+    "lat": 15.443778,
+    "lon": 73.88601,
+    "distance_m": 518
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 15.430097,
+    "lon": 73.89759,
+    "distance_m": 2272
+  },
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 15.426631,
+    "lon": 73.898428,
+    "distance_m": 2598
+  }
+]

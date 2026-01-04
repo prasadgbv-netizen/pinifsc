@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ESAF Bank ATM",
+    "lat": 11.042434,
+    "lon": 75.9016609,
+    "distance_m": 1119
+  },
+  {
+    "name": "Federal Bank ATM/CDM",
+    "operator": "",
+    "lat": 11.0431001,
+    "lon": 75.9083508,
+    "distance_m": 1826
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 11.0431168,
+    "lon": 75.9143318,
+    "distance_m": 2476
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "",
+    "lat": 11.0434003,
+    "lon": 75.9156424,
+    "distance_m": 2616
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 11.0436629,
+    "lon": 75.9167446,
+    "distance_m": 2734
+  },
+  {
+    "name": "ICICI Tirurangadi Branch",
+    "operator": "",
+    "lat": 11.0436985,
+    "lon": 75.9167774,
+    "distance_m": 2738
+  }
+]

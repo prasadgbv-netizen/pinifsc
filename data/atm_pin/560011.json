@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9300273,
+    "lon": 77.5842892,
+    "distance_m": 96
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 12.93021,
+    "lon": 77.5850977,
+    "distance_m": 171
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9309141,
+    "lon": 77.5850854,
+    "distance_m": 173
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 12.9288008,
+    "lon": 77.5829059,
+    "distance_m": 201
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 12.9287707,
+    "lon": 77.5824139,
+    "distance_m": 228
+  },
+  {
+    "name": "Karnataka Bank",
+    "operator": "Karnataka Bank",
+    "lat": 12.9284692,
+    "lon": 77.5839834,
+    "distance_m": 231
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 12.9297035,
+    "lon": 77.5859202,
+    "distance_m": 272
+  },
+  {
+    "name": "Standard Chartered",
+    "operator": "Standard Chartered",
+    "lat": 12.9330476,
+    "lon": 77.5822333,
+    "distance_m": 316
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9342558,
+    "lon": 77.5841423,
+    "distance_m": 422
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 12.930445,
+    "lon": 77.5896349,
+    "distance_m": 660
+  }
+]

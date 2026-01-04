@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 11.9429217,
+    "lon": 79.495706,
+    "distance_m": 278
+  },
+  {
+    "name": "ATM",
+    "operator": "punjab bank atm",
+    "lat": 11.9426651,
+    "lon": 79.4956266,
+    "distance_m": 305
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.9409732,
+    "lon": 79.496361,
+    "distance_m": 505
+  },
+  {
+    "name": "ATM",
+    "operator": "state bank ATM",
+    "lat": 11.9408977,
+    "lon": 79.4934158,
+    "distance_m": 537
+  },
+  {
+    "name": "ATM",
+    "operator": "coporation bank atm",
+    "lat": 11.9455359,
+    "lon": 79.4899323,
+    "distance_m": 578
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank ATM",
+    "lat": 11.9405468,
+    "lon": 79.4930757,
+    "distance_m": 588
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 11.9403471,
+    "lon": 79.4973977,
+    "distance_m": 607
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.9402076,
+    "lon": 79.4975738,
+    "distance_m": 629
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 11.9397353,
+    "lon": 79.4930134,
+    "distance_m": 674
+  },
+  {
+    "name": "India1",
+    "operator": "India1 Payments",
+    "lat": 11.9395631,
+    "lon": 79.4982908,
+    "distance_m": 727
+  }
+]

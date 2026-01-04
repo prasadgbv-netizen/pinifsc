@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IOB ATM",
+    "lat": 9.2440623,
+    "lon": 76.5199519,
+    "distance_m": 900
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.2310295,
+    "lon": 76.5181254,
+    "distance_m": 1022
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.2266672,
+    "lon": 76.5170359,
+    "distance_m": 1427
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 9.2506497,
+    "lon": 76.521397,
+    "distance_m": 1554
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 9.250959,
+    "lon": 76.5214415,
+    "distance_m": 1586
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.2491884,
+    "lon": 76.5360742,
+    "distance_m": 2720
+  },
+  {
+    "name": "ATM",
+    "operator": "CSB Bank",
+    "lat": 9.2499533,
+    "lon": 76.5378938,
+    "distance_m": 2937
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 9.2499597,
+    "lon": 76.5379446,
+    "distance_m": 2943
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.2247454,
+    "lon": 76.5366104,
+    "distance_m": 2990
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "yes bank",
+    "operator": "Yes Bank",
+    "lat": 25.7592959,
+    "lon": 75.3800626,
+    "distance_m": 72
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 25.7583644,
+    "lon": 75.3788789,
+    "distance_m": 229
+  },
+  {
+    "name": "sbi bank",
+    "operator": "State Bank of India",
+    "lat": 25.7574703,
+    "lon": 75.3807595,
+    "distance_m": 259
+  }
+]

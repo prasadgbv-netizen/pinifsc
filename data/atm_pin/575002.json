@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Karnataka Bank ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.8523741,
+    "lon": 74.8517609,
+    "distance_m": 231
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 12.8523827,
+    "lon": 74.8507996,
+    "distance_m": 322
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "SBI",
+    "lat": 12.8498383,
+    "lon": 74.8486176,
+    "distance_m": 673
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "HDFC Bank",
+    "lat": 12.8498402,
+    "lon": 74.8485641,
+    "distance_m": 678
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "Corporation Bank",
+    "lat": 12.8498068,
+    "lon": 74.8482437,
+    "distance_m": 708
+  },
+  {
+    "name": "Oriental Bank ATM",
+    "operator": "Oriental Bank",
+    "lat": 12.8594027,
+    "lon": 74.8484192,
+    "distance_m": 854
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 12.8493223,
+    "lon": 74.8465347,
+    "distance_m": 892
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 12.84656,
+    "lon": 74.84575,
+    "distance_m": 1146
+  },
+  {
+    "name": "HDFC Bank ATM",
+    "operator": "",
+    "lat": 12.8641491,
+    "lon": 74.8580551,
+    "distance_m": 1276
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 12.8637468,
+    "lon": 74.8470999,
+    "distance_m": 1330
+  }
+]

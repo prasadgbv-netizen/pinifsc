@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union bank",
+    "lat": 17.4040197,
+    "lon": 78.5632497,
+    "distance_m": 206
+  },
+  {
+    "name": "HDFC ATM",
+    "operator": "HDFC Bank",
+    "lat": 17.404037,
+    "lon": 78.5632523,
+    "distance_m": 207
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 17.405147,
+    "lon": 78.5635784,
+    "distance_m": 312
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 17.401143,
+    "lon": 78.5663173,
+    "distance_m": 549
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 17.3981243,
+    "lon": 78.5603753,
+    "distance_m": 567
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 17.4016054,
+    "lon": 78.5670768,
+    "distance_m": 608
+  },
+  {
+    "name": "Indusland",
+    "operator": "Indusland bank",
+    "lat": 17.3962169,
+    "lon": 78.5597213,
+    "distance_m": 789
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4066701,
+    "lon": 78.5550629,
+    "distance_m": 795
+  },
+  {
+    "name": "Laxmi Vilas Bank ATM",
+    "operator": "",
+    "lat": 17.4012477,
+    "lon": 78.5689455,
+    "distance_m": 810
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 17.4012535,
+    "lon": 78.5689905,
+    "distance_m": 814
+  }
+]

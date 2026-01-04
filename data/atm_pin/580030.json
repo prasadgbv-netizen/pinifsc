@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 15.3503146,
+    "lon": 75.1097505,
+    "distance_m": 1912
+  },
+  {
+    "name": "State Bank of India Atm",
+    "operator": "",
+    "lat": 15.3506278,
+    "lon": 75.1120287,
+    "distance_m": 2130
+  }
+]

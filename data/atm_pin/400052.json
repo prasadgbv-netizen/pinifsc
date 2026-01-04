@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Bharat Bank",
+    "lat": 19.0650358,
+    "lon": 72.8316255,
+    "distance_m": 365
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 19.0685157,
+    "lon": 72.8371172,
+    "distance_m": 405
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 19.0616291,
+    "lon": 72.8352673,
+    "distance_m": 421
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 19.0679935,
+    "lon": 72.8380235,
+    "distance_m": 421
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 19.0616033,
+    "lon": 72.8345547,
+    "distance_m": 427
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 19.0649866,
+    "lon": 72.8308509,
+    "distance_m": 447
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 19.0612447,
+    "lon": 72.8352831,
+    "distance_m": 464
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 19.0656817,
+    "lon": 72.8299714,
+    "distance_m": 538
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 19.0603135,
+    "lon": 72.8351774,
+    "distance_m": 567
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 19.0615907,
+    "lon": 72.8296932,
+    "distance_m": 708
+  }
+]

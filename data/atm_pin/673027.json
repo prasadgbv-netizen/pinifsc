@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kozhikode District Co-operative Bank",
+    "lat": 11.2311847,
+    "lon": 75.8170493,
+    "distance_m": 1328
+  },
+  {
+    "name": "Federal Bank ATM",
+    "operator": "Federal Bank",
+    "lat": 11.2336524,
+    "lon": 75.8031331,
+    "distance_m": 2327
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 11.2365343,
+    "lon": 75.8040784,
+    "distance_m": 2489
+  },
+  {
+    "name": "ATM",
+    "operator": "vijaya bank",
+    "lat": 11.2366559,
+    "lon": 75.8034971,
+    "distance_m": 2541
+  },
+  {
+    "name": "ATM",
+    "operator": "atm",
+    "lat": 11.2383664,
+    "lon": 75.8048468,
+    "distance_m": 2599
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 11.1980418,
+    "lon": 75.8027813,
+    "distance_m": 2938
+  }
+]

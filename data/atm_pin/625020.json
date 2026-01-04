@@ -1,0 +1,72 @@
+[
+  {
+    "name": "CANARA BANK ATM",
+    "operator": "",
+    "lat": 9.9364709,
+    "lon": 78.142795,
+    "distance_m": 185
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Bank",
+    "lat": 9.9351082,
+    "lon": 78.1498441,
+    "distance_m": 852
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.9314575,
+    "lon": 78.1486829,
+    "distance_m": 991
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.930474,
+    "lon": 78.1486467,
+    "distance_m": 1073
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9304944,
+    "lon": 78.1487908,
+    "distance_m": 1080
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamilnad Mercantile Bank Limited",
+    "lat": 9.9293475,
+    "lon": 78.148891,
+    "distance_m": 1190
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 9.9279638,
+    "lon": 78.1484688,
+    "distance_m": 1296
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 9.9278597,
+    "lon": 78.148729,
+    "distance_m": 1320
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 9.9252533,
+    "lon": 78.1486082,
+    "distance_m": 1572
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 9.923899,
+    "lon": 78.1488484,
+    "distance_m": 1720
+  }
+]

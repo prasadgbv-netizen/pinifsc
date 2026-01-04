@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 9.2159249,
+    "lon": 76.4614589,
+    "distance_m": 1845
+  },
+  {
+    "name": "Kerala Gramin Bank",
+    "operator": "Kerala Gramin Bank",
+    "lat": 9.2190701,
+    "lon": 76.4610131,
+    "distance_m": 1988
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 28.587482,
+    "lon": 77.312688,
+    "distance_m": 978
+  },
+  {
+    "name": "CitiBank",
+    "operator": "Citibank",
+    "lat": 28.5815718,
+    "lon": 77.3240838,
+    "distance_m": 1091
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 28.5815491,
+    "lon": 77.3241524,
+    "distance_m": 1096
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.5711483,
+    "lon": 77.3242996,
+    "distance_m": 1355
+  },
+  {
+    "name": "ATM",
+    "operator": "Western Union",
+    "lat": 28.5709223,
+    "lon": 77.324286,
+    "distance_m": 1370
+  },
+  {
+    "name": "Union Bank of India",
+    "operator": "Union Bank of India",
+    "lat": 28.5707919,
+    "lon": 77.3251499,
+    "distance_m": 1445
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 28.5672853,
+    "lon": 77.3209017,
+    "distance_m": 1465
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 28.5672853,
+    "lon": 77.3209017,
+    "distance_m": 1465
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 28.5690258,
+    "lon": 77.3245896,
+    "distance_m": 1533
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5889241,
+    "lon": 77.3017464,
+    "distance_m": 1608
+  }
+]

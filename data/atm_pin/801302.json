@@ -1,0 +1,16 @@
+[
+  {
+    "name": "SBI Bank And ATM",
+    "operator": "State Bank of India",
+    "lat": 25.3123939,
+    "lon": 85.2799807,
+    "distance_m": 2324
+  },
+  {
+    "name": "Canara Bank ATM",
+    "operator": "Canara Bank",
+    "lat": 25.3187266,
+    "lon": 85.2797376,
+    "distance_m": 2428
+  }
+]

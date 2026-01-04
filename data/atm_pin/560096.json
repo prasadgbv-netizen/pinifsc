@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0092756,
+    "lon": 77.5375966,
+    "distance_m": 303
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC ATM",
+    "lat": 13.0154424,
+    "lon": 77.5336289,
+    "distance_m": 508
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI ATM",
+    "lat": 13.0162263,
+    "lon": 77.5338798,
+    "distance_m": 575
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0144425,
+    "lon": 77.5429328,
+    "distance_m": 834
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 13.0086858,
+    "lon": 77.5434159,
+    "distance_m": 871
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "",
+    "lat": 13.0165915,
+    "lon": 77.5296753,
+    "distance_m": 883
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 13.0153525,
+    "lon": 77.5440212,
+    "distance_m": 984
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0170171,
+    "lon": 77.5434268,
+    "distance_m": 1027
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0003344,
+    "lon": 77.5342458,
+    "distance_m": 1245
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 13.008043,
+    "lon": 77.548444,
+    "distance_m": 1412
+  }
+]

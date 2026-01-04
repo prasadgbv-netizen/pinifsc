@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Dhanalaxmi",
+    "lat": 9.5634048,
+    "lon": 76.7613313,
+    "distance_m": 531
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.5636344,
+    "lon": 76.7608247,
+    "distance_m": 578
+  },
+  {
+    "name": "State Bank of India ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5628276,
+    "lon": 76.7594174,
+    "distance_m": 750
+  },
+  {
+    "name": "State Bank of Travancore ATM",
+    "operator": "State Bank of Travancore",
+    "lat": 9.5655504,
+    "lon": 76.7539319,
+    "distance_m": 1320
+  },
+  {
+    "name": "Canara Bank Atm",
+    "operator": "Canara Bank",
+    "lat": 9.566862,
+    "lon": 76.7540192,
+    "distance_m": 1327
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.5549223,
+    "lon": 76.7849957,
+    "distance_m": 2361
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.5580973,
+    "lon": 76.7881929,
+    "distance_m": 2551
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.5579274,
+    "lon": 76.7883938,
+    "distance_m": 2578
+  },
+  {
+    "name": "ATM",
+    "operator": "India Post",
+    "lat": 9.555384,
+    "lon": 76.7903606,
+    "distance_m": 2875
+  },
+  {
+    "name": "ATM",
+    "operator": "Corporation Bank",
+    "lat": 9.5555367,
+    "lon": 76.7910633,
+    "distance_m": 2941
+  }
+]

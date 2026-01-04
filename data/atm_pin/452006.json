@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.723797,
+    "lon": 75.846272,
+    "distance_m": 288
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7227678,
+    "lon": 75.8457892,
+    "distance_m": 396
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 22.7226965,
+    "lon": 75.8469884,
+    "distance_m": 425
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 22.7229064,
+    "lon": 75.8482837,
+    "distance_m": 464
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7226268,
+    "lon": 75.8489167,
+    "distance_m": 528
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7268981,
+    "lon": 75.8403906,
+    "distance_m": 547
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7213972,
+    "lon": 75.8477097,
+    "distance_m": 586
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 22.7214504,
+    "lon": 75.8479457,
+    "distance_m": 590
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 22.7320748,
+    "lon": 75.8465624,
+    "distance_m": 644
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 22.7271894,
+    "lon": 75.8520428,
+    "distance_m": 658
+  }
+]

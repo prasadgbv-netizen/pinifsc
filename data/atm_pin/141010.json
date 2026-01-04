@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis",
+    "lat": 30.8945997,
+    "lon": 75.9230951,
+    "distance_m": 1800
+  },
+  {
+    "name": "ATM",
+    "operator": "punjab national bank",
+    "lat": 30.9018604,
+    "lon": 75.9091575,
+    "distance_m": 2016
+  }
+]

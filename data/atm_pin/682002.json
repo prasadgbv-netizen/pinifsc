@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9566116,
+    "lon": 76.2578641,
+    "distance_m": 300
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9638886,
+    "lon": 76.2544245,
+    "distance_m": 678
+  },
+  {
+    "name": "ATM",
+    "operator": "Dhanalakshmi Bank ATM",
+    "lat": 9.9638527,
+    "lon": 76.265011,
+    "distance_m": 882
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank ATM",
+    "lat": 9.9642309,
+    "lon": 76.2647826,
+    "distance_m": 888
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank ATM",
+    "lat": 9.9649159,
+    "lon": 76.2644566,
+    "distance_m": 911
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 9.9577441,
+    "lon": 76.2495007,
+    "distance_m": 993
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO Bank ATM",
+    "lat": 9.9624627,
+    "lon": 76.267773,
+    "distance_m": 1082
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank ATM",
+    "lat": 9.9664471,
+    "lon": 76.2659294,
+    "distance_m": 1145
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 9.9637605,
+    "lon": 76.2478922,
+    "distance_m": 1259
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 9.9462474,
+    "lon": 76.2560338,
+    "distance_m": 1469
+  }
+]

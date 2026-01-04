@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.9154388,
+    "lon": 78.0955319,
+    "distance_m": 2949
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.9154495,
+    "lon": 78.0955586,
+    "distance_m": 2952
+  },
+  {
+    "name": "ATM",
+    "operator": "Tamil Nadu Grama Bank",
+    "lat": 9.9154719,
+    "lon": 78.0955744,
+    "distance_m": 2955
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of Baroda",
+    "lat": 9.9156073,
+    "lon": 78.0958858,
+    "distance_m": 2987
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC",
+    "lat": 13.0564626,
+    "lon": 77.5068874,
+    "distance_m": 130
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 13.0529124,
+    "lon": 77.5076595,
+    "distance_m": 409
+  },
+  {
+    "name": "ATM",
+    "operator": "UCO bank",
+    "lat": 13.0599618,
+    "lon": 77.5063468,
+    "distance_m": 421
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara bank",
+    "lat": 13.0602756,
+    "lon": 77.5051478,
+    "distance_m": 520
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 13.0623983,
+    "lon": 77.5182099,
+    "distance_m": 1273
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 13.0482594,
+    "lon": 77.4996789,
+    "distance_m": 1297
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 13.0448529,
+    "lon": 77.5012583,
+    "distance_m": 1498
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.0717099,
+    "lon": 77.5115784,
+    "distance_m": 1725
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 13.07293,
+    "lon": 77.50575,
+    "distance_m": 1836
+  },
+  {
+    "name": "Axis Bank ATM",
+    "operator": "",
+    "lat": 13.0505946,
+    "lon": 77.4865551,
+    "distance_m": 2424
+  }
+]

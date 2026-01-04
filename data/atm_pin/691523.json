@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IndusInd ATM",
+    "lat": 9.1550038,
+    "lon": 76.7317278,
+    "distance_m": 246
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 9.1531059,
+    "lon": 76.732864,
+    "distance_m": 491
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 9.1532796,
+    "lon": 76.7339281,
+    "distance_m": 549
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 9.1585678,
+    "lon": 76.7252922,
+    "distance_m": 595
+  },
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank ATM",
+    "lat": 9.1533407,
+    "lon": 76.7351746,
+    "distance_m": 649
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank ATM",
+    "lat": 9.1528737,
+    "lon": 76.7349711,
+    "distance_m": 664
+  },
+  {
+    "name": "ATM",
+    "operator": "SOUTH INDIAN BANK",
+    "lat": 9.1523835,
+    "lon": 76.7354773,
+    "distance_m": 741
+  },
+  {
+    "name": "Money Muthoot atm",
+    "operator": "",
+    "lat": 9.1512478,
+    "lon": 76.7350776,
+    "distance_m": 802
+  },
+  {
+    "name": "ATM",
+    "operator": "Catholic Syrian Bank ATM",
+    "lat": 9.1513745,
+    "lon": 76.7352452,
+    "distance_m": 803
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 9.1522872,
+    "lon": 76.7393576,
+    "distance_m": 1102
+  }
+]

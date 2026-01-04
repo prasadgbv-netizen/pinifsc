@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SyndicateBank",
+    "lat": 30.3333482,
+    "lon": 78.012246,
+    "distance_m": 1804
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 30.3437833,
+    "lon": 77.9943811,
+    "distance_m": 1848
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.3390396,
+    "lon": 78.0200405,
+    "distance_m": 2753
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 30.3334462,
+    "lon": 78.0243669,
+    "distance_m": 2916
+  }
+]

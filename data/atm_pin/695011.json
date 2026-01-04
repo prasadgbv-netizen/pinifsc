@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.5388259,
+    "lon": 76.9259162,
+    "distance_m": 467
+  },
+  {
+    "name": "Federal",
+    "operator": "",
+    "lat": 8.5381626,
+    "lon": 76.9259219,
+    "distance_m": 492
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "",
+    "lat": 8.53805,
+    "lon": 76.9259627,
+    "distance_m": 494
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.539477,
+    "lon": 76.9253736,
+    "distance_m": 512
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5419391,
+    "lon": 76.9237176,
+    "distance_m": 723
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5429285,
+    "lon": 76.9230745,
+    "distance_m": 828
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5294387,
+    "lon": 76.9317838,
+    "distance_m": 1190
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.5289999,
+    "lon": 76.9288076,
+    "distance_m": 1230
+  },
+  {
+    "name": "Bank of Baroda ATM",
+    "operator": "Bank of Baroda",
+    "lat": 8.547807,
+    "lon": 76.921232,
+    "distance_m": 1297
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.528806,
+    "lon": 76.9343325,
+    "distance_m": 1332
+  }
+]

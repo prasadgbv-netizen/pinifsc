@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.1943885,
+    "lon": 72.9631705,
+    "distance_m": 1655
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 19.2007568,
+    "lon": 72.9772104,
+    "distance_m": 2209
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 19.2281072,
+    "lon": 72.9702764,
+    "distance_m": 2555
+  },
+  {
+    "name": "ICICI bank ATM",
+    "operator": "",
+    "lat": 19.2281154,
+    "lon": 72.9703466,
+    "distance_m": 2560
+  }
+]

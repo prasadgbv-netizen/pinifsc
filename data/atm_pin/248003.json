@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 30.3334462,
+    "lon": 78.0243669,
+    "distance_m": 611
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.3390396,
+    "lon": 78.0200405,
+    "distance_m": 1048
+  },
+  {
+    "name": "Punjab National Bank ATM",
+    "operator": "Punjab National Bank",
+    "lat": 30.3244942,
+    "lon": 78.041583,
+    "distance_m": 1648
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.3239018,
+    "lon": 78.0418717,
+    "distance_m": 1716
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 30.329612,
+    "lon": 78.0468802,
+    "distance_m": 1732
+  },
+  {
+    "name": "ATM",
+    "operator": "SyndicateBank",
+    "lat": 30.3333482,
+    "lon": 78.012246,
+    "distance_m": 1743
+  },
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "ICICI Bank",
+    "lat": 30.35289,
+    "lon": 78.0255528,
+    "distance_m": 1972
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 30.3508493,
+    "lon": 78.0184396,
+    "distance_m": 2037
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 30.3397404,
+    "lon": 78.0514396,
+    "distance_m": 2087
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.3364849,
+    "lon": 78.0545984,
+    "distance_m": 2341
+  }
+]

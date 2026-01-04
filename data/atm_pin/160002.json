@@ -1,0 +1,72 @@
+[
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.6969117,
+    "lon": 76.7839118,
+    "distance_m": 839
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.6882979,
+    "lon": 76.8036159,
+    "distance_m": 1295
+  },
+  {
+    "name": "State Bank ATM",
+    "operator": "State Bank ATM Industrial and Business Park",
+    "lat": 30.7020729,
+    "lon": 76.7999706,
+    "distance_m": 1384
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank ATM Sector 31 Chandigarh",
+    "lat": 30.7026673,
+    "lon": 76.7810701,
+    "distance_m": 1483
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 30.7049189,
+    "lon": 76.8010303,
+    "distance_m": 1698
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7061584,
+    "lon": 76.8011281,
+    "distance_m": 1818
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.7087314,
+    "lon": 76.784489,
+    "distance_m": 1921
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.6908474,
+    "lon": 76.812026,
+    "distance_m": 2025
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.7050574,
+    "lon": 76.7737867,
+    "distance_m": 2162
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 30.7098555,
+    "lon": 76.7805923,
+    "distance_m": 2181
+  }
+]

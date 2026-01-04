@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 30.3549729,
+    "lon": 78.0831496,
+    "distance_m": 635
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 30.3639172,
+    "lon": 78.0693676,
+    "distance_m": 1109
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 30.3470765,
+    "lon": 78.0626024,
+    "distance_m": 2202
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 30.3799403,
+    "lon": 78.0872821,
+    "distance_m": 2324
+  }
+]

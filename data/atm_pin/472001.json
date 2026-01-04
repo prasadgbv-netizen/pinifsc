@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 24.7434451,
+    "lon": 78.8323206,
+    "distance_m": 315
+  },
+  {
+    "name": "Allahabad Bank",
+    "operator": "",
+    "lat": 24.7436214,
+    "lon": 78.8322004,
+    "distance_m": 329
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 24.7637676,
+    "lon": 78.8336859,
+    "distance_m": 2563
+  },
+  {
+    "name": "SBI",
+    "operator": "",
+    "lat": 24.7677318,
+    "lon": 78.8332719,
+    "distance_m": 2999
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 27.1592347,
+    "lon": 78.0138411,
+    "distance_m": 584
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1590544,
+    "lon": 78.0106495,
+    "distance_m": 684
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 27.1595571,
+    "lon": 78.0093554,
+    "distance_m": 806
+  },
+  {
+    "name": "ICICI bank",
+    "operator": "ICICI Bank",
+    "lat": 27.1453162,
+    "lon": 78.0118666,
+    "distance_m": 1006
+  },
+  {
+    "name": "axis atm",
+    "operator": "",
+    "lat": 27.1453341,
+    "lon": 78.0107415,
+    "distance_m": 1040
+  },
+  {
+    "name": "ATM",
+    "operator": "IDBI Bank",
+    "lat": 27.1650349,
+    "lon": 78.0088245,
+    "distance_m": 1352
+  },
+  {
+    "name": "ATM",
+    "operator": "AXIS",
+    "lat": 27.1411325,
+    "lon": 78.0085066,
+    "distance_m": 1556
+  },
+  {
+    "name": "Bank of Baroda",
+    "operator": "Bank of Baroda",
+    "lat": 27.1722673,
+    "lon": 78.0089433,
+    "distance_m": 2104
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 27.1358465,
+    "lon": 78.0079737,
+    "distance_m": 2126
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "Axis Bank",
+    "lat": 27.1729057,
+    "lon": 78.0186887,
+    "distance_m": 2137
+  }
+]

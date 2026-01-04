@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "ATM cnrb",
+    "lat": 10.9609769,
+    "lon": 75.8943589,
+    "distance_m": 51
+  },
+  {
+    "name": "ATM",
+    "operator": "ATM",
+    "lat": 10.9765738,
+    "lon": 75.8785159,
+    "distance_m": 2398
+  }
+]

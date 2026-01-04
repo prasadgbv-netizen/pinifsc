@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Icici Bank ATM",
+    "lat": 17.4940414,
+    "lon": 78.3556748,
+    "distance_m": 474
+  },
+  {
+    "name": "ATM",
+    "operator": "canara Bank ATM",
+    "lat": 17.4940788,
+    "lon": 78.3558567,
+    "distance_m": 494
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 17.494097,
+    "lon": 78.3558756,
+    "distance_m": 496
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI ATM",
+    "lat": 17.4956951,
+    "lon": 78.3585858,
+    "distance_m": 830
+  },
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank ATM",
+    "lat": 17.5053408,
+    "lon": 78.3561483,
+    "distance_m": 1507
+  },
+  {
+    "name": "ATM",
+    "operator": "Karur Vysya Bank ATM",
+    "lat": 17.5051477,
+    "lon": 78.356749,
+    "distance_m": 1509
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank ATM",
+    "lat": 17.5054329,
+    "lon": 78.3560144,
+    "distance_m": 1512
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 17.4961977,
+    "lon": 78.3343542,
+    "distance_m": 1862
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 17.4949165,
+    "lon": 78.3325354,
+    "distance_m": 2027
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 17.4908378,
+    "lon": 78.3314938,
+    "distance_m": 2128
+  }
+]

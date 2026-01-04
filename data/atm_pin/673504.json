@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "India 1",
+    "lat": 11.6739035,
+    "lon": 75.6342165,
+    "distance_m": 2481
+  },
+  {
+    "name": "Kerala Gramin Bank ATM",
+    "operator": "Kerala Gramin Bank",
+    "lat": 11.6725855,
+    "lon": 75.6345106,
+    "distance_m": 2567
+  }
+]

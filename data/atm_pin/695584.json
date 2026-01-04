@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 8.6191229,
+    "lon": 76.8967164,
+    "distance_m": 1231
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 8.6188771,
+    "lon": 76.8985706,
+    "distance_m": 1432
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India ATM Pothencode branch",
+    "lat": 8.6198869,
+    "lon": 76.8990887,
+    "distance_m": 1501
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank ATM",
+    "lat": 8.621949,
+    "lon": 76.8998675,
+    "distance_m": 1633
+  },
+  {
+    "name": "ATM",
+    "operator": "State bank Of India",
+    "lat": 8.6117686,
+    "lon": 76.8599345,
+    "distance_m": 2900
+  }
+]

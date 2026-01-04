@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 10.4037569,
+    "lon": 76.3282906,
+    "distance_m": 1778
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.3715315,
+    "lon": 76.3074989,
+    "distance_m": 2467
+  },
+  {
+    "name": "Dhanlakshmi Bank",
+    "operator": "",
+    "lat": 10.3726645,
+    "lon": 76.3046235,
+    "distance_m": 2558
+  },
+  {
+    "name": "ATM",
+    "operator": "South Indian Bank",
+    "lat": 10.3732336,
+    "lon": 76.30262,
+    "distance_m": 2662
+  },
+  {
+    "name": "ATM",
+    "operator": "ITU Bank",
+    "lat": 10.3704101,
+    "lon": 76.3030643,
+    "distance_m": 2859
+  }
+]

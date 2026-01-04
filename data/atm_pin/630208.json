@@ -1,0 +1,65 @@
+[
+  {
+    "name": "ATM",
+    "operator": "chamber",
+    "lat": 10.0837288,
+    "lon": 78.7708162,
+    "distance_m": 1446
+  },
+  {
+    "name": "ATM",
+    "operator": "chamber",
+    "lat": 10.0814074,
+    "lon": 78.7710227,
+    "distance_m": 1599
+  },
+  {
+    "name": "Karur Vysya Bank",
+    "operator": "Karur Vysya Bank",
+    "lat": 10.0789528,
+    "lon": 78.7443924,
+    "distance_m": 1999
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 10.0769658,
+    "lon": 78.775705,
+    "distance_m": 2305
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.0790182,
+    "lon": 78.7779584,
+    "distance_m": 2384
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0733373,
+    "lon": 78.7743217,
+    "distance_m": 2467
+  },
+  {
+    "name": "Lakshmi Vilas Bank",
+    "operator": "",
+    "lat": 10.0732771,
+    "lon": 78.7754578,
+    "distance_m": 2558
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.0734519,
+    "lon": 78.7773993,
+    "distance_m": 2698
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0752225,
+    "lon": 78.7794365,
+    "distance_m": 2749
+  }
+]

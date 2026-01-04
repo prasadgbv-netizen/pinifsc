@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India (SBI)",
+    "lat": 11.0385417,
+    "lon": 76.0776534,
+    "distance_m": 229
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 11.042155,
+    "lon": 76.0808101,
+    "distance_m": 435
+  },
+  {
+    "name": "ATM",
+    "operator": "Indian Overseas Bank ATM CDM",
+    "lat": 11.0428104,
+    "lon": 76.0811038,
+    "distance_m": 497
+  },
+  {
+    "name": "Cenara bank",
+    "operator": "",
+    "lat": 11.041655,
+    "lon": 76.0712201,
+    "distance_m": 661
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 11.0467911,
+    "lon": 76.0738911,
+    "distance_m": 780
+  },
+  {
+    "name": "Federal Bank",
+    "operator": "Federal Bank",
+    "lat": 11.0499587,
+    "lon": 76.0713612,
+    "distance_m": 1223
+  },
+  {
+    "name": "ATM",
+    "operator": "S B I Malappuram",
+    "lat": 11.0516507,
+    "lon": 76.0757978,
+    "distance_m": 1243
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 11.0516772,
+    "lon": 76.0758261,
+    "distance_m": 1245
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank Of India ATM",
+    "lat": 11.0282514,
+    "lon": 76.0662623,
+    "distance_m": 1813
+  },
+  {
+    "name": "ATM",
+    "operator": "ESAF",
+    "lat": 11.0276814,
+    "lon": 76.0663196,
+    "distance_m": 1857
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Syndicate Bank",
+    "lat": 10.8856562,
+    "lon": 76.072018,
+    "distance_m": 1370
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "",
+    "lat": 10.8877479,
+    "lon": 76.0729642,
+    "distance_m": 1619
+  }
+]

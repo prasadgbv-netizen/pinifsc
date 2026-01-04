@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ICICI Bank ATM",
+    "operator": "",
+    "lat": 19.4636443,
+    "lon": 72.8043944,
+    "distance_m": 1407
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 19.4637952,
+    "lon": 72.8037349,
+    "distance_m": 1464
+  },
+  {
+    "name": "Ujjwal Small Finance",
+    "operator": "",
+    "lat": 19.4671175,
+    "lon": 72.8013512,
+    "distance_m": 1618
+  },
+  {
+    "name": "Corporation Bank ATM",
+    "operator": "",
+    "lat": 19.4531804,
+    "lon": 72.8100141,
+    "distance_m": 1864
+  },
+  {
+    "name": "Axis Bank",
+    "operator": "",
+    "lat": 19.4483611,
+    "lon": 72.8102695,
+    "distance_m": 2362
+  }
+]

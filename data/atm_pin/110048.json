@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "SBI Bank",
+    "lat": 28.5404595,
+    "lon": 77.2347299,
+    "distance_m": 6
+  },
+  {
+    "name": "IndusInd Bank",
+    "operator": "IndusInd Bank",
+    "lat": 28.5416996,
+    "lon": 77.2400893,
+    "distance_m": 546
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5438862,
+    "lon": 77.2299961,
+    "distance_m": 593
+  },
+  {
+    "name": "DigiBank",
+    "operator": "",
+    "lat": 28.5456863,
+    "lon": 77.2296068,
+    "distance_m": 761
+  },
+  {
+    "name": "ATM",
+    "operator": "ICICI Bank",
+    "lat": 28.5338478,
+    "lon": 77.2313863,
+    "distance_m": 803
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.533787,
+    "lon": 77.2311026,
+    "distance_m": 820
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5484958,
+    "lon": 77.2370154,
+    "distance_m": 921
+  },
+  {
+    "name": "Citibank",
+    "operator": "Citibank",
+    "lat": 28.5499509,
+    "lon": 77.2362568,
+    "distance_m": 1065
+  },
+  {
+    "name": "ATM",
+    "operator": "HSBC",
+    "lat": 28.5481958,
+    "lon": 77.2412278,
+    "distance_m": 1071
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 28.5434754,
+    "lon": 77.2242042,
+    "distance_m": 1075
+  }
+]

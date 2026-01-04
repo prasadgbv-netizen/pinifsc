@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5181909,
+    "lon": 77.2062308,
+    "distance_m": 107
+  },
+  {
+    "name": "ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.5189235,
+    "lon": 77.2067649,
+    "distance_m": 204
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis Bank",
+    "lat": 28.5179974,
+    "lon": 77.203501,
+    "distance_m": 207
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 28.5180183,
+    "lon": 77.2034517,
+    "distance_m": 212
+  },
+  {
+    "name": "ATM",
+    "operator": "Yes Bank",
+    "lat": 28.5197606,
+    "lon": 77.2050158,
+    "distance_m": 262
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.5203641,
+    "lon": 77.2059863,
+    "distance_m": 327
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 28.5206171,
+    "lon": 77.2059273,
+    "distance_m": 354
+  },
+  {
+    "name": "ATM",
+    "operator": "Kotak Mahindra Bank",
+    "lat": 28.5209123,
+    "lon": 77.2059981,
+    "distance_m": 388
+  },
+  {
+    "name": "ATM",
+    "operator": "Standard Chartered",
+    "lat": 28.5210402,
+    "lon": 77.2060542,
+    "distance_m": 403
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 28.5212087,
+    "lon": 77.206107,
+    "distance_m": 422
+  }
+]

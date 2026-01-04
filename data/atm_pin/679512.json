@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 10.9065293,
+    "lon": 76.4128397,
+    "distance_m": 1734
+  },
+  {
+    "name": "ATM",
+    "operator": "Canara Bank",
+    "lat": 10.906591,
+    "lon": 76.412218,
+    "distance_m": 1775
+  }
+]

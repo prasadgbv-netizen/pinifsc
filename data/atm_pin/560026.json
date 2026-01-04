@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 12.9545702,
+    "lon": 77.5447288,
+    "distance_m": 51
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank of India",
+    "lat": 12.9571816,
+    "lon": 77.550277,
+    "distance_m": 719
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9608675,
+    "lon": 77.5495476,
+    "distance_m": 917
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.9584059,
+    "lon": 77.5356011,
+    "distance_m": 1040
+  },
+  {
+    "name": "ATM",
+    "operator": "Union Bank",
+    "lat": 12.9582945,
+    "lon": 77.5351343,
+    "distance_m": 1081
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI E-lobby",
+    "lat": 12.9582106,
+    "lon": 77.5348921,
+    "distance_m": 1102
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 12.964348,
+    "lon": 77.5402052,
+    "distance_m": 1190
+  },
+  {
+    "name": "HDFC Bank",
+    "operator": "HDFC Bank",
+    "lat": 12.958245,
+    "lon": 77.5336169,
+    "distance_m": 1232
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 12.9644353,
+    "lon": 77.5495402,
+    "distance_m": 1252
+  },
+  {
+    "name": "ATM",
+    "operator": "Karnataka Bank",
+    "lat": 12.9646622,
+    "lon": 77.5392138,
+    "distance_m": 1266
+  }
+]

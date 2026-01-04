@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Union bank of India",
+    "operator": "",
+    "lat": 10.0746031,
+    "lon": 78.7820521,
+    "distance_m": 132
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 10.0738774,
+    "lon": 78.7821989,
+    "distance_m": 153
+  },
+  {
+    "name": "State bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0734639,
+    "lon": 78.7822283,
+    "distance_m": 185
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0724201,
+    "lon": 78.781414,
+    "distance_m": 331
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0752225,
+    "lon": 78.7794365,
+    "distance_m": 420
+  },
+  {
+    "name": "Punjab National Bank",
+    "operator": "Punjab National Bank",
+    "lat": 10.0734519,
+    "lon": 78.7773993,
+    "distance_m": 657
+  },
+  {
+    "name": "South Indian Bank",
+    "operator": "South Indian Bank",
+    "lat": 10.0790182,
+    "lon": 78.7779584,
+    "distance_m": 745
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 10.0728782,
+    "lon": 78.7899647,
+    "distance_m": 765
+  },
+  {
+    "name": "SBI",
+    "operator": "State Bank of India",
+    "lat": 10.0769658,
+    "lon": 78.775705,
+    "distance_m": 860
+  },
+  {
+    "name": "Lakshmi Vilas Bank",
+    "operator": "",
+    "lat": 10.0732771,
+    "lon": 78.7754578,
+    "distance_m": 869
+  }
+]

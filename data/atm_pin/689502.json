@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "Kerala Gramin Bank",
+    "lat": 9.3053415,
+    "lon": 76.7294523,
+    "distance_m": 2196
+  },
+  {
+    "name": "ATM",
+    "operator": "CORPORATION BANK",
+    "lat": 9.2941874,
+    "lon": 76.6947266,
+    "distance_m": 2429
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank Of India",
+    "lat": 9.2974059,
+    "lon": 76.7300062,
+    "distance_m": 2603
+  },
+  {
+    "name": "ATM",
+    "operator": "STATE BANK OF INDIA",
+    "lat": 9.2962154,
+    "lon": 76.6876735,
+    "distance_m": 2889
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank of India",
+    "lat": 9.3357158,
+    "lon": 76.7059792,
+    "distance_m": 2893
+  },
+  {
+    "name": "ATM",
+    "operator": "FEDERAL BANK",
+    "lat": 9.2960797,
+    "lon": 76.6876769,
+    "distance_m": 2897
+  }
+]

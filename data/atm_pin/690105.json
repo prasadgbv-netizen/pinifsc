@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "state bank of india",
+    "lat": 9.2807803,
+    "lon": 76.52602,
+    "distance_m": 38
+  },
+  {
+    "name": "ATM",
+    "operator": "co-operative bank",
+    "lat": 9.2800014,
+    "lon": 76.5306643,
+    "distance_m": 555
+  },
+  {
+    "name": "ATM",
+    "operator": "VIJAYA BANK ATM",
+    "lat": 9.2792344,
+    "lon": 76.5307219,
+    "distance_m": 580
+  },
+  {
+    "name": "ATM",
+    "operator": "sbi",
+    "lat": 9.2789447,
+    "lon": 76.5322299,
+    "distance_m": 748
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal Bank",
+    "lat": 9.2901902,
+    "lon": 76.5326376,
+    "distance_m": 1294
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 9.2926835,
+    "lon": 76.5487073,
+    "distance_m": 2853
+  }
+]

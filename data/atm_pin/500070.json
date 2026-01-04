@@ -1,0 +1,30 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.3292601,
+    "lon": 78.5814773,
+    "distance_m": 2769
+  },
+  {
+    "name": "e seva",
+    "operator": "",
+    "lat": 17.329647,
+    "lon": 78.5794023,
+    "distance_m": 2817
+  },
+  {
+    "name": "ATM",
+    "operator": "CANARA",
+    "lat": 17.3302678,
+    "lon": 78.5773134,
+    "distance_m": 2909
+  },
+  {
+    "name": "ATM",
+    "operator": "Axis ATM",
+    "lat": 17.3303336,
+    "lon": 78.576784,
+    "distance_m": 2924
+  }
+]

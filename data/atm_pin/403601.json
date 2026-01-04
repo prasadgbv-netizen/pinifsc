@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ATM",
+    "operator": "HDFC Bank",
+    "lat": 15.270733,
+    "lon": 73.982765,
+    "distance_m": 1305
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 15.2914937,
+    "lon": 73.9758808,
+    "distance_m": 1565
+  },
+  {
+    "name": "ATM",
+    "operator": "Ratnakar Bank",
+    "lat": 15.262733,
+    "lon": 73.979678,
+    "distance_m": 2254
+  },
+  {
+    "name": "ATM",
+    "operator": "PMC bank",
+    "lat": 15.2715489,
+    "lon": 73.9651107,
+    "distance_m": 2571
+  },
+  {
+    "name": "ICICI Bank",
+    "operator": "ICICI Bank",
+    "lat": 15.2891833,
+    "lon": 73.9634327,
+    "distance_m": 2609
+  },
+  {
+    "name": "Canara Bank",
+    "operator": "Canara Bank",
+    "lat": 15.2676464,
+    "lon": 73.9664455,
+    "distance_m": 2676
+  }
+]

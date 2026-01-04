@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Oriental Bank of Commerce",
+    "operator": "Oriental Bank of Commerce",
+    "lat": 11.006907,
+    "lon": 76.9524427,
+    "distance_m": 363
+  },
+  {
+    "name": "ATM",
+    "operator": "State Bank of India",
+    "lat": 11.0085035,
+    "lon": 76.9505929,
+    "distance_m": 484
+  },
+  {
+    "name": "ATM",
+    "operator": "City Union Bank",
+    "lat": 11.009274,
+    "lon": 76.9504819,
+    "distance_m": 494
+  },
+  {
+    "name": "Indian Overseas Bank",
+    "operator": "Indian Overseas Bank",
+    "lat": 11.0063886,
+    "lon": 76.9511716,
+    "distance_m": 508
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0080828,
+    "lon": 76.9504284,
+    "distance_m": 509
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 11.0097609,
+    "lon": 76.9501164,
+    "distance_m": 539
+  },
+  {
+    "name": "ATM",
+    "operator": "IndusInd Bank",
+    "lat": 11.0138643,
+    "lon": 76.9535094,
+    "distance_m": 564
+  },
+  {
+    "name": "Punjab national bank",
+    "operator": "",
+    "lat": 11.0063669,
+    "lon": 76.9504356,
+    "distance_m": 577
+  },
+  {
+    "name": "Indian Bank",
+    "operator": "Indian Bank",
+    "lat": 11.0050827,
+    "lon": 76.9510858,
+    "distance_m": 610
+  },
+  {
+    "name": "Cosmos co-op bank ATM",
+    "operator": "",
+    "lat": 11.0043446,
+    "lon": 76.9509909,
+    "distance_m": 677
+  }
+]

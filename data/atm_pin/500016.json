@@ -1,0 +1,72 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4377437,
+    "lon": 78.4621371,
+    "distance_m": 498
+  },
+  {
+    "name": "State Bank of India",
+    "operator": "State Bank",
+    "lat": 17.43336,
+    "lon": 78.45607,
+    "distance_m": 690
+  },
+  {
+    "name": "ATM",
+    "operator": "RBS",
+    "lat": 17.4452017,
+    "lon": 78.4641516,
+    "distance_m": 939
+  },
+  {
+    "name": "ATM",
+    "operator": "Bank of India",
+    "lat": 17.4447551,
+    "lon": 78.4645902,
+    "distance_m": 941
+  },
+  {
+    "name": "ATM",
+    "operator": "ING",
+    "lat": 17.4452093,
+    "lon": 78.4645808,
+    "distance_m": 973
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4389061,
+    "lon": 78.448525,
+    "distance_m": 979
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "",
+    "lat": 17.443429,
+    "lon": 78.4488577,
+    "distance_m": 1046
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 17.4386398,
+    "lon": 78.4472845,
+    "distance_m": 1113
+  },
+  {
+    "name": "ATM",
+    "operator": "CitiBank",
+    "lat": 17.4445563,
+    "lon": 78.4670675,
+    "distance_m": 1144
+  },
+  {
+    "name": "Central Bank of India",
+    "operator": "",
+    "lat": 17.4444022,
+    "lon": 78.467713,
+    "distance_m": 1196
+  }
+]

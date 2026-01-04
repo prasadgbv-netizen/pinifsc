@@ -1,0 +1,58 @@
+[
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.1157711,
+    "lon": 75.393728,
+    "distance_m": 1047
+  },
+  {
+    "name": "ATM",
+    "operator": "union bank",
+    "lat": 28.1177347,
+    "lon": 75.3850361,
+    "distance_m": 1286
+  },
+  {
+    "name": "ATM",
+    "operator": "SBI",
+    "lat": 28.115312,
+    "lon": 75.4023045,
+    "distance_m": 1296
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank of India",
+    "lat": 28.1172516,
+    "lon": 75.3833819,
+    "distance_m": 1446
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.1105166,
+    "lon": 75.3900141,
+    "distance_m": 1698
+  },
+  {
+    "name": "IDFC ATM",
+    "operator": "IDFC First Bank",
+    "lat": 28.1107761,
+    "lon": 75.3880979,
+    "distance_m": 1737
+  },
+  {
+    "name": "PNB ATM",
+    "operator": "Punjab National Bank",
+    "lat": 28.1099206,
+    "lon": 75.3894798,
+    "distance_m": 1777
+  },
+  {
+    "name": "ATM",
+    "operator": "",
+    "lat": 28.1069817,
+    "lon": 75.3894417,
+    "distance_m": 2091
+  }
+]

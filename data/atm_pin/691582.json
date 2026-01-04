@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ATM",
+    "operator": "State bank of India",
+    "lat": 8.9703055,
+    "lon": 76.5328324,
+    "distance_m": 1187
+  },
+  {
+    "name": "SBI ATM",
+    "operator": "State Bank Of India",
+    "lat": 8.9755345,
+    "lon": 76.5355545,
+    "distance_m": 1831
+  },
+  {
+    "name": "FED ATM",
+    "operator": "Federal Bank",
+    "lat": 8.979675,
+    "lon": 76.5343946,
+    "distance_m": 2240
+  },
+  {
+    "name": "UBI ATM",
+    "operator": "Union Bank",
+    "lat": 8.9796938,
+    "lon": 76.5378687,
+    "distance_m": 2354
+  },
+  {
+    "name": "ATM",
+    "operator": "Federal bank",
+    "lat": 8.9403498,
+    "lon": 76.5406644,
+    "distance_m": 2479
+  }
+]
