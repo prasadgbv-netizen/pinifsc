@@ -258,3 +258,22 @@ main.container {
 .atm-map-link:hover {
   text-decoration: underline;
 }
+
+.atm-filters {
+  margin: 15px 0;
+}
+
+.atm-filters button {
+  margin: 4px;
+  padding: 5px 10px;
+  border: 1px solid #0b5ed7;
+  background: #fff;
+  color: #0b5ed7;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.atm-filters button.active {
+  background: #0b5ed7;
+  color: #fff;
+}
