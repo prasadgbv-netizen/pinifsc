@@ -5,6 +5,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const pin = atmSection.dataset.pin;
   const atmList = document.getElementById("atm-list");
 
+  // ---------- TRUST NOTE (added once) ----------
+  const trustNote = document.createElement("p");
+  trustNote.className = "atm-trust-note";
+  trustNote.innerHTML = `
+    ℹ️ ATM locations are sourced from public map data near PIN code ${pin}.
+    Cash availability and working status may vary.
+  `;
+  atmSection.prepend(trustNote);
+
   const loadATMs = () => {
     fetch(`/data/atm_pin/${pin}.json`)
       .then(res => {
@@ -21,18 +30,34 @@ document.addEventListener("DOMContentLoaded", () => {
 
         atms.slice(0, 10).forEach(atm => {
           const li = document.createElement("li");
+
+          // ---------- ATM TYPE BADGE ----------
+          const operator = (atm.operator || "").toLowerCase();
+          const isBankATM = operator && operator !== "atm";
+
+          const badge = isBankATM
+            ? `<span class="atm-badge bank">🏦 Bank ATM</span>`
+            : `<span class="atm-badge generic">🏧 ATM</span>`;
+
+          // ---------- MAP LINK ----------
+          const mapLink =
+            atm.lat && atm.lon
+              ? `<a href="https://www.google.com/maps?q=${atm.lat},${atm.lon}"
+                   target="_blank" rel="noopener">
+                   📍 View on Map
+                 </a>`
+              : "";
+
           li.innerHTML = `
             <strong>${atm.name || "ATM"}</strong><br>
+            ${badge}<br>
             <span class="atm-distance">
               ${atm.distance_m} meters away
             </span><br>
-            <a href="https://www.google.com/maps?q=${atm.lat},${atm.lon}"
-               target="_blank"
-               rel="noopener"
-               class="atm-map-link">
-               📍 View on Map
-            </a>
+            <small>📌 Listed based on proximity to PIN code ${pin}</small><br>
+            ${mapLink}
           `;
+
           atmList.appendChild(li);
         });
       })
@@ -42,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
       });
   };
 
-  // Lazy load when visible
+  // ---------- LAZY LOAD ----------
   const observer = new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
       loadATMs();
