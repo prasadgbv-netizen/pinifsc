@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const pin = atmSection.dataset.pin;
   const atmList = document.getElementById("atm-list");
 
-  // Create filter UI
+  // Filter UI
   const filterBar = document.createElement("div");
   filterBar.className = "atm-filters";
   filterBar.innerHTML = `
@@ -19,6 +19,21 @@ document.addEventListener("DOMContentLoaded", () => {
   atmSection.insertBefore(filterBar, atmList);
 
   let allATMs = [];
+
+  const getCardBadges = operator => {
+    const op = (operator || "").toLowerCase();
+
+    if (op.includes("sbi") || op.includes("state bank")) {
+      return "💳 RuPay • Visa";
+    }
+    if (op.includes("hdfc") || op.includes("icici") || op.includes("axis")) {
+      return "💳 Visa • MasterCard";
+    }
+    if (op.includes("punjab") || op.includes("canara") || op.includes("bank of india")) {
+      return "💳 RuPay • Visa";
+    }
+    return "💳 Visa";
+  };
 
   const renderATMs = (bankFilter = "all") => {
     atmList.innerHTML = "";
@@ -38,14 +53,25 @@ document.addEventListener("DOMContentLoaded", () => {
     filtered.slice(0, 10).forEach(atm => {
       const li = document.createElement("li");
       const mapUrl = `https://www.google.com/maps?q=${atm.lat},${atm.lon}`;
+      const cards = getCardBadges(atm.operator);
 
       li.innerHTML = `
         <strong>${atm.name || "ATM"}</strong><br>
         <span class="atm-distance">${atm.distance_m} meters away</span><br>
+        <span class="atm-cards">${cards}</span><br>
         <a href="${mapUrl}" target="_blank" rel="noopener">📍 View on Map</a>
       `;
       atmList.appendChild(li);
     });
+
+    // Disclaimer (once)
+    if (!document.querySelector(".atm-disclaimer")) {
+      const note = document.createElement("p");
+      note.className = "atm-disclaimer";
+      note.innerText =
+        "Card network support is indicative and may vary by ATM. Please verify at the ATM.";
+      atmSection.appendChild(note);
+    }
   };
 
   const loadATMs = () => {
@@ -64,20 +90,13 @@ document.addEventListener("DOMContentLoaded", () => {
       });
   };
 
-  // Filter click handling
   filterBar.addEventListener("click", e => {
     if (e.target.tagName !== "BUTTON") return;
-
-    filterBar.querySelectorAll("button").forEach(btn =>
-      btn.classList.remove("active")
-    );
+    filterBar.querySelectorAll("button").forEach(b => b.classList.remove("active"));
     e.target.classList.add("active");
-
-    const bank = e.target.dataset.bank;
-    renderATMs(bank);
+    renderATMs(e.target.dataset.bank);
   });
 
-  // Lazy load when visible
   const observer = new IntersectionObserver(entries => {
     if (entries[0].isIntersecting) {
       loadATMs();
