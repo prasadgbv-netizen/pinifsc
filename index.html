@@ -13,7 +13,7 @@
   <!-- Main CSS -->
   <link rel="stylesheet" href="assets/style.css">
 
-  <!-- ✅ STEP 4.2: Area → PIN suggestion dropdown styling (ADDED) -->
+  <!-- ✅ STEP 4.2: Area → PIN suggestion dropdown styling -->
   <style>
     .area-search-box {
       position: relative;
@@ -67,42 +67,58 @@
 
   <!-- HERO SECTION -->
   <section class="hero">
-    <!-- B.1: Clear H1 -->
     <h1>Find IFSC Codes & Bank Branch Details Across India</h1>
 
     <p class="subtitle">
       Search bank IFSC codes based on PIN code location anywhere in India.
     </p>
 
-    <!-- B.2: Short explanation -->
     <p>
       PinIFSC India helps users find accurate IFSC codes, bank branch details,
       MICR numbers, and PIN-code-wise bank listings across India.
     </p>
 
-    <!-- SEARCH BOX -->
-    <div class="search-box">
-      <input type="text" placeholder="Enter 6-digit PIN Code" maxlength="6">
-      <button>Search</button>
-    </div>
+    <!-- 🔍 REDESIGNED UNIFIED SEARCH CARD -->
+    <section class="search-card">
 
-    <!-- ✅ STEP 3.1: Area → PIN Search Box -->
-    <div class="area-search-box">
-      <input
-        type="text"
-        id="areaInput"
-        placeholder="Type Area Name for PIN Code"
-        autocomplete="off"
-      />
-      <div id="areaResults" class="area-results"></div>
-    </div>
+      <h2 class="search-title">Search IFSC by Area or PIN Code</h2>
+
+      <!-- Area Search -->
+      <div class="search-group">
+        <label for="areaInput">Search by Area / Locality</label>
+        <input
+          type="text"
+          id="areaInput"
+          placeholder="e.g. Ayodhya, Vijayawada, Satyanarayanapuram"
+          autocomplete="off"
+        />
+        <div id="areaResults" class="area-results"></div>
+      </div>
+
+      <div class="search-divider">OR</div>
+
+      <!-- PIN Search -->
+      <div class="search-group pin-search">
+        <label for="pinInput">Search by PIN Code</label>
+        <div class="pin-row">
+          <input
+            type="text"
+            id="pinInput"
+            placeholder="Enter 6-digit PIN Code"
+            maxlength="6"
+          />
+          <button id="pinSearchBtn">Search</button>
+        </div>
+      </div>
+
+    </section>
 
     <p class="helper-text">
       Example: 530017, 110001, 600001
     </p>
   </section>
 
-  <!-- B.3: Popular Searches -->
+  <!-- Popular Searches -->
   <section class="popular-searches">
     <h2>Popular Searches</h2>
     <ul>
@@ -130,7 +146,6 @@
     </div>
   </section>
 
-  <!-- B.4: Trust text -->
   <p>
     All data is compiled from publicly available banking sources and is intended
     for informational purposes only.
@@ -155,8 +170,6 @@
 </footer>
 
 <script src="assets/search.js"></script>
-
-<!-- ✅ STEP 3.3: Area → PIN JS include -->
 <script src="/assets/area-pin.js" defer></script>
 
 </body>
