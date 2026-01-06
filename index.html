@@ -1,4 +1,4 @@
-<!DOCTYPE html>  
+<!DOCTYPE html>   
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -12,6 +12,44 @@
 
   <!-- Main CSS -->
   <link rel="stylesheet" href="assets/style.css">
+
+  <!-- ✅ STEP 4.2: Area → PIN suggestion dropdown styling (ADDED) -->
+  <style>
+    .area-search-box {
+      position: relative;
+      max-width: 420px;
+      margin-top: 12px;
+    }
+
+    .area-results {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: #ffffff;
+      border: 1px solid #ddd;
+      border-top: none;
+      z-index: 1000;
+      max-height: 260px;
+      overflow-y: auto;
+      display: none;
+    }
+
+    .area-results div {
+      padding: 10px 12px;
+      cursor: pointer;
+      font-size: 14px;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .area-results div:hover {
+      background-color: #f3f7ff;
+    }
+
+    .area-results strong {
+      font-weight: 600;
+    }
+  </style>
 </head>
 
 <body>
@@ -48,7 +86,7 @@
       <button>Search</button>
     </div>
 
-    <!-- ✅ STEP 3.1: Area → PIN Search Box (ADDED) -->
+    <!-- ✅ STEP 3.1: Area → PIN Search Box -->
     <div class="area-search-box">
       <input
         type="text"
@@ -118,7 +156,7 @@
 
 <script src="assets/search.js"></script>
 
-<!-- ✅ STEP 3.3: Area → PIN JS include (ADDED) -->
+<!-- ✅ STEP 3.3: Area → PIN JS include -->
 <script src="/assets/area-pin.js" defer></script>
 
 </body>
