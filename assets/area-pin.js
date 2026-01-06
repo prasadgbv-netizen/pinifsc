@@ -47,8 +47,11 @@ document.addEventListener("DOMContentLoaded", async function () {
   });
 
   document.addEventListener("click", e => {
-    if (!e.target.closest(".search-group")) {
-      resultsBox.style.display = "none";
-    }
-  });
+  if (
+    e.target !== input &&
+    !resultsBox.contains(e.target)
+  ) {
+    resultsBox.style.display = "none";
+  }
+});
 });
