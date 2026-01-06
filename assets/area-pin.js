@@ -10,35 +10,39 @@ document.addEventListener("DOMContentLoaded", async function () {
     const res = await fetch("/data/area_pin_index.json");
     areaData = await res.json();
   } catch (e) {
-    console.error("Failed to load area_pin_index.json", e);
+    console.error("Failed to load area PIN index", e);
     return;
   }
 
-  const areas = Object.keys(areaData);
-
   input.addEventListener("input", function () {
-    const q = input.value.trim().toLowerCase();
+    const query = input.value.trim().toLowerCase();
     resultsBox.innerHTML = "";
-    resultsBox.style.display = "none";
 
-    if (q.length < 2) return;
+    if (query.length < 2) {
+      resultsBox.style.display = "none";
+      return;
+    }
 
-    const matches = areas
-      .filter(name => name.includes(q))
-      .slice(0, 10);
+    let matches = Object.keys(areaData).filter(area =>
+      area.includes(query)
+    );
 
-    if (!matches.length) return;
+    if (matches.length === 0) {
+      resultsBox.style.display = "none";
+      return;
+    }
 
-    matches.forEach(area => {
-      const item = areaData[area][0]; // first entry
-      const pin = item.pin;
+    matches.slice(0, 10).forEach(area => {
+      const pin = areaData[area][0]?.pin || "";
 
       const div = document.createElement("div");
-      div.innerHTML = `<strong>${area}</strong> — ${pin}`;
+      div.innerHTML = `<strong>${area}</strong> — PIN ${pin}`;
 
-      div.addEventListener("click", () => {
+      div.onclick = () => {
+        input.value = area;
+        resultsBox.style.display = "none";
         window.location.href = `/pincode/${pin}.html`;
-      });
+      };
 
       resultsBox.appendChild(div);
     });
@@ -46,12 +50,9 @@ document.addEventListener("DOMContentLoaded", async function () {
     resultsBox.style.display = "block";
   });
 
-  document.addEventListener("click", e => {
-  if (
-    e.target !== input &&
-    !resultsBox.contains(e.target)
-  ) {
-    resultsBox.style.display = "none";
-  }
-});
+  document.addEventListener("click", function (e) {
+    if (!e.target.closest(".search-group")) {
+      resultsBox.style.display = "none";
+    }
+  });
 });
