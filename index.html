@@ -215,6 +215,60 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <script src="assets/search.js"></script>
 
+<script src="assets/search.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const input = document.getElementById("areaInput");
+  const results = document.getElementById("areaResults");
+
+  if (!input || !results) {
+    console.error("Area input or results container missing");
+    return;
+  }
+
+  fetch("/data/area_pin_index.json")
+    .then(res => res.json())
+    .then(data => {
+
+      input.addEventListener("input", function () {
+        const q = this.value.trim().toLowerCase();
+        results.innerHTML = "";
+        results.style.display = "none";
+
+        if (q.length < 3) return;
+
+        let shown = 0;
+
+        Object.keys(data).forEach(area => {
+          if (area.includes(q) && shown < 8) {
+            data[area].forEach(pin => {
+              const div = document.createElement("div");
+              div.innerHTML = `<strong>${area}</strong> — ${pin}`;
+              div.onclick = () => {
+                window.location.href = `/pincode/${pin}.html`;
+              };
+              results.appendChild(div);
+              shown++;
+            });
+          }
+        });
+
+        if (shown > 0) {
+          results.style.display = "block";
+        }
+      });
+
+    })
+    .catch(err => console.error("Failed to load area_pin_index.json", err));
+
+});
+</script>
+
+</body>
+</html>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("areaInput");
