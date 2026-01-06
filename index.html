@@ -215,6 +215,50 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <script src="assets/search.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("areaInput");
+  const resultsBox = document.getElementById("areaResults");
+
+  if (!input || !resultsBox) return;
+
+  fetch("/data/area_pin_index.json")
+    .then(res => res.json())
+    .then(data => {
+
+      input.addEventListener("input", function () {
+        const q = this.value.trim().toLowerCase();
+        resultsBox.innerHTML = "";
+        resultsBox.style.display = "none";
+
+        if (q.length < 3) return;
+
+        let count = 0;
+
+        Object.keys(data).forEach(area => {
+          if (area.includes(q) && count < 8) {
+            data[area].forEach(pin => {
+              const div = document.createElement("div");
+              div.innerHTML = `<strong>${area}</strong> — ${pin}`;
+              div.onclick = () => {
+                window.location.href = `/pincode/${pin}.html`;
+              };
+              resultsBox.appendChild(div);
+              count++;
+            });
+          }
+        });
+
+        if (count > 0) {
+          resultsBox.style.display = "block";
+        }
+      });
+
+    })
+    .catch(err => console.error("Area PIN load error", err));
+});
+</script>
+
 <!-- ✅ INLINE AREA → PIN DROPDOWN SCRIPT (ADDED ONLY) -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
