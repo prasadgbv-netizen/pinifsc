@@ -170,7 +170,51 @@
 </footer>
 
 <script src="assets/search.js"></script>
-<script src="assets/area-pin.js"></script>
+
+<!-- ✅ INLINE AREA → PIN DROPDOWN SCRIPT (ADDED ONLY) -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const input = document.getElementById("areaInput");
+  const resultsBox = document.getElementById("areaResults");
+
+  if (!input || !resultsBox) return;
+
+  fetch("data/area_pin_index.json")
+    .then(res => res.json())
+    .then(data => {
+      input.addEventListener("input", function () {
+        const q = this.value.trim().toLowerCase();
+        resultsBox.innerHTML = "";
+
+        if (q.length < 2) {
+          resultsBox.style.display = "none";
+          return;
+        }
+
+        let shown = 0;
+        for (const area in data) {
+          if (area.includes(q)) {
+            data[area].forEach(pin => {
+              const div = document.createElement("div");
+              div.innerHTML = `<strong>${area}</strong> — ${pin}`;
+              div.onclick = () => {
+                window.location.href = `pincode/${pin}.html`;
+              };
+              resultsBox.appendChild(div);
+              shown++;
+            });
+          }
+          if (shown > 15) break;
+        }
+
+        resultsBox.style.display = shown ? "block" : "none";
+      });
+    })
+    .catch(err => {
+      console.error("Area PIN index failed:", err);
+    });
+});
+</script>
 
 </body>
 </html>
