@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>  
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -48,6 +48,17 @@
       <button>Search</button>
     </div>
 
+    <!-- ✅ STEP 3.1: Area → PIN Search Box (ADDED) -->
+    <div class="area-search-box">
+      <input
+        type="text"
+        id="areaInput"
+        placeholder="Type Area Name for PIN Code"
+        autocomplete="off"
+      />
+      <div id="areaResults" class="area-results"></div>
+    </div>
+
     <p class="helper-text">
       Example: 530017, 110001, 600001
     </p>
@@ -62,15 +73,6 @@
       <li><a href="/ifsc/HDFC0011777.html">HDFC Bank IFSC Code - Ayodhya</a></li>
     </ul>
   </section>
-
-  <!-- LANGUAGE SELECTION -->
-  
-
-
-
-
-
-
 
   <!-- FEATURES -->
   <section class="features">
@@ -115,5 +117,9 @@
 </footer>
 
 <script src="assets/search.js"></script>
+
+<!-- ✅ STEP 3.3: Area → PIN JS include (ADDED) -->
+<script src="/assets/area-pin.js" defer></script>
+
 </body>
 </html>
