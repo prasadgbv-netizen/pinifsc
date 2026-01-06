@@ -1,54 +1,51 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", async function () {
   const input = document.getElementById("areaInput");
   const resultsBox = document.getElementById("areaResults");
 
-  if (!input || !resultsBox) return;
+  if (!input || !resultsBox) {
+    console.warn("Area search elements not found");
+    return;
+  }
 
-  let areas = [];
+  let areaIndex = {};
 
-  fetch("/data/area_pin_index.json")
-    .then(r => r.json())
-    .then(d => areas = d)
-    .catch(err => console.error("Area PIN index load failed", err));
+  try {
+    const res = await fetch("/data/area_pin_index.json");
+    areaIndex = await res.json();
+  } catch (e) {
+    console.error("Failed to load area_pin_index.json", e);
+    return;
+  }
 
-  input.addEventListener("input", () => {
-    const q = input.value.trim().toLowerCase();
+  input.addEventListener("input", function () {
+    const query = input.value.trim().toLowerCase();
     resultsBox.innerHTML = "";
     resultsBox.style.display = "none";
 
-    if (q.length < 3) return;
+    if (query.length < 2) return;
 
-    const matches = areas
-      .filter(a =>
-        a.area.toLowerCase().includes(q) ||
-        a.district.toLowerCase().includes(q)
-      )
-      .slice(0, 10);
-
-    if (!matches.length) {
-      resultsBox.innerHTML = `<div>No results found</div>`;
-      resultsBox.style.display = "block";
-      return;
+    let count = 0;
+    for (const area in areaIndex) {
+      if (area.includes(query)) {
+        const pin = areaIndex[area];
+        const div = document.createElement("div");
+        div.innerHTML = `<strong>${area}</strong> – ${pin}`;
+        div.addEventListener("click", () => {
+          window.location.href = `/pincode/${pin}.html`;
+        });
+        resultsBox.appendChild(div);
+        count++;
+      }
+      if (count >= 10) break;
     }
 
-    matches.forEach(a => {
-      const div = document.createElement("div");
-      div.innerHTML = `
-        <strong>${a.area}</strong>,
-        ${a.district}, ${a.state}
-        <br><small>PIN: ${a.pin}</small>
-      `;
-      div.onclick = () => {
-        window.location.href = `/pincode/${a.pin}.html`;
-      };
-      resultsBox.appendChild(div);
-    });
-
-    resultsBox.style.display = "block";
+    if (count > 0) {
+      resultsBox.style.display = "block";
+    }
   });
 
-  document.addEventListener("click", e => {
-    if (!resultsBox.contains(e.target) && e.target !== input) {
+  document.addEventListener("click", (e) => {
+    if (!e.target.closest(".area-search-box")) {
       resultsBox.style.display = "none";
     }
   });
