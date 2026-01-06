@@ -1,47 +1,59 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const input = document.getElementById("areaInput");
-  const resultsBox = document.getElementById("areaResults");
+  const areaInput = document.querySelector(".area-pin-input");
+  if (!areaInput) return;
 
-  if (!input || !resultsBox) return;
+  const pinInput = document.querySelector(
+    'input[placeholder="Enter 6-digit PIN Code"]'
+  );
 
-  let areaIndex = {};
+  const resultBox = document.createElement("div");
+  resultBox.className = "area-pin-results";
+  areaInput.parentNode.appendChild(resultBox);
 
+  let areaIndex = null;
+
+  // Load area → PIN index lazily
   fetch("/data/area_pin_index.json")
     .then(res => res.json())
     .then(data => {
       areaIndex = data;
+    })
+    .catch(() => {
+      console.warn("Area-PIN index failed to load");
     });
 
-  input.addEventListener("input", () => {
-    const query = input.value.toLowerCase().trim();
-    resultsBox.innerHTML = "";
+  areaInput.addEventListener("input", () => {
+    const query = areaInput.value.trim().toLowerCase();
+    resultBox.innerHTML = "";
 
-    if (query.length < 3) return;
+    if (!query || !areaIndex) return;
 
-    let shown = 0;
+    const matches = Object.keys(areaIndex)
+      .filter(area => area.includes(query))
+      .slice(0, 8);
 
-    for (const area in areaIndex) {
-      if (!area.includes(query)) continue;
+    matches.forEach(area => {
+      areaIndex[area].forEach(pin => {
+        const item = document.createElement("div");
+        item.className = "area-pin-item";
+        item.textContent = `${area.toUpperCase()} – ${pin}`;
 
-      areaIndex[area].forEach(item => {
-        if (shown >= 10) return;
+        item.addEventListener("click", () => {
+          // STEP 4.1 CORE LOGIC
+          if (pinInput) {
+            pinInput.value = pin;
+          }
+          window.location.href = `/pincode/${pin}.html`;
+        });
 
-        const div = document.createElement("div");
-        div.className = "area-result";
-        div.innerHTML = `
-          <strong>${area.toUpperCase()}</strong><br>
-          PIN: ${item.pin}, ${item.district}, ${item.state}
-        `;
-
-        div.onclick = () => {
-          window.location.href = `/pincode/${item.pin}.html`;
-        };
-
-        resultsBox.appendChild(div);
-        shown++;
+        resultBox.appendChild(item);
       });
+    });
+  });
 
-      if (shown >= 10) break;
+  document.addEventListener("click", e => {
+    if (!areaInput.contains(e.target)) {
+      resultBox.innerHTML = "";
     }
   });
 });
