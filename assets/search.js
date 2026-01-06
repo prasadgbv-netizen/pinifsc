@@ -2,6 +2,9 @@ document.addEventListener("DOMContentLoaded", function () {
   const input = document.querySelector(".search-box input");
   const button = document.querySelector(".search-box button");
 
+  // ✅ SAFETY WRAP (prevents JS crash on pages without search box)
+  if (!input || !button) return;
+
   button.addEventListener("click", function () {
     const pin = input.value.trim();
 
