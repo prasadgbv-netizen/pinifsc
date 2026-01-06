@@ -179,7 +179,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (!input || !resultsBox) return;
 
-  fetch("data/area_pin_index.json")
+  fetch("/data/area_pin_index.json")
     .then(res => res.json())
     .then(data => {
       input.addEventListener("input", function () {
