@@ -8,42 +8,34 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   fetch("/data/area_pin_index.json")
-    .then(response => response.json())
+    .then(res => res.json())
     .then(data => {
-
       input.addEventListener("input", function () {
-        const query = this.value.trim().toLowerCase();
-
+        const q = this.value.trim().toLowerCase();
         resultsBox.innerHTML = "";
         resultsBox.style.display = "none";
 
-        if (query.length < 2) return;
+        if (q.length < 2) return;
 
         let shown = 0;
 
         for (const area in data) {
-          if (!data.hasOwnProperty(area)) continue;
+          if (!area.includes(q)) continue;
 
-          if (area.includes(query)) {
-            data[area].forEach(entry => {
-              if (shown >= 12) return;
+          data[area].forEach(obj => {
+            if (shown >= 10) return;
 
-              const pin = entry.pin;
-              if (!pin) return;
+            const div = document.createElement("div");
+            div.innerHTML = `<strong>${area}</strong> — ${obj.pin}`;
+            div.onclick = () => {
+              window.location.href = `/pincode/${obj.pin}.html`;
+            };
 
-              const div = document.createElement("div");
-              div.innerHTML = `<strong>${area}</strong> — ${pin}`;
+            resultsBox.appendChild(div);
+            shown++;
+          });
 
-              div.addEventListener("click", () => {
-                window.location.href = `/pincode/${pin}.html`;
-              });
-
-              resultsBox.appendChild(div);
-              shown++;
-            });
-          }
-
-          if (shown >= 12) break;
+          if (shown >= 10) break;
         }
 
         if (shown > 0) {
@@ -51,13 +43,12 @@ document.addEventListener("DOMContentLoaded", function () {
         }
       });
 
-      // Hide dropdown when clicking outside
+      // Hide dropdown on outside click
       document.addEventListener("click", function (e) {
-        if (!resultsBox.contains(e.target) && e.target !== input) {
+        if (!e.target.closest("#areaInput")) {
           resultsBox.style.display = "none";
         }
       });
-
     })
     .catch(err => {
       console.error("Failed to load area_pin_index.json", err);
