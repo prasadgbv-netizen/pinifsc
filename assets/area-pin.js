@@ -3,13 +3,14 @@ document.addEventListener("DOMContentLoaded", function () {
   const resultsBox = document.getElementById("areaResults");
 
   if (!input || !resultsBox) {
-    console.error("areaInput or areaResults not found");
+    console.error("Missing areaInput or areaResults");
     return;
   }
 
   fetch("/data/area_pin_index.json")
     .then(res => res.json())
     .then(data => {
+
       input.addEventListener("input", function () {
         const q = this.value.trim().toLowerCase();
         resultsBox.innerHTML = "";
@@ -17,40 +18,40 @@ document.addEventListener("DOMContentLoaded", function () {
 
         if (q.length < 2) return;
 
-        let shown = 0;
+        let count = 0;
 
         for (const area in data) {
-          if (!area.includes(q)) continue;
+          if (!area.toLowerCase().includes(q)) continue;
 
-          data[area].forEach(obj => {
-            if (shown >= 10) return;
+          const pins = data[area];
+
+          for (const obj of pins) {
+            if (count >= 10) break;
 
             const div = document.createElement("div");
             div.innerHTML = `<strong>${area}</strong> — ${obj.pin}`;
+
             div.onclick = () => {
               window.location.href = `/pincode/${obj.pin}.html`;
             };
 
             resultsBox.appendChild(div);
-            shown++;
-          });
+            count++;
+          }
 
-          if (shown >= 10) break;
+          if (count >= 10) break;
         }
 
-        if (shown > 0) {
+        if (count > 0) {
           resultsBox.style.display = "block";
         }
       });
 
-      // Hide dropdown on outside click
       document.addEventListener("click", function (e) {
-        if (!e.target.closest("#areaInput")) {
+        if (!e.target.closest(".search-group")) {
           resultsBox.style.display = "none";
         }
       });
     })
-    .catch(err => {
-      console.error("Failed to load area_pin_index.json", err);
-    });
+    .catch(err => console.error("JSON load failed", err));
 });
