@@ -22,18 +22,17 @@
     }
 
     .area-results {
-      position: absolute;
-      top: 100%;
-      left: 0;
-      right: 0;
-      background: #ffffff;
-      border: 1px solid #ddd;
-      border-top: none;
-      z-index: 1000;
-      max-height: 260px;
-      overflow-y: auto;
-      display: none;
-    }
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #ffffff;
+  border: 1px solid #ddd;
+  z-index: 99999;     /* 🔥 CRITICAL */
+  max-height: 260px;
+  overflow-y: auto;
+  display: none;
+}
 
     .area-results div {
       padding: 10px 12px;
@@ -49,6 +48,11 @@
     .area-results strong {
       font-weight: 600;
     }
+
+    .search-group {
+  position: relative; /* 🔥 REQUIRED for dropdown positioning */
+}
+
   </style>
 </head>
 
