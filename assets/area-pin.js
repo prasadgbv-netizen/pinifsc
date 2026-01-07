@@ -1,58 +1,52 @@
-document.addEventListener("DOMContentLoaded", async function () {
+document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("areaInput");
   const resultsBox = document.getElementById("areaResults");
 
   if (!input || !resultsBox) return;
 
-  let areaData = {};
+  fetch("/data/area_pin_index.json")
+    .then(res => res.json())
+    .then(data => {
 
-  try {
-    const res = await fetch("/data/area_pin_index.json");
-    areaData = await res.json();
-  } catch (e) {
-    console.error("Failed to load area PIN index", e);
-    return;
-  }
-
-  input.addEventListener("input", function () {
-    const query = input.value.trim().toLowerCase();
-    resultsBox.innerHTML = "";
-
-    if (query.length < 2) {
-      resultsBox.style.display = "none";
-      return;
-    }
-
-    let matches = Object.keys(areaData).filter(area =>
-      area.includes(query)
-    );
-
-    if (matches.length === 0) {
-      resultsBox.style.display = "none";
-      return;
-    }
-
-    matches.slice(0, 10).forEach(area => {
-      const pin = areaData[area][0]?.pin || "";
-
-      const div = document.createElement("div");
-      div.innerHTML = `<strong>${area}</strong> — PIN ${pin}`;
-
-      div.onclick = () => {
-        input.value = area;
+      input.addEventListener("input", function () {
+        const q = this.value.trim().toLowerCase();
+        resultsBox.innerHTML = "";
         resultsBox.style.display = "none";
-        window.location.href = `/pincode/${pin}.html`;
-      };
 
-      resultsBox.appendChild(div);
-    });
+        if (q.length < 2) return;
 
-    resultsBox.style.display = "block";
-  });
+        let shown = 0;
 
-  document.addEventListener("click", function (e) {
-    if (!e.target.closest(".search-group")) {
-      resultsBox.style.display = "none";
-    }
-  });
+        for (const area in data) {
+          if (!area.includes(q)) continue;
+
+          data[area].forEach(obj => {
+            if (shown >= 10) return;
+
+            const div = document.createElement("div");
+            div.innerHTML = `<strong>${area}</strong> — ${obj.pin}`;
+            div.onclick = () => {
+              window.location.href = `/pincode/${obj.pin}.html`;
+            };
+
+            resultsBox.appendChild(div);
+            shown++;
+          });
+
+          if (shown >= 10) break;
+        }
+
+        if (shown > 0) {
+          resultsBox.style.display = "block";
+        }
+      });
+
+      document.addEventListener("click", e => {
+        if (!e.target.closest(".search-group")) {
+          resultsBox.style.display = "none";
+        }
+      });
+
+    })
+    .catch(err => console.error("Area PIN index load failed", err));
 });
