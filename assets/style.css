@@ -45,20 +45,15 @@ a {
 
 /* HERO */
 .hero {
-  text-align: center;
-  padding: 48px 16px 32px;
+  min-height: calc(100vh - 160px); /* header + footer approx */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .hero h1 {
   font-size: 32px;
   margin-bottom: 10px;
-}
-
-.hero {
-  min-height: calc(100vh - 160px); /* header + footer approx */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
 }
 
 .subtitle {
