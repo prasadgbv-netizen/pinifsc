@@ -435,29 +435,3 @@ main.container {
 .area-results div:hover {
   background: #f1f8ff;
 }
-
-/* === Full-height layout fix === */
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-body {
-  display: flex;
-  flex-direction: column;
-}
-
-/* Header stays at top */
-.header {
-  flex-shrink: 0;
-}
-
-/* Footer stays at bottom */
-.footer {
-  flex-shrink: 0;
-}
-
-/* Main content expands to fill space */
-main.container {
-  flex: 1;
-}
