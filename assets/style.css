@@ -457,3 +457,79 @@ main.container {
   flex-direction: column;
   justify-content: center;
 }
+
+/* =========================
+   SAFE UI POLISH (NON-DESTRUCTIVE)
+   ========================= */
+
+/* Improve overall text rendering */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings polish */
+h1, h2, h3 {
+  letter-spacing: -0.3px;
+}
+
+/* HERO spacing refinement */
+.hero {
+  padding-top: 40px;
+  padding-bottom: 24px;
+}
+
+/* Search card polish */
+.search-card {
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+}
+
+.search-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.1);
+}
+
+/* Input focus improvement */
+.search-group input:focus,
+.pin-row input:focus {
+  outline: none;
+  border-color: #198754;
+  box-shadow: 0 0 0 3px rgba(25, 135, 84, 0.15);
+}
+
+/* Button polish */
+.pin-row button {
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.pin-row button:hover {
+  transform: translateY(-1px);
+}
+
+.pin-row button:active {
+  transform: translateY(0);
+}
+
+/* Dropdown item polish */
+.area-results div {
+  transition: background-color 0.15s ease, padding-left 0.15s ease;
+}
+
+.area-results div:hover {
+  padding-left: 16px;
+}
+
+/* Footer polish */
+.footer {
+  font-size: 13px;
+  letter-spacing: 0.2px;
+}
+
+/* Popular links hover */
+.popular-searches a {
+  transition: color 0.2s ease;
+}
+
+.popular-searches a:hover {
+  color: #084298;
+}
