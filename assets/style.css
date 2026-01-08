@@ -343,3 +343,88 @@ main.container {
 .area-result:hover {
   background: #f5f5f5;
 }
+
+/* REQUIRED FOR DROPDOWN POSITIONING */
+.search-group {
+  position: relative;
+}
+
+/* SEARCH CARD */
+.search-card {
+  max-width: 520px;
+  margin: 30px auto;
+  padding: 28px;
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+/* TITLE */
+.search-title {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 22px;
+}
+
+/* INPUTS */
+.search-group input {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 15px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+/* PIN ROW */
+.pin-row {
+  display: flex;
+  gap: 10px;
+}
+
+/* BUTTON */
+.pin-row button {
+  background: #198754;
+  color: #fff;
+  border: none;
+  padding: 12px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.pin-row button:hover {
+  background: #157347;
+}
+
+/* DIVIDER */
+.search-divider {
+  margin: 16px 0;
+  font-weight: 600;
+  color: #666;
+}
+
+/* DROPDOWN */
+.area-results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-top: none;
+  max-height: 260px;
+  overflow-y: auto;
+  display: none;
+  z-index: 1000;
+}
+
+.area-results div {
+  padding: 10px 12px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.area-results div:hover {
+  background: #f1f8ff;
+}

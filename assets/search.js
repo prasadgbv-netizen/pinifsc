@@ -1,19 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const input = document.querySelector(".search-box input");
-  const button = document.querySelector(".search-box button");
+  const pinInput = document.getElementById("pinInput");
+  const pinBtn = document.getElementById("pinSearchBtn");
 
-  // ✅ SAFETY WRAP (prevents JS crash on pages without search box)
-  if (!input || !button) return;
+  if (!pinInput || !pinBtn) return;
 
-  button.addEventListener("click", function () {
-    const pin = input.value.trim();
+  pinBtn.addEventListener("click", function () {
+    const pin = pinInput.value.trim();
 
     if (!/^\d{6}$/.test(pin)) {
       alert("Please enter a valid 6-digit PIN code");
       return;
     }
 
-    // RELATIVE path (works locally & online)
-    window.location.href = `pincode/${pin}.html`;
+    window.location.href = `/pincode/${pin}.html`;
   });
 });

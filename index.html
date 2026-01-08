@@ -17,7 +17,7 @@
   <style>
     .area-search-box {
       position: relative;
-      max-width: 320px;
+      max-width: 420px;
       margin-top: 12px;
     }
 
@@ -83,39 +83,40 @@
     </p>
 
     <!-- 🔍 REDESIGNED UNIFIED SEARCH CARD -->
-    <section class="search-card">
+    <!-- 🔍 UNIFIED SEARCH CARD -->
+<section class="search-card">
 
-      <h2 class="search-title">Search IFSC by Area or PIN Code</h2>
+  <h2 class="search-title">Search IFSC by Area or PIN Code</h2>
 
-      <!-- Area Search -->
-      <div class="search-group">
-        <label for="areaInput">Search by Area / Locality</label>
-        <input
-          type="text"
-          id="areaInput"
-          placeholder="e.g. Ayodhya, Vijayawada, Satyanarayanapuram"
-          autocomplete="off"
-        />
-        <div id="areaResults" class="area-results"></div>
-      </div>
+  <!-- AREA SEARCH -->
+  <div class="search-group">
+    <label for="areaInput">Search by Area / Locality</label>
+    <input
+      type="text"
+      id="areaInput"
+      placeholder="e.g. Ayodhya, Vijayawada, Satyanarayanapuram"
+      autocomplete="off"
+    />
+    <div id="areaResults" class="area-results"></div>
+  </div>
 
-      <div class="search-divider">OR</div>
+  <div class="search-divider">OR</div>
 
-      <!-- PIN Search -->
-      <div class="search-group pin-search">
-        <label for="pinInput">Search by PIN Code</label>
-        <div class="pin-row">
-          <input
-            type="text"
-            id="pinInput"
-            placeholder="Enter 6-digit PIN Code"
-            maxlength="6"
-          />
-          <button id="pinSearchBtn">Search</button>
-        </div>
-      </div>
+  <!-- PIN SEARCH -->
+  <div class="search-group pin-search">
+    <label for="pinInput">Search by PIN Code</label>
+    <div class="pin-row">
+      <input
+        type="text"
+        id="pinInput"
+        placeholder="Enter 6-digit PIN Code"
+        maxlength="6"
+      />
+      <button id="pinSearchBtn">Search</button>
+    </div>
+  </div>
 
-    </section>
+</section>
 
     <p class="helper-text">
       Example: 530017, 110001, 600001
@@ -174,7 +175,10 @@
 </footer>
 
 <!-- ✅ SINGLE SOURCE OF TRUTH -->
-<script src="/assets/area-pin.js" defer></script>
+</footer>
+
+<script src="assets/search.js"></script>
+<script src="assets/area-pin.js" defer></script>
 
 </body>
 </html>

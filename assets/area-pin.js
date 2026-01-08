@@ -2,10 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const input = document.getElementById("areaInput");
   const resultsBox = document.getElementById("areaResults");
 
-  if (!input || !resultsBox) {
-    console.error("Missing areaInput or areaResults");
-    return;
-  }
+  if (!input || !resultsBox) return;
 
   fetch("/data/area_pin_index.json")
     .then(res => res.json())
@@ -14,44 +11,40 @@ document.addEventListener("DOMContentLoaded", function () {
       input.addEventListener("input", function () {
         const q = this.value.trim().toLowerCase();
         resultsBox.innerHTML = "";
-        resultsBox.style.display = "none";
 
-        if (q.length < 2) return;
+        if (q.length < 2) {
+          resultsBox.style.display = "none";
+          return;
+        }
 
-        let count = 0;
+        let shown = 0;
 
         for (const area in data) {
-          if (!area.toLowerCase().includes(q)) continue;
+          if (area.includes(q)) {
+            data[area].forEach(obj => {
+              if (shown >= 8) return;
 
-          const pins = data[area];
+              const div = document.createElement("div");
+              div.innerHTML = `<strong>${area}</strong> — ${obj.pin}`;
+              div.onclick = () => {
+                window.location.href = `/pincode/${obj.pin}.html`;
+              };
 
-          for (const obj of pins) {
-            if (count >= 10) break;
-
-            const div = document.createElement("div");
-            div.innerHTML = `<strong>${area}</strong> — ${obj.pin}`;
-
-            div.onclick = () => {
-              window.location.href = `/pincode/${obj.pin}.html`;
-            };
-
-            resultsBox.appendChild(div);
-            count++;
+              resultsBox.appendChild(div);
+              shown++;
+            });
           }
-
-          if (count >= 10) break;
         }
 
-        if (count > 0) {
-          resultsBox.style.display = "block";
-        }
+        resultsBox.style.display = shown ? "block" : "none";
       });
 
-      document.addEventListener("click", function (e) {
+      document.addEventListener("click", e => {
         if (!e.target.closest(".search-group")) {
           resultsBox.style.display = "none";
         }
       });
+
     })
-    .catch(err => console.error("JSON load failed", err));
+    .catch(err => console.error("Area PIN index failed", err));
 });
