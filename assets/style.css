@@ -95,6 +95,18 @@ a {
   color: #666;
 }
 
+/* Adjust spacing for "Use My Location" block */
+.use-location-wrapper {
+  margin-top: 10px;     /* move UP */
+  margin-bottom: 16px;  /* balance spacing before Popular Searches */
+  text-align: center;
+}
+
+/* If button itself needs adjustment */
+.use-location-wrapper button {
+  margin-top: 0;
+}
+
 /* LANGUAGE */
 .language-section {
   text-align: center;
