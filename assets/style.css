@@ -602,3 +602,18 @@ h1, h2, h3 {
 .popular-searches li {
   margin-bottom: 6px;
 }
+
+/* Move "Use My Location" block upward (between helper text & popular searches) */
+.helper-text {
+  margin-bottom: 12px;   /* reduce gap BELOW helper text */
+}
+
+.popular-searches {
+  margin-top: 18px;      /* pull Popular Searches UP */
+}
+
+/* Center & tighten Use My Location button and caption */
+button {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
