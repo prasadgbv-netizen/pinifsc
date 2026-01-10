@@ -15,3 +15,16 @@ document.addEventListener("DOMContentLoaded", function () {
     window.location.href = `/pincode/${pin}.html`;
   });
 });
+// 🔹 AUTO SEARCH WHEN 6-DIGIT PIN IS ENTERED
+document.addEventListener("DOMContentLoaded", function () {
+  const pinInput = document.getElementById("pinInput");
+  const pinBtn = document.getElementById("pinSearchBtn");
+
+  if (!pinInput || !pinBtn) return;
+
+  pinInput.addEventListener("input", function () {
+    if (/^\d{6}$/.test(this.value)) {
+      pinBtn.click();
+    }
+  });
+});
