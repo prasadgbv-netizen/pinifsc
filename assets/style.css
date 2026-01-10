@@ -558,3 +558,30 @@ h1, h2, h3 {
   background: linear-gradient(90deg, #084298, #0b5ed7);
 }
 
+/* Use My Location button */
+.location-search {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.location-btn {
+  background: #198754;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.location-btn:hover {
+  background: #157347;
+}
+
+/* Caption under location button */
+.location-note {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #666;
+}
