@@ -48,3 +48,38 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch(err => console.error("Area PIN index failed", err));
 });
+
+// ===============================
+// 📍 USE MY LOCATION (STEP 3.2)
+// ===============================
+document.addEventListener("DOMContentLoaded", function () {
+  const locationBtn = document.getElementById("useLocationBtn");
+
+  if (!locationBtn) return;
+
+  locationBtn.addEventListener("click", function () {
+    if (!navigator.geolocation) {
+      alert("Geolocation is not supported by your browser.");
+      return;
+    }
+
+    locationBtn.disabled = true;
+    locationBtn.innerText = "Detecting location...";
+
+    navigator.geolocation.getCurrentPosition(
+      position => {
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
+
+        // Redirect to Google Maps search near user
+        window.location.href =
+          `https://www.google.com/maps/search/bank+near+me/@${lat},${lon},15z`;
+      },
+      error => {
+        alert("Unable to access your location. Please allow location access.");
+        locationBtn.disabled = false;
+        locationBtn.innerText = "📍 Use My Location";
+      }
+    );
+  });
+});
