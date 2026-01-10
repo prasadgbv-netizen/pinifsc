@@ -605,7 +605,7 @@ h1, h2, h3 {
 
 /* Move "Use My Location" block upward (between helper text & popular searches) */
 .helper-text {
-  margin-bottom: 12px;   /* reduce gap BELOW helper text */
+  margin-bottom: 6px;   /* reduce gap BELOW helper text */
 }
 
 .popular-searches {
