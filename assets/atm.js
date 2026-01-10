@@ -52,14 +52,19 @@ document.addEventListener("DOMContentLoaded", () => {
 
       atms.slice(0, 10).forEach(atm => {
         const li = document.createElement("li");
-        const mapUrl = `https://www.google.com/maps?q=${atm.lat},${atm.lon}`;
+
+        /* ===== STEP 1: HUMAN-READABLE MAP QUERY (ADDED) ===== */
+        const mapQuery = `${atm.name || "ATM"}, ${atm.area || ""}, ${pin}, India`;
+        const mapUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(mapQuery)}`;
+        /* ================================================== */
+
         const cards = getCardBadges(atm.operator);
 
         li.innerHTML = `
           <strong>${atm.name || "ATM"}</strong><br>
           <span class="atm-distance">${atm.distance_m} meters away</span><br>
           <span class="atm-cards">${cards}</span><br>
-          <a href="${mapUrl}" target="_blank" rel="noopener">📍 View on Map</a>
+          <a href="${mapUrl}" target="_blank" rel="noopener noreferrer">📍 View on Map</a>
         `;
         list.appendChild(li);
       });
