@@ -139,8 +139,10 @@ for pin, branches in pin_data.items():
 <header class="header">
   <div class="container">
     <div class="logo">
-      <span class="logo-main">PinIFSC</span>
-      <span class="logo-tag">India</span>
+      <a href="/" class="logo-link">
+        <span class="logo-main">PinIFSC</span>
+        <span class="logo-tag">India</span>
+      </a>
       <div class="logo-caption">Dedicated Banking Services</div>
     </div>
   </div>
@@ -260,8 +262,10 @@ for ifsc, info in ifsc_data.items():
 <header class="header">
   <div class="container">
     <div class="logo">
-      <span class="logo-main">PinIFSC</span>
-      <span class="logo-tag">India</span>
+      <a href="/" class="logo-link">
+        <span class="logo-main">PinIFSC</span>
+        <span class="logo-tag">India</span>
+      </a>
       <div class="logo-caption">Dedicated Banking Services</div>
     </div>
   </div>
