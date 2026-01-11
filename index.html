@@ -184,5 +184,19 @@
 <script src="assets/search.js"></script>
 <script src="assets/area-pin.js" defer></script>
 
+<script>
+  let idleTimer;
+  function resetTimer() {
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(() => {
+      location.reload();
+    }, 60000);
+  }
+
+  window.onload = resetTimer;
+  document.onmousemove = resetTimer;
+  document.onkeydown = resetTimer;
+</script>
+
 </body>
 </html>
