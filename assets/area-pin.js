@@ -83,3 +83,26 @@ document.addEventListener("DOMContentLoaded", function () {
     );
   });
 });
+
+document.addEventListener("DOMContentLoaded", function () {
+  const locationBtn = document.getElementById("useLocationBtn");
+
+  if (!locationBtn) return;
+
+  let resetTimer = null;
+
+  locationBtn.addEventListener("click", function () {
+    // Change button text immediately
+    locationBtn.innerText = "📍 Detecting Location...";
+    locationBtn.disabled = true;
+
+    // Clear any previous timer
+    if (resetTimer) clearTimeout(resetTimer);
+
+    // FORCE reset after 30 seconds (MANDATORY)
+    resetTimer = setTimeout(() => {
+      locationBtn.innerText = "📍 Use My Location";
+      locationBtn.disabled = false;
+    }, 30000);
+  });
+});
