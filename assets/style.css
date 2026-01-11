@@ -95,12 +95,6 @@ a {
   color: #666;
 }
 
-/* Move Use My Location button slightly upward */
-button.use-location-btn {
-  margin-top: 8px !important;
-  margin-bottom: 14px;
-}
-
 /* LANGUAGE */
 .language-section {
   text-align: center;
@@ -601,6 +595,14 @@ h1, h2, h3 {
 
 .popular-searches li {
   margin-bottom: 6px;
+}
+
+.logo-caption {
+  font-size: 13px;
+  font-weight: 400;
+  margin-top: 2px;
+  opacity: 0.85;
+  letter-spacing: 0.3px;
 }
 
 /* Move "Use My Location" block upward (between helper text & popular searches) */
