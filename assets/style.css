@@ -605,6 +605,16 @@ h1, h2, h3 {
   letter-spacing: 0.3px;
 }
 
+.logo-link {
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.logo-link:hover {
+  text-decoration: underline;
+}
+
 /* Move "Use My Location" block upward (between helper text & popular searches) */
 .helper-text {
   margin-bottom: 6px;   /* reduce gap BELOW helper text */
