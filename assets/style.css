@@ -739,11 +739,6 @@ h1, h2, h3 {
   color: #6b7280;
 }
 
-/* SEARCH CARD */
-.search-card { ... }
-
-/* BUTTON */
-.pin-row button { ... }
 
 /* Move "Use My Location" block upward (between helper text & popular searches) */
 .helper-text {
