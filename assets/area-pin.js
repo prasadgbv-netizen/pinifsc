@@ -103,6 +103,6 @@ document.addEventListener("DOMContentLoaded", function () {
     resetTimer = setTimeout(() => {
       locationBtn.innerText = "📍 Use My Location";
       locationBtn.disabled = false;
-    }, 30000);
+    }, 15000);
   });
 });
