@@ -139,7 +139,9 @@ for pin, branches in pin_data.items():
 <header class="header">
   <div class="container">
     <div class="logo">
-      <a href="/" style="color:#fff;text-decoration:none;">PinIFSC India</a>
+      <span class="logo-main">PinIFSC</span>
+      <span class="logo-tag">India</span>
+      <div class="logo-caption">Dedicated Banking Services</div>
     </div>
   </div>
 </header>
@@ -158,7 +160,18 @@ for pin, branches in pin_data.items():
 {rows}
 </table>
 
-<section class="atm-section" data-pin="{pin_clean}"></section>
+<section class="atm-section" data-pin="{pin_clean}">
+  <h2 class="atm-title">ATMs near this location (within 3 km)</h2>
+
+  <ul class="atm-list" id="atm-list">
+    <li class="atm-loading">Loading nearby ATMs…</li>
+  </ul>
+
+  <p class="atm-note">
+    ATM locations are based on public map data near this PIN code.
+    Availability of cash may vary.
+  </p>
+</section>
 
 </main>
 
@@ -247,7 +260,9 @@ for ifsc, info in ifsc_data.items():
 <header class="header">
   <div class="container">
     <div class="logo">
-      <a href="/" style="color:#fff;text-decoration:none;">PinIFSC India</a>
+      <span class="logo-main">PinIFSC</span>
+      <span class="logo-tag">India</span>
+      <div class="logo-caption">Dedicated Banking Services</div>
     </div>
   </div>
 </header>
@@ -264,7 +279,18 @@ for ifsc, info in ifsc_data.items():
   <a href="../pincode/{pin_clean}.html">{pin_clean}</a>
 </p>
 
-<section class="atm-section" data-pin="{pin_clean}"></section>
+<section class="atm-section" data-pin="{pin_clean}">
+  <h2 class="atm-title">ATMs near this location (within 3 km)</h2>
+
+  <ul class="atm-list" id="atm-list">
+    <li class="atm-loading">Loading nearby ATMs…</li>
+  </ul>
+
+  <p class="atm-note">
+    ATM locations are based on public map data near this PIN code.
+    Availability of cash may vary.
+  </p>
+</section>
 
 {map_block}
 
