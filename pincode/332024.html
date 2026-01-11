@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Punjab National Bank</td>
           <td>DADIYA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0981600.html">
               PUNB0981600
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0981600">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.6938333,75.1895556" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Rajasthan Marudhara Gramin Bank</td>
           <td>TARPURA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RMGB0001516.html">
               RMGB0001516
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RMGB0001516">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.6938333,75.1895556" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

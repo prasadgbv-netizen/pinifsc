@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Bank</td>
           <td>RASHTRAPATI BHAWAN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000R112.html">
               IDIB000R112
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000R112">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.6210833,77.1961389" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>PRESIDENT ESTATE</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0063867.html">
               SBIN0063867
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0063867">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.6210833,77.1961389" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>BETTAGERE</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0004258.html">
               ICIC0004258
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0004258">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.1210643,75.5244888" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Karnataka Bank</td>
           <td>BANKAL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/KARB0000069.html">
               KARB0000069
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="KARB0000069">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.1210643,75.5244888" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

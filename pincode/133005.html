@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>HDFC Bank</td>
           <td>BABIYAL ROAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/HDFC0006535.html">
               HDFC0006535
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="HDFC0006535">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=30.3569444,76.8783333" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>BABYAL - DISTT. AMBALA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0154010.html">
               PUNB0154010
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0154010">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=30.3569444,76.8783333" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

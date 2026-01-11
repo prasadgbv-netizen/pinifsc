@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Gujarat State Co-operative Bank</td>
           <td>THE MEHSANA DIST CENTRAL CO OP BANK LTD MANUD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/GSCB0MSN021.html">
               GSCB0MSN021
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="GSCB0MSN021">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.5934000,72.2607000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>RANGPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0060265.html">
               SBIN0060265
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0060265">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.5934000,72.2607000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

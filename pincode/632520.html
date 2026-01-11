@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Federal Bank</td>
           <td>MATHANDAKUPPAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/FDRL0002393.html">
               FDRL0002393
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="FDRL0002393">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.0453800,79.2593100" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>MELPADI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000M075.html">
               IDIB000M075
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000M075">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.0453800,79.2593100" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

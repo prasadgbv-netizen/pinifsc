@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>KAVATHE PIRAN DIGRAJ EX</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0006382.html">
               ICIC0006382
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0006382">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=16.8794792,74.4632958" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Union Bank of India</td>
           <td>KAVATHE PIRAN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UBIN0919659.html">
               UBIN0919659
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UBIN0919659">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=16.8794792,74.4632958" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

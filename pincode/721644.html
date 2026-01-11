@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Bank</td>
           <td>ANNAPURNA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000A642.html">
               IDIB000A642
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000A642">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=22.7639000,88.1081000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Tamluk-ghatal Central Co-operative Bank</td>
           <td>TAMLUK GHATAL CCB LTD, BALAIPANDA BRANCH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/WBSC0TCCB24.html">
               WBSC0TCCB24
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="WBSC0TCCB24">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=22.7639000,88.1081000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Andhra Pradesh State Co-operative Bank</td>
           <td>VEMURU</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/APBL0007033.html">
               APBL0007033
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="APBL0007033">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Central Bank of India</td>
           <td>BRANCH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0280838.html">
               CBIN0280838
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0280838">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

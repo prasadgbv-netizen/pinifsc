@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Rajasthan Marudhara Gramin Bank</td>
           <td>DOWADA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RMGB0001236.html">
               RMGB0001236
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RMGB0001236">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.8732080,73.8272030" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>VASSI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0031615.html">
               SBIN0031615
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0031615">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.8732080,73.8272030" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

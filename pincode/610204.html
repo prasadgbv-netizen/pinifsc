@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Bank</td>
           <td>ETTUGUDI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000E026.html">
               IDIB000E026
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000E026">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=10.6400000,79.7400000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>TIRUKKUVALAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0009754.html">
               SBIN0009754
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0009754">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=10.6400000,79.7400000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

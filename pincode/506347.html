@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>PASRANAGARAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0006774.html">
               CNRB0006774
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0006774">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.045511999999999,80.308790999999999" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>TELANGANA GRAMEENA BANK</td>
           <td>PASARA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/TGRB0005135.html">
               TGRB0005135
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="TGRB0005135">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.045511999999999,80.308790999999999" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

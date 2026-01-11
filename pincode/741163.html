@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bandhan Bank</td>
           <td>BETAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BDBL0002164.html">
               BDBL0002164
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BDBL0002164">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.8500000,88.5500000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>BETAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0005617.html">
               SBIN0005617
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0005617">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.8500000,88.5500000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

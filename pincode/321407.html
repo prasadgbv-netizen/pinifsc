@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>ITAMADA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0ITAMAD.html">
               BARB0ITAMAD
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0ITAMAD">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.1232180,77.0805500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>BACHHREN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0873100.html">
               PUNB0873100
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0873100">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.1232180,77.0805500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -121,10 +132,15 @@
         <tr>
           <td>Rajasthan Marudhara Gramin Bank</td>
           <td>CHHOKARWARA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RMGB0001543.html">
               RMGB0001543
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RMGB0001543">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.1232180,77.0805500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -156,6 +172,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

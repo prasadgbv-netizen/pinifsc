@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>SALWAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0003058.html">
               ICIC0003058
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0003058">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.8034749,72.7244940" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>NPCIL TMS TARAPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0011488.html">
               SBIN0011488
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0011488">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.8034749,72.7244940" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

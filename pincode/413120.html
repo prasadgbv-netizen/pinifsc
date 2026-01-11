@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Catholic Syrian Bank</td>
           <td>VARKUTE KH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CSBK0000450.html">
               CSBK0000450
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CSBK0000450">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.1064000,74.9218500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>ICICI Bank</td>
           <td>KATHI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0002937.html">
               ICIC0002937
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0002937">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.1064000,74.9218500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

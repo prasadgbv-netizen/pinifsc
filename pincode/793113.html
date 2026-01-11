@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>MAWSYNRAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0001730.html">
               SBIN0001730
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0001730">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Meghalaya Co-operative Apex Bank</td>
           <td>MEGHALAYA COOP APEX BANK MAWSYNRAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/YESB0MCA024.html">
               YESB0MCA024
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="YESB0MCA024">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

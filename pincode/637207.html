@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Bank</td>
           <td>PARAMATHI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000P021.html">
               IDIB000P021
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000P021">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.1540083,78.0783000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Union Bank of India</td>
           <td>KEERAMBUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UBIN0903825.html">
               UBIN0903825
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UBIN0903825">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.1540083,78.0783000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

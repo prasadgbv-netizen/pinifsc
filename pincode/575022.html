@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>MANGALORE DERALAKATTE</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0004962.html">
               ICIC0004962
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0004962">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.801210,74.856991" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>BEERI MANGALORE</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0032688.html">
               SBIN0032688
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0032688">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.801210,74.856991" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

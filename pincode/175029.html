@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Himachal Pradesh State Co-operative Bank</td>
           <td>GOHAR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/HPSC0000310.html">
               HPSC0000310
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="HPSC0000310">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.580229,77.036275" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>BASSA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0982600.html">
               PUNB0982600
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0982600">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.580229,77.036275" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

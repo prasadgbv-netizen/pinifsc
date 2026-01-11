@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>INDUSTRIAL ESTATE KAKATI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0015454.html">
               SBIN0015454
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0015454">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.852388899999999,74.510805599999998" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Union Bank of India</td>
           <td>KAKTI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UBIN0533203.html">
               UBIN0533203
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UBIN0533203">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.852388899999999,74.510805599999998" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

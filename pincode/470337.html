@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>MPGB KARRAPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0MG1628.html">
               BKID0MG1628
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0MG1628">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.9412720,78.9684180" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>KARRAPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000K610.html">
               IDIB000K610
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000K610">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.9412720,78.9684180" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>CHAINPUR MOBARAKPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0007855.html">
               CNRB0007855
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0007855">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.226972199999999,84.356416699999997" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>CHAINPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0006018.html">
               SBIN0006018
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0006018">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.226972199999999,84.356416699999997" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

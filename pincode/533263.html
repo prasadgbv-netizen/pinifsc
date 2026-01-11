@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Overseas Bank</td>
           <td>DUGGUDURRU</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IOBA0003222.html">
               IOBA0003222
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IOBA0003222">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=16.7290556,81.9650000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>South Indian Bank</td>
           <td>KAJULURU</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SIBL0000249.html">
               SIBL0000249
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SIBL0000249">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=16.7290556,81.9650000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

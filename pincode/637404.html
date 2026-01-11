@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Bank</td>
           <td>NADUKOMBAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000N155.html">
               IDIB000N155
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000N155">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.3121890,78.2371330" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Overseas Bank</td>
           <td>THIRUMALAIPATTI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IOBA0000938.html">
               IOBA0000938
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IOBA0000938">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.3121890,78.2371330" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

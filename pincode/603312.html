@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>PAVINJUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0005628.html">
               SBIN0005628
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0005628">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.4446026,80.005971" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>South Indian Bank</td>
           <td>THIRUVATHUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SIBL0000908.html">
               SIBL0000908
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SIBL0000908">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.4446026,80.005971" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

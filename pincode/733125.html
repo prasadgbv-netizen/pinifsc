@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bandhan Bank</td>
           <td>HARIRAMPUR BRANCH DAKSHIN DINAJPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BDBL0002210.html">
               BDBL0002210
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BDBL0002210">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=25.3823890,88.2700950" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>HARIRAMPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0012413.html">
               SBIN0012413
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0012413">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=25.3823890,88.2700950" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>DIBAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0008198.html">
               CNRB0008198
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0008198">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.2352883,78.3541059" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>HDFC Bank</td>
           <td>DIBAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/HDFC0005474.html">
               HDFC0005474
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="HDFC0005474">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.2352883,78.3541059" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

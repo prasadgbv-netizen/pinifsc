@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>ANNAPURNA ANOGI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0007634.html">
               BKID0007634
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0007634">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.0884170,79.8193440" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>JALALABAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0003544.html">
               SBIN0003544
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0003544">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.0884170,79.8193440" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

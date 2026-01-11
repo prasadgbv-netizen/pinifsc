@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>MUSTAFABAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0018147.html">
               CNRB0018147
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0018147">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.4329500,75.2497500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>SUBHANPUR, DISTT. KAPURTHALA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0180910.html">
               PUNB0180910
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0180910">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.4329500,75.2497500" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

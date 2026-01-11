@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>EDAKKAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0VJEDAK.html">
               BARB0VJEDAK
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0VJEDAK">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.7533680,75.4909120" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Kerala Gramin Bank</td>
           <td>EDAKKAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/KLGB0040502.html">
               KLGB0040502
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="KLGB0040502">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=11.7533680,75.4909120" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

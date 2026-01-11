@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Rajasthan State Co-operative Bank</td>
           <td>S M K SAHAKARI BANK LTD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RSCB0030003.html">
               RSCB0030003
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RSCB0030003">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.6882730,76.6342470" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>NADOTI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0031083.html">
               SBIN0031083
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0031083">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.6882730,76.6342470" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

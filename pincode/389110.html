@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>SULIYAT</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0SULIYA.html">
               BARB0SULIYA
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0SULIYA">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.0528100,73.8611850" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Gujarat State Co-operative Bank</td>
           <td>THE PANCHMAHAL DISTRICT CO OP BANK LTD.MORAMETRAL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/GSCB0PDC005.html">
               GSCB0PDC005
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="GSCB0PDC005">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.0528100,73.8611850" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

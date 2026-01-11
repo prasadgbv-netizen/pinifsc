@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>BHAWNATHPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0002919.html">
               SBIN0002919
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0002919">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=24.384139999999999,83.612139999999997" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -134,6 +140,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

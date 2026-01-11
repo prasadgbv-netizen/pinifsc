@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Punjab National Bank</td>
           <td>MAU</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0594600.html">
               PUNB0594600
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0594600">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.5274700,75.8066000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>UCO Bank</td>
           <td>PARTABPURA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UCBA0000559.html">
               UCBA0000559
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UCBA0000559">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=31.5274700,75.8066000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

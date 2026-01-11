@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>BALLOLLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0VJBALO.html">
               BARB0VJBALO
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0VJBALO">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.1108717,75.6897497" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>RBL Bank</td>
           <td>INCHAGERI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RATN0000129.html">
               RATN0000129
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RATN0000129">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.1108717,75.6897497" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

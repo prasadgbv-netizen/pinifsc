@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>GOWRAMPETA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0283001.html">
               CBIN0283001
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0283001">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.3384722,82.3173333" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -134,6 +140,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

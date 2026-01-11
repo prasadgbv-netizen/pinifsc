@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Chhattisgarh Rajya Gramin Bank</td>
           <td>SARSIWA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CRGB0000134.html">
               CRGB0000134
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CRGB0000134">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.237839999999998,81.705420000000004" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>PENDRAVAN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000P116.html">
               IDIB000P116
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000P116">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.237839999999998,81.705420000000004" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

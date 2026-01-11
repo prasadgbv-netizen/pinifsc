@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>KATHIATOLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0283223.html">
               CBIN0283223
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0283223">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.1835000,92.7362000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>KATHIATALI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0061677.html">
               SBIN0061677
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0061677">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.1835000,92.7362000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

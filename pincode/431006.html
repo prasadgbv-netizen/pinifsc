@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>AURANGABAD RO II</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0006950.html">
               CNRB0006950
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0006950">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.8730451,75.3765221" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>HDFC Bank</td>
           <td>PROZONE MALL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/HDFC0010880.html">
               HDFC0010880
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="HDFC0010880">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.8730451,75.3765221" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

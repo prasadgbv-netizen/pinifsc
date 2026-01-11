@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>MADANUR ,ETTAMUKKALA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0281955.html">
               CBIN0281955
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0281955">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.3745000,80.1136389" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>ETHAMUKKALA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000E012.html">
               IDIB000E012
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000E012">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.3745000,80.1136389" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

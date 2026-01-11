@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>NEULPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0282483.html">
               CBIN0282483
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0282483">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=20.7330006,86.099037600000003" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>ARUHA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000A657.html">
               IDIB000A657
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000A657">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=20.7330006,86.099037600000003" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

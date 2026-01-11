@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Rajasthan Marudhara Gramin Bank</td>
           <td>UCHCHAIN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/RMGB0001382.html">
               RMGB0001382
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="RMGB0001382">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.3990000,77.5820000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>UCHCHAIN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0032375.html">
               SBIN0032375
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0032375">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=27.3990000,77.5820000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

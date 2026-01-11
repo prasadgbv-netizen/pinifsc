@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>BRANCH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0280929.html">
               CBIN0280929
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0280929">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=8.9865000,77.6055000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Tamilnad Mercantile Bank</td>
           <td>KAZHUGUMALAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/TMBL0000393.html">
               TMBL0000393
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="TMBL0000393">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=8.9865000,77.6055000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

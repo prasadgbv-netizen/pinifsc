@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>MARTOLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0002226.html">
               BKID0002226
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0002226">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.4426750,72.1941830" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indusind Bank</td>
           <td>SANTHAL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/INDB0000636.html">
               INDB0000636
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="INDB0000636">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.4426750,72.1941830" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

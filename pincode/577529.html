@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Overseas Bank</td>
           <td>KONDLAHALLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IOBA0000311.html">
               IOBA0000311
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IOBA0000311">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=14.5262210,76.6629290" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Karnataka Gramin Bank</td>
           <td>KONDLAHALLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PKGB0010957.html">
               PKGB0010957
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PKGB0010957">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=14.5262210,76.6629290" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

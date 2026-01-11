@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Indian Overseas Bank</td>
           <td>PERIYANAHALLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IOBA0000768.html">
               IOBA0000768
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IOBA0000768">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.0598171,78.1243650" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Tamilnad Mercantile Bank</td>
           <td>PERIYANAHALLI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/TMBL0000538.html">
               TMBL0000538
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="TMBL0000538">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.0598171,78.1243650" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

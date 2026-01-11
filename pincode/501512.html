@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>ABDULLAPURMET</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0063996.html">
               SBIN0063996
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0063996">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.249441,78.682026" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>TELANGANA GRAMEENA BANK</td>
           <td>BATASINGARAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/TGRB0000386.html">
               TGRB0000386
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="TGRB0000386">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.249441,78.682026" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

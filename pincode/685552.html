@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Canara Bank</td>
           <td>THOOKKUPALAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CNRB0007799.html">
               CNRB0007799
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CNRB0007799">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=9.79470,77.19733" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Kerala State Co-operative Bank</td>
           <td>MUNDIYERUMA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/KSBK0001367.html">
               KSBK0001367
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="KSBK0001367">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=9.79470,77.19733" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

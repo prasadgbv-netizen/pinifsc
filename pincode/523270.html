@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Andhra Pradesh State Co-operative Bank</td>
           <td>KONDAPI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/APBL0008013.html">
               APBL0008013
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="APBL0008013">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.4005420,79.8522120" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>KONDAPI ADB</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0003367.html">
               SBIN0003367
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0003367">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.4005420,79.8522120" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

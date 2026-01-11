@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Federal Bank</td>
           <td>THIRUPALAIVANAM  PONNERI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/FDRL0002600.html">
               FDRL0002600
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="FDRL0002600">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.4163560,80.3173730" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Bank</td>
           <td>PULICAT</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDIB000P054.html">
               IDIB000P054
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDIB000P054">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=13.4163560,80.3173730" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>UTTAN, THANE</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0DBUTAN.html">
               BARB0DBUTAN
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0DBUTAN">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.2819167,72.7861667" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indusind Bank</td>
           <td>MIRA ROAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/INDB0000600.html">
               INDB0000600
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="INDB0000600">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=19.2819167,72.7861667" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

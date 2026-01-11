@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>City Union Bank</td>
           <td>ALAMBADI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CIUB0000900.html">
               CIUB0000900
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CIUB0000900">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=10.9100000,79.0000000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Indian Overseas Bank</td>
           <td>KULAMANICKAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IOBA0000790.html">
               IOBA0000790
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IOBA0000790">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=10.9100000,79.0000000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>VADOLI NILESHWAR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0DBVDOL.html">
               BARB0DBVDOL
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0DBVDOL">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.2865090,74.1814190" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -134,6 +140,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

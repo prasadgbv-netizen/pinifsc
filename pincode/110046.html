@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>NANGALRAYA, DELHI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0NANGAL.html">
               BARB0NANGAL
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0NANGAL">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.6110556,77.1088056" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>NEW DELHI-LAJWANTI GARDEN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0161010.html">
               PUNB0161010
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0161010">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.6110556,77.1088056" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -121,10 +132,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>SAGARPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0061203.html">
               SBIN0061203
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0061203">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.6110556,77.1088056" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -156,6 +172,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>KUNDA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0005923.html">
               BKID0005923
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0005923">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=24.483308000000001,86.699991999999995" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>UCO Bank</td>
           <td>CHANDDIH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UCBA0002475.html">
               UCBA0002475
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UCBA0002475">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=24.483308000000001,86.699991999999995" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

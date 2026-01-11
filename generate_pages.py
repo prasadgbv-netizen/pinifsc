@@ -193,30 +193,10 @@ for pin, branches in pin_data.items():
 </footer>
 
 <script src="/assets/atm.js" defer></script>
-
-<script>
-document.addEventListener("click", function (e) {
-  if (!e.target.classList.contains("copy-ifsc-btn")) return;
-
-  const btn = e.target;
-  const ifsc = btn.dataset.ifsc;
-
-  navigator.clipboard.writeText(ifsc).then(() => {
-    const originalText = btn.innerHTML;
-    btn.innerHTML = "✅ Copied";
-    btn.classList.add("copied");
-
-    setTimeout(() => {
-      btn.innerHTML = originalText;
-      btn.classList.remove("copied");
-    }, 1500);
-  });
-});
-</script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>
-
 """
 
     with open(f"{PIN_DIR}/{pin_clean}.html", "w", encoding="utf-8") as f:
@@ -337,30 +317,10 @@ for ifsc, info in ifsc_data.items():
 </footer>
 
 <script src="/assets/atm.js" defer></script>
-
-<script>
-document.addEventListener("click", function (e) {
-  if (!e.target.classList.contains("copy-ifsc-btn")) return;
-
-  const btn = e.target;
-  const ifsc = btn.dataset.ifsc;
-
-  navigator.clipboard.writeText(ifsc).then(() => {
-    const originalText = btn.innerHTML;
-    btn.innerHTML = "✅ Copied";
-    btn.classList.add("copied");
-
-    setTimeout(() => {
-      btn.innerHTML = originalText;
-      btn.classList.remove("copied");
-    }, 1500);
-  });
-});
-</script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>
-
 """
 
     with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:

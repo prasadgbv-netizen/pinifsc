@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>State Bank of India</td>
           <td>KAPURA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0007681.html">
               SBIN0007681
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0007681">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.0478990,73.3835030" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Surat District Co-operative Bank</td>
           <td>KAPURA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SDCB0000084.html">
               SDCB0000084
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SDCB0000084">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.0478990,73.3835030" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

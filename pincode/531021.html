@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Maharashtra</td>
           <td>PARAVADA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/MAHB0002845.html">
               MAHB0002845
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="MAHB0002845">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.6251944,83.0797778" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>LANKELAPALEM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0011704.html">
               SBIN0011704
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0011704">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.6251944,83.0797778" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

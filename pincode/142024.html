@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Punjab & Sind Bank</td>
           <td>SIDHWAN KALAN</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PSIB0021176.html">
               PSIB0021176
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PSIB0021176">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=30.8294722,75.5528056" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Punjab National Bank</td>
           <td>SIDHWAN KHURD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/PUNB0098010.html">
               PUNB0098010
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="PUNB0098010">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=30.8294722,75.5528056" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Maharashtra</td>
           <td>TAKALI SIKUNDAR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/MAHB0000488.html">
               MAHB0000488
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="MAHB0000488">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.6391500,75.9481000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Bank of Maharashtra</td>
           <td>PENNUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/MAHB0000580.html">
               MAHB0000580
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="MAHB0000580">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.6391500,75.9481000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

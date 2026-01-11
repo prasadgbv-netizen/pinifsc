@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>PEDDAMUL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0VJPEDD.html">
               BARB0VJPEDD
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0VJPEDD">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.4296938,77.5856902" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Axis Bank</td>
           <td>MUMBAPUR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UTIB0002059.html">
               UTIB0002059
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UTIB0002059">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=17.4296938,77.5856902" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

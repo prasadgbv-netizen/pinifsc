@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Union Bank of India</td>
           <td>TFRI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UBIN0564885.html">
               UBIN0564885
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UBIN0564885">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.0919999,80.0022000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>UCO Bank</td>
           <td>NARRAI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UCBA0001465.html">
               UCBA0001465
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UCBA0001465">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.0919999,80.0022000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

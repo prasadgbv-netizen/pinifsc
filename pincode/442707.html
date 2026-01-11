@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>ASHTI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0009668.html">
               BKID0009668
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0009668">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Maharashtra Gramin Bank</td>
           <td>ASHTI CHARMORSHI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/MAHG0006906.html">
               MAHG0006906
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="MAHG0006906">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=NA,NA" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

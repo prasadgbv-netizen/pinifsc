@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of Baroda</td>
           <td>BRANCH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BARB0WARGAL.html">
               BARB0WARGAL
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BARB0WARGAL">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.06090228797812,77.94299244652765" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Telangana State Co-operative Apex Bank</td>
           <td>THE MEDAK DISTRICT CO OPERATIVE CENTRAL BANK LTD, SHANKARAMPET</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/TSAB0017016.html">
               TSAB0017016
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="TSAB0017016">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=18.06090228797812,77.94299244652765" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

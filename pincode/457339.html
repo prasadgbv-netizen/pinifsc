@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Bank of India</td>
           <td>MPGB DHODHA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/BKID0MG1448.html">
               BKID0MG1448
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="BKID0MG1448">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.3300000,75.0300000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Smriti Nagrik Sahakari Bank</td>
           <td>DHODHAR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SMNB0000012.html">
               SMNB0000012
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SMNB0000012">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=23.3300000,75.0300000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

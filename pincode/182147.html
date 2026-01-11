@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>MUND DHAR BC OUTLET</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0004569.html">
               ICIC0004569
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0004569">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=33.0930000,75.2700000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Jammu and Kashmir Bank</td>
           <td>DANDAL  DODA</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/JAKA0DANDAL.html">
               JAKA0DANDAL
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="JAKA0DANDAL">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=33.0930000,75.2700000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

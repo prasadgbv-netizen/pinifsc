@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Federal Bank</td>
           <td>BARPETA ROAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/FDRL0002500.html">
               FDRL0002500
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="FDRL0002500">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.2856000,90.5742000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>North East Small Finance Bank</td>
           <td>BARPETA ROAD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/NESF0000037.html">
               NESF0000037
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="NESF0000037">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.2856000,90.5742000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

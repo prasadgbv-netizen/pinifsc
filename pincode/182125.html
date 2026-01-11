@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Jammu and Kashmir Bank</td>
           <td>LANDER</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/JAKA0LANUDH.html">
               JAKA0LANUDH
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="JAKA0LANUDH">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=1.0000000,1.0000000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Jammu and Kashmir Bank</td>
           <td>MOUNGRI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/JAKA0MONGER.html">
               JAKA0MONGER
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="JAKA0MONGER">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=1.0000000,1.0000000" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

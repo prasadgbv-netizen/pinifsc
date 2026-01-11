@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>IDFC FIRST Bank</td>
           <td>HYDERABAD TOLI CHOWKI BRANCH</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/IDFB0080219.html">
               IDFB0080219
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="IDFB0080219">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.8477222,80.0521111" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Kotak Mahindra Bank</td>
           <td>MUPPAVARAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/KKBK0007854.html">
               KKBK0007854
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="KKBK0007854">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=15.8477222,80.0521111" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

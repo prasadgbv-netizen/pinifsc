@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>ICICI Bank</td>
           <td>NEEMRIWALI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ICIC0004537.html">
               ICIC0004537
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ICIC0004537">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.708400000000001,76.219999999999999" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Ujjivan Small Finance Bank</td>
           <td>DHARERU</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/UJVN0002351.html">
               UJVN0002351
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="UJVN0002351">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=28.708400000000001,76.219999999999999" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

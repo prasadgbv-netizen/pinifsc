@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Jana Small Finance Bank</td>
           <td>MURHADI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/JSFB0004005.html">
               JSFB0004005
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="JSFB0004005">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.3531607,86.0829950" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>State Bank of India</td>
           <td>BABUBARHI</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SBIN0015579.html">
               SBIN0015579
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SBIN0015579">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=26.3531607,86.0829950" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

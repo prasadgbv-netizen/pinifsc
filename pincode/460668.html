@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Central Bank of India</td>
           <td>BISNOOR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/CBIN0282184.html">
               CBIN0282184
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="CBIN0282184">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.52972106,78.151473179999996" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>Bank of Maharashtra</td>
           <td>MASOD</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/MAHB0000688.html">
               MAHB0000688
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="MAHB0000688">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=21.52972106,78.151473179999996" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Kerala Gramin Bank</td>
           <td>PAYYAVOOR</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/KLGB0040418.html">
               KLGB0040418
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="KLGB0040418">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.1103267,75.6086397" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>South Indian Bank</td>
           <td>PAISAKARY</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SIBL0000952.html">
               SIBL0000952
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SIBL0000952">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=12.1103267,75.6086397" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>

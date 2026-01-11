@@ -93,16 +93,22 @@
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 
         <tr>
           <td>Esaf Small Finance Bank</td>
           <td>KARUKACHAL</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/ESMF0001809.html">
               ESMF0001809
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="ESMF0001809">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=9.526099,76.644499" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -110,10 +116,15 @@
         <tr>
           <td>South Indian Bank</td>
           <td>NEDUMKUNNAM</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/SIBL0000573.html">
               SIBL0000573
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="SIBL0000573">
+              📋 Copy IFSC
+            </button>
           </td>
           <td><a href="https://www.google.com/maps?q=9.526099,76.644499" target="_blank" rel="noopener">📍 Map</a></td>
         </tr>
@@ -145,6 +156,7 @@
 </footer>
 
 <script src="/assets/atm.js" defer></script>
+<script src="/assets/copy-ifsc.js" defer></script>
 
 </body>
 </html>
