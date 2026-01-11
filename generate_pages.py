@@ -47,10 +47,15 @@ for pin, branches in pin_data.items():
         <tr>
           <td>{b.get("bank","")}</td>
           <td>{b.get("branch","")}</td>
-          <td>
+          <td class="ifsc-code">
             <a href="../ifsc/{b.get("ifsc","")}.html">
               {b.get("ifsc","")}
             </a>
+          </td>
+          <td>
+            <button class="copy-ifsc-btn" data-ifsc="{b.get("ifsc","")}">
+              📋 Copy IFSC
+            </button>
           </td>
           <td>{map_link}</td>
         </tr>
@@ -157,6 +162,7 @@ for pin, branches in pin_data.items():
   <th>Bank</th>
   <th>Branch</th>
   <th>IFSC</th>
+  <th>Copy</th>
   <th>Map</th>
 </tr>
 {rows}
@@ -188,8 +194,29 @@ for pin, branches in pin_data.items():
 
 <script src="/assets/atm.js" defer></script>
 
+<script>
+document.addEventListener("click", function (e) {
+  if (!e.target.classList.contains("copy-ifsc-btn")) return;
+
+  const btn = e.target;
+  const ifsc = btn.dataset.ifsc;
+
+  navigator.clipboard.writeText(ifsc).then(() => {
+    const originalText = btn.innerHTML;
+    btn.innerHTML = "✅ Copied";
+    btn.classList.add("copied");
+
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.classList.remove("copied");
+    }, 1500);
+  });
+});
+</script>
+
 </body>
 </html>
+
 """
 
     with open(f"{PIN_DIR}/{pin_clean}.html", "w", encoding="utf-8") as f:
@@ -311,8 +338,29 @@ for ifsc, info in ifsc_data.items():
 
 <script src="/assets/atm.js" defer></script>
 
+<script>
+document.addEventListener("click", function (e) {
+  if (!e.target.classList.contains("copy-ifsc-btn")) return;
+
+  const btn = e.target;
+  const ifsc = btn.dataset.ifsc;
+
+  navigator.clipboard.writeText(ifsc).then(() => {
+    const originalText = btn.innerHTML;
+    btn.innerHTML = "✅ Copied";
+    btn.classList.add("copied");
+
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.classList.remove("copied");
+    }, 1500);
+  });
+});
+</script>
+
 </body>
 </html>
+
 """
 
     with open(f"{IFSC_DIR}/{ifsc_clean}.html", "w", encoding="utf-8") as f:
