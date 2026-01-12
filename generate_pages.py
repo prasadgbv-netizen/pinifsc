@@ -44,22 +44,29 @@ for pin, branches in pin_data.items():
             )
 
         rows += f"""
-        <tr>
-          <td>{b.get("bank","")}</td>
-          <td>{b.get("branch","")}</td>
-          <td class="ifsc-code">
-            <a href="../ifsc/{b.get("ifsc","")}.html">
-              {b.get("ifsc","")}
-            </a>
-          </td>
-          <td>
-            <button class="copy-ifsc-btn" data-ifsc="{b.get("ifsc","")}">
-              📋 Copy IFSC
-            </button>
-          </td>
-          <td>{map_link}</td>
-        </tr>
-        """
+<tr class="ifsc-row">
+  <td class="bank-name">{b.get("bank","")}</td>
+
+  <td class="branch-name">{b.get("branch","")}</td>
+
+  <td class="ifsc-code">
+    <a href="../ifsc/{b.get("ifsc","")}.html">
+      {b.get("ifsc","")}
+    </a>
+  </td>
+
+  <td class="copy-cell">
+    <button
+      class="copy-btn copy-ifsc-btn"
+      data-ifsc="{b.get("ifsc","")}"
+      aria-label="Copy IFSC code">
+      📋 Copy IFSC
+    </button>
+  </td>
+
+  <td class="map-cell">{map_link}</td>
+</tr>
+"""
 
     page_path = f"pincode/{pin_clean}.html"
 
@@ -288,15 +295,26 @@ for ifsc, info in ifsc_data.items():
   <strong>MICR:</strong>
   <span class="micr-value">{info.get("micr","N/A")}</span>
   <button
-    class="copy-btn copy-micr-btn"
-    data-copy="{info.get("micr","")}"
-    aria-label="Copy MICR code">
-    📋 Copy
-  </button>
+  type="button"
+  class="copy-ifsc-btn"
+  data-ifsc="{info.get("micr","")}"
+  title="Copy MICR Code">
+  📋 Copy MICR
+</button>
 </p>
 
-<p><strong>PIN:</strong>
+<p>
+  <strong>PIN:</strong>
   <a href="../pincode/{pin_clean}.html">{pin_clean}</a>
+  &nbsp;
+  <button
+    type="button"
+    class="copy-ifsc-btn"
+    data-ifsc="{pin_clean}"
+    title="Copy PIN Code"
+  >
+    📋 Copy PIN
+  </button>
 </p>
 
 <section class="atm-section" data-pin="{pin_clean}">

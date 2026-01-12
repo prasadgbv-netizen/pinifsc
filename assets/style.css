@@ -136,6 +136,108 @@ tr:hover {
   background: #0d6efd;
 }
 
+/* ===============================
+   IFSC TABLE – MODERN STYLING
+   =============================== */
+
+.ifsc-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 24px;
+  background: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.06);
+}
+
+/* Header */
+.ifsc-table thead th,
+.ifsc-table th {
+  background: #f1f5fb;
+  color: #0b5ed7;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 14px 12px;
+  border-bottom: 2px solid #e3e8f0;
+}
+
+/* Rows */
+.ifsc-table td {
+  padding: 14px 12px;
+  font-size: 15px;
+  color: #212529;
+  border-bottom: 1px solid #eef1f6;
+  vertical-align: middle;
+}
+
+/* Zebra striping */
+.ifsc-table tr:nth-child(even) {
+  background-color: #f9fbff;
+}
+
+/* Hover */
+.ifsc-table tr:hover {
+  background-color: #eef5ff;
+  transition: background 0.2s ease-in-out;
+}
+
+/* Bank & Branch emphasis */
+.bank-name {
+  font-weight: 600;
+}
+
+.branch-name {
+  color: #444;
+}
+
+/* IFSC link */
+.ifsc-code a {
+  font-weight: 600;
+  color: #0b5ed7;
+  text-decoration: none;
+}
+
+.ifsc-code a:hover {
+  text-decoration: underline;
+}
+
+/* Copy button */
+.copy-btn {
+  background: #198754;
+  color: #ffffff;
+  border: none;
+  padding: 6px 12px;
+  font-size: 13px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.copy-btn:hover {
+  background: #157347;
+}
+
+/* Map link */
+.map-cell a {
+  color: #0b5ed7;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.map-cell a:hover {
+  text-decoration: underline;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .ifsc-table th,
+  .ifsc-table td {
+    font-size: 13px;
+    padding: 10px 8px;
+  }
+}
+
 /* RESET */
 * {
   margin: 0;
@@ -868,6 +970,30 @@ h1, h2, h3 {
 .use-location-btn:hover {
   transform: translateY(-2px);
   box-shadow: 0 14px 30px rgba(25, 135, 84, 0.45);
+}
+
+/* ===== Copy Button (IFSC + MICR) ===== */
+.copy-ifsc-btn {
+  background: #198754;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-left: 8px;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.copy-ifsc-btn:hover {
+  background: #157347;
+  transform: translateY(-1px);
+}
+
+.copy-ifsc-btn.copied {
+  background: #0d6efd;
+  cursor: default;
 }
 
 /* Caption below location */
