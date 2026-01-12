@@ -290,7 +290,20 @@ for ifsc, info in ifsc_data.items():
 <h1>{ifsc_clean} – {info.get("bank","")}</h1>
 
 <p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
-<p><strong>Address:</strong> {info.get("address","N/A")}</p>
+<p>
+  <strong>Address:</strong>
+  <span class="address-text">
+    {info.get("address","N/A")}
+  </span>
+
+  <button
+    class="copy-btn copy-address-btn"
+    data-copy="{info.get("address","")}"
+    aria-label="Copy address">
+    📋 Copy Address
+  </button>
+</p>
+
 <p>
   <strong>MICR:</strong>
   <span class="micr-value">{info.get("micr","N/A")}</span>

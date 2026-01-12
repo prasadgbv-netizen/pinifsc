@@ -1018,3 +1018,33 @@ button {
   }
 }
 
+/* ===== Copy Button (IFSC / MICR / Address) ===== */
+
+.copy-btn {
+  background: #198754;
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  margin-left: 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.copy-btn:hover {
+  background: #157347;
+  transform: translateY(-1px);
+}
+
+.copy-btn.copied {
+  background: #0d6efd;
+}
+
+/* Address text spacing */
+.address-text {
+  margin-right: 6px;
+}
+
