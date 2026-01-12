@@ -284,7 +284,16 @@ for ifsc, info in ifsc_data.items():
 
 <p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
 <p><strong>Address:</strong> {info.get("address","N/A")}</p>
-<p><strong>MICR:</strong> {info.get("micr","N/A")}</p>
+<p>
+  <strong>MICR:</strong>
+  <span class="micr-value">{info.get("micr","N/A")}</span>
+  <button
+    class="copy-btn copy-micr-btn"
+    data-copy="{info.get("micr","")}"
+    aria-label="Copy MICR code">
+    📋 Copy
+  </button>
+</p>
 
 <p><strong>PIN:</strong>
   <a href="../pincode/{pin_clean}.html">{pin_clean}</a>
