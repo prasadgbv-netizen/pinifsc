@@ -114,3 +114,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
   observer.observe(atmSection);
 });
+
+// ===============================
+// COPY IFSC / MICR FUNCTIONALITY
+// ===============================
+document.addEventListener("click", function (e) {
+  const btn = e.target.closest(".copy-btn");
+  if (!btn) return;
+
+  const value = btn.dataset.copy;
+  if (!value) return;
+
+  navigator.clipboard.writeText(value).then(() => {
+    const originalText = btn.innerHTML;
+
+    btn.innerHTML = "✅ Copied";
+    btn.classList.add("copied");
+
+    setTimeout(() => {
+      btn.innerHTML = originalText;
+      btn.classList.remove("copied");
+    }, 1500);
+  });
+});
