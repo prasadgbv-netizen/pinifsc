@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
       error => {
         alert("Unable to access your location. Please allow location access.");
         locationBtn.disabled = false;
-        locationBtn.innerText = "📍 Just Use My Location";
+        locationBtn.innerText = "📍 ATM Finder";
       }
     );
   });
@@ -101,8 +101,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // FORCE reset after 30 seconds (MANDATORY)
     resetTimer = setTimeout(() => {
-      locationBtn.innerText = "📍 Just Use My Location";
+      locationBtn.innerText = "📍 ATM Finder";
       locationBtn.disabled = false;
     }, 15000);
   });
 });
+
