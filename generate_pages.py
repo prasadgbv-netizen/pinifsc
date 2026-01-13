@@ -162,7 +162,7 @@ for pin, branches in pin_data.items():
 
 <main class="container">
 
-<h1>IFSC Codes in PIN Code {pin_clean}</h1>
+<h1>Banks with IFSC Codes Situated in PIN Code {pin_clean}</h1>
 
 <table border="1" cellpadding="8" cellspacing="0" width="100%">
 <tr>
@@ -287,7 +287,7 @@ for ifsc, info in ifsc_data.items():
 
 <main class="container">
 
-<h1>{ifsc_clean} – {info.get("bank","")}</h1>
+<h1>IFSC Code of {info.get("bank","")} – {ifsc_clean}</h1>
 
 <p><strong>Branch:</strong> {info.get("branch","N/A")}</p>
 <p>
