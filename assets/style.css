@@ -1144,6 +1144,19 @@ h1 {
     0 0 12px rgba(59,130,246,0.08);
 }
 
+.hero-subtitle {
+  font-size: 16px;
+  font-weight: 400;
+  color: #4b5563; /* soft slate gray */
+  margin-top: 10px;
+  line-height: 1.6;
+  letter-spacing: 0.2px;
+
+  text-shadow:
+    0 1px 1px rgba(255,255,255,0.6),
+    0 0 8px rgba(59,130,246,0.04);
+}
+
 .logo-caption {
   font-size: 14px;
   font-weight: 500;
@@ -1167,5 +1180,60 @@ h2 {
   font-size: 13px;
   text-shadow:
     0 0 6px rgba(255,255,255,0.08);
+}
+
+.section-title,
+.feature-title {
+  font-size: 18px;
+  font-weight: 600;
+  color: #0f172a; /* deep slate */
+  letter-spacing: -0.2px;
+
+  text-shadow:
+    0 1px 2px rgba(0,0,0,0.04),
+    0 0 10px rgba(59,130,246,0.05);
+}
+
+.feature-text {
+  font-size: 14px;
+  color: #475569;
+  line-height: 1.6;
+
+  text-shadow:
+    0 1px 1px rgba(255,255,255,0.5);
+}
+
+.footer-disclaimer {
+  font-size: 13px;
+  color: #64748b;
+  text-align: center;
+  margin-top: 30px;
+  line-height: 1.6;
+
+  text-shadow:
+    0 1px 1px rgba(255,255,255,0.4);
+}
+
+.footer h4,
+.footer-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #0f172a;
+  letter-spacing: 0.3px;
+
+  text-shadow:
+    0 1px 1px rgba(0,0,0,0.06);
+}
+
+.footer a {
+  color: #1d4ed8;
+  text-decoration: none;
+
+  text-shadow:
+    0 0 6px rgba(59,130,246,0.12);
+}
+
+.footer a:hover {
+  color: #0f172a;
 }
 
