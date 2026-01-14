@@ -1214,14 +1214,6 @@ h2 {
     0 1px 1px rgba(255,255,255,0.4);
 }
 
-.footer h4,
-.footer-title {
-  font-size: 14px;
-  font-weight: 600;
-  color: #0f172a;
-  letter-spacing: 0.3px;
-}
-
 .footer a {
   color: #1d4ed8;
   text-decoration: none;
