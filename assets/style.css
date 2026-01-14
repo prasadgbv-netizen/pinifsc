@@ -1214,15 +1214,15 @@ h2 {
     0 1px 1px rgba(255,255,255,0.4);
 }
 
-.footer a {
-  color: #1d4ed8;
-  text-decoration: none;
+.footer h4,
+.footer-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: #0f172a;
+  letter-spacing: 0.3px;
 
   text-shadow:
-    0 0 6px rgba(59,130,246,0.12);
+    0 1px 1px rgba(0,0,0,0.06);
 }
 
-.footer a:hover {
-  color: #0f172a;
-}
 
