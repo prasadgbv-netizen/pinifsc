@@ -1,58 +1,31 @@
-document.addEventListener("DOMContentLoaded", async () => {
-  const tableBody = document.getElementById("ifscTableBody");
-  const titleEl = document.getElementById("pinTitle");
+const R2_BASE = "https://pub-3eb5e8fdd9674e54917a2e25e5662417.r2.dev";
 
-  if (!tableBody || !titleEl) return;
-
-  // Extract PIN from URL: /pincode/520011.html
-  const pin = window.location.pathname.split("/").pop().replace(".html", "");
-  titleEl.textContent = `Banks with IFSC Codes Situated in PIN Code ${pin}`;
-
+async function loadIFSCDetails(ifsc) {
   try {
-    // Load PIN → IFSC mapping
-    const pinMapRes = await fetch("/data/ifsc_by_pin.json");
-    const pinMap = await pinMapRes.json();
+    const res = await fetch(`${R2_BASE}/data/ifsc_by_code.json`);
+    const data = await res.json();
 
-    const ifscList = pinMap[pin];
-    if (!ifscList || ifscList.length === 0) {
-      tableBody.innerHTML = `<tr><td colspan="5">No IFSC codes found for this PIN.</td></tr>`;
-      return;
-    }
-
-    // Load IFSC details
-    const ifscDataRes = await fetch("/data/ifsc_enriched.json");
-    const ifscData = await ifscDataRes.json();
-
-    let rows = "";
-    ifscList.forEach(ifsc => {
-      const d = ifscData[ifsc];
-      if (!d) return;
-
-      rows += `
-        <tr>
-          <td>${d.bank}</td>
-          <td>${d.branch}</td>
-          <td>
-            <a href="/ifsc/${ifsc}.html">${ifsc}</a>
-          </td>
-          <td>
-            <button onclick="navigator.clipboard.writeText('${ifsc}')">
-              Copy IFSC
-            </button>
-          </td>
-          <td>
-            <a href="https://www.google.com/maps?q=${encodeURIComponent(d.address)}" target="_blank">
-              Map
-            </a>
-          </td>
-        </tr>
-      `;
-    });
-
-    tableBody.innerHTML = rows;
-
+    return data[ifsc] || null;
   } catch (err) {
-    console.error(err);
-    tableBody.innerHTML = `<tr><td colspan="5">Error loading data.</td></tr>`;
+    console.error("Error loading IFSC data from R2:", err);
+    return null;
   }
-});
+}
+
+// Used in IFSC detail page
+async function renderIFSCPage(ifsc) {
+  const record = await loadIFSCDetails(ifsc);
+
+  if (!record) {
+    document.getElementById("ifsc-container").innerHTML =
+      "<p>IFSC code not found.</p>";
+    return;
+  }
+
+  document.getElementById("bank-name").textContent = record.BANK;
+  document.getElementById("branch-name").textContent = record.BRANCH;
+  document.getElementById("ifsc-code").textContent = record.IFSC;
+  document.getElementById("address").textContent = record.ADDRESS;
+  document.getElementById("micr").textContent = record.MICR || "NA";
+  document.getElementById("pin").textContent = record.PIN || "NA";
+}

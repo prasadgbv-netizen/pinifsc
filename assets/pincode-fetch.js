@@ -1,58 +1,52 @@
-document.addEventListener("DOMContentLoaded", async () => {
-  const tableBody = document.getElementById("ifscTableBody");
-  const titleEl = document.getElementById("pinTitle");
+const R2_BASE = "https://pub-3eb5e8fdd9674e54917a2e25e5662417.r2.dev";
 
-  if (!tableBody || !titleEl) return;
-
-  // Extract PIN from URL: /pincode/520011.html
-  const pin = window.location.pathname.split("/").pop().replace(".html", "");
-  titleEl.textContent = `Banks with IFSC Codes Situated in PIN Code ${pin}`;
-
+async function loadIFSCsByPIN(pin) {
   try {
-    // Load PIN → IFSC mapping
-    const pinMapRes = await fetch("/data/ifsc_by_pin.json");
-    const pinMap = await pinMapRes.json();
+    const res = await fetch(`${R2_BASE}/data/ifsc_by_pin.json`);
+    const data = await res.json();
 
-    const ifscList = pinMap[pin];
-    if (!ifscList || ifscList.length === 0) {
-      tableBody.innerHTML = `<tr><td colspan="5">No IFSC codes found for this PIN.</td></tr>`;
-      return;
+    if (!data[pin]) {
+      return [];
     }
 
-    // Load IFSC details
-    const ifscDataRes = await fetch("/data/ifsc_enriched.json");
-    const ifscData = await ifscDataRes.json();
-
-    let rows = "";
-    ifscList.forEach(ifsc => {
-      const d = ifscData[ifsc];
-      if (!d) return;
-
-      rows += `
-        <tr>
-          <td>${d.bank}</td>
-          <td>${d.branch}</td>
-          <td>
-            <a href="/ifsc/${ifsc}.html">${ifsc}</a>
-          </td>
-          <td>
-            <button onclick="navigator.clipboard.writeText('${ifsc}')">
-              Copy IFSC
-            </button>
-          </td>
-          <td>
-            <a href="https://www.google.com/maps?q=${encodeURIComponent(d.address)}" target="_blank">
-              Map
-            </a>
-          </td>
-        </tr>
-      `;
-    });
-
-    tableBody.innerHTML = rows;
-
+    return data[pin];
   } catch (err) {
-    console.error(err);
-    tableBody.innerHTML = `<tr><td colspan="5">Error loading data.</td></tr>`;
+    console.error("Error loading PIN data from R2:", err);
+    return [];
   }
-});
+}
+
+// Used in PIN result page
+async function renderPINResults(pin) {
+  const tableBody = document.getElementById("ifsc-table-body");
+  if (!tableBody) return;
+
+  const results = await loadIFSCsByPIN(pin);
+
+  tableBody.innerHTML = "";
+
+  if (results.length === 0) {
+    tableBody.innerHTML = `<tr><td colspan="5">No IFSC codes found for this PIN</td></tr>`;
+    return;
+  }
+
+  results.forEach(row => {
+    const tr = document.createElement("tr");
+
+    tr.innerHTML = `
+      <td>${row.BANK}</td>
+      <td>${row.BRANCH}</td>
+      <td>
+        <a href="/ifsc/${row.IFSC}.html">${row.IFSC}</a>
+      </td>
+      <td>
+        <button onclick="copyText('${row.IFSC}')">Copy IFSC</button>
+      </td>
+      <td>
+        <a href="https://www.google.com/maps/search/${encodeURIComponent(row.ADDRESS)}" target="_blank">Map</a>
+      </td>
+    `;
+
+    tableBody.appendChild(tr);
+  });
+}
