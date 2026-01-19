@@ -1,52 +1,65 @@
-const R2_BASE = "https://pub-3eb5e8fdd9674e54917a2e25e5662417.r2.dev";
-
-async function loadIFSCsByPIN(pin) {
-  try {
-    const res = await fetch(`${R2_BASE}/data/ifsc_by_pin.json`);
-    const data = await res.json();
-
-    if (!data[pin]) {
-      return [];
-    }
-
-    return data[pin];
-  } catch (err) {
-    console.error("Error loading PIN data from R2:", err);
-    return [];
-  }
-}
-
-// Used in PIN result page
-async function renderPINResults(pin) {
+document.addEventListener("DOMContentLoaded", async function () {
   const tableBody = document.getElementById("ifsc-table-body");
+
   if (!tableBody) return;
 
-  const results = await loadIFSCsByPIN(pin);
+  // Get PIN from URL
+  const match = window.location.pathname.match(/(\d{6})\.html$/);
+  if (!match) return;
 
-  tableBody.innerHTML = "";
+  const pin = match[1];
 
-  if (results.length === 0) {
-    tableBody.innerHTML = `<tr><td colspan="5">No IFSC codes found for this PIN</td></tr>`;
-    return;
-  }
+  const DATA_URL = "https://pub-3eb5e8fdd9674e54917a2e25e5662417.r2.dev/data/ifsc_by_code.json";
 
-  results.forEach(row => {
-    const tr = document.createElement("tr");
+  try {
+    const res = await fetch(DATA_URL);
+    const data = await res.json();
 
-    tr.innerHTML = `
-      <td>${row.BANK}</td>
-      <td>${row.BRANCH}</td>
-      <td>
-        <a href="/ifsc/${row.IFSC}.html">${row.IFSC}</a>
-      </td>
-      <td>
-        <button onclick="copyText('${row.IFSC}')">Copy IFSC</button>
-      </td>
-      <td>
-        <a href="https://www.google.com/maps/search/${encodeURIComponent(row.ADDRESS)}" target="_blank">Map</a>
-      </td>
+    let found = 0;
+
+    Object.values(data).forEach(row => {
+      if (row.PIN === pin) {
+        found++;
+
+        const tr = document.createElement("tr");
+        tr.className = "ifsc-row";
+
+        tr.innerHTML = `
+          <td class="bank-name">${row.BANK}</td>
+          <td class="branch-name">${row.BRANCH}</td>
+          <td class="ifsc-code">
+            <a href="../ifsc/${row.IFSC}.html">${row.IFSC}</a>
+          </td>
+          <td class="copy-cell">
+            <button class="copy-btn copy-ifsc-btn" data-ifsc="${row.IFSC}">📋 Copy IFSC</button>
+          </td>
+          <td class="map-cell">
+            <a href="https://www.google.com/maps?q=${encodeURIComponent(row.ADDRESS)}" target="_blank">📍 Map</a>
+          </td>
+        `;
+
+        tableBody.appendChild(tr);
+      }
+    });
+
+    if (found === 0) {
+      tableBody.innerHTML = `
+        <tr>
+          <td colspan="5" style="text-align:center;color:#666;">
+            No bank branches found for this PIN code.
+          </td>
+        </tr>
+      `;
+    }
+
+  } catch (err) {
+    console.error("PIN fetch failed:", err);
+    tableBody.innerHTML = `
+      <tr>
+        <td colspan="5" style="text-align:center;color:red;">
+          Failed to load bank data.
+        </td>
+      </tr>
     `;
-
-    tableBody.appendChild(tr);
-  });
-}
+  }
+});
